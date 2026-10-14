@@ -1,5 +1,14 @@
 # ASOIAF — Five-book chapter index
 
+- Record role: `REFERENCE`
+- Primary information class: `FACT / KNOWLEDGE`
+- Status: `VERIFIED EPUB NAVIGATION`
+- Lifecycle: `ACTIVE`
+- Authority: Source locator only; not interpretation
+- Parent: [SOURCES.md](../SOURCES.md)
+
+**Note:** The AFFC TOC's numbered `Chapter 46` is the author's **non-narrative afterword**, not another POV chapter. Count the prologue plus chapters 1–45 as 46 narrative units. 
+
 Source: user-provided five-novel EPUB. Chapter numbers match its table of contents. Plot summaries are in the companion canon baseline. This is a navigation index, not the books’ full text.
 
 ## A Game of Thrones
