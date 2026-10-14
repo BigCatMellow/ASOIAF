@@ -1,5 +1,13 @@
 # A Song of Ice and Fire — Canon Baseline v0.1
 
+- Record role: `RESEARCH`
+- Primary information class: `FACT / KNOWLEDGE`
+- Status: `WORKING / TARGETED LATE-CHAPTER BASELINE`
+- Lifecycle: `ACTIVE`
+- Authority: `ADVISORY / NONE` — narrated events only where cited; no adopted future plot
+- Parent: [roadmap](../ROADMAP.md)
+- Source-of-truth: [SOURCES.md](../SOURCES.md)
+
 **Source:** User-provided *A Game of Thrones 5-Book Bundle* EPUB (published novels only).  
 **Purpose:** Establish the actual narrative starting conditions for developing speculative books six and seven.  
 **Status:** Structural indexing of the five novels is complete; this is a targeted close-reading baseline of the late storylines, *not* a claim that all 344 narrative chapters have received an exhaustive thematic review.  
