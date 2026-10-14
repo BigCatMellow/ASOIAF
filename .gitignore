@@ -1,0 +1,13 @@
+# Private/copyrighted source books and extraction artifacts must not enter the public repository.
+*.epub
+*.mobi
+*.azw
+*.azw3
+*.pdf
+*.docx
+books/
+private-sources/
+extracted-text/
+.cache/
+__pycache__/
+.DS_Store
