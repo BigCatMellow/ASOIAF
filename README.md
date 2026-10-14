@@ -24,7 +24,7 @@ Research the five published *A Song of Ice and Fire* novels; evaluate competing 
 
 ## Current checkpoint
 
-The repository was empty at project intake (2026-10-14). The local, user-supplied five-book EPUB was verified separately and remains **outside this public repository**. Initial chapter indexing and a targeted closing-state baseline are available; all remaining POV histories, chronology reconciliation, and two-book drafting remain open.
+The repository was empty at project intake (2026-10-14), **but the owner subsequently uploaded three EPUBs to the public `Source/` directory** (commit `a201915`, after this project began). Those binary files were not uploaded by this research workflow. They are currently publicly accessible; check distribution rights and repository visibility before sharing. Initial chapter indexing and a targeted closing-state baseline are available; exhaustive POV histories, chronology reconciliation, and two-book drafting remain open.
 
 **No outline idea is automatically canon.** Mark `VERIFIED`, `INFERRED`, `THEORY`, or `UNKNOWN` locally. Retain live alternatives while evidence is incomplete.
 
