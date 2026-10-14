@@ -30,7 +30,7 @@
 5. **Adjacent crises:** Hardhome's rescue report (ADWD 58) and Jon's response to Ramsay are contemporaneous pressures for the Watch, not interchangeable goals.
 6. **Unseen events:** The actual Battle of Ice and any attack on Winterfell remain outside the five-book narrated resolution.
 
-## THiNK challenge: the Night Lamp
+## THINK challenge: the Night Lamp
 
 **First principles:** Asha sees fishing holes, blizzard, a watchtower beacon, starvation, and conflicting officers. Those facts can support several maneuvers, not just one elegant scheme.
 
