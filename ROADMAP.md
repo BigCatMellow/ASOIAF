@@ -37,7 +37,7 @@ A sourced, contradiction-aware, character-led basis for two unofficial further n
 - [x] Confirm 5 novels present in supplied EPUB.
 - [x] Verify navigation and store chapter index.
 - [x] Preserve targeted closing-state baseline, clearly provisional.
-- [x] Establish public-repo source / copyright boundary.
+- [x] Establish source / copyright boundary and note public `Source/` uploads added by the owner during this work.\n- [ ] Owner-side rights/visibility review for public EPUBs (not a blocker for non-redistributive research; see [SOURCES.md](SOURCES.md)).
 
 ## Phase 1: first wave
 
