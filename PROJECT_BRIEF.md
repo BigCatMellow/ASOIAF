@@ -20,7 +20,7 @@ Produce two coherent **unofficial** novel-length story plans and, if subsequentl
 
 ## Reality / source of truth
 
-- VERIFIED: GitHub repository was empty when inspected on 2026-10-14.
+- VERIFIED: GitHub repository was empty when first inspected on 2026-10-14; later the owner uploaded three EPUBs under public `Source/` in commit `a201915` (see [SOURCES.md](SOURCES.md)). That live change supersedes any earlier statement that books are absent from the repository.
 - VERIFIED: a user-provided five-book bundle EPUB was locally inspected (see [SOURCES.md](SOURCES.md)); all five titled novels and TOC entries exist.
 - VERIFIED: *Feast* and *Dance* overlap, with both volumes' chronology notes and author's interlude.
 - REPORTED: a prior assistant produced a chapter index and canon baseline; both are now preserved under `research/`, labeled as a targeted baseline rather than exhaustive close reading.
