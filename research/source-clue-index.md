@@ -1,0 +1,41 @@
+# Primary-source clue queue — cross-book retrieval, not a theory verdict
+
+- Record role: `RESEARCH / EVIDENCE ROUTER`
+- Authority: `ADVISORY / NONE`; owner of **which source junctions to investigate next**, not owner of story outcomes
+- Status: `EXPANDING — EARLY CHAPTER INTAKE`
+- Updated: 2026-10-15
+- Source and epistemic standard: [SOURCES.md](../SOURCES.md); reading coverage: [tracker](../Source/Main-Series/CLOSE-READING-STATUS.md)
+
+**Interpretation rule:** A detail is not a clue just because it is unusual. Preserve narrative context and at least one ordinary explanation; distinguish directly observed action from a character's private inference, folk history or external fan idea. `TEST` means investigate, not accept.
+
+| ID | Primary locator | Signal to revisit | Smallest useful test / rival explanation |
+|---|---|---|---|
+| C-001 | [AGOT Prologue](../Source/Main-Series/A-Game-of-Thrones/chapters/00-prologue.md) → [AGOT 1](../Source/Main-Series/A-Game-of-Thrones/chapters/01-bran.md) | Gared's physical wounds link the man executed to the supernatural opening; critical information fails to reach Ned | Check later accounts of **what Gared actually said**; ordinary cause could be fear/incoherence rather than deliberate concealment |
+| C-002 | [AGOT Prologue](../Source/Main-Series/A-Game-of-Thrones/chapters/00-prologue.md) | Pale attackers' coordinated swordplay, speech, adaptive armor, and Waymar as a target | Compare all later Others encounters; no observed Stark recognition, diplomatic parley or specific royal-selection ritual |
+| C-003 | [AGOT 1](../Source/Main-Series/A-Game-of-Thrones/chapters/01-bran.md) | Five pups, a separate white sixth, Jon's exclusion and special ability to hear it | Compare all direwolf/POV bonds; family allegory is already a sufficient reading |
+| C-004 | [AGOT 1](../Source/Main-Series/A-Game-of-Thrones/chapters/01-bran.md) → [AGOT 2](../Source/Main-Series/A-Game-of-Thrones/chapters/02-catelyn.md) | Direwolf mother pierced by a broken stag antler | Revisit actual cause of injury versus later metaphor; omen is not historical agency |
+| C-005 | [AGOT 2](../Source/Main-Series/A-Game-of-Thrones/chapters/02-catelyn.md) | Weirwood eyes, Old Gods, Isle of Faces lore and deep time | Check Bran's later greenseer observations; Catelyn feeling watched does not identify a watcher |
+| C-006 | [AGOT 2](../Source/Main-Series/A-Game-of-Thrones/chapters/02-catelyn.md) → [AGOT 4](../Source/Main-Series/A-Game-of-Thrones/chapters/04-eddard.md) | Jon Arryn's rapid illness, Pycelle, Lysa's sudden withdrawal and Tywin's planned wardship | Retest against later confessions and timed access; king's official report is not itself a cause-of-death finding |
+| C-007 | [AGOT 3](../Source/Main-Series/A-Game-of-Thrones/chapters/03-daenerys.md) | Red door and lemon tree in remembered Braavos childhood | Cross-check landscape, itineraries and direct witnesses before selecting deception, displaced memory or an ordinary courtyard garden |
+| C-008 | [AGOT 3](../Source/Main-Series/A-Game-of-Thrones/chapters/03-daenerys.md) | Illyrio's claimed Westerosi secret supporters and commercial reach | Test with later Illyrio/Tyrion/Aegon material; Viserys's desire plus Illyrio's flattery is not confirmation |
+| C-009 | [AGOT 4](../Source/Main-Series/A-Game-of-Thrones/chapters/04-eddard.md) | Lyanna's withheld promise, blood and roses, unusual burial request | Link to [R+L=J](theories/cases/r-l-j.md) while separating biological parentage from legitimacy and later legal proof |
+| C-010 | [AGOT 4](../Source/Main-Series/A-Game-of-Thrones/chapters/04-eddard.md) | Crypt swords of iron, rusted weapons and empty sepulchres | Verify later physical visits and known iron/undead interactions; no city or hidden army is directly shown |
+| C-011 | [AGOT 5](../Source/Main-Series/A-Game-of-Thrones/chapters/05-jon.md) | Ghost's silence and Jon's early command/control | Compare `ADWD Prologue` rules and Jon/Ghost scenes; an obedient pup does not yet prove active skinchanging |
+| C-012 | [ACOK Prologue](../Source/Main-Series/A-Clash-of-Kings/chapters/00-prologue.md) | Patchface's unexplained survival at sea and repeating inverted/undersea songs | Timestamp future allusions, count misses as well as hits; coincidence, rhyming nonsense and hindsight remain alternatives |
+| C-013 | [ACOK Prologue](../Source/Main-Series/A-Clash-of-Kings/chapters/00-prologue.md) | Melisandre survives Cressen's poison as ruby glimmers | Compare later first-person magic and glamour scenes; precise method unknown |
+| C-014 | [ASOS Prologue](../Source/Main-Series/A-Storm-of-Swords/chapters/00-prologue.md) | Watch mutiny plan predates Other alarm; threat from within and without | Trace later Watch command conflict; ordinary institutional incentives explain some betrayals |
+| C-015 | [ASOS Prologue](../Source/Main-Series/A-Storm-of-Swords/chapters/00-prologue.md) | Missing wildlife, Mormont's raven and three horn blasts | Compare witnessed Other danger vs rival causes of animal silence; speech repetition alone does not prove a controlling greenseer |
+| C-016 | [AFFC Prologue](../Source/Main-Series/A-Feast-for-Crows/chapters/00-prologue.md) | Walgrave's key taken; alchemist exchanges coin; Pate collapses | Compare `AFFC 45`, key access and face details; identity of alchemist is an inference [case](theories/cases/oldtown-alchemist.md) |
+| C-017 | [AFFC Prologue](../Source/Main-Series/A-Feast-for-Crows/chapters/00-prologue.md) | Alleras's competence, origin cues and three dragon heads | Compare [Sarella case](theories/cases/sarella-alleras.md); don't turn the three heads into an automatic roster of rulers |
+| C-018 | [ADWD Prologue](../Source/Main-Series/A-Dance-with-Dragons/chapters/00-prologue.md) | Animal second life persists after human death; identity fades by Haggon's account | Cross-check `ADWD 69 (Jon)` and bond rules; **Jon's second life not yet witnessed** |
+| C-019 | [ADWD Prologue](../Source/Main-Series/A-Dance-with-Dragons/chapters/00-prologue.md) | Varamyr's resisted attempt to enter Thistle's mind | Compare Bran and Hodor ethics; inability to achieve stable control does not prove impossibility in all circumstances |
+| C-020 | [ADWD Prologue](../Source/Main-Series/A-Dance-with-Dragons/chapters/00-prologue.md) | Brief dying weirwood perspective, followed by Thistle as wight | Distinguish skinchanging, greenseeing and raising the dead before combining into one mechanism |
+
+## Priority rule
+
+1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
+2. Prioritize a clue when it materially changes a character's plausible choices or can disconfirm multiple competing hypotheses.
+3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
+4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
+
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the ten first-pass chapters listed in the coverage tracker.
