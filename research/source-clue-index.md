@@ -635,6 +635,19 @@
 | C-606 | [ACOK 20](../Source/Main-Series/02-A-Clash-of-Kings/chapters/20-tyrion.md) | Cersei weeps, Tyrion describes Tywin strategy as map inference | Genuine emotion and strategic uncertainty |
 | C-607 | [ACOK 20](../Source/Main-Series/02-A-Clash-of-Kings/chapters/20-tyrion.md) | Joffrey reportedly fires at hunger protest and kills four | Reported event, not directly observed |
 
+| C-608 | [ACOK 21](../Source/Main-Series/02-A-Clash-of-Kings/chapters/21-bran.md) | Bran rides Dancer through hall and needs Osha/Hodor transfer to dais | Disability accommodations and public Stark authority |
+| C-609 | [ACOK 21](../Source/Main-Series/02-A-Clash-of-Kings/chapters/21-bran.md) | Rickon refuses haircuts since Catelyn left | Grief behavior observed, no supernatural cause |
+| C-610 | [ACOK 21](../Source/Main-Series/02-A-Clash-of-Kings/chapters/21-bran.md) | Manderly supplies twenty seafood casks at lavish northern harvest feast | Winterfell food abundance contrasts King's Landing shortages |
+| C-611 | [ACOK 21](../Source/Main-Series/02-A-Clash-of-Kings/chapters/21-bran.md) | Luwin repeats both Robb-Frey and Arya-Frey marriage pacts; Bran doubts Arya | Political expectation ignorant of Arya's actual location and consent |
+| C-612 | [ACOK 21](../Source/Main-Series/02-A-Clash-of-Kings/chapters/21-bran.md) | Bran offers lordly portions to Joseth, Hodor, Old Nan and guests | Patronage practised with personal rather than only class criteria |
+| C-613 | [ACOK 21](../Source/Main-Series/02-A-Clash-of-Kings/chapters/21-bran.md) | Donella Hornwood remains withdrawn amid feast and refuses dance | Continuing vulnerability, not final marriage decision |
+| C-614 | [ACOK 21](../Source/Main-Series/02-A-Clash-of-Kings/chapters/21-bran.md) | Meera and Jojen arrive for absent Howland Reed with unusual weapons and garb | First in-person Neck delegation and material culture |
+| C-615 | [ACOK 21](../Source/Main-Series/02-A-Clash-of-Kings/chapters/21-bran.md) | Reed allegiance sworn with earth/water bronze/iron and ice/fire | Unusual ritual oath; not specific proof of prophecy |
+| C-616 | [ACOK 21](../Source/Main-Series/02-A-Clash-of-Kings/chapters/21-bran.md) | War song The Night That Ended recalls Others during feast | Cultural Long Night memory as Wall threat develops |
+| C-617 | [ACOK 21](../Source/Main-Series/02-A-Clash-of-Kings/chapters/21-bran.md) | Ned told Bran Arthur Dayne wielded Dawn forged from fallen star | Character recollection of famous blade and uncertain provenance |
+| C-618 | [ACOK 21](../Source/Main-Series/02-A-Clash-of-Kings/chapters/21-bran.md) | Ned said Howland Reed saved him from Arthur Dayne | Critical Tower of Joy fact, method unshown |
+| C-619 | [ACOK 21](../Source/Main-Series/02-A-Clash-of-Kings/chapters/21-bran.md) | Bran dreams Summer and Shaggy encounter Reeds, Jojen touches wolf | Dream-contact and claim of foresight, no waking verification |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -642,4 +655,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the ninety-seven first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the ninety-eight first-pass chapters listed in the coverage tracker.
