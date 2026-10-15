@@ -39,6 +39,17 @@ The chapter pair **ADWD 51 → ADWD 62** establishes a real handoff: Theon/Jeyne
 
 Cross-book owners: [Northern chronology](../../../research/north-wall-dependencies.md), [Night Lamp](../../../research/theories/night-lamp.md), [Pink Letter](../../../research/theories/pink-letter.md), [character junction](../../../research/characters/theon-asha-stannis.md).
 
+## Meereen source checks (additional focused pass)
+
+- **ADWD 2 (Daenerys):** Harpy murders and damage attributed to Drogon reach Daenerys's court, showing the burdens of governing and dragons she cannot fully control.
+- **ADWD 43 and 50 (Daenerys):** Her marriage and negotiated peace involve severe personal and political concessions. Outside the city walls, Yunkai is expressly allowed to continue slave trading; her disgust does not erase the concession.
+- **ADWD 52 and 71 (Daenerys):** Drogon carries her from the fighting pits; on the Dothraki sea she cannot compel him to return to Meereen. Khal Jhaqo arrives at the end of her last chapter.
+- **ADWD 67 (The Kingbreaker):** Barristan's removal of Hizdahr is based on a suspicion concerning poison and the Harpy; the actual culprit is **not proven** in the chapter.
+- **ADWD 70 (The Queen's Hand):** Barristan prepares war with Yunkai; hostages and plague victims become instruments of conflict, and the city faces a threatened siege.
+- **ADWD 66 (Tyrion):** Tyrion is **still with the Second Sons on the Yunkish side**, considering how to induce Brown Ben Plumm to defect. He has not met Daenerys.
+
+Canonical cross-book development, available choices, and serious counterevidence: [Daenerys/Barristan/Tyrion](../../../research/characters/daenerys-barristan-tyrion.md).
+
 ## Character choices and consequences
 
 For the chapters reviewed above, ask whether Theon discloses Jeyne's identity, whether Stannis protects the witnesses, and whether White Harbor commanders pursue their lord's unstated objectives. Identify available options and what each actor knew **at that point**. Where a claim spans books, link to the canonical [character analyses](../../../research/characters/jon-snow.md) or [theory ledger](../../../research/decision-seeds.md) rather than copying it.

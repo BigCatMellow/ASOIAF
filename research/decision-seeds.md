@@ -23,7 +23,7 @@ The table is deliberately **not a list of planned plot beats**. An idea advances
 | Stark return as political legitimacy conflict | ADWD 29 (Davos); AFFC 41 (Alayne); ADWD 51 (Theon) | `INFERRED / PROMISING` | Which Stark identities are known to which factions, at what times? |
 | Melisandre's visions may be misread | ADWD 31 (Melisandre) | `VERIFIED uncertainty` | Separate what she sees from what she asserts about its meaning. |
 | Jon returns from death transformed | ADWD 69 (Jon) | `THEORY — OPEN` | No resurrection occurs within the published five-book ending. Contrast Beric and Lady Stoneheart first. |
-| Daenerys burns King's Landing | ADWD 71 (Daenerys); ADWD 61 (Griffin Reborn) | `THEORY — UNCOMMITTED` | Nothing in this corpus makes catastrophe a required outcome; avoid constructing other characters solely to trigger it. |
+| [Daenerys burns King's Landing](characters/daenerys-barristan-tyrion.md) | ADWD 50, 52, 71 (Daenerys); ADWD 67, 70 (Barristan); ADWD 66 (Tyrion) | `THEORY — UNCOMMITTED; Meereen requires independent causal resolution` | Nothing in this corpus makes catastrophe a required outcome; avoid constructing other characters solely to trigger it. |
 | Stannis burns Shireen | ADWD 62 (The Sacrifice); ADWD 69 (Jon) | `THEORY — UNCOMMITTED` | Stannis is away; Shireen is at Castle Black. No logistical route or final choice yet. |
 
 ## Smallest next tests

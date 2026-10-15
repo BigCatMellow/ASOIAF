@@ -46,7 +46,7 @@ A sourced, contradiction-aware, character-led basis for two unofficial further n
 - [x] Ground Davos's conscience-vs-service tension in ACOK → ADWD.
 - [x] First cross-book Theon/Asha/Stannis pass: verified core decisions from ACOK, AFFC and ADWD, without assuming the Pink Letter is accurate.
 - [ ] Deepen Theon's trauma/identity analysis and Stannis's moral reasoning through additional source dialogue.
-- [ ] Analyze Daenerys's ruler-to-conqueror tension with Barristan and Tyrion's incompatible agendas.
+- [x] First targeted Daenerys/Barristan/Tyrion Meereen source pass (ADWD 2, 23, 43, 50, 52, 66, 67, 70, 71); chapter-supported aims and contrary evidence recorded.\n- [ ] Complete prior-book trajectories and synchronize their late ADWD chapter dates before choosing a Meereen outcome.
 - [ ] Analyze Aegon and Jon Connington against Varys's testimony and Golden Company incentives.
 - [ ] Follow Jaime, Brienne and Stoneheart through their last incompatible oaths.
 - [x] Build **partial-order** North/Wall chronology and knowledge matrix from the five published books.
@@ -64,4 +64,4 @@ Later POV tracks: Sansa, Arya, Bran, Cersei/Faith, Dorne, Oldtown and Euron; no 
 
 ## Current next action
 
-The initial Manderly–Frey–Arnolf source audit is complete, and the unsupported 'Stannis knows the Night Lamp' claim has been corrected. Next: trace the **unresolved** courier receipts, Bolton intelligence source, actual Frey/Manderly command paths, and Theon/Jeyne's treatment before selecting any Battle of Ice branch. See [Night Lamp](research/theories/night-lamp.md), [Pink Letter](research/theories/pink-letter.md), and [North/Wall chronology](research/north-wall-dependencies.md). [Jon](research/characters/jon-snow.md) and [Davos](research/characters/davos-seaworth.md) remain initial analyses, not locked outcomes.
+The initial Manderly–Frey–Arnolf source audit is complete, and the unsupported 'Stannis knows the Night Lamp' claim has been corrected. Next: complete the **unresolved** northern courier/faction branches **or** advance the independent [Meereen character analysis](research/characters/daenerys-barristan-tyrion.md) by tracing Tyrion's earlier moral development and Barristan's disputed poison evidence. Neither storyline is ready for an adopted battle outcome. See [Night Lamp](research/theories/night-lamp.md), [Pink Letter](research/theories/pink-letter.md), and [North/Wall chronology](research/north-wall-dependencies.md). [Jon](research/characters/jon-snow.md) and [Davos](research/characters/davos-seaworth.md) remain initial analyses, not locked outcomes.

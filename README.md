@@ -20,7 +20,7 @@ Research the five published *A Song of Ice and Fire* novels; evaluate competing 
 4. [research/canon-baseline.md](research/canon-baseline.md) — last text-supported situations, not a completed exhaustive reading.
 5. [research/chapter-index.md](research/chapter-index.md) — five-book chapter lookup.
 6. [research/decision-seeds.md](research/decision-seeds.md) — THINK hypotheses and next feasible character choices.
-7. [research/characters/jon-snow.md](research/characters/jon-snow.md), [research/characters/davos-seaworth.md](research/characters/davos-seaworth.md), and [research/characters/theon-asha-stannis.md](research/characters/theon-asha-stannis.md) — character decision analyses.
+7. [research/characters/jon-snow.md](research/characters/jon-snow.md), [research/characters/davos-seaworth.md](research/characters/davos-seaworth.md), [research/characters/theon-asha-stannis.md](research/characters/theon-asha-stannis.md), and [research/characters/daenerys-barristan-tyrion.md](research/characters/daenerys-barristan-tyrion.md) — character decision analyses.
 8. [research/theories/night-lamp.md](research/theories/night-lamp.md) and [research/theories/pink-letter.md](research/theories/pink-letter.md) — source-backed theory challenges; no outcome adopted.
 9. [research/north-wall-dependencies.md](research/north-wall-dependencies.md) — partial-order timeline and information asymmetry.
 
