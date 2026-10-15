@@ -77,7 +77,7 @@
 
 - `VERIFIED`: occupational split (Jon's ADWD 17 assessment); Dywen's later ranger departure (ADWD 28); food-store locks with Wick (ADWD 17); **distinct** tunnel-gate keys with Mully (ADWD 39); Ulmer's one-day forty-archer command (ADWD 58); Lew's earlier guard selection and later proximity to Marsh (ADWD 58/69); Horse/Rory following Jon to Hardin's Tower (ADWD 69); Wick and Marsh as named stabbing attackers.
 - `CHARACTER ASSESSMENT`: proportion of men inclined to Marsh (Jon's remembered “half”), general professional attitudes, resentment, and skill judgments.
-- `UNKNOWN`: gate/store keys at ADWD 69, actual tactical allegiance of rangers/archers, whether Lev/Lew followed Marsh from Shieldhall to the yard, attacker count, whether Queen's Men act, casualty and ward status, new caretaker recognition, Dywen/Thorne return, receipt by outlying forts.
+- `UNKNOWN`: gate/store keys at ADWD 69, actual tactical allegiance of rangers/archers, whether Lew followed Marsh from Shieldhall to the yard, attacker count, whether Queen's Men act, casualty and ward status, new caretaker recognition, Dywen/Thorne return, receipt by outlying forts.
 - `INFERRED / CONDITIONAL`: a stewardship-led provisional administration, ranger refusal, issue-specific Watch–Free Folk truce, or failed takeover. No outcome adopted.
 - `INDEPENDENT CRITICAL REVIEW STILL OPEN`: challenge the distinction between physical key control and command authority; inspect alternate guards and nested chains without importing a television ending or unseen witness testimony.
 
