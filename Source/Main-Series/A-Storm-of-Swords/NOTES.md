@@ -46,3 +46,14 @@ See [master catalog](../../../research/theories/CATALOG.md) for additional `QUEU
 
 - **ASOS 80 (Sansa):** Sansa recreates Winterfell in snow, witnesses Lysa threaten her, and sees Petyr push Lysa through the Moon Door. She thereafter knows a fact Littlefinger needs concealed.
 - The later Alayne identity and household-management lessons develop **after** this traumatic episode; see [Sansa/Alayne](../../../research/characters/sansa-alayne.md).
+
+## Arya and Bran: third-book source anchors (2026-10-15)
+
+- **ASOS 9 (Bran):** Summer's wolf-body is exhilarating; Jojen warns Bran of losing his human identity in the animal.
+- **ASOS 24 (Bran):** The Knight of the Laughing Tree narrative gives a filtered account of past Stark/Harrenhal events, not historical omniscience.
+- **ASOS 52, 65 (Arya):** Arya's attempted family reunion fails at the Red Wedding. Her later wolf dream depicts Nymeria drawing a dead woman's body from the river; Arya interprets it as seeing her mother.
+- **ASOS Epilogue (Merrett):** Independently depicts a resurrected Catelyn overseeing the Brotherhood's punishment of a Frey. Together these support the **inference**, not direct Arya knowledge, that Nymeria recovered her mother's corpse.
+- **ASOS 56 (Bran):** Bran enters Hodor's body while frightened at the Nightfort; Sam opens the Black Gate through Night's Watch vows. Physical ancient magic is shown; its original purpose is not.
+- **ASOS 74 (Arya):** Arya leaves the wounded Sandor and arranges passage to Braavos with Jaqen's coin; no Sandor death is shown.
+
+Cross-book source owners: [Arya](../../../research/characters/arya-stark.md), [Bran](../../../research/characters/bran-stark.md), [Stark children map](../../../research/continuity/stark-children-information.md).

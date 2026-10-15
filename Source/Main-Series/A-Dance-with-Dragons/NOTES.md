@@ -97,3 +97,12 @@ Detailed interpretation and information boundaries are owned by [Aegon/Conningto
 - **ADWD 61 (Connington):** Connington orders Haldon to prepare a letter to Doran about the alleged survival of Elia's son, but **Doran's receipt of the letter has not been narrated**.
 
 Cross-book source owner: [Arianne/Doran](../../../research/characters/arianne-doran.md); [Dorne/Vale knowledge and courier constraints](../../../research/continuity/dorne-vale-information.md).
+
+## Arya and Bran: fifth-book source anchors (2026-10-15)
+
+- **ADWD 4, 13 (Bran):** Coldhands guides the party through growing supernatural danger toward Bloodraven's cave. Bran asks whether his legs can be healed and is told no.
+- **ADWD 34 (Bran):** Practices raven and weirwood sight; repeatedly, secretly occupies Hodor as Hodor withdraws in fear. He sees Eddard apparently react to a whisper during a past-tree vision, while Bloodraven insists the past is immutable. An ancient human sacrifice is directly observed, with motive unknown.
+- **ADWD 45 (The Blind Girl / Arya):** Braavosi cat-sight is narrated as an additional form of skinchanging; Arya obtains word that enslaved wildlings from Hardhome were seized aboard Lyseni ships. No warning to Jon has been shown.
+- **ADWD 64 (The Ugly Little Girl / Arya):** The House gives Arya a target who issues maritime loss binders; she plans and carries out the assigned death, receives her original face back, and is instructed to apprentice to Izembaro. The client's identity and the target's moral guilt are unproven.
+
+Cross-book canonical readings: [Arya](../../../research/characters/arya-stark.md), [Bran](../../../research/characters/bran-stark.md), and [Stark survivor information map](../../../research/continuity/stark-children-information.md). No published reunion occurs.

@@ -53,3 +53,12 @@ The [master fan-theory catalog](theories/CATALOG.md) holds unselected research h
 - [Arianne and Doran](characters/arianne-doran.md): Doran's elephant-fleet report is **CHARACTER INFERENCE**, not confirmation of Daenerys or Aegon. [Connington's prepared letter](continuity/dorne-vale-information.md) is not a received alliance request on-page. Dorne must remain undecided until reliable contact.
 - [Sansa / Alayne](characters/sansa-alayne.md): `VERIFIED` she recognizes the paid Lyn Corbray hostility and manages Robert's descent; `UNKNOWN` whether Myranda has identified her. Littlefinger's Harry plan relies on **an uncompleted death and marriage**. The proposed Vale grain-rescue story remains **UNWRITTEN / NOT ESTABLISHED**.
 - [Two character-adjacent experiments](gardening/decision-tests-arianne-sansa.md) test the consequences of truth-telling, protection and political consent without locking either scene.
+
+## October 15 — Arya and Bran source-derived decisions
+
+- [Arya](characters/arya-stark.md): `VERIFIED` she withholds Needle from the House of Black and White (AFFC 22), takes Dareon's life on her own initiative (AFFC 34), later accepts an assigned maritime-binder killing (ADWD 64), and is sent to Izembaro. `UNKNOWN` whether she abandons training or returns to Westeros.
+- [Arya/Nymeria and Catelyn](continuity/stark-children-information.md): `STRONG INFERENCE` from ASOS 65 plus the ASOS Epilogue that her direwolf recovered Catelyn's body. `UNKNOWN` whether Arya ever discovers Stoneheart's revival.
+- [Arya and Hardhome](characters/arya-stark.md): `VERIFIED` she overhears slave-ship news while in Braavos (ADWD 45), not that she sent word to Jon.
+- [Bran and Hodor](characters/bran-stark.md): `VERIFIED` repeated concealed human skinchanging causes Hodor to withdraw inward in fear (ADWD 34). Any eventual remorse or refusal must be chosen and costly.
+- [Bran and the past](characters/bran-stark.md): `VERIFIED` Eddard seems to hear an indistinct sound while Bran observes through the weirwood; `CHARACTER CLAIM` Bloodraven insists past events are unchangeable. Neither guarantee of time travel nor absolute incapacity is proven.
+- [Arya/Bran adjacent experiments](gardening/decision-tests-arya-bran.md): record hypothetical next decisions and their costs, **not adopted plot beats**.

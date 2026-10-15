@@ -20,11 +20,12 @@ Research the five published *A Song of Ice and Fire* novels; evaluate competing 
 4. [research/canon-baseline.md](research/canon-baseline.md) — last text-supported situations, not a completed exhaustive reading.
 5. [research/chapter-index.md](research/chapter-index.md) — five-book chapter lookup.
 6. [Theory research library](research/theories/README.md) — [master catalog](research/theories/CATALOG.md), [2025 awards](research/theories/awards/2025.md), short verified novel passages, counterarguments and review status. [Decision seeds](research/decision-seeds.md) track what might affect our continuation.
-7. [Character analyses](research/characters/README.md) — Jon, Davos, Theon/Asha/Stannis, Daenerys/Barristan/Tyrion, Aegon/Connington, Jaime/Brienne/Stoneheart, Arianne/Doran, and Sansa/Alayne.
+7. [Character analyses](research/characters/README.md) — Jon, Davos, Theon/Asha/Stannis, Daenerys/Barristan/Tyrion, Aegon/Connington, Jaime/Brienne/Stoneheart, Arianne/Doran, Sansa/Alayne, Arya and Bran.
 8. [research/theories/night-lamp.md](research/theories/night-lamp.md) and [research/theories/pink-letter.md](research/theories/pink-letter.md) — source-backed theory challenges; no outcome adopted.
 9. [research/north-wall-dependencies.md](research/north-wall-dependencies.md) — partial-order timeline and information asymmetry.
 10. [Stormlands/Riverlands handoff](research/continuity/stormlands-riverlands-handoff.md) and [adjacent decision tests](research/gardening/decision-tests-aegon-jaime.md) — active Aegon and Jaime cliff edges, communication and consequences.
 11. [Dorne/Vale information map](research/continuity/dorne-vale-information.md) and [Arianne/Sansa decision tests](research/gardening/decision-tests-arianne-sansa.md) — true vs reported news, agency, and conditional next scenes.
+12. [Stark children information map](research/continuity/stark-children-information.md) and [Arya/Bran decision tests](research/gardening/decision-tests-arya-bran.md) — identity, wolf/greenseer powers, and limits of known information.
 10. [Cross-story consequence map](research/consequence-map-2026-10-14.md) — disputed choices, source gates and two-book branching without forced outcomes.
 
 ## Current checkpoint

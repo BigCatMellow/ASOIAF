@@ -37,3 +37,13 @@ The following case files quote short fragments and cite chapters in this volume,
 - [r l j](../../../research/theories/cases/r-l-j.md)
 
 See [master catalog](../../../research/theories/CATALOG.md) for additional `QUEUED` topics involving this volume. Theories are not canon observations.
+
+## Arya and Bran: first-book source anchors (2026-10-15)
+
+- **AGOT 1 (Bran):** Ned brings Bran to witness an execution and confront the responsibility of judgment. Later greenseer power must not erase this early moral training.
+- **AGOT 7 (Arya):** Jon gives her Needle; her closeness to him and difficulties fitting courtly expectations predate her violent experiences.
+- **AGOT 17 (Bran):** In a coma Bran dreams the crow and awakens with Summer. His paralysis is established; magical flying does not undo the injury.
+- **AGOT 32 and 65 (Arya):** Syrio's observation lessons and Arya's later flight demonstrate learned rather than miraculous survival skills.
+- **AGOT 24 (Bran):** Robb comforts Bran and imagines a family journey to see Jon at the Wall, a reminder of Bran's continuing wish for kinship.
+
+Cross-book analyses: [Arya](../../../research/characters/arya-stark.md), [Bran](../../../research/characters/bran-stark.md), [Stark information](../../../research/continuity/stark-children-information.md). This is a targeted passage pass, not an entire volume audit.

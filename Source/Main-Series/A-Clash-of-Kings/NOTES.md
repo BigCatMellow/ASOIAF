@@ -41,3 +41,12 @@ The following case files quote short fragments and cite chapters in this volume,
 - [first men religion](../../../research/theories/cases/first-men-religion.md)
 
 See [master catalog](../../../research/theories/CATALOG.md) for additional `QUEUED` topics involving this volume. Theories are not canon observations.
+
+## Arya and Bran: second-book source anchors (2026-10-15)
+
+- **ACOK 47, 64 (Arya):** Harrenhal exposes Arya to arbitrary violence; her eventual killing of a gate guard enables escape but has a different motive than later vengeance or paid assignments.
+- **ACOK 16 and 28 (Bran):** The Reeds expose Bran's wolf dreams; Luwin's skepticism reveals limits of informed adults' knowledge, not that magic is untrue.
+- **ACOK 35 (Bran):** Jojen's crypt dream looks ominous but is realized as concealment rather than death, cautioning against literal predictive readings.
+- **ACOK 69 (Bran):** Bran leaves ruined Winterfell but remembers a damaged home and self as capable of surviving. This is not a completed restoration.
+
+Cross-book interpretations: [Arya](../../../research/characters/arya-stark.md), [Bran](../../../research/characters/bran-stark.md). The chapter labels follow this bundle.

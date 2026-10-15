@@ -63,3 +63,11 @@ For the precise final decision point and its uncertainty, see [Jaime/Brienne/Sto
 - **AFFC 40 (Arianne):** Doran admits his old letter really contemplated Quentyn inheriting Dorne and reveals the abandoned Viserys betrothal. Arianne has a real grievance; new information alters her interpretation without dissolving distrust.
 
 Canonical interpretation and next choices: [Arianne/Doran](../../../research/characters/arianne-doran.md), [Sansa/Alayne](../../../research/characters/sansa-alayne.md); timeline and message gates: [Dorne/Vale knowledge map](../../../research/continuity/dorne-vale-information.md).
+
+## Arya: fourth-book source anchors (2026-10-15)
+
+- **AFFC 6 (Arya):** She reaches Braavos and enters the House of Black and White as a vulnerable child seeking guidance.
+- **AFFC 22 (Arya):** The kindly man requires surrender of personal attachments, but Arya conceals Needle in the temple steps; her family memories survive the initiation attempt.
+- **AFFC 34 (Cat of the Canals):** Cat has social relationships in Braavos. Arya chooses to murder Dareon, a deserter from the Watch, **for her own reasons**; afterward she is given a bitter drink and awakens blind. The Faceless Men disallow choosing personal victims.
+
+Cross-book character analysis: [Arya](../../../research/characters/arya-stark.md); [Stark family information map](../../../research/continuity/stark-children-information.md). Bran has no POV in AFFC; his next narrated chapters are in ADWD.

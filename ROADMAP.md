@@ -108,9 +108,14 @@ Following the owner's instruction to **resume character/plot analysis instead of
 - [ ] Check actual messenger routes, troop status and living captives before selecting the first *Winds* scene for either strand.
 - [x] Character decision sheets for Arianne/Doran and Sansa/Alayne, with Five-Book AFFC/ADWD source locators.
 - [x] Source-check Sansa's independent recognition of Lyn Corbray's deception, Sweetrobin medical risk, and Harry's **conditional** status.
-- [ ] Continue with Arya and Bran; then reconcile their information with the disputed Stark restoration.
+- [x] First cross-book close-reading of **Arya** through AGOT/ACOK/ASOS/AFFC/ADWD and **Bran** through AGOT/ACOK/ASOS/ADWD, with exact EPUB-local locators and source/claim distinctions.
+- [x] Connect Nymeria's recovery of Catelyn's corpse (ASOS 65) with the later Stoneheart storyline **without asserting Arya knows of her resurrection**.
+- [x] Record Arya's overheard Hardhome slave-ship information and use of a Braavosi cat (ADWD 45) without fabricating communication with Jon.
+- [x] Record Hodor's fearful inward retreat under Bran's repeated skinchanging (ADWD 34) and distinguish apparent past-contact from confirmed history alteration.
+- [x] Build [Stark children information map](research/continuity/stark-children-information.md) and [Arya/Bran next-decision tests](research/gardening/decision-tests-arya-bran.md).
+- [ ] Resolve precise Robb-will witness/custodian and each survivor's actual sources of knowledge before designing a Stark reunion.
 
-**Current nearest next step (2026-10-15):** [Arianne/Doran](research/characters/arianne-doran.md) and [Sansa/Alayne](research/characters/sansa-alayne.md) now have first-pass agency histories. [Dorne/Vale partial-order map](research/continuity/dorne-vale-information.md) keeps the elephant-fleet report separate from confirmed Aegon identity and Harry's succession contingent on Sweetrobin dying. Next complete Arya/Bran POV histories, while maintaining open courier and captive questions for the Aegon and Jaime strands. Do **not** substitute sample *Winds* chapters or show events for the five-book endpoint.
+**Current nearest next step (2026-10-15):** [Arya](research/characters/arya-stark.md) and [Bran](research/characters/bran-stark.md) now have selective five-book POV paths. [Stark children continuity](research/continuity/stark-children-information.md) separates the real family from rival political representations and records two non-obvious links (Nymeria/Stoneheart and Braavos/Hardhome). Next trace **Stark succession witnesses and who knows which living identities**, then begin the remaining unreviewed Cersei/Faith and Oldtown/Euron political/magic tracks. Preserve the existing Aegon/Jaime and Dorne/Vale message questions. No TV or unpublished scene is established by this project.
 
 ## Previous checkpoint — four-family theory audit
 
