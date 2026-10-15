@@ -52,6 +52,18 @@
 | Ramsay Bolton | Knows who 'Reek' is and whom he married; has reason to seek his missing bride. | Whether he possesses Stannis's sword, captured Mance, or wrote the Pink Letter (claims not verified after the escape). |
 | Wyman Manderly | Secretly seeks Rickon through Davos (ADWD 29); publicly quarrels with Freys. | Whether his wounded condition permits him to lead the sortie; whether he has coordinated with Stannis. |
 
+## The Manderly–Frey chain: another independent fracture
+
+**ADWD 29 (Davos), direct source:** Wyman Manderly admits he publicly bowed to Bolton and the crown largely because his son Wylis was a hostage. Wylis's return frees him to resist. He has warships, cavalry and wealthy allies, but offers **conditional** allegiance to Stannis: Davos must retrieve the surviving Stark boy accompanied by his direwolf. Davos sees Wex demonstrate that six people left Winterfell and the woman/boy pair traveled in a different direction. He has not yet retrieved the boy.
+
+Wyman also discusses departing to the Bolton wedding with Freys as guests, and points out that *guest gifts* mark a departure. This is suggestive of retaliation, but **the novel does not explicitly show Wyman murdering the departing Freys**. Do not elevate the popular 'Frey pies' deduction to verified proof in this research baseline.
+
+**ADWD 51 (Theon), direct source:** A Frey child's death triggers Hosteen's accusation against Wyman; Hosteen wounds him and their men brawl. Roose disperses the dangerous factions by ordering **separate outward sorties**, rather than letting them continue killing each other within Winterfell.
+
+**Implication:** The White Harbor men are not proven to be Stannis's operational allies. Wyman's pledge depended on an unfinished task, and he was injured before the sortie. Yet his long-term anti-Frey motive is independently attested. Whether his men defect, fight, or pursue private vengeance must be grown from the missing command information.
+
+**Counterexample:** One must not assume that a Wyman–Stannis alliance is already active simply because their ultimate enemies are the same. Wyman might prioritize restoring a Stark child over the Baratheon claim; his men might not know his covert promises; he may be too badly injured to control their conduct.
+
 ## Open dependencies before choosing the Battle of Ice result
 
 - **Courier chain:** Who, if anyone, forwarded Clydas's raven from Deepwood to the king; did Tycho learn Alys's warning before leaving?
