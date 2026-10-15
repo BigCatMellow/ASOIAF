@@ -124,3 +124,17 @@ Four [theory case files](research/theories/README.md) now distinguish **text-sup
 **Next bounded research:** (1) map surviving Robb-will witnesses/claimant-information access; (2) Dorne ↔ Aegon ↔ Quentyn information travel; (3) independently audit *The World of Ice & Fire*'s conflicting ancient accounts and *Fire & Blood*'s dragon-extinction record in clearly segregated source tiers. No battle, supernatural or royal outcome adopted. The other previously identified North/Wall and Meereen dependencies remain open.
 
 **Quality note:** Four new case files passed a targeted 9/9 source-fragment check; 36 earlier checks remain on record, but contextual verification and independent review are unfinished.
+
+## Owner-requested sequential source close-reading workstream — 2026-10-15
+
+The project owner explicitly requested **comprehensive per-book notes**, retaining both major story points and potentially consequential minor details. This is an additional evidence-gathering workstream within the approved research phase; it does not supersede previous canon, close existing Arya/Bran and courier tasks, or authorize unsupported endings.
+
+- [x] Verify the project EPUB SHA-256 matches [SOURCES.md](SOURCES.md).
+- [x] Inspect all five section boundaries and 344 narrative-unit locators.
+- [x] Create [close-reading method/coverage tracker](Source/Main-Series/CLOSE-READING-STATUS.md) and [cross-book clue queue](research/source-clue-index.md).
+- [x] First-pass notes for five prologues and AGOT 1–5 (10/344 units).
+- [ ] Continue sequentially with **AGOT 6 (Catelyn)**, then subsequent units, logging completeness by volume.
+- [ ] Audit subtle clues against later chapters and strong ordinary alternatives; connect to canonical character/theory owners.
+- [ ] Independently challenge consequential literary findings and confirm internal links/source locators before marking whole-book research complete.
+
+**Scope warning:** The structural EPUB extraction covers 344 units; that is a corpus inventory, **not** completed literary review. Ten chapter files exist, 334 sequential chapter files remain to create. Earlier targeted source checks are distinct and cannot inflate this count.
