@@ -103,4 +103,4 @@ Do **not** infer that Val was abducted, harmed, witnessed the struggle, summoned
 - **Reject:** "Jon's attack terminates the Karhold claim." Harrion's succession and Cregan's custody are unresolved political questions independently of Jon's fate.
 - **Retain:** a **three-way conflict over guardianship, consent and legitimacy**, with different actors unable to guarantee each other's promises.
 
-**Disposition:** `SELECTIVE DIRECT TEXT CHECK COMPLETE / VAL–PATREK HARDIN'S TOWER MOTIVE OPEN / A-L-Y-S LOCATION AND KARHOLD SUCCESSION OPEN / POST-STABBING OUTCOME UNSELECTED`. Future evidence should revise this file rather than silently turn an attractive inference into canon.
+**Disposition:** `SELECTIVE DIRECT TEXT CHECK COMPLETE / VAL–PATREK HARDIN'S TOWER MOTIVE OPEN / ALYS LOCATION AND KARHOLD SUCCESSION OPEN / POST-STABBING OUTCOME UNSELECTED`. Future evidence should revise this file rather than silently turn an attractive inference into canon.
