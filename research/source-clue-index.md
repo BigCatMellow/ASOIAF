@@ -793,6 +793,25 @@
 | C-759 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Arya requests Chiswyck, hears he fell from battlements three days later | Jaqen role strongly suggested, physical method unobserved |
 | C-760 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Arya deletes Chiswyck from death litany | First apparent delegated killing and changing ritual |
 
+| C-761 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Storm End towering curved fortifications and legendary Durran/Bran builders | Real wall geometry vs multiple speculative founding legends |
+| C-762 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Stannis flaming heart surrounds smaller crowned stag | Specific shift in Baratheon religious iconography |
+| C-763 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Melisandre personally attends parley as Stannis standard bearer | Direct involvement in high-level diplomacy |
+| C-764 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Stannis says he deserved appointment as Robert Hand over Ned | Old resentment may distort political choices |
+| C-765 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Catelyn seeks Stark daughters rather than heads of Lannisters | Clear priorities in failed envoy mission |
+| C-766 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Stannis says needs Renly southron lords before attack on King's Landing | Strategic motive for Storm End diversion |
+| C-767 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Stannis asserts Cersei three children of incest and says he notified Jon Arryn | Accusation plus channel, not direct evidence shown to Catelyn |
+| C-768 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Renly received incest letter through Randyll Tarly at Horn Hill | Confirmed propagation route from earlier 117 raven campaign |
+| C-769 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Catelyn recalls Lysa charged Cersei by letter, Tyrion at Eyrie | Contradictory knowledge before fresh Stannis accusation |
+| C-770 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Renly concedes Stannis superior hereditary claim if incest true | Succession admission vs his military claim |
+| C-771 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Renly offers peach and Stannis mistrustfully reaches for sword | Symbolic gesture not objectively an assassination signal |
+| C-772 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Stannis draws visually glowing Lightbringer and offers Renly heirship until a son | Observed light, contingent succession and legitimacy dispute |
+| C-773 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Renly claims immense army and Stannis at most 5000/400 horse | Claimed estimates, not reliable independent census |
+| C-774 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Renly has separated fast cavalry from foot, baggage and supplies | Actual logistical constraint explains urgency |
+| C-775 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Mathis Rowan recommends bypass Stannis besieging Storm End to take capital | Alternative strategy openly available but refused |
+| C-776 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Renly sets Loras in van, Brienne to bear standard, Rowan center | Exact planned deployment not completed combat |
+| C-777 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Renly denies Catelyn exit and insists she witness defeat of rebels | Envoy used to threaten Robb, political coercion |
+| C-778 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Robar Royce second son of Bronze Yohn joins Renly for glory | Vale familial affiliations may differ within one house |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -800,4 +819,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and seven first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and eight first-pass chapters listed in the coverage tracker.
