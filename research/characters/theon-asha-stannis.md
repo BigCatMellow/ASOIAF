@@ -71,6 +71,19 @@
 | Stannis | Fight, wait, negotiate, punish? | New intelligence on the enemy sortie, Karstark, and available terrain | Having him know of a conspiracy only because readers know it |
 | Jeyne | Trust anyone after Ramsay? | Who offers safety without exploiting her false Stark identity | Treating her solely as a claim or hostage |
 
+## Newly identified hinge: two false stories about Stark children
+
+**VERIFIED source facts:** Theon knows the Bolton bride is Jeyne Poole, not Arya (ADWD 20, 37, 51). Wyman wants a surviving Stark son and his direwolf as a counterweight to Bolton's claim through the supposed Arya (ADWD 29, Davos). Theon and Jeyne arrive at Stannis's camp (ADWD 62).
+
+**INFERRED plot opportunity:** If Stannis verifies Jeyne's identity, he may gain evidence to challenge Bolton's marriage-based legitimacy. But the obvious witness is Theon, reviled as Winterfell's betrayer; and the girl has been traumatized and forced to impersonate Arya. Her testimony has moral costs, and any public accusation may endanger her.
+
+Possible paths:
+- **Disclosure:** Theon reveals who she is; Stannis attempts to persuade northern lords. The value of a witness is tested by his ruined credibility.
+- **Protection first:** Asha or another party demands Jeyne's safety before any political disclosure, risking lost leverage.
+- **Retain the deception:** A faction decides the false Arya is useful even after learning the truth; the reader must confront whether political necessity justifies repeating Bolton's exploitation.
+
+**Gardening rule:** Do not determine which path occurs until Stannis, Asha, Jeyne and Theon have reacted to one another. This knot can alter the Manderly–Frey response **independently** of the Night Lamp's military success.
+
 ## THINK challenge
 
 The narrative temptation is to make all three cooperate instantly and deliver Stannis a brilliant battle victory. Yet Theon may not trust any captor, Asha knows her status is precarious, and Stannis needs information during a starvation crisis. These conflicts are *productive*; they should change the tactical outcome.
