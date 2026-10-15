@@ -1,4 +1,4 @@
-# ACOK 29 — Tyrion: Lancel converted to an informer, Pycelle's release, and Shae's hidden household
+# ACOK 29 — Tyrion: Lancel converted to an informer, Pycelle's disputed custody, and Shae's hidden household
 
 - Record role: `RESEARCH / SEQUENTIAL CLOSE READING`
 - Status: `FIRST PASS COMPLETE — INDEPENDENT CHALLENGE OPEN`
