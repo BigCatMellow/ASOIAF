@@ -106,3 +106,7 @@ Cross-book source owner: [Arianne/Doran](../../../research/characters/arianne-do
 - **ADWD 64 (The Ugly Little Girl / Arya):** The House gives Arya a target who issues maritime loss binders; she plans and carries out the assigned death, receives her original face back, and is instructed to apprentice to Izembaro. The client's identity and the target's moral guilt are unproven.
 
 Cross-book canonical readings: [Arya](../../../research/characters/arya-stark.md), [Bran](../../../research/characters/bran-stark.md), and [Stark survivor information map](../../../research/continuity/stark-children-information.md). No published reunion occurs.
+
+## Sequential chapter reading (new pass, 2026-10-15)
+
+[Prologue / Varamyr](chapters/00-prologue.md) now has a dedicated first-pass file separating directly observed second life, Haggon's taught prohibitions, human possession, weirwood sight and wight reanimation. See [coverage](../CLOSE-READING-STATUS.md). The remaining 72 narrative units lack sequential first-pass notes; substantial existing targeted work below is valuable but not a sequential whole-book audit.
