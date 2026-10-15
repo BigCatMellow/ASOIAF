@@ -563,6 +563,31 @@
 | C-536 | [ACOK 14](../Source/Main-Series/02-A-Clash-of-Kings/chapters/14-arya.md) | Arya and Gendry save child, Arya returns inside burning barn and gives axe to Rorge | Rescue action vs actual escape of three convicts |
 | C-537 | [ACOK 14](../Source/Main-Series/02-A-Clash-of-Kings/chapters/14-arya.md) | Arya ends crawling underground amid smoke and fire, weeping | Outcome and grief target unresolved |
 
+| C-538 | [ACOK 15](../Source/Main-Series/02-A-Clash-of-Kings/chapters/15-tyrion.md) | Two separately handwritten copies of Stannis proclamation arrive via Stokeworth and Gyles | Direct message receipt, contrasts ACOK 10 dispatch plan |
+| C-539 | [ACOK 15](../Source/Main-Series/02-A-Clash-of-Kings/chapters/15-tyrion.md) | Cersei threatens cutting tongues for incest rumor; Tyrion warns repression signals fear | Real proposed repression, not executed edict |
+| C-540 | [ACOK 15](../Source/Main-Series/02-A-Clash-of-Kings/chapters/15-tyrion.md) | Littlefinger fabricates Shireen-Patchface parentage gossip from true greyscale scars | Deliberate propaganda, not legitimate theory |
+| C-541 | [ACOK 15](../Source/Main-Series/02-A-Clash-of-Kings/chapters/15-tyrion.md) | Littlefinger owns brothels and plans to distribute counterstory via them | Disinformation network planned, publication not confirmed |
+| C-542 | [ACOK 15](../Source/Main-Series/02-A-Clash-of-Kings/chapters/15-tyrion.md) | Tyrion orders 1000 more giant chain links, redirects all city forges from weapons | Hidden military engineering with real opportunity cost |
+| C-543 | [ACOK 15](../Source/Main-Series/02-A-Clash-of-Kings/chapters/15-tyrion.md) | Smiths cite threat of smashed hands; Salloreon threatened with chains by Tyrion | Contradictory uses of coercion |
+| C-544 | [ACOK 15](../Source/Main-Series/02-A-Clash-of-Kings/chapters/15-tyrion.md) | Tyrion builds fishing boats in place of catapults, opens kingswood for hunting | Practical city famine relief despite scarcity |
+| C-545 | [ACOK 15](../Source/Main-Series/02-A-Clash-of-Kings/chapters/15-tyrion.md) | Chataya's daughter Alayaya guides Tyrion through wardrobe to secret tunnel | Documented covert access route, not sexual liaison |
+| C-546 | [ACOK 15](../Source/Main-Series/02-A-Clash-of-Kings/chapters/15-tyrion.md) | Varys claims old tunnel built for unidentified King's Hand and uses detailed disguise | An unnamed past patron, not evidence for guessed one |
+| C-547 | [ACOK 15](../Source/Main-Series/02-A-Clash-of-Kings/chapters/15-tyrion.md) | Varys knows spies shared with Cersei and says Robert had eight black-haired bastards | Interested intelligence and approximate evidence |
+| C-548 | [ACOK 15](../Source/Main-Series/02-A-Clash-of-Kings/chapters/15-tyrion.md) | Tyrion suspects Littlefinger leaked original incest claim, Varys declines to identify | Open attribution, no confirmed whisperer |
+| C-549 | [ACOK 16](../Source/Main-Series/02-A-Clash-of-Kings/chapters/16-bran.md) | Big/Little Walder's quarterings precisely separate Crakehall/Darry from Blackwood/Paege | Family genealogy and differing reactions to cruelty |
+| C-550 | [ACOK 16](../Source/Main-Series/02-A-Clash-of-Kings/chapters/16-bran.md) | Manderly proposes port taxes under Robb, a mint and warfleet | Independent North needs real fiscal/naval infrastructure |
+| C-551 | [ACOK 16](../Source/Main-Series/02-A-Clash-of-Kings/chapters/16-bran.md) | Manderly says Tywin offers captured Wylis for neutrality | Reported hostage leverage against northern loyalty |
+| C-552 | [ACOK 16](../Source/Main-Series/02-A-Clash-of-Kings/chapters/16-bran.md) | Donella Hornwood raises harvest stores from fifth to quarter on Luwin advice | Food-risk planning under autumn |
+| C-553 | [ACOK 16](../Source/Main-Series/02-A-Clash-of-Kings/chapters/16-bran.md) | Hornwood widow warns Roose bastard mustering and hears Reek/human-hunting rumor | Reported threat not firsthand verified abuse |
+| C-554 | [ACOK 16](../Source/Main-Series/02-A-Clash-of-Kings/chapters/16-bran.md) | Rodrik/Luwin weigh Larence Snow, Beren Tallhart, suitor marriages and Hornwood lineage | Rival succession routes remain unsettled |
+| C-555 | [ACOK 16](../Source/Main-Series/02-A-Clash-of-Kings/chapters/16-bran.md) | Osha swims heart-tree pool, warns Little Walder and notices Bran's wolf dreams | Observable behavior plus ambiguous intuitive insight |
+| C-556 | [ACOK 16](../Source/Main-Series/02-A-Clash-of-Kings/chapters/16-bran.md) | Mors Crowfood has dragonglass false eye and asks to marry Hornwood widow | Physical detail and political interest, not a magic eye claim |
+| C-557 | [ACOK 16](../Source/Main-Series/02-A-Clash-of-Kings/chapters/16-bran.md) | Hother Umber reports wildlings crossing Bay of Seals and demands longships | Northerner threat report, possible Wall connection |
+| C-558 | [ACOK 16](../Source/Main-Series/02-A-Clash-of-Kings/chapters/16-bran.md) | Glover steward retains tenth harvest after hedge-wizard prediction; Rodrik orders fifth | Consequence of contradictory winter forecasts |
+| C-559 | [ACOK 16](../Source/Main-Series/02-A-Clash-of-Kings/chapters/16-bran.md) | Benfred's mounted Wild Hares distract young laborers from home defense and harvest | War enthusiasm, labor shortages |
+| C-560 | [ACOK 16](../Source/Main-Series/02-A-Clash-of-Kings/chapters/16-bran.md) | Cley Cerwyn knows Stannis incest accusation before Bran says Winterfell received a letter | Northern report arrival; courier channel uncertain |
+| C-561 | [ACOK 16](../Source/Main-Series/02-A-Clash-of-Kings/chapters/16-bran.md) | Bran's nightmare recalls golden Jaime pushing him and original love phrase | Strong past-event memory echo, crow's agency unverified |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -570,4 +595,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the ninety-one first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the ninety-three first-pass chapters listed in the coverage tracker.
