@@ -46,6 +46,18 @@
 - **Diplomatic possibility with terrible cost:** Bran finds evidence of an earlier compromise; a potential negotiation is tested against the Others' actual destructive behavior and the wishes of wildlings who would be sacrificed or displaced.
 - **False treaty revelation:** A character mistakes a **First Men–children** treaty, or Craster's local arrangement, for an Others pact; later evidence contradicts it. This can be a truthful character error rather than a writerly trick.
 
+## New direct-source stress test: AGOT 48, 52 and 53 (2026-10-15)
+
+The [sequential close-reading files](../../../Source/Main-Series/CLOSE-READING-STATUS.md) now give chapter-local checks for an especially important distinction: **Osha says Robb is marching the wrong way; she does not say the Night's Watch was historically created to guard the wrong direction.**
+
+- **[AGOT 48 (Jon)](../../../Source/Main-Series/01-A-Game-of-Thrones/chapters/48-jon.md) — VERIFIED:** Jon and Sam swear vows after passing through a triple-barred ice tunnel to a grove of nine weirwoods **north of the Wall**. They explicitly pledge to be the shield protecting the realms of men. This documents the *current Watch's vowed function*, without answering who constructed the Wall or what its earliest rules were.
+- **[AGOT 52 (Jon)](../../../Source/Main-Series/01-A-Game-of-Thrones/chapters/52-jon.md) — VERIFIED:** Othor and Jafer, missing from Benjen's ranging, are found with unusual corpse characteristics; **Othor later moves and attacks inside Castle Black despite fatal wounds**. His severed arm also moves. **An animated dead human is directly witnessed**, independently confirming that the north-of-Wall threat extends to the Watch itself. Who animated him remains **UNKNOWN**. Earlier rangers' choice to bring unburned bodies through the gate created a defensive breach.
+- **[AGOT 53 (Bran)](../../../Source/Main-Series/01-A-Game-of-Thrones/chapters/53-bran.md) — CHARACTER CLAIM:** Osha says the old gods have no eyes in the south where weirwoods are gone; says giants and wights exist north of the Wall; and explicitly asks Bran to tell Robb to march **north instead of south**. Bran reports her warning to Luwin, who discounts it. The reader has strong independent corroboration of *wights*, but not Osha's broader geography of divine power, giants or her description of Mance's precise calculations at this stage.
+
+**Updated disposition for the 'wrong direction' phrase:** `STRONG SOURCE SUPPORT` for the **strategic attention critique** (war in the south distracts from an urgent northern supernatural threat). `NO NEW DIRECT SUPPORT` for an ancient **south-facing Watch mandate**, a **Wall built by Others**, or a comprehensive **Others-human treaty**. The latter remain distinct historical conjectures with demanding counterevidence requirements.
+
+**Disconfirming tests:** Look for primary-text historical records of the Watch's founding; inspect the Black Gate and oath mechanics; find an independent witness/vision of Wall construction and actual Others' motives. Do not infer original design from which direction Robb should march *now*.
+
 ## Disposition
 
 `VERIFIED`: the threat and specific magical interactions. `STRONG HISTORICAL INFERENCE`: humanity and children shared ancient danger, but this is preserved in legend. `OPEN`: Others' origins and negotiability. `WEAK AS CURRENT CLAIM`: Others-built-human-prison Wall. Do not let the emotionally attractive 'balance of ice and fire' idea override contrary scenes.
