@@ -588,6 +588,53 @@
 | C-560 | [ACOK 16](../Source/Main-Series/02-A-Clash-of-Kings/chapters/16-bran.md) | Cley Cerwyn knows Stannis incest accusation before Bran says Winterfell received a letter | Northern report arrival; courier channel uncertain |
 | C-561 | [ACOK 16](../Source/Main-Series/02-A-Clash-of-Kings/chapters/16-bran.md) | Bran's nightmare recalls golden Jaime pushing him and original love phrase | Strong past-event memory echo, crow's agency unverified |
 
+| C-562 | [ACOK 17](../Source/Main-Series/02-A-Clash-of-Kings/chapters/17-tyrion.md) | Pycelle sends two Dornish letters while Tyrion pockets a medicine | Dispatch verified, vial still unidentified |
+| C-563 | [ACOK 17](../Source/Main-Series/02-A-Clash-of-Kings/chapters/17-tyrion.md) | Tyrion counts one/two/three after separate conversations | Controlled leak test inferred, not confessed |
+| C-564 | [ACOK 17](../Source/Main-Series/02-A-Clash-of-Kings/chapters/17-tyrion.md) | Braavosi creditor and food traders both petition | Royal debt and urban hunger pressures |
+| C-565 | [ACOK 17](../Source/Main-Series/02-A-Clash-of-Kings/chapters/17-tyrion.md) | Alliser Thorne arrives with dead hand and Tyrion refuses to hear him | Watch intelligence not investigated |
+| C-566 | [ACOK 17](../Source/Main-Series/02-A-Clash-of-Kings/chapters/17-tyrion.md) | Bronn sees Tallad predictable sword sequence | Forecast of vulnerability, not duel outcome |
+| C-567 | [ACOK 17](../Source/Main-Series/02-A-Clash-of-Kings/chapters/17-tyrion.md) | Cersei fears Renly while Tyrion fears opaque Stannis fleet | Divergent war timing assessments |
+| C-568 | [ACOK 17](../Source/Main-Series/02-A-Clash-of-Kings/chapters/17-tyrion.md) | Littlefinger offers disputed Valyrian/dragonbone dagger | Provocation referring to earlier false attribution |
+| C-569 | [ACOK 17](../Source/Main-Series/02-A-Clash-of-Kings/chapters/17-tyrion.md) | Littlefinger appointees dominate fiscal administration and ports | Patronage as institutional control |
+| C-570 | [ACOK 17](../Source/Main-Series/02-A-Clash-of-Kings/chapters/17-tyrion.md) | Vale clans Tyrion armed pressure Lysa | Prior intervention becomes bargaining leverage |
+| C-571 | [ACOK 17](../Source/Main-Series/02-A-Clash-of-Kings/chapters/17-tyrion.md) | Myrcella-to-Vale marriage and Harrenhal reward told to Littlefinger | Unaccepted offers and information marker |
+| C-572 | [ACOK 17](../Source/Main-Series/02-A-Clash-of-Kings/chapters/17-tyrion.md) | Tommen-to-Dorne suggestion told to Varys | Different version for potential source testing |
+| C-573 | [ACOK 17](../Source/Main-Series/02-A-Clash-of-Kings/chapters/17-tyrion.md) | Elia murder grievance traded for potential Dornish support | Promised justice not actual surrender |
+| C-574 | [ACOK 18](../Source/Main-Series/02-A-Clash-of-Kings/chapters/18-sansa.md) | Sansa receives unsigned godswood letter despite frequent maid rotations | Secret access but source unknown |
+| C-575 | [ACOK 18](../Source/Main-Series/02-A-Clash-of-Kings/chapters/18-sansa.md) | Meryn bruise persists and Sansa mistakenly believes Arya at Winterfell | Violence and information asymmetry |
+| C-576 | [ACOK 18](../Source/Main-Series/02-A-Clash-of-Kings/chapters/18-sansa.md) | Sansa burns summons, takes small knife through unattended bridge | Defensive agency under surveillance |
+| C-577 | [ACOK 18](../Source/Main-Series/02-A-Clash-of-Kings/chapters/18-sansa.md) | Dontos vows at heart tree to send her home without workable immediate route | Oath confirmed, escape not |
+| C-578 | [ACOK 18](../Source/Main-Series/02-A-Clash-of-Kings/chapters/18-sansa.md) | Dontos casts himself as Florian to Sansa's Jonquil | Romantic narrative can mislead risk assessment |
+| C-579 | [ACOK 18](../Source/Main-Series/02-A-Clash-of-Kings/chapters/18-sansa.md) | Dontos says godswood only safe place | Interested claim, not verified security |
+| C-580 | [ACOK 18](../Source/Main-Series/02-A-Clash-of-Kings/chapters/18-sansa.md) | Sandor drunkenly intimidates and escorts Sansa | Mixed acts are not unconditional protection |
+| C-581 | [ACOK 18](../Source/Main-Series/02-A-Clash-of-Kings/chapters/18-sansa.md) | Sandor recounts three dog sigil from kennels and lioness | Family account; do not conflate Gregor |
+| C-582 | [ACOK 18](../Source/Main-Series/02-A-Clash-of-Kings/chapters/18-sansa.md) | Wedding-feast food rumor produces crowd and Joffrey sortie | Hunger affects Red Keep security |
+| C-583 | [ACOK 19](../Source/Main-Series/02-A-Clash-of-Kings/chapters/19-arya.md) | Arya finds axed dead Yoren and buries him | ACOK14 uncertainty resolved, killer unknown |
+| C-584 | [ACOK 19](../Source/Main-Series/02-A-Clash-of-Kings/chapters/19-arya.md) | Kurz dies after escaping with infected arrow wound | Delayed nonmagical mortality |
+| C-585 | [ACOK 19](../Source/Main-Series/02-A-Clash-of-Kings/chapters/19-arya.md) | Cutjack and Tarber vanish with equipment | Possible desertion, unseen destination |
+| C-586 | [ACOK 19](../Source/Main-Series/02-A-Clash-of-Kings/chapters/19-arya.md) | Rescued toddler is named Weasel and stops constant crying | Continuity under trauma |
+| C-587 | [ACOK 19](../Source/Main-Series/02-A-Clash-of-Kings/chapters/19-arya.md) | Fugitives eat acorn paste bugs and worms | Material hunger and physical adaptations |
+| C-588 | [ACOK 19](../Source/Main-Series/02-A-Clash-of-Kings/chapters/19-arya.md) | Gendry discovers Arya is Stark daughter and promises secrecy | Changed knowledge, not shared with other children |
+| C-589 | [ACOK 19](../Source/Main-Series/02-A-Clash-of-Kings/chapters/19-arya.md) | Gendry rejects assumption lowborn surrender yields safe ransom | Class-specific security evidence |
+| C-590 | [ACOK 19](../Source/Main-Series/02-A-Clash-of-Kings/chapters/19-arya.md) | Six victims gibbeted in occupied lakeside village | Specific terror and unidentified dead |
+| C-591 | [ACOK 19](../Source/Main-Series/02-A-Clash-of-Kings/chapters/19-arya.md) | Gendry loses bull helmet while captured, Arya loses Needle afterward | Personal artifacts with changed custody |
+| C-592 | [ACOK 19](../Source/Main-Series/02-A-Clash-of-Kings/chapters/19-arya.md) | Crow frightens Hot Pie into surrender | Mundane failure of covert approach |
+| C-593 | [ACOK 19](../Source/Main-Series/02-A-Clash-of-Kings/chapters/19-arya.md) | Three dogs banner identifies Gregor's men, not Sandor personally | Heraldic attribution |
+| C-594 | [ACOK 19](../Source/Main-Series/02-A-Clash-of-Kings/chapters/19-arya.md) | Weasel runs and unnamed spearman kills yielding Lommy | Escape unverified and surrender decisively unsafe |
+| C-595 | [ACOK 20](../Source/Main-Series/02-A-Clash-of-Kings/chapters/20-tyrion.md) | Wildfire guild reports 7840 jars, 4000 old | Guild count, no full independent audit |
+| C-596 | [ACOK 20](../Source/Main-Series/02-A-Clash-of-Kings/chapters/20-tyrion.md) | 200 ancient jars reported beneath Great Sept of Baelor | Origin of hidden cache unresolved |
+| C-597 | [ACOK 20](../Source/Main-Series/02-A-Clash-of-Kings/chapters/20-tyrion.md) | Aged wildfire could cascade in flooded lower storage | Hazard for capital as well as enemy |
+| C-598 | [ACOK 20](../Source/Main-Series/02-A-Clash-of-Kings/chapters/20-tyrion.md) | Hallyne calls safety trap a spell, Tyrion suspects mechanism | Causation untested |
+| C-599 | [ACOK 20](../Source/Main-Series/02-A-Clash-of-Kings/chapters/20-tyrion.md) | Mock jars paint then lit oil precede planned wildfire handling | Graded training ordered, not finished |
+| C-600 | [ACOK 20](../Source/Main-Series/02-A-Clash-of-Kings/chapters/20-tyrion.md) | Cleos Frey arrives with Robb's map and letter | ACOK7 transmission fulfilled, return oath open |
+| C-601 | [ACOK 20](../Source/Main-Series/02-A-Clash-of-Kings/chapters/20-tyrion.md) | Cleos reports losses under peace banner to unknown armed bands | Attribution unknown |
+| C-602 | [ACOK 20](../Source/Main-Series/02-A-Clash-of-Kings/chapters/20-tyrion.md) | Tyrion hides hunger from Cleos escort and plots delaying proposals | Diplomatic deception, relies on Stafford |
+| C-603 | [ACOK 20](../Source/Main-Series/02-A-Clash-of-Kings/chapters/20-tyrion.md) | Prophet voices fool-paternity slander theme | Public echo of Littlefinger's fabrication, transmission unknown |
+| C-604 | [ACOK 20](../Source/Main-Series/02-A-Clash-of-Kings/chapters/20-tyrion.md) | Cersei has Myrcella-Dorne version, distinct from other whispered deals | Pycelle leak strongly suggested, no witness named |
+| C-605 | [ACOK 20](../Source/Main-Series/02-A-Clash-of-Kings/chapters/20-tyrion.md) | Myrcella-Trystane Sunspear wardship proposed with Arys protection | Proposal, not enacted marriage |
+| C-606 | [ACOK 20](../Source/Main-Series/02-A-Clash-of-Kings/chapters/20-tyrion.md) | Cersei weeps, Tyrion describes Tywin strategy as map inference | Genuine emotion and strategic uncertainty |
+| C-607 | [ACOK 20](../Source/Main-Series/02-A-Clash-of-Kings/chapters/20-tyrion.md) | Joffrey reportedly fires at hunger protest and kills four | Reported event, not directly observed |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -595,4 +642,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the ninety-three first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the ninety-seven first-pass chapters listed in the coverage tracker.
