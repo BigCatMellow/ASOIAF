@@ -1,55 +1,80 @@
-# Theon, Asha and Stannis — North intersection research
+# Theon, Asha, and Stannis — the divided northern camp
 
 - Record role: `RESEARCH`
 - Primary information class: `FACT / KNOWLEDGE`
-- Status: `WORKING / SELECTED LATE CHAPTERS`
+- Status: `WORKING / EXPANDED CROSS-BOOK SOURCE PASS`
 - Lifecycle: `ACTIVE`
-- Authority: `ADVISORY / NONE`
+- Authority: `ADVISORY / NONE` — no battle or redemption outcome is selected
 - Parent: [ROADMAP.md](../../ROADMAP.md)
-- Chronology: [north-wall-dependencies.md](../north-wall-dependencies.md)
-- Last checked: 2026-10-14
+- Dependencies: [North–Wall chronology](../north-wall-dependencies.md), [Night Lamp challenge](../theories/night-lamp.md)
+- Source policy: [SOURCES.md](../../SOURCES.md)
+- Source pass: 2026-10-14, EPUB chapter readings named below; all late chapters verified, not every unrelated POV
 
-## Three separate stakes
+## Main claim
 
-**Theon (ADWD 37, 41, 46, 51; 62 through Asha's eyes):** Survives the psychological destruction of 'Reek', participates in the rescue of Jeyne Poole, flees Winterfell and eventually identifies himself to Asha. His return to his name is observed in ADWD 62; it does not erase his prior wrongdoing.
+**Theon, Asha, and Stannis do not want the same victory.** They happen to occupy a desperate camp with interlocking, and partly opposed, needs. The strongest next plot grows from those conflicts; Theon should not become an all-knowing scout, Asha only a protective sister, or Stannis an infallible commander.
 
-**Asha (ADWD 26, 62):** Defeated and taken captive; watches Stannis's northern army fail to feed itself, sees Queen's men conduct burning sacrifices, and fears being selected next. Her brother arrives severely maimed. Her priorities now collide: her survival, Theon's safety, relations with northern captors, and an Ironborn identity without a fleet.
+## Theon — the story of a name, not absolution
 
-**Stannis (seen by Asha ADWD 62; reported in Jon ADWD 69):** Has an army on winter ice with religious and strategic factions, apparent access to an Iron Bank representative, and receives two politically valuable captives. He is **not** shown defeated in the five books. His perceived legitimacy and military competence do not grant knowledge of every secret plot.
+| Source | VERIFIED narrative anchor | Pressure created |
+| --- | --- | --- |
+| ACOK 11 (Theon) | Returns to Pyke after years among the Starks; Balon rejects Robb's proposed alliance and plans an invasion of the North instead. | Theon's hope to be recognized by his father conflicts with affection and obligation to Robb. |
+| ACOK 24 (Theon) | Asha tests and humiliates him through her disguise as Esgred. | Sibling rivalry, wounded pride and his inability to understand the Ironborn political landscape. |
+| ACOK 37 (Theon) | Uses Dagmer's attack on Torrhen's Square to lure Winterfell's defenders away. | Chooses conquest and status over his former family's trust. |
+| ACOK 50, 56 (Theon) | Bran and Rickon escape; Theon pursues them, then passes the bodies of two murdered miller's boys off as theirs. His own later viewpoint establishes the deception. | He is culpable for the murder of innocents **even though he did not kill Bran and Rickon**. |
+| ACOK 66 (Theon) | Winterfell becomes untenable; the Bastard's men betray and burn the castle. | Theon's campaign collapses and he loses political agency. |
+| ADWD 12, 20, 32 (Reek) | Ramsay's torture has reduced Theon to terror and dependency; he recognizes Jeyne Poole but cannot openly challenge her false identity. | Knowledge is not equivalent to freedom or the ability to act. |
+| ADWD 37, 41, 46 (Prince / Turncloak / Ghost) | Theon is forced to support the false-Arya marriage, knows Winterfell and its crypts, and is pressured by Abel's companions into helping Jeyne flee. | Trauma, knowledge, and the wish to stop another victim's suffering conflict. |
+| ADWD 51 (Theon) | After Bolton orders the Freys and Manderlys out, Theon and Jeyne escape through the battlements by a desperate jump. | A limited act of courage, not a general reversal of his crimes. |
+| ADWD 62 (The Sacrifice, Asha POV) | Asha meets the maimed Theon and hears him insist on his name. | A small identity recovery observed by another character; its endurance remains unknown. |
 
-## Critical sources
+**Character contradiction:** He previously chose fear and status over innocent children, yet later takes a serious risk to save an abused young woman. A continuation should keep **both** facts. Theon cannot purchase forgiveness through one helpful act, and Stannis may view him as a murderer and an intelligence source simultaneously.
 
-- ADWD 26 (The Wayward Bride): Asha loses Deepwood Motte; Stannis's people capture her.
-- ADWD 37 (The Prince of Winterfell): marriage plot and Theon's imprisonment.
-- ADWD 41 (The Turncloak): Lady Dustin, crypts and Theon's knowledge of Winterfell.
-- ADWD 46 (A Ghost in Winterfell): covert spearwife activity and instability inside Winterfell.
-- ADWD 51 (Theon): rescue of Jeyne and desperate escape.
-- ADWD 62 (The Sacrifice): food shortages, lake ice, fires, religious fracture, Karstarks' aggressive tactical proposals, arrival of Tycho/Theon/Jeyne.
-- ADWD 69 (Jon): secondhand claim of Stannis's death. Not proof.
+**Immediate viable paths:** (A) voluntarily testify about Ramsay, the false Arya, and Winterfell despite self-incrimination; (B) withhold what he knows out of terror of Ramsay or retribution; (C) try to protect Jeyne first and negotiate disclosure via Asha. What happens depends on how his captors treat him.
 
-## Viable immediate decisions — not predetermined
+## Asha — politician, commander, captive, sister
 
-| Person | Decision | Option A | Option B | Counterweight |
-|---|---|---|---|---|
-| Theon | Disclose what he knows of Winterfell and the false Arya | Offer information to Stannis even if incriminating | Stay silent to protect himself/Jeyne | Stannis's men may execute or dismiss him either way |
-| Asha | Seek leverage for herself and Theon | Cooperate on northern intelligence | Bargain for transfer/freedom | Her captors may have contradictory incentives and fear her Ironborn status |
-| Stannis | Respond to new prisoners and enemy threat | Exploit information before a battle | Use immediate coercion or public punishment | Starvation, religious pressure and uncertain loyalties constrain his choices |
+| Source | VERIFIED narrative anchor | Pressure created |
+| --- | --- | --- |
+| ACOK 24 (Theon) | Asha commands her own force and exposes Theon's inability to read Ironborn authority. | She is much more than a family member in his personal story. |
+| AFFC 11 (The Kraken's Daughter) | Contests the future of the Iron Islands, seeks support among Harlaws, and refuses to be relegated to marriage or a dependent role. | Pragmatic claim to leadership and dislike of Euron's direction. |
+| AFFC 19 (The Drowned Man, Aeron POV) | Euron wins the kingsmoot, defeating Asha's alternative program. | Asha has a direct strategic reason to look beyond Pyke for survival and leverage. |
+| ADWD 26 (The Wayward Bride) | Holds Deepwood Motte but is defeated in Stannis's surprise attack and captured. | Her political agency has been sharply constrained, not erased. |
+| ADWD 62 (The Sacrifice) | Faces threats of ritual burning by Clayton Suggs; Aly Mormont and Justin Massey intervene; she sees the religious fault line and then recognizes Theon. | Immediate fear and brotherly concern alongside a calculation of who among Stannis's people might be moved. |
 
-## Gardening consequence example
+**What she knows that Theon does not:** She has experienced the camp's internal religious split, the cold and food shortage, the behavior of Suggs, the concerns of Justin Massey, and the politics of the hill clans. When Theon arrives, Asha is better placed to interpret what a disclosure to Stannis may cost.
 
-**Seed:** Stannis wants information from Theon; Theon fears what the truth would cost.
+**Immediate paths:** (A) seek an ally in Aly Mormont and protect Theon/Jeyne; (B) bargain over her own Ironborn legitimacy and future in exchange for military information; (C) resist political use of Theon while her own survival is threatened. These options are not interchangeable with passive loyalty.
 
-If Theon speaks, he may expose Bolton deception and help prevent a mistaken attack, but not earn forgiveness. If he refuses, the Stannis camp remains divided and Jeyne may remain in danger. Asha may intervene for reasons different from either man's.
+## Stannis — character observed indirectly
 
-This is not three characters serving a preselected Night Lamp victory. Their incompatible motives should generate the battle's political consequences.
+**Evidence path:** ACOK/ASOS Davos for the king's claims and prior choices; ADWD Jon for military negotiations and letters; ADWD 26, 62 Asha for the northern campaign. Stannis is **not** a POV, so his private battle planning remains unknown.
 
-## Challenges before promotion
+**VERIFIED in ADWD 62:**
+- He occupies a stone watchtower beside the lake with a beacon burning continuously.
+- His army is immobilized, starving, losing horses and suffering frostbite/deaths.
+- Asha witnesses him authorize the burning of convicted cannibals. The queen's men want more sacrifices and threaten her; other retainers oppose them.
+- Arnolf Karstark and his men have reached the army and publicly press for a rush on Winterfell.
+- The camp is divided between northern clansmen and southern knights, and among the southern knights themselves.
+- Tycho Nestoris reaches the village with Jeyne and Theon near the end of the chapter.
 
-- Theon has suffered extensive coercion; treat his ability to make decisions as limited and variable, not a convenient eyewitness database.
-- Asha has a history of political ambition and practical calculation, not just a protective-sister role.
-- Stannis's good military reputation is not evidence that every clever battle plan attributed to him has already happened.
-- Asha last sees him alive; Ramsay later reports him dead. Preserve both as distinct kinds of evidence.
+**CHARACTER CLAIMS:** Asha imagines that Stannis has withdrawn to the beacon to seek divine answers; that is *her interpretation*. Arnolf says he wants to avenge the Starks; Alys Karstark reports he is a Bolton agent (ADWD 44). The reader knows the two statements conflict. Neither the camp nor Stannis is shown settling the matter within ADWD 62.
 
-## Next reading
+**UNKNOWN:** Has Stannis received Jon's warning? What tactical plan, if any, has he prepared? Will he trust Theon's account, protect Jeyne, or order punishment? Do his northern followers and southern commanders continue to obey if he sacrifices another captive?
 
-Sequentially inspect Theon's ACOK invasion and his ADWD 'Reek' arc; Asha's AFFC kingsmoot and ADWD captivity arc; Stannis's decisions mediated through Davos/Jon/Asha. Then reconcile with Rickon's whereabouts and Jon's Karstark warning.
+## Shared decision matrix
+
+| Person | Current choice | Most informative new evidence | Failure case to avoid |
+| --- | --- | --- | --- |
+| Theon | Tell Stannis the full story? | His physical safety, Jeyne's treatment, whether Stannis already suspects Karstark | Turning a traumatized man into a convenient exposition machine |
+| Asha | Protect and use access to Theon? | Allies' real incentives (Massey, Mormont, southern zealots) | Reducing her political ambition to generic family loyalty |
+| Stannis | Fight, wait, negotiate, punish? | New intelligence on the enemy sortie, Karstark, and available terrain | Having him know of a conspiracy only because readers know it |
+| Jeyne | Trust anyone after Ramsay? | Who offers safety without exploiting her false Stark identity | Treating her solely as a claim or hostage |
+
+## THINK challenge
+
+The narrative temptation is to make all three cooperate instantly and deliver Stannis a brilliant battle victory. Yet Theon may not trust any captor, Asha knows her status is precarious, and Stannis needs information during a starvation crisis. These conflicts are *productive*; they should change the tactical outcome.
+
+## Work remaining
+
+This is now a **cross-book event-pass**, but not a complete fine-grained psychological reading. Before choosing a Theon POV opener, inspect the dialogue in ACOK 50/56 and ADWD 37/46 for his shifting distinction between fear, shame, and self-protection. Read Stannis's decision to aid the Wall in ASOS through Davos against the ADWD 62 sacrifice. Test cross-camp news delivery in the [chronology](../north-wall-dependencies.md).
