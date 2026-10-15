@@ -132,9 +132,9 @@ The project owner explicitly requested **comprehensive per-book notes**, retaini
 - [x] Verify the project EPUB SHA-256 matches [SOURCES.md](SOURCES.md).
 - [x] Inspect all five section boundaries and 344 narrative-unit locators.
 - [x] Create [close-reading method/coverage tracker](Source/Main-Series/CLOSE-READING-STATUS.md) and [cross-book clue queue](research/source-clue-index.md).
-- [x] First-pass notes for five prologues and AGOT 1–5 (10/344 units).
-- [ ] Continue sequentially with **AGOT 6 (Catelyn)**, then subsequent units, logging completeness by volume.
+- [x] First-pass notes for five prologues and AGOT 1–6 (11/344 units).
+- [ ] Continue sequentially with **AGOT 7 (Arya)**, then subsequent units, logging completeness by volume.
 - [ ] Audit subtle clues against later chapters and strong ordinary alternatives; connect to canonical character/theory owners.
 - [ ] Independently challenge consequential literary findings and confirm internal links/source locators before marking whole-book research complete.
 
-**Scope warning:** The structural EPUB extraction covers 344 units; that is a corpus inventory, **not** completed literary review. Ten chapter files exist, 334 sequential chapter files remain to create. Earlier targeted source checks are distinct and cannot inflate this count.
+**Scope warning:** The structural EPUB extraction covers 344 units; that is a corpus inventory, **not** completed literary review. Eleven chapter files exist, 333 sequential chapter files remain to create. Earlier targeted source checks are distinct and cannot inflate this count.
