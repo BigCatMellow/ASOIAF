@@ -88,3 +88,12 @@ See [master catalog](../../../research/theories/CATALOG.md) for additional `QUEU
 - **ADWD 48:** Jaime sees Brienne at Pennytree; she asks him to travel alone toward the girl she says is Sansa. **The chapter does not show him departing with her.** No Jaime/Stoneheart encounter has yet occurred on-page.
 
 Detailed interpretation and information boundaries are owned by [Aegon/Connington](../../../research/characters/aegon-jon-connington.md), [Jaime/Brienne/Stoneheart](../../../research/characters/jaime-brienne-stoneheart.md), and [Stormlands/Riverlands handoff](../../../research/continuity/stormlands-riverlands-handoff.md).
+
+## Dornish information-gap audit (2026-10-15)
+
+- **ADWD 38 (Hotah):** Doran and Arianne participate in a state cover story that falsely attributes the killing of Arys Oakheart to Darkstar. Hotah's AFFC 21 narration directly establishes the contrary.
+- **ADWD 38:** Doran sends Obara with Balon toward Darkstar, Nymeria toward the King's Landing court, and Tyene toward the new Faith; **orders are not proof of completion**.
+- **ADWD 38:** Doran hears an uncertain report of a fleet with elephants at Lys and speculates that Daenerys could be on it. He has not learned Quentyn's fate on-page.
+- **ADWD 61 (Connington):** Connington orders Haldon to prepare a letter to Doran about the alleged survival of Elia's son, but **Doran's receipt of the letter has not been narrated**.
+
+Cross-book source owner: [Arianne/Doran](../../../research/characters/arianne-doran.md); [Dorne/Vale knowledge and courier constraints](../../../research/continuity/dorne-vale-information.md).

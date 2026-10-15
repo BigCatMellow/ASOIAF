@@ -53,3 +53,13 @@ See [master catalog](../../../research/theories/CATALOG.md) for additional `QUEU
 - **AFFC 44 (Jaime):** Jaime secures a negotiated Riverrun surrender but threatened grave harm to Edmure's family. Contrast later unwillingness to punish innocent villagers at Pennytree (ADWD 48).
 
 For the precise final decision point and its uncertainty, see [Jaime/Brienne/Stoneheart](../../../research/characters/jaime-brienne-stoneheart.md) and [cross-plot handoff](../../../research/continuity/stormlands-riverlands-handoff.md).
+
+## Focused agency audit — Arianne and Sansa (2026-10-15)
+
+- **AFFC 10 (Sansa):** She witnesses Petyr leveraging a sealed hereditary grant and helps sustain a cover story about Lysa. Her understanding is incomplete and she fears being discovered.
+- **AFFC 23 (Alayne):** She independently detects that Lyn Corbray's apparent opposition is staged. Petyr confirms paid hostility. He also recommends sweetsleep for Sweetrobin's shaking fits; Colemon hesitates.
+- **AFFC 41 (Alayne):** Sansa helps Sweetrobin descend safely. Colemon warns that sweetsleep accumulates; Myranda mentions Jon Snow and Sansa blurts his name, but no Myranda identification is verified. Petyr **proposes** Harry Hardyng as husband after Robert's anticipated death; this is conditional, not an achieved marriage.
+- **AFFC 13, 21 (Arys/Arianne):** Arianne's attempt to crown Myrcella is interrupted. **Hotah kills Arys on-page**; Myrcella's injury occurs as Gerold Dayne flees, though the exact strike is not visible in Arianne's narration.
+- **AFFC 40 (Arianne):** Doran admits his old letter really contemplated Quentyn inheriting Dorne and reveals the abandoned Viserys betrothal. Arianne has a real grievance; new information alters her interpretation without dissolving distrust.
+
+Canonical interpretation and next choices: [Arianne/Doran](../../../research/characters/arianne-doran.md), [Sansa/Alayne](../../../research/characters/sansa-alayne.md); timeline and message gates: [Dorne/Vale knowledge map](../../../research/continuity/dorne-vale-information.md).

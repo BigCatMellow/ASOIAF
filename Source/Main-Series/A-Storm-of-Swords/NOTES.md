@@ -41,3 +41,8 @@ The following case files quote short fragments and cite chapters in this volume,
 - [septon utt](../../../research/theories/cases/septon-utt.md)
 
 See [master catalog](../../../research/theories/CATALOG.md) for additional `QUEUED` topics involving this volume. Theories are not canon observations.
+
+## Sansa's Vale entrance (targeted source check, 2026-10-15)
+
+- **ASOS 80 (Sansa):** Sansa recreates Winterfell in snow, witnesses Lysa threaten her, and sees Petyr push Lysa through the Moon Door. She thereafter knows a fact Littlefinger needs concealed.
+- The later Alayne identity and household-management lessons develop **after** this traumatic episode; see [Sansa/Alayne](../../../research/characters/sansa-alayne.md).

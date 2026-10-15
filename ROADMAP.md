@@ -78,7 +78,8 @@ See [quote audit receipt](research/theories/QUOTE_AUDIT.md). Independent literar
 - [ ] Complete prior-book trajectories and synchronize their late ADWD chapter dates before choosing a Meereen outcome.
 - [x] Complete a targeted Aegon/Connington/Golden Company source-based decision sheet (ADWD 5, 14, 18, 22, 24, 61, Epilogue).
 - [x] Deepen Aegon/Connington Stormlands decision cliff: war council, contingent logistics, princely command, court response, Ronnet prisoners.
-- [ ] Verify Arianne/Doran message travel and specific Stormlords' reactions before adopting an Aegon military or diplomatic outcome.
+- [x] First source-grounded Arianne/Doran close reading (AFFC 2, 13, 21, 40; ADWD 38) and cross-reference with Connington's outbound letter (ADWD 61).
+- [ ] Trace actual Aegon-to-Doran message receipt and separate Sand Snake missions; specific Stormlords' reactions before adopting diplomatic/military outcomes.
 - [x] Complete a targeted Jaime/Brienne/Stoneheart source-based decision sheet (ASOS, AFFC, ADWD).
 - [x] Audit Brienne's coercion and Jaime's Pennytree cliff: the novel does **not** show Jaime leave with her; Lem uses the Hound guise.
 - [ ] Resolve Podrick/Hyle custody after Brienne's hanging scene and Jaime's actual response before adopting a Stoneheart outcome.
@@ -105,9 +106,11 @@ Following the owner's instruction to **resume character/plot analysis instead of
 - [x] Identify Red Ronnet as a link between Griffin's Roost prisoners, the King's Landing court and Jaime's former troops, without inventing courier travel.
 - [x] Create [Stormlands/Riverlands knowledge map](research/continuity/stormlands-riverlands-handoff.md) and [two reversible gardening tests](research/gardening/decision-tests-aegon-jaime.md).
 - [ ] Check actual messenger routes, troop status and living captives before selecting the first *Winds* scene for either strand.
-- [ ] Return to the next unreviewed POV perspectives after these immediate decisions: Arianne/Doran, Sansa/Alayne, Arya and Bran.
+- [x] Character decision sheets for Arianne/Doran and Sansa/Alayne, with Five-Book AFFC/ADWD source locators.
+- [x] Source-check Sansa's independent recognition of Lyn Corbray's deception, Sweetrobin medical risk, and Harry's **conditional** status.
+- [ ] Continue with Arya and Bran; then reconcile their information with the disputed Stark restoration.
 
-**Current nearest next step:** Trace trustworthy reports of Dorne's position, the Golden Company's actual remaining muster, who knows Red Ronnet's relatives are prisoners, and what Jaime's men would do if he chose to ride alone. Do **not** substitute the sample *Winds* chapters or show events for the ending of the published five novels.
+**Current nearest next step (2026-10-15):** [Arianne/Doran](research/characters/arianne-doran.md) and [Sansa/Alayne](research/characters/sansa-alayne.md) now have first-pass agency histories. [Dorne/Vale partial-order map](research/continuity/dorne-vale-information.md) keeps the elephant-fleet report separate from confirmed Aegon identity and Harry's succession contingent on Sweetrobin dying. Next complete Arya/Bran POV histories, while maintaining open courier and captive questions for the Aegon and Jaime strands. Do **not** substitute sample *Winds* chapters or show events for the five-book endpoint.
 
 ## Previous checkpoint — four-family theory audit
 

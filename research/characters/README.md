@@ -13,5 +13,7 @@ Each file follows motives, knowledge, contradictions, choices, and source locato
 - [Daenerys, Barristan and Tyrion](daenerys-barristan-tyrion.md)
 - [Aegon, Jon Connington and the Golden Company](aegon-jon-connington.md)
 - [Jaime, Brienne and Lady Stoneheart](jaime-brienne-stoneheart.md)
+- [Arianne and Doran Martell](arianne-doran.md)
+- [Sansa / Alayne Stone](sansa-alayne.md)
 
 Next research: full cross-book motive checks, time synchronization, Westerosi faction knowledge and rival interpretation testing.

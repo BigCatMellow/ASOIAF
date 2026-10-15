@@ -47,3 +47,9 @@ The [master fan-theory catalog](theories/CATALOG.md) holds unselected research h
 - [Jaime's response at Pennytree](characters/jaime-brienne-stoneheart.md): `VERIFIED` Brienne asks him to come alone; `UNKNOWN` whether he agrees, departs or meets Stoneheart. Previous shorthand claiming that he departed has been corrected.
 - [Red Ronnet's cross-plot family](continuity/stormlands-riverlands-handoff.md): `VERIFIED` prisoners at Griffin's Roost and his presence at court; `UNKNOWN` any message to Jaime and future bargaining.
 - [Two reversible short-form gardening experiments](gardening/decision-tests-aegon-jaime.md): define next character choices, not adopted outcomes.
+
+## October 15 — successor character decisions (not outcome selections)
+
+- [Arianne and Doran](characters/arianne-doran.md): Doran's elephant-fleet report is **CHARACTER INFERENCE**, not confirmation of Daenerys or Aegon. [Connington's prepared letter](continuity/dorne-vale-information.md) is not a received alliance request on-page. Dorne must remain undecided until reliable contact.
+- [Sansa / Alayne](characters/sansa-alayne.md): `VERIFIED` she recognizes the paid Lyn Corbray hostility and manages Robert's descent; `UNKNOWN` whether Myranda has identified her. Littlefinger's Harry plan relies on **an uncompleted death and marriage**. The proposed Vale grain-rescue story remains **UNWRITTEN / NOT ESTABLISHED**.
+- [Two character-adjacent experiments](gardening/decision-tests-arianne-sansa.md) test the consequences of truth-telling, protection and political consent without locking either scene.
