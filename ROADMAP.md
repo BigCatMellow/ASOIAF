@@ -38,7 +38,7 @@ A sourced, contradiction-aware, character-led basis for two unofficial further n
 - [x] Verify navigation and store chapter index.
 - [x] Preserve targeted closing-state baseline, clearly provisional.
 - [x] Establish source / copyright boundary and note public `Source/` uploads added by the owner during this work.
-- [ ] Owner-side rights/visibility review for public EPUBs (not a blocker for non-redistributive research; see [SOURCES.md](SOURCES.md)).
+- [x] Owner authorized retaining the original three EPUBs here and organizing book-specific source/notes folders. Rights remain independently unverified; see [SOURCES.md](SOURCES.md).
 
 ## Phase 1: first wave
 

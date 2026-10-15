@@ -1,4 +1,5 @@
-# Private/copyrighted source books and extraction artifacts must not enter the public repository.
+# Prevent accidental addition of extra book copies or extraction artifacts.
+# The three previously tracked owner-supplied EPUBs under Source/ remain tracked.
 *.epub
 *.mobi
 *.azw

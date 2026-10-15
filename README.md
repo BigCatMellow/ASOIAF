@@ -16,15 +16,17 @@ Research the five published *A Song of Ice and Fire* novels; evaluate competing 
 
 1. [PROJECT_BRIEF.md](PROJECT_BRIEF.md) — objective, evidence authority, DONE, boundaries.
 2. [ROADMAP.md](ROADMAP.md) — current wave and next eligible research.
-3. [SOURCES.md](SOURCES.md) — source manifest, edition identifier, chapter locators, evidence labels, copyright boundary.
+3. [Source library](Source/README.md) — original volumes organized beside their book-specific notes; [SOURCES.md](SOURCES.md) — evidence and chapter locator rules.
 4. [research/canon-baseline.md](research/canon-baseline.md) — last text-supported situations, not a completed exhaustive reading.
 5. [research/chapter-index.md](research/chapter-index.md) — five-book chapter lookup.
 6. [research/decision-seeds.md](research/decision-seeds.md) — THINK hypotheses and next feasible character choices.
-7. [research/characters/jon-snow.md](research/characters/jon-snow.md), [research/characters/davos-seaworth.md](research/characters/davos-seaworth.md), and [research/characters/theon-asha-stannis.md](research/characters/theon-asha-stannis.md) — character decision analyses.\n8. [research/theories/night-lamp.md](research/theories/night-lamp.md) and [research/theories/pink-letter.md](research/theories/pink-letter.md) — source-backed theory challenges; no outcome adopted.\n9. [research/north-wall-dependencies.md](research/north-wall-dependencies.md) — partial-order timeline and information asymmetry.
+7. [research/characters/jon-snow.md](research/characters/jon-snow.md), [research/characters/davos-seaworth.md](research/characters/davos-seaworth.md), and [research/characters/theon-asha-stannis.md](research/characters/theon-asha-stannis.md) — character decision analyses.
+8. [research/theories/night-lamp.md](research/theories/night-lamp.md) and [research/theories/pink-letter.md](research/theories/pink-letter.md) — source-backed theory challenges; no outcome adopted.
+9. [research/north-wall-dependencies.md](research/north-wall-dependencies.md) — partial-order timeline and information asymmetry.
 
 ## Current checkpoint
 
-The repository was empty at project intake (2026-10-14), **but the owner subsequently uploaded three EPUBs to the public `Source/` directory** (commit `a201915`, after this project began). Those binary files were not uploaded by this research workflow. They are currently publicly accessible; check distribution rights and repository visibility before sharing. Initial chapter indexing, a targeted closing-state baseline, the North/Wall **partial** chronology, and two theory challenges are available; exhaustive POV histories, complete chronology reconciliation, and two-book drafting remain open.
+The owner uploaded three EPUBs to this public repository and authorized organizing them into [per-volume source folders](Source/README.md). The bundled five novels remain one unchanged EPUB; redistribution rights are not independently verified. Initial chapter indexing, a targeted closing-state baseline, the North/Wall **partial** chronology, and two theory challenges are available; exhaustive POV histories, complete chronology reconciliation, and two-book drafting remain open.
 
 **No outline idea is automatically canon.** Mark `VERIFIED`, `INFERRED`, `THEORY`, or `UNKNOWN` locally. Retain live alternatives while evidence is incomplete.
 

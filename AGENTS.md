@@ -7,7 +7,7 @@ This file is the repository-level routing contract. The project authority and ac
 1. [README.md](README.md): determine what is already present.
 2. [PROJECT_BRIEF.md](PROJECT_BRIEF.md): objective, boundaries and acceptance criteria.
 3. [ROADMAP.md](ROADMAP.md): first incomplete in-scope research task.
-4. [SOURCES.md](SOURCES.md): source hierarchy, EPUB version, chapter locator rules, public-source risk.
+4. [Source library](Source/README.md) for source files and book notes; [SOURCES.md](SOURCES.md) for hierarchy and evidence rules.
 5. Only the directly relevant chapter index, character sheet and dependency research.
 
 ## Working rules
@@ -18,6 +18,6 @@ This file is the repository-level routing contract. The project authority and ac
 - PLAN: research only the nearest decisions and dependencies in detail. Leave distant two-book beats provisional.
 - Observe → decide → consequence → update another POV. Let contradiction alter the plan.
 - Keep one canonical owner for each live claim; link instead of duplicating. Do not rewrite neighboring repositories.
-- No source-text extraction, long quotes or additional copyrighted ebooks in the public repo. Review [SOURCES.md](SOURCES.md) for existing owner uploads and visibility risk.
+- The owner-retained original EPUBs are organized under `Source/`. No additional copied source books, extracted chapters, or extended quotations; keep research notes to concise paraphrase, source references and original analysis.
 - No fixed fate, coronation, battle outcome or magical answer is adopted merely because it is popular or appeared in an earlier outline.
 - Verify source locators, internal links and the exact GitHub file state after a substantive update. State scope limits and what remains unverified.

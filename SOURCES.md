@@ -9,15 +9,17 @@
 - Related: [chapter index](research/chapter-index.md), [baseline](research/canon-baseline.md), [roadmap](ROADMAP.md)
 - Last source check: 2026-10-14
 
-## Primary source: uploaded EPUB (local, private)
+## Primary source: five-novel bundled EPUB
 
-- File: `A Game of Thrones 5-Book Bundle.epub` (provided in the originating conversation).
+- Current file: [Source/Main-Series/A Game of Thrones 5-Book Bundle.epub](Source/Main-Series/A%20Game%20of%20Thrones%205-Book%20Bundle.epub). The five published novels occupy one intact EPUB; each has a [notes folder](Source/Main-Series/README.md).
 - SHA-256: `cf12ce6d586a9b2717b6cefe373515d454f805b9b6193cde544c8abf028e61b8`.
 - Contains: *A Game of Thrones* (AGOT), *A Clash of Kings* (ACOK), *A Storm of Swords* (ASOS), *A Feast for Crows* (AFFC), and *A Dance with Dragons* (ADWD).
 - Chapter labels in [index](research/chapter-index.md) follow this EPUB's navigation. No stable printed page numbers; different editions paginate differently.
 - Counts including prologues/epilogues: AGOT 73; ACOK 70; ASOS 82; AFFC **46 narrative units, plus an additional author afterword mislabeled 'Chapter 46' in the bundle's TOC**; ADWD 73. Total = 344 narrative units. AFFC narrative = prologue + chapters 1–45. 
 - AFFC and ADWD overlap in time: explicitly reconcile before drafting inter-POV scenes.
-- **Live repository change (2026-10-14):** The owner uploaded `Source/A Game of Thrones 5-Book Bundle.epub`, `Source/Fire & Blood.epub`, and `Source/The World of Ice & Fire.epub` in GitHub commit [`a201915`](https://github.com/BigCatMellow/ASOIAF/commit/a20191532bfd1cd8e3c2acc529167e19329c5163). This repository is PUBLIC. These binary files were not added by this research workflow. The latter two books are **not** part of the five-novel evidence baseline; they may be evaluated as separate sources later.\n- **Rights/visibility review required:** Publicly tracked commercial ebooks may create copyright/distribution risks. An `.gitignore` entry does **not** unpublish files already committed, and deletion of working-tree copies alone will not erase Git history. Do not upload further copies or extracted chapters. Confirm redistribution permission or move/remove from public history using an owner-approved path. Keep repo research files to concise paraphrase, chapter references, and original materials.
+- **Current source layout:** [Source library](Source/README.md): one original main-series bundle, [*Fire & Blood*](Source/Fire-and-Blood/NOTES.md), and [*The World of Ice & Fire*](Source/The-World-of-Ice-and-Fire/NOTES.md). Their original owner-uploaded Git blobs have been reorganized into per-volume folders without altering EPUB content.
+- **Scope:** The two supplementary volumes have not yet been audited and do not override the five novels. Separate attributed in-universe history from independently narrated events.
+- **Public visibility:** The owner approved retaining the already uploaded EPUBs here; legal distribution rights have not been independently verified. A Git move does not erase earlier history. Do not create further copies or extracted full-book text. Keep research notes concise and attributed.
 
 ## Evidence tier and epistemic labels
 

@@ -8,7 +8,7 @@
 - Accountable owner: Human project owner
 - Canonical owner for project scope: this file
 - Parent request: 2026-10-14 conversation — study the five published novels, develop two further books by character-led gardening, keep durable work in this repository.
-- Related: [ROADMAP.md](ROADMAP.md), [SOURCES.md](SOURCES.md)
+- Related: [ROADMAP.md](ROADMAP.md), [SOURCES.md](SOURCES.md), [Source/README.md](Source/README.md)
 
 ## Objective and DONE
 
@@ -30,7 +30,7 @@ Produce two coherent **unofficial** novel-length story plans and, if subsequentl
 
 In: source-based summaries, research notes, POV agency analysis, timelines, theory stress testing, consequence maps, and original story planning. Selective use of THINK, PLAN, MAPS_L and Writing Bible methods as subordinate references.
 
-Out: asserting speculative plot as official canon; uploading or redistributing the source EPUB; reproducing extended passages; imitating Martin's distinctive prose; making changes in Pilot_Projects or MAPS_Lean; building a multi-agent runtime; committing irreversible final endings prematurely.
+Out: asserting speculative plot as official canon; distributing additional EPUB copies or long extracted source text; reproducing extended passages; imitating Martin's distinctive prose; making changes in Pilot_Projects or MAPS_Lean; building a multi-agent runtime; committing irreversible final endings prematurely.
 
 ## Evidence and quality
 
@@ -43,7 +43,7 @@ Out: asserting speculative plot as official canon; uploading or redistributing t
 
 ## Owner decisions and review
 
-Normal research documentation and GitHub writes are within the present request. Human owner retains decisions about artistic preferences, selection of major outcomes and any external publication. No blind public release or repository storage of book text. A different reviewer should challenge important structural conclusions before they are marked adopted.
+Normal research documentation and GitHub writes are within the present request. Human owner retains decisions about artistic preferences, selection of major outcomes and any external publication. The original three already uploaded EPUBs remain under `Source/` at the owner's explicit direction; do not add copies or full text to research notes. A different reviewer should challenge important structural conclusions before they are marked adopted.
 
 ## Immediate work
 
