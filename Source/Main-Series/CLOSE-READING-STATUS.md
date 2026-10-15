@@ -16,14 +16,14 @@ The EPUB was opened locally on 2026-10-15. Its five title sections, navigation e
 
 | Book | Narrative chapters including prologue/epilogue | New first-pass chapter notes | Still lacking new sequential first-pass notes |
 |---|---:|---:|---:|
-| [AGOT](01-A-Game-of-Thrones/NOTES.md) | 73 | 15 (Prologue, 1–14) | 58 |
+| [AGOT](01-A-Game-of-Thrones/NOTES.md) | 73 | 18 (Prologue, 1–17) | 55 |
 | [ACOK](02-A-Clash-of-Kings/NOTES.md) | 70 | 1 (Prologue) | 69 |
 | [ASOS](03-A-Storm-of-Swords/NOTES.md) | 82 | 1 (Prologue) | 81 |
 | [AFFC](04-A-Feast-for-Crows/NOTES.md) | 46 | 1 (Prologue) | 45 |
 | [ADWD](05-A-Dance-with-Dragons/NOTES.md) | 73 | 1 (Prologue) | 72 |
-| **TOTAL** | **344** | **19** | **325** |
+| **TOTAL** | **344** | **22** | **322** |
 
-**Important:** The nineteen files are *first-pass* source-grounded interpretive notes, **not certification that every line has undergone an independent microdetail audit**. Some cross-book chapters received focused checks in earlier work; those checks are not counted as completed sequential chapter notes. The earlier 45 short-fragment quote matches were a distinct narrow verification, not 45 extra reviewed chapters.
+**Important:** The twenty-two files are *first-pass* source-grounded interpretive notes, **not certification that every line has undergone an independent microdetail audit**. Some cross-book chapters received focused checks in earlier work; those checks are not counted as completed sequential chapter notes. The earlier 45 short-fragment quote matches were a distinct narrow verification, not 45 extra reviewed chapters.
 
 The source contains approximately 1,751,065 whitespace-delimited words by the local paragraph extractor; this is a processing count, not a claim of completed reading. AFFC's additional TOC 'Chapter 46' is a non-narrative author afterword and is deliberately excluded from the 46 narrative units.
 
@@ -40,7 +40,7 @@ The source contains approximately 1,751,065 whitespace-delimited words by the lo
 
 ## Current first-pass files
 
-- **AGOT:** [Prologue](01-A-Game-of-Thrones/chapters/00-prologue.md) · [1 Bran](01-A-Game-of-Thrones/chapters/01-bran.md) · [2 Catelyn](01-A-Game-of-Thrones/chapters/02-catelyn.md) · [3 Daenerys](01-A-Game-of-Thrones/chapters/03-daenerys.md) · [4 Eddard](01-A-Game-of-Thrones/chapters/04-eddard.md) · [5 Jon](01-A-Game-of-Thrones/chapters/05-jon.md) · [6 Catelyn](01-A-Game-of-Thrones/chapters/06-catelyn.md) · [7 Arya](01-A-Game-of-Thrones/chapters/07-arya.md) · [8 Bran](01-A-Game-of-Thrones/chapters/08-bran.md) · [9 Tyrion](01-A-Game-of-Thrones/chapters/09-tyrion.md) · [10 Jon](01-A-Game-of-Thrones/chapters/10-jon.md) · [11 Daenerys](01-A-Game-of-Thrones/chapters/11-daenerys.md) · [12 Eddard](01-A-Game-of-Thrones/chapters/12-eddard.md) · [13 Tyrion](01-A-Game-of-Thrones/chapters/13-tyrion.md) · [14 Catelyn](01-A-Game-of-Thrones/chapters/14-catelyn.md)
+- **AGOT:** [Prologue](01-A-Game-of-Thrones/chapters/00-prologue.md) · [1 Bran](01-A-Game-of-Thrones/chapters/01-bran.md) · [2 Catelyn](01-A-Game-of-Thrones/chapters/02-catelyn.md) · [3 Daenerys](01-A-Game-of-Thrones/chapters/03-daenerys.md) · [4 Eddard](01-A-Game-of-Thrones/chapters/04-eddard.md) · [5 Jon](01-A-Game-of-Thrones/chapters/05-jon.md) · [6 Catelyn](01-A-Game-of-Thrones/chapters/06-catelyn.md) · [7 Arya](01-A-Game-of-Thrones/chapters/07-arya.md) · [8 Bran](01-A-Game-of-Thrones/chapters/08-bran.md) · [9 Tyrion](01-A-Game-of-Thrones/chapters/09-tyrion.md) · [10 Jon](01-A-Game-of-Thrones/chapters/10-jon.md) · [11 Daenerys](01-A-Game-of-Thrones/chapters/11-daenerys.md) · [12 Eddard](01-A-Game-of-Thrones/chapters/12-eddard.md) · [13 Tyrion](01-A-Game-of-Thrones/chapters/13-tyrion.md) · [14 Catelyn](01-A-Game-of-Thrones/chapters/14-catelyn.md) · [15 Sansa](01-A-Game-of-Thrones/chapters/15-sansa.md) · [16 Eddard](01-A-Game-of-Thrones/chapters/16-eddard.md) · [17 Bran](01-A-Game-of-Thrones/chapters/17-bran.md)
 - **ACOK:** [Prologue / Cressen](02-A-Clash-of-Kings/chapters/00-prologue.md)
 - **ASOS:** [Prologue / Chett](03-A-Storm-of-Swords/chapters/00-prologue.md)
 - **AFFC:** [Prologue / Pate](04-A-Feast-for-Crows/chapters/00-prologue.md)
@@ -48,7 +48,7 @@ The source contains approximately 1,751,065 whitespace-delimited words by the lo
 
 ## Next in-scope sequential task
 
-Resume at `AGOT 15 (Sansa)` without skipping basic plot. Continue through AGOT in publication order, while using cross-book checks only when they directly test a live clue or a contradiction. Recheck the four later prologues in full microdetail after the sequence reaches each respective book. Do not imply that 325 untouched chapters have been read.
+Resume at `AGOT 18 (Catelyn)` without skipping basic plot. Continue through AGOT in publication order, while using cross-book checks only when they directly test a live clue or a contradiction. Recheck the four later prologues in full microdetail after the sequence reaches each respective book. Do not imply that 322 untouched chapters have been read.
 
 ## Review boundary
 
