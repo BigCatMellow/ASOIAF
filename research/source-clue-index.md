@@ -55,6 +55,20 @@
 | C-042 | [AGOT 14](../Source/Main-Series/01-A-Game-of-Thrones/chapters/14-catelyn.md) | Hallis reports Hodor acting strangely during the assassin's hiding period | Check whether later dialogue confirms witnessed events; behavior report alone is not testimony of a plot |
 | C-043 | [AGOT 14](../Source/Main-Series/01-A-Game-of-Thrones/chapters/14-catelyn.md) | Robb assumes governance at fourteen; Rickon suffers absence; Catelyn sails via White Harbor | Reconcile delegated decisions and route timings instead of treating Catelyn's investigation as instantly reaching the capital |
 
+| C-044 | [AGOT 15](../Source/Main-Series/01-A-Game-of-Thrones/chapters/15-sansa.md) | Mycah shows Arya old Trident ford and Rhaegar's reputed scattered rubies | Check material accounts of the Battle of the Trident before making physical gem recovery or magic essential |
+| C-045 | [AGOT 15](../Source/Main-Series/01-A-Game-of-Thrones/chapters/15-sansa.md) | Lady's protective alarm at Ser Ilyn Payne and Sansa's preference for princely 'rescue' | Track Lady's distinct temperament and Sansa's changing perceptions; ordinary response to a frightening armed stranger remains viable |
+| C-046 | [AGOT 15](../Source/Main-Series/01-A-Game-of-Thrones/chapters/15-sansa.md) | Joffrey gives Sansa wine, carries live steel, threatens Mycah and drives Nymeria's response | Compare the prior live-steel provocation in AGOT 7; later retellings are not equal to an on-page witness account |
+| C-047 | [AGOT 15](../Source/Main-Series/01-A-Game-of-Thrones/chapters/15-sansa.md) | Arya notices plants and Mycah's social world beyond the wheelhouse; the Neck takes twelve days to cross | Preserve geography and outsider alliances without assuming every plant name encodes a prophecy |
+| C-048 | [AGOT 16](../Source/Main-Series/01-A-Game-of-Thrones/chapters/16-eddard.md) | Sansa's court testimony contradicts her observed witnessing of the fight | Test motives in later Sansa POV; protective silence, fear and divided loyalty compete with deliberate malice |
+| C-049 | [AGOT 16](../Source/Main-Series/01-A-Game-of-Thrones/chapters/16-eddard.md) | Lady dies as substitute for missing Nymeria; Ned ships her body back to Winterfell | Track real custody and Stark animal bonds; this tragedy is not proof of a supernatural fate for Sansa |
+| C-050 | [AGOT 16](../Source/Main-Series/01-A-Game-of-Thrones/chapters/16-eddard.md) | Mycah is killed without a hearing; Sandor acknowledges pursuing a fleeing boy | Keep this direct violence in any later Sandor redemption analysis; it cannot be dismissed as hearsay |
+| C-051 | [AGOT 16](../Source/Main-Series/01-A-Game-of-Thrones/chapters/16-eddard.md) | Darry loyalties and hostile royal occupation frame the hearing | Use political geography and local relationships rather than treating the king's party as an isolated neutral court |
+| C-052 | [AGOT 17](../Source/Main-Series/01-A-Game-of-Thrones/chapters/17-bran.md) | Three-eyed crow interrupts a dream image of Jaime's remembered phrase | Compare waking memory and later crow/greenseer interviews; dream interruption does not prove externally induced amnesia |
+| C-053 | [AGOT 17](../Source/Main-Series/01-A-Game-of-Thrones/chapters/17-bran.md) | Vision of Catelyn at sea and armed dark shadows over southern Starks | Cross-check independently narrated events and chronology; dream imagery cannot be converted into a roster of assassins by resemblance |
+| C-054 | [AGOT 17](../Source/Main-Series/01-A-Game-of-Thrones/chapters/17-bran.md) | Dream heart tree looks back and dream crow knows Bran's corn-feeding | Track later greenseer proofs; dream recombination of his own lived memories is a strong alternative |
+| C-055 | [AGOT 17](../Source/Main-Series/01-A-Game-of-Thrones/chapters/17-bran.md) | Bran glimpses Wall, heart of winter, lands near Asshai and stirring dragons in a vision | Distinguish symbolic distant sight from independent proof of actual events or dragon populations |
+| C-056 | [AGOT 17](../Source/Main-Series/01-A-Game-of-Thrones/chapters/17-bran.md) | After crow's third-eye peck Bran wakes physically paralyzed and names his wolf Summer | Confirm body/mind mechanism later; dream flight restores no physical walking function |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -62,4 +76,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the nineteen first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the twenty-two first-pass chapters listed in the coverage tracker.
