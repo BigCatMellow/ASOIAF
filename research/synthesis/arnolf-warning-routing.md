@@ -153,3 +153,12 @@ The presence of a **named real courier path** through Deepwood raises the plausi
 - **Priority 4:** Research a narrow scene of Stannis's first audience before deciding whether Night Lamp tactics are even proposed. Leave enemy arrival and battle outcome unknown.
 
 **Disposition:** T1–T4 and W1–W3 all open. **No winner, anti-Karstark purge, secret courier, raven network or lake trap has been adopted.**
+
+## New Wall witness lead — after the original Deepwood warning
+
+**ADWD 49 (Jon)** explicitly has Jon tell Cregan that **two of Cregan's men** now serve Alys and confirmed Arnolf's plans involving Ramsay. This corroboration belongs to a **different, later knowledge event** than Alys's initial ADWD 44 warning; the **same ADWD 49 chapter** recalls Clydas's previously dispatched warning to Deepwood. The novel never shows a new raven containing the defectors' testimony being dispatched, read at Deepwood or delivered to Stannis. Keep two candidate messages separate:
+
+- *Initial message*: Jon's warning of Arnolf's alleged treachery (`SENT TO DEEPWOOD`); precise contents and receipt unshown.
+- *Additional witness report*: two former Cregan escorts support Alys's testimony (`KNOWN TO JON AS REPORTED`); **no later dispatch shown**.
+
+See the [Karstark household evidence map](karstark-household-split.md) before treating Wall defections as a field-camp intelligence asset.

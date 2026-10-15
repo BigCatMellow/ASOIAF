@@ -105,6 +105,10 @@ A second scene, **seen through Asha**, could show the consequences of what a cap
 
 **Counterexample to this favored shape:** Theon may refuse to speak and a real Jon/Deepwood messenger may bring the warning first, or Stannis may act on practical objections to Arnolf's advice without accusing him. Both are equally legal branches in the evidence.
 
+## Source correction — the Wall escort *has* split (ADWD 49)
+
+Jon directly tells Cregan in ADWD 49 that two of the pursuer's men have **pledged to Alys** and corroborated the Arnolf–Ramsay arrangements. This is **reported testimony**, not a second POV scene, and the men remain unnamed. It establishes a *real, small-group fracture* and a possible source of future communication; it does **not** establish that even one of Arnolf's **452** has turned at Stannis's camp. See the [household loyalty and food-scarcity dossier](karstark-household-split.md). Alys's actual succession remains contingent on Harrion's status; her belief that Karhold's gates would open is not proof.
+
 ## 7. Character and structural payoff
 
 - **Theon:** His knowledge becomes useful in a way that cannot erase his responsibility for the miller's boys or his assistance in Jeyne's escape. He must decide what truth to tell under fear.
@@ -117,6 +121,6 @@ A second scene, **seen through Asha**, could show the consequences of what a cap
 
 ## Next narrow research task
 
-Find what *actual* channels could persuade ordinary Karstark soldiers that their leader betrayed them **without requiring Alys herself to travel south**, and determine whether they might prefer Harrion, Alys/Sigorn, Arnolf's sons or simple survival. The published five books give **almost no direct testimony from the rank and file**; the absence should be preserved. Cross-check Tycho's guards and the factional relationships around the watchtower before committing a military deception branch.
+Find what *actual* channels could persuade ordinary Karstark soldiers that their leader betrayed them **without requiring Alys herself to travel south**, and determine whether they might prefer Harrion, Alys/Sigorn, Arnolf's sons or simple survival. The earlier statement about an absence of testimony needs **correction**: **ADWD 49 (Jon)** explicitly says **two men of Cregan's small escort have sworn themselves to Alys and confirmed her account of Arnolf's plans with Ramsay**. This is Jon reporting their statements, not an on-page deposition. Crucially, the two are **not identifiable as members of Arnolf's separate ~452-person force near Stannis**. Read the [Karstark household split and witness-source correction](karstark-household-split.md). For the **field army**, individual motives remain unshown. Cross-check Tycho's guards and the factional relationships around the watchtower before committing a military deception branch.
 
 **Disposition:** `FIVE-BOOK AUDIT COMPLETE FOR THIS KNOT / COMMAND RESPONSE UNDECIDED`.

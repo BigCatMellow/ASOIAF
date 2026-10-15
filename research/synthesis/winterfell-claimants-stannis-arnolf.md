@@ -117,7 +117,7 @@ Roose/Ramsay control the ruin and use 'Arya' as a Stark legitimacy asset (**ADWD
 ## Next bounded research
 
 1. **Interrogation detail:** Revisit ADWD 32/37/51 to identify which part of Bolton's trap Theon could actually describe to Stannis, and what he personally witnessed versus overheard.
-2. **Karstark soldiers vs leader:** Can Stannis distinguish innocent rank-and-file northern men from Arnolf, Cregan, Arthor and the grandsons? No source shows pre-existing independent officers or loyalties in detail.
+2. **Karstark soldiers vs leader:** Can Stannis distinguish innocent rank-and-file northern men from Arnolf, Cregan, Arthor and the grandsons? **ADWD 49 proves two of Cregan's small Wall escort defected to Alys and supported her evidence**, but names, proof-sharing channels, and **actual loyalties within Arnolf's 452 lake-camp fighters** remain unshown; see [household split](karstark-household-split.md).
 3. **Stark will vs sovereign appointment:** Which surviving witness could testify to *Robb's independent kingship* to Stannis? That is a separate potential diplomatic crisis from selecting a caretaker.
 4. **Manderly/Rickon timing:** Wyman's covert bargain is addressed to **Davos** and Stannis has no demonstrated receipt. Under which message ordering does Winterfell ownership become a choice before Rickon appears?
 5. **Fraud disclosure:** If the northern clans learn “Arya” is Jeyne, why should they still fight, and what does their idea of a Stark restoration demand?
@@ -127,3 +127,7 @@ Roose/Ramsay control the ruin and use 'Arya' as a Stark legitimacy asset (**ADWD
 ## Leader versus troops — consequential-source addendum (2026-10-15)
 
 [Karstark command fracture](karstark-command-fracture.md) separates Theon's **directly overheard** Roose statement in ADWD 32 from Theon's **subsequent internal inference** in ADWD 37. These may be dependent evidence, not two corroborating witnesses. It also records Arnolf's son/grandsons, maester/ravens and approximate 452 arms (ADWD 62); none proves the rank and file know Roose's arrangement. An alleged betrayal can be politically devastating without providing Stannis a ready-made replacement command.
+
+## The two Wall defectors are not the field force (2026-10-15)
+
+The [Karstark household loyalty audit](karstark-household-split.md) corrects the assumption that Arnolf's retinue has no demonstrated cracks: **Jon reports two of Cregan's pursuit party sworn to Alys and corroborating the Bolton plot** (ADWD 49). This is crucial *household-level* evidence, but the novel does not transfer those men's allegiances, names, or testimony to Stannis's separate 452 fighting men (ADWD 62). Likewise, Alys's proposed claim depends on whether Harrion is alive, and Karhold's failed harvest makes civil survival an independent settlement problem.

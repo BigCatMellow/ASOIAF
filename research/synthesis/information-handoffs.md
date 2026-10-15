@@ -55,3 +55,7 @@ Most 'convergences' are **asymmetric receipt situations**:
 ## Winterfell claimant-specific handoff (2026-10-15)
 
 Stannis's **ADWD 17** willingness to appoint Arnolf is an **expressed preference**, not a completed grant. Theon has potentially valuable Bolton-side testimony (ADWD 32/37), which must reach him through an actual audience; Davos/Manderly possess separate Rickon information unknown to Stannis. See [claimant evidence](winterfell-claimants-stannis-arnolf.md). Robb's **King in the North** will cannot be substituted for Stannis's **Lord/Warden of the North** appointment.
+
+## Additional potential handoff — Wall escort defectors and Karstark command
+
+**ADWD 49 (Jon):** Jon reports **two of Cregan's men** have sworn themselves to Alys and corroborated the Arnolf–Ramsay planning. `RECEIVED BY JON AS REPORTED TESTIMONY`; **not shown forwarded to Deepwood or Stannis**. This is distinct from Jon's earlier dispatched raven based on Alys's accusation and from Theon's private overhearing of Roose in ADWD 32. The two men belong to a **small escort at the Wall**, not Stannis's lake-camp Karstark host. See [household split](karstark-household-split.md) and [warning chain](arnolf-warning-routing.md).
