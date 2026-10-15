@@ -59,3 +59,7 @@ Stannis's **ADWD 17** willingness to appoint Arnolf is an **expressed preference
 ## Additional potential handoff — Wall escort defectors and Karstark command
 
 **ADWD 49 (Jon):** Jon reports **two of Cregan's men** have sworn themselves to Alys and corroborated the Arnolf–Ramsay planning. `RECEIVED BY JON AS REPORTED TESTIMONY`; **not shown forwarded to Deepwood or Stannis**. This is distinct from Jon's earlier dispatched raven based on Alys's accusation and from Theon's private overhearing of Roose in ADWD 32. The two men belong to a **small escort at the Wall**, not Stannis's lake-camp Karstark host. See [household split](karstark-household-split.md) and [warning chain](arnolf-warning-routing.md).
+
+## Post-wedding Karstark source audit (2026-10-15)
+
+[Karstark coalition and messenger gates](karstark-message-coalition-gates.md) distinguishes a Watch raven **sent** to Deepwood (contents and receipt unknown), Queen Selyse's presence at the Thenn wedding, Old Flint/Norrey's kinship to Stannis-camp fighters, and Tycho's passage through Deepwood. No post-wedding transfer is depicted. **ADWD 53** shows the two elders openly skeptical of allowing wildlings onto northern land despite their ADWD 49 wedding attendance; their **second contact with Jon is observed**, but there is still no demonstrated message to Stannis. Do not conflate the ~300 deserting Karstark riders (ASOS 20), Roose's reported thousand (ASOS 37), and Arnolf's 452 field fighters (ADWD 62).

@@ -122,3 +122,7 @@ I --> L --> M
 **Not established:** A split in the 452-man lake contingent, universal Stark allegiance, successful Thenn seizure of Karhold, a written deposition, receipt at Stannis's camp, or the fate of Harrion.
 
 **Disposition:** `PRIMARY CLAIM CORRECTED; FIELD-ARMY LOYALTY OPEN; THREE BRANCHES RETAINED`. Any continuation must treat the **two at the Wall** and **the 452 near Stannis** as distinct populations.
+
+## Communication and northern-clan follow-up (ADWD 53/69)
+
+The [coalition and message audit](karstark-message-coalition-gates.md) discovers a crucial later counterexample: **Old Flint and the Norrey attend Alys's wedding (ADWD 49), then openly object to Jon's plans for wildling settlement when he consults them on the Wall (ADWD 53)**. Their attendance cannot be upgraded into broad political endorsement of Sigorn's Thenns. Cregan remains **an imprisoned potential rival** in ADWD 69; Jon orders him moved from the snow-buried ice cells. Neither Cregan nor the two defectors have been shown traveling to Stannis.

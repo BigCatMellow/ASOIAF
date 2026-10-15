@@ -20,7 +20,8 @@ This directory belongs to the **cross-book / potential continuation** workstream
 - [Arnolf Karstark warning-route audit](arnolf-warning-routing.md) — Deepwood courier paths and the uncertain receipt of the warning.
 - [Winterfell claimant audit: Stannis, Arnolf and the Starks](winterfell-claimants-stannis-arnolf.md) — ADWD 17's actual royal preference, ADWD 32's Bolton corroboration, and competing northern legitimacy.
 - [Karstark command fracture: what if Theon testifies?](karstark-command-fracture.md) — firsthand versus inferred Theon evidence, leader versus rank-and-file culpability, 452-soldier security problem and three conditional Stannis decisions.
-- [Karstark household split: two men change sides](karstark-household-split.md) — source correction from ADWD 49: Jon reports two of Cregan's Wall escorts support Alys and confirm Arnolf's plans with Ramsay; the 452 at Stannis's camp remain untested.
+- [Karstark household split: two men change sides](karstark-household-split.md)
+- [Karstark communications, marriage and northern-clan consent](karstark-message-coalition-gates.md) — tests four possible messenger routes, separates historic Karstark contingents, and follows Flint/Norrey's **post-wedding skepticism** in ADWD 53. — source correction from ADWD 49: Jon reports two of Cregan's Wall escorts support Alys and confirm Arnolf's plans with Ramsay; the 452 at Stannis's camp remain untested.
 
 ### Sources being linked, not reproduced
 
