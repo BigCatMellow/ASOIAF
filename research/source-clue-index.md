@@ -812,6 +812,70 @@
 | C-777 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Renly denies Catelyn exit and insists she witness defeat of rebels | Envoy used to threaten Robb, political coercion |
 | C-778 | [ACOK 31](../Source/Main-Series/02-A-Clash-of-Kings/chapters/31-catelyn.md) | Robar Royce second son of Bronze Yohn joins Renly for glory | Vale familial affiliations may differ within one house |
 
+| C-779 | [ACOK 32](../Source/Main-Series/02-A-Clash-of-Kings/chapters/32-sansa.md) | Robb Oxcross victory triggers Joffrey to punish Sansa | Hostage retaliatory function distinct from Sansa agency |
+| C-780 | [ACOK 32](../Source/Main-Series/02-A-Clash-of-Kings/chapters/32-sansa.md) | Joffrey kills yellow cat with crossbow during archery | Direct cruelty witnessed, not combat |
+| C-781 | [ACOK 32](../Source/Main-Series/02-A-Clash-of-Kings/chapters/32-sansa.md) | Lancel reports Robb cannibal warg army at Oxcross | Hostile false rumor versus Tyrion plausible tactical account |
+| C-782 | [ACOK 32](../Source/Main-Series/02-A-Clash-of-Kings/chapters/32-sansa.md) | Joffrey claims he crossbow-killed bread petitioner at gate | Royal self-report, not direct scene |
+| C-783 | [ACOK 32](../Source/Main-Series/02-A-Clash-of-Kings/chapters/32-sansa.md) | Dontos tries melon-headed fool beating to avert worse harm | Partial rescue attempt fails against Joffrey sadism |
+| C-784 | [ACOK 32](../Source/Main-Series/02-A-Clash-of-Kings/chapters/32-sansa.md) | Boros punches and cuts Sansa clothes at Joffrey order | Direct court violence while Kingsguard fails protective vows |
+| C-785 | [ACOK 32](../Source/Main-Series/02-A-Clash-of-Kings/chapters/32-sansa.md) | Sandor objects to beating and supplies white cloak | Limited aid distinct from unconditional allegiance |
+| C-786 | [ACOK 32](../Source/Main-Series/02-A-Clash-of-Kings/chapters/32-sansa.md) | Tyrion interrupts assault and threatens Kingsguard with clansmen | Real mitigation coexists with hostage captivity |
+| C-787 | [ACOK 32](../Source/Main-Series/02-A-Clash-of-Kings/chapters/32-sansa.md) | Sansa convalesces in Arya old Hand tower bedroom | Memory link, guarded protection is also imprisonment |
+| C-788 | [ACOK 32](../Source/Main-Series/02-A-Clash-of-Kings/chapters/32-sansa.md) | Tyrion reports Grey Wind stampedes Oxcross horses after night surprise | Tactical wolf role, not proven warg magic |
+| C-789 | [ACOK 32](../Source/Main-Series/02-A-Clash-of-Kings/chapters/32-sansa.md) | Tyrion reports Rickard Karstark slew Stafford with lance | Battle casualty attribution from informed non-eyewitness |
+| C-790 | [ACOK 32](../Source/Main-Series/02-A-Clash-of-Kings/chapters/32-sansa.md) | Golden Tooth remains Lannister-held despite Robb reaching west | Critical unexplained route and intelligence failure |
+| C-791 | [ACOK 32](../Source/Main-Series/02-A-Clash-of-Kings/chapters/32-sansa.md) | Tyrion offers to end Sansa-Joffrey betrothal and return home after peace | Contingent pledge, no completed betrothal dissolution |
+| C-792 | [ACOK 32](../Source/Main-Series/02-A-Clash-of-Kings/chapters/32-sansa.md) | Sansa lies about tower ghosts to preserve Dontos meetings | She chooses risky agency over confinement by protector |
+| C-793 | [ACOK 33](../Source/Main-Series/02-A-Clash-of-Kings/chapters/33-catelyn.md) | Catelyn prayer sees gender-ambiguous Stranger drawn as star-eyed shadow | Religious image through bereaved POV, not literal killer ID |
+| C-794 | [ACOK 33](../Source/Main-Series/02-A-Clash-of-Kings/chapters/33-catelyn.md) | Catelyn deduces Bran witnessed Jaime and Cersei during Winterfell hunt | Strong inference corroborated in AGOT8 to reader |
+| C-795 | [ACOK 33](../Source/Main-Series/02-A-Clash-of-Kings/chapters/33-catelyn.md) | Catelyn proposes Great Council using Bran testimony and all crowns abandoned | Real rejected diplomatic alternative; Robb consent not secured |
+| C-796 | [ACOK 33](../Source/Main-Series/02-A-Clash-of-Kings/chapters/33-catelyn.md) | Renly refuses surprise dark attack to preserve chivalric reputation | A tactical price of personal image |
+| C-797 | [ACOK 33](../Source/Main-Series/02-A-Clash-of-Kings/chapters/33-catelyn.md) | Tarly predicts rising sun would blind advancing Renly cavalry | Concrete dawn assault disadvantage left untested |
+| C-798 | [ACOK 33](../Source/Main-Series/02-A-Clash-of-Kings/chapters/33-catelyn.md) | Renly remembers Gawen Wylde threatened with catapult during Storm End siege | Renly reports past threat; Rowan denies anyone actually thrown |
+| C-799 | [ACOK 33](../Source/Main-Series/02-A-Clash-of-Kings/chapters/33-catelyn.md) | Renly wants Barristan Selmy spared if discovered with Stannis | Speculative assumption about missing Kingsguard location |
+| C-800 | [ACOK 33](../Source/Main-Series/02-A-Clash-of-Kings/chapters/33-catelyn.md) | Unnatural sword shadow moves while actual Renly sword remains sheathed | Strong non-mundane physical inconsistency directly witnessed |
+| C-801 | [ACOK 33](../Source/Main-Series/02-A-Clash-of-Kings/chapters/33-catelyn.md) | Renly gorget opens and he dies bleeding while Brienne holds him | Direct death outcome, cause mechanism not seen |
+| C-802 | [ACOK 33](../Source/Main-Series/02-A-Clash-of-Kings/chapters/33-catelyn.md) | Catelyn attributes shadow to Stannis without witnessing Stannis there | Attribution plausible but separate from observation |
+| C-803 | [ACOK 33](../Source/Main-Series/02-A-Clash-of-Kings/chapters/33-catelyn.md) | Emmon Cuy and guards attack Brienne after finding king dead | Wrongful suspected perpetrator from scene tableau |
+| C-804 | [ACOK 33](../Source/Main-Series/02-A-Clash-of-Kings/chapters/33-catelyn.md) | Catelyn persuades Robar Royce to hold off pursuers and rescues Brienne | Robar aid witnessed, subsequent fate unknown |
+| C-805 | [ACOK 33](../Source/Main-Series/02-A-Clash-of-Kings/chapters/33-catelyn.md) | Brienne escapes bearing Renly sword and vows to kill Stannis | Vengeance oath not fulfilled here |
+| C-806 | [ACOK 33](../Source/Main-Series/02-A-Clash-of-Kings/chapters/33-catelyn.md) | Renly host dissolves into fire murder and sorcery rumors before battle | Battlefield command disruption witnessed, allegiance shifts inferred |
+| C-807 | [ACOK 33](../Source/Main-Series/02-A-Clash-of-Kings/chapters/33-catelyn.md) | Catelyn predicts Storm's End and Highgarden banners may now join Stannis | Political forecast, not completed swearing |
+| C-808 | [ACOK 34](../Source/Main-Series/02-A-Clash-of-Kings/chapters/34-jon.md) | Fist First Men ringfort occupies defensible hill above Milkwater | Geographic choke point with provenance attributed to tradition |
+| C-809 | [ACOK 34](../Source/Main-Series/02-A-Clash-of-Kings/chapters/34-jon.md) | Camp on hill has sole nearby brook outside wall at base | Water logistics vulnerable despite steep fortification |
+| C-810 | [ACOK 34](../Source/Main-Series/02-A-Clash-of-Kings/chapters/34-jon.md) | Mormont orders cisterns spikes ditches caltrops and river scouts | Orders rather than completed defensive outcome |
+| C-811 | [ACOK 34](../Source/Main-Series/02-A-Clash-of-Kings/chapters/34-jon.md) | Mormont expects 300 men only after Qhorin Halfhand arrives | Reinforcements uncertain vs thousands estimated wildlings |
+| C-812 | [ACOK 34](../Source/Main-Series/02-A-Clash-of-Kings/chapters/34-jon.md) | Ghost persistently refuses ringfort and later acts agitated | Specific animal warning, source unverified |
+| C-813 | [ACOK 34](../Source/Main-Series/02-A-Clash-of-Kings/chapters/34-jon.md) | Sam map drawn from Craster directions used at Fist council | Intelligence chain from unreliable benefactor |
+| C-814 | [ACOK 34](../Source/Main-Series/02-A-Clash-of-Kings/chapters/34-jon.md) | Mormont argues host of Mance must descend by Milkwater for food | Strategic inference not Mance self-stated purpose |
+| C-815 | [ACOK 34](../Source/Main-Series/02-A-Clash-of-Kings/chapters/34-jon.md) | Mormont limits scouting to near side river after prior losses | Competing military protection vs Benjen search |
+| C-816 | [ACOK 34](../Source/Main-Series/02-A-Clash-of-Kings/chapters/34-jon.md) | Mormont explicitly fears Benjen could return as wight | Known possibility, not confirmed Benjen fate |
+| C-817 | [ACOK 34](../Source/Main-Series/02-A-Clash-of-Kings/chapters/34-jon.md) | Mormont raven repeats dead while talking of Benjen | Talking bird utterance, not independent prophecy |
+| C-818 | [ACOK 34](../Source/Main-Series/02-A-Clash-of-Kings/chapters/34-jon.md) | Dywen smells cold, Jon connects to prior corpse raising | Sensory alarm, exact threat unobserved |
+| C-819 | [ACOK 34](../Source/Main-Series/02-A-Clash-of-Kings/chapters/34-jon.md) | Sentry lets Jon exit without checking claimed water vessel | Concrete security lapse at Fist perimeter |
+| C-820 | [ACOK 34](../Source/Main-Series/02-A-Clash-of-Kings/chapters/34-jon.md) | Ghost digs up fresh mound around quarter circuit of Fist | Potential deliberate cache placement, identity unknown |
+| C-821 | [ACOK 34](../Source/Main-Series/02-A-Clash-of-Kings/chapters/34-jon.md) | Bundle holds at least dozen obsidian knives and spear/arrowheads | Material cache discovered, effectiveness untested |
+| C-822 | [ACOK 34](../Source/Main-Series/02-A-Clash-of-Kings/chapters/34-jon.md) | Bronze-banded aurochs warhorn sits underneath dragonglass points | Special object not yet sounded or identified |
+| C-823 | [ACOK 34](../Source/Main-Series/02-A-Clash-of-Kings/chapters/34-jon.md) | Good black wool Watch cloak wraps cache with little rot | Recent burial suggests Watch connection, exact owner unknown |
+| C-824 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Robb raven from Ashemark reports Oxcross victory and western castles | Independent cross-POV confirmation from Robb's own letter |
+| C-825 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Stevron Frey dies three days after apparently modest battle wound | Delayed mortality and Frey succession opening |
+| C-826 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Walder wards delighted by shifting Frey succession | Real-world match for red meat/grey rotten meat green dream |
+| C-827 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Osha gives Ice Dragon constellation blue rider-eye star to find north | Wildling astronomy not confirmed crow sighting |
+| C-828 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Jojen black sea-wave dream shows Winterfell engulfed and named drowned locals | Strong symbolic possibility due to raiding, named deaths still pending |
+| C-829 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Bran gives first full list wolf crow tree and falling dream classes | Precise different recurrent psychic experiences |
+| C-830 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Jojen labels Bran warg and warns commoners may fear or kill him | Reported social peril, current violence not established |
+| C-831 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Bran warns Mikken Chayle Alebelly about sea drowning | Proactive warning but result not yet death |
+| C-832 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Alebelly panics and is forcibly bathed by guards | Fear and interventions have immediate tangible effects |
+| C-833 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Rodrik returns with foul smelling Reek alleged Bolton servant | Custody and identity claims, separate verification needed |
+| C-834 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Rodrik men report killed Bolton bastard by arrows while fleeing | Character reports, identity verification unresolved |
+| C-835 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Lady Hornwood reported starved after forced marriage and confinement | Atrocity and contested legal validity |
+| C-836 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Hornwood vows before septon and heart tree plus signed will | Formal consent disputed because swordpoint coercion |
+| C-837 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Manderly and Bolton men fight in Hornwood forests despite Robb's absence | Northern coalition internally fractured |
+| C-838 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Longship Stony Shore raids confirm Balon northern operation begun | Threat now reported in Winterfell, commanders not directly seen |
+| C-839 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Leobald Tallhart sends Benfred with troops against coastal raiders | Response present, success unknown |
+| C-840 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Jojen dream Reek flays Bran/Rickon with red blade and sees them in crypts | Future images unfulfilled, literal death not established |
+| C-841 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Meera rejects Jojen fixed-fate conclusion by urging intervention | Reed siblings disagree about prophecy changeability |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -819,4 +883,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and eight first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and twelve first-pass chapters listed in the coverage tracker.
