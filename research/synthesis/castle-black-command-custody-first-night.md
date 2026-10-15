@@ -6,7 +6,7 @@
 - Lifecycle: `ACTIVE`
 - Authority: `ADVISORY / NONE`
 - Parent: [Synthesis index](README.md), [Castle Black marriage-and-custody audit](castle-black-after-jon-alliances.md), [Karstark consent](karstark-message-coalition-gates.md)
-- Directly examined: **ASOS 75 (Samwell), 78 (Samwell), 79 (Jon)**; **AFFC 5 and 45 (Samwell)**; **ADWD 3, 7, 10, 35, 39, 44, 49, 53, 58, 69 (Jon)**. The chapter numerals denote the narrative chapter numbers used in [the research index](../chapter-index.md); the repository's text filenames are one number higher because they include the prologue. Other episodes referenced here remain restricted to the cited evidence; no *Winds* sample, TV development or unshown aftermath is adopted.
+- Directly examined: **ASOS 75 (Samwell), 78 (Samwell), 79 (Jon)**; **AFFC 5 and 45 (Samwell)**; **ADWD 3, 7, 10, 28, 31 (Melisandre), 35, 39, 44, 49, 53, 58, 69 (Jon)**. The chapter numerals denote the narrative chapter numbers used in [the research index](../chapter-index.md); the repository's text filenames are one number higher because they include the prologue. Other episodes referenced here remain restricted to the cited evidence; no *Winds* sample, TV development or unshown aftermath is adopted.
 - Change ownership: this is the canonical **first-night command/custody cross-plot ledger**. Do not overwrite the other agent's sequential chapter source notes or tracker.
 
 ## Executive finding
@@ -103,7 +103,50 @@ The high-probability *pressure*, not a proven outcome, is a three-sided dispute 
 - **Leathers:** A sworn Watch brother who formerly stood with Free Folk is exceptionally situated to explain why rescue and restraint serve both groups; **he is neither automatically obeyed nor shown stopping the fight**.
 - **Alys/Sigorn:** If an actual report reaches them, they must choose how to protect their marriage and possible Karhold claim without assuming Jon's office, Stannis's ratification, a willing northern garrison or the Watch's resources. The earlier notes' **Harrion life/death, Arnolf betrayal receipts and 200-Thenn travel questions remain open**.
 
-## 7. Serious counterexamples, source corrections and verification
+## 7. Distinct garrisons, absent challengers, and the Thenn command fault-line
+
+**Source expansion (2026-10-15):** Cross-check **ASOS 55 (Jon)** against **ADWD 28 (Jon), 31 (Melisandre), 35 (Jon), 49 (Jon), 53 (Jon), 58 (Jon), 69 (Jon)**. These chapters describe separate **formal assignments**, **physical presences**, and **old grievances**. They should not be collapsed into a single pro-Jon or anti-Jon military camp.
+
+### A. The Wall is distributed before the knives fall
+
+| Site / constituency | Narrated fact and locator | Evidence limit at ADWD 69 |
+| --- | --- | --- |
+| **Castle Black** | Jon still commands here before he is stabbed (ADWD 69). Marsh and Yarwyck depart the Shieldhall with followers; Jon's escort Horse/Rory accompanies him to the tower (ADWD 69). | Neither the officers' walkout nor their participation in the crisis supplies a two-thirds election or control of all brothers, gates or garrisons. |
+| **Icemark, Long Barrow, Sable Hall, Greyguard, Deep Lake** | Jon lists **five reopened, understrength garrisons** in ADWD 53. Jon previously names **Bedwyck (“Giant”)** for Icemark in ADWD 7 and gives **Iron Emmett and Dolorous Edd** command roles at Long Barrow (ADWD 35/39); ADWD 58 has Edd returning six wagons of women there. | Do **not** assume the exact numbers, leaders and geographic position of every other garrison; "reopened" is not "fully staffed." Edd visits Castle Black and travels; his permanent post does **not** prove his location at the stabbing. |
+| **Oakenshield** | In ADWD 53 Jon names it as **Tormund's proposed seat**. By ADWD 69 Jon reflects he conferred it on Tormund; Leathers says Tormund has **settled his people there** and will soon return with fighters. Tormund is then **physically at Shieldhall**. | **Assigned post and actual temporary location are different.** Tormund is not physically at Oakenshield for the stabbing, nor does his presence prove all his followers moved back to Castle Black. |
+| **Stonedoor** | Jon settles it on **Soren Shieldbreaker** in ADWD 69; Soren is **personally present in Shieldhall** acclaiming Jon, although assigned the distant fort. | No instant Soren-led reinforcement from the post can be assumed; which of his people are where is not established. |
+| **Queensgate** | Jon says he conferred it on **Morna White Mask** in ADWD 69; Marsh worries settlements on both sides of Castle Black could cut the Watch off. | Morna is **not individually identified in the final Shieldhall scene**; a grant is not proof of what she heard that night or how her post would vote or fight. |
+| **Hoarfrost Hill / Rimegate** | **ADWD 69:** still lacked garrisons; Jon sought officers' advice on possible Free Folk leaders. | The same passage lists candidates; **none has yet been given** either post in the text. Do not quietly fill the empty forts. |
+| **Eastwatch** | **ADWD 49:** Pyke departs with eleven ships for Hardhome, leaving **Ser Glendon Hewett** at Eastwatch; **ADWD 58:** Pyke reports calamity from Hardhome. **ADWD 58:** some of sixty boys are sent east. | Pyke cannot appear at Castle Black that night. Hewett's earlier Thorne/Slynt sympathies make him an important **unknown recipient**, not a proven mutineer. Arrival and receipt of news are unshown. |
+| **Shadow Tower** | **ASOS 78 (Samwell):** Ser Denys Mallister defends the Watch's autonomous choice of commander; **ADWD 53/58:** his letters and his destination's share of hostages matter. | His preference in **this** crisis and actual notice of Jon's attack remain unshown. |
+| **Nightfort** | **ADWD 39/53:** repair work is discussed for Selyse's intended residence, but she continues lodging at Castle Black; the king has claims to the restored seat. | The queen's **desired relocation** must not be mistaken for her actual departure or her established control of every Watch castle. |
+
+**Count caution:** ADWD 53's five reopened, badly manned forts and ten still empty refer to **one moment** in Jon's rebuilding effort. ADWD 69 adds grants and proposed assignments after that discussion. Do **not** use the earlier figure of ten as the later exact vacancy count without reconciling the intervening decisions and Nightfort's unusual status.
+
+**Operational inference:** A Castle Black officer can plausibly control food inventories, builder rotations, passages or captive keys nearby while lacking immediate access to the outside commanders or their hostage wards. Conversely a Free Folk captain can have a garrison and still be physically at the Shieldhall. The castle network gives both sides **reasons to communicate first**, rather than an automatic all-Wall battle.
+
+### B. An obvious rival, Alliser Thorne, is not established at Castle Black
+
+- **ADWD 28 (Jon):** Jon sends Ser **Alliser Thorne** beyond the Wall with **Dywen** and two other ranging parties led by Black Jack Bulwer and Kedge Whiteye—**three groups of three**, not a single nine-man formation commanded by Thorne. Thorne vows he will return. **This is an intention/promise**, not a narrated homecoming.
+- **ADWD 31 (Melisandre):** the heads of **Black Jack Bulwer, Hairy Hal and Garth Greyfeather** are displayed beyond the Wall. Thorne is **not one of those three identified dead men**. Nor is he explicitly shown returning in the later reviewed Jon chapters, up to ADWD 69.
+- **Consequence:** Thorne's known antagonism toward Jon and ties to Glendon cannot be turned into an actual first-night role. His **survival and whereabouts are UNKNOWN** in the examined five-book terminal sequence. A later intervention requires a demonstrated return or messenger; avoid both claiming him killed and placing him beside Marsh.
+
+### C. Sigorn's marriage does not erase his independent claim to authority or grievance
+
+- **ASOS 55 (Jon):** Styr's Thenns attack Castle Black. Jon ignites the stocked staircase and the lower structure collapses; the destruction is the **last narrated sight of Styr**, Sigorn's father. That supports the factual root of resentment, but **does not narrate Jon personally dueling or executing Styr**.
+- **ADWD 35 (Jon):** before the wedding, Jon **believes Sigorn blames him** for his father's death. Jon also regards hereditary Thenn lordship as unusually commanding and distrusts Sigorn as a prospective Watch garrison leader. His wariness is a **POV judgment**, not proof Sigorn has sworn revenge. Iron Emmett counsels that leaving the Thenns without a place risks future trouble.
+- **ADWD 49 (Jon):** Sigorn pledges marriage to Alys in Melisandre's ceremony, personally takes her hand, and has a moment of near tenderness fastening the bride's cloak. Alys agrees openly; she also recognizes the Thenns' lordship and laws as comparatively familiar. **The witnessed marriage is real**, not merely Jon's wish.
+- **ADWD 69 (Jon):** Jon's Shieldhall enumeration does **not identify Sigorn or Alys among those present**, nor their departure from Castle Black. Their whereabouts and response to the stabbing are **UNKNOWN**.
+
+**THINK counterexample:** An overly neat future outline has Sigorn rush to avenge Jon because he gave him Alys and founded House Thenn, or has Sigorn rejoice because Jon helped cause Styr's death. Both rely on selecting a single motive and inventing a message he hasn't received. A **credible split response** is possible: he might protect his wife and succession claim while doubting the Watch and weighing his father's death. What he actually chooses still needs a scene, a source of news and a cost.
+
+### D. Decision gate that discriminates the immediate branches
+
+The **first verifiable division of power** is not “who is next Lord Commander” but **who can make an enforceable order at the place where the next vulnerable person is held**. The fastest useful new-scene tests are: (1) can Leathers and named guards prevent further fighting at Hardin's; (2) which Watch officers/gaolers control Cregan's **new** undervault; (3) who holds the 40 boys initially left at Castle Black, including whether Dryn is there; (4) who can authorize a raven to Hewett or Mallister; (5) what Tormund actually learns in Shieldhall; and (6) whether Alys/Sigorn are even accessible.
+
+**Disposition:** `VERIFIED: scattered posts and differentiated arrangements; Alliser sent ranging, not shown back; Sigorn's grievance-root and witnessed marriage.` `UNKNOWN: post-stabbing command, all garrison reactions, absent Thorne fate, Sigorn's location and next choice.` Independent review remains outstanding.
+
+## 8. Serious counterexamples, source corrections and verification
 
 **Counterexample A — rapid restoration of Watch order without open civil war:** Marsh's faction might impose temporary control while Leathers or other brothers prevent wider bloodshed. The meeting's numbers do not prove every Free Folk fighter would rush to revenge. This could leave a credible, ugly contested authority without a full battle.
 
