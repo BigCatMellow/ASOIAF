@@ -22,3 +22,13 @@ The [EPUB chapter index](../../research/chapter-index.md) is the chapter locator
 - [**Cross-book clue queue**](../../research/source-clue-index.md) — source-to-source questions with ordinary counter-readings; not a declaration that a theory is true.
 
 The per-book `NOTES.md` files below summarize source junctions; each new sequential narrative unit receives its own `chapters/` file within the corresponding book folder. The initial eleven files cover all five prologues and AGOT 1–6. The remaining 333 narrative units are not yet covered by this sequential close-reading pass. Earlier selective work is linked but not double-counted.
+
+## Markdown source-text navigation
+
+The book text is organized into small, chapter-level Markdown files, separate from the analysis notes. Each index links to the front matter, narrative chapters, and appendices in their original order.
+
+- [A Game of Thrones — source text](01-A-Game-of-Thrones/text/README.md)
+- [A Clash of Kings — source text](02-A-Clash-of-Kings/text/README.md)
+- [A Storm of Swords — source text](03-A-Storm-of-Swords/text/README.md)
+- [A Feast for Crows — source text](04-A-Feast-for-Crows/text/README.md)
+- [A Dance with Dragons — source text](05-A-Dance-with-Dragons/text/README.md)
