@@ -132,12 +132,12 @@ The project owner explicitly requested **comprehensive per-book notes**, retaini
 - [x] Verify the project EPUB SHA-256 matches [SOURCES.md](SOURCES.md).
 - [x] Inspect all five section boundaries and 344 narrative-unit locators.
 - [x] Create [close-reading method/coverage tracker](Source/Main-Series/CLOSE-READING-STATUS.md) and [cross-book clue queue](research/source-clue-index.md).
-- [x] First-pass notes for five prologues and AGOT 1–29 (34/344 units).
-- [ ] Continue sequentially with **AGOT 30 (Eddard)**, then subsequent units, logging completeness by volume.
+- [x] First-pass notes for five prologues and AGOT 1–35 (40/344 units).
+- [ ] Continue sequentially with **AGOT 36 (Daenerys)**, then subsequent units, logging completeness by volume.
 - [ ] Audit subtle clues against later chapters and strong ordinary alternatives; connect to canonical character/theory owners.
 - [ ] Independently challenge consequential literary findings and confirm internal links/source locators before marking whole-book research complete.
 
-**Scope warning:** The structural EPUB extraction covers 344 units; that is a corpus inventory, **not** completed literary review. Thirty-four chapter files exist, 310 sequential chapter files remain to create. Earlier targeted source checks are distinct and cannot inflate this count.
+**Scope warning:** The structural EPUB extraction covers 344 units; that is a corpus inventory, **not** completed literary review. Forty chapter files exist, 304 sequential chapter files remain to create. Earlier targeted source checks are distinct and cannot inflate this count.
 
 ## Character-led checkpoint — 2026-10-15 (Robb/Cersei/Oldtown)
 
