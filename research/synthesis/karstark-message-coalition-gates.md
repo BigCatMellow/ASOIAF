@@ -7,7 +7,7 @@
 - Authority: `ADVISORY / NONE`
 - Parent: [Synthesis router](README.md)
 - Related: [Karstark household split](karstark-household-split.md), [Karstark command fracture](karstark-command-fracture.md), [Arnolf's warning chain](arnolf-warning-routing.md), [Winterfell succession](winterfell-claimants-stannis-arnolf.md), [Cross-theater handoffs](information-handoffs.md)
-- Source: user's five-novel EPUB, **ASOS 20, 37, 49** and **ADWD 44, 49, 53, 62, 69**, inspected 2026-10-15. ADWD 17, 32 and 37 checked in prior linked audits. These are *novel narrative chapter numbers*, not the EPUB's total-table sequence.
+- Source: user's five-novel EPUB, **ASOS 20, 37, 49** and **ADWD 42, 44, 49, 53, 62, 69**, inspected 2026-10-15. ADWD 17, 32 and 37 checked in prior linked audits. These are *novel narrative chapter numbers*, not the EPUB's total-table sequence.
 - Scope: synthesis only. Do not modify the other agent's `Source/Main-Series` chapter notes or claim this counts as sequential chapter coverage.
 
 ## Bottom line — the marriage is public, but the route to Stannis isn't
@@ -119,7 +119,7 @@ An inaccurate report reaches the camp claiming the Night's Watch married a highb
 
 1. **Review ASOS 20 → ASOS 37 → ASOS 49** for all Karstark subgroups before asserting any field-man continuity into ADWD 62. Bolton's prior retention of Karhold men has an alternative explanation: watching potentially disloyal troops.
 2. **Audit ADWD 49 exact message sequence**: the Jon thought about Clydas's already-sent raven does *not* reproduce its wording. Search the other five-book chapters for a **verified new dispatch** reporting escort defection or marriage; absent a hit, preserve `UNKNOWN`, not categorical impossibility.
-3. **Mark elders' family link as opportunity rather than delivery.** Specific messengers, names of sons and actual reception by Stannis are not provided in the wedding scene.
+3. **Mark elders' family link as opportunity rather than delivery.** Specific messengers, exact genealogy of sons/grandsons, and actual reception by Stannis are not provided in the wedding scene; **ADWD 42 identifies named Flint and Norrey men with his army**, examined below.
 4. **Treat Karhold's failed harvest as a real political test.** Even a legitimate couple bringing 200 Thenns to a starving castle must find provisions, resolve the Harrion question and avoid making ordinary residents pay for the lords' war.
 5. **Independent challenge:** If a continuation wants Arnolf's 452 men to split before battle, require at least one on-page soldier's motive, access to conflicting testimony, and a costly decision; reject statistical extrapolation from Cregan's two escort defectors.
 
@@ -141,6 +141,24 @@ An inaccurate report reaches the camp claiming the Night's Watch married a highb
 - **ADWD 69 (Jon):** **Cregan is still alive in Castle Black's custody** late in the fifth book, behaving abusively in his ice cell. Jon orders him moved to the **Lord Commander's Tower undervault** to avoid his smothering in buried cells; guards haul him out. His imprisonment thus remains an active hostage/legal problem just as Jon's own leadership becomes fatally contested. Nothing shows Cregan already released, traded to Stannis, or suddenly able to issue orders at Karhold.
 
 **Research implication:** These facts enlarge the political story beyond a single messenger. Even after a warning, Stannis needs viable troops; Jon's coalition must handle fiercely independent northern chiefs; and Cregan remains a living rival whom a future party might use in bargaining. All three still require actual travel, messages or decisions before their plots can intersect.
+
+
+## 10. Named candidates for a clan-family relay — without inventing genealogy (ADWD 42/53/62)
+
+A focused comparison of the **same clan names in different POVs** identifies possible human recipients for news of the wedding and Wall witnesses:
+
+| At Castle Black / the Wall | At Stannis's army | What is shown | What remains unshown |
+| --- | --- | --- | --- |
+| **Old Flint, identified as Torghen Flint** (ADWD 49/53) | **Artos Flint** and his half-brother **Black Donnel Flint** (ADWD 42). Artos speaks in favor of the old gods against R'hllor during the sacrifice (ADWD 62). | Jon says Old Flint sent **sons and grandsons** with Stannis; Artos/Black Donnel are **named Flint soldiers/officers in the force**, and their own half-brother relationship is directly stated. | **Not verified** from these scenes which is Torghen's son versus grandson, or whether either personally receives a wedding/defector report. |
+| **The Norrey** (ADWD 49/53), who questions Jon's wildling policy | **Brandon Norrey** (ADWD 42), named among leaders urging Stannis to rescue 'Ned's girl'. | Jon says the elder Norrey sent **sons and grandsons** to Stannis; a **named Norrey** is an active political voice in that army. | Do not silently name Brandon as the elder's specific son or grandson without a direct genealogical statement. He is **a credible potential recipient**, not a demonstrated messenger. |
+
+**Important nuance:** Artos is **already openly opposed to a queen's-man account of the snow as R'hllor's doing** (ADWD 62), and Torghen/Old Flint is **already worried about Free Folk settlement on northern lands** (ADWD 53). Their positions give a plausible reason for future disagreement over the *R'hllor marriage* of Alys and the *Thenn presence* at Karhold. They do **not** show either Flint opposing **that specific marriage**, nor guarantee ideological agreement between the elder and young fighters.
+
+**Source-verified potential delivery chain, not completed action:**
+
+`Old Flint / The Norrey at the Wall` → `human messenger through blizzard (UNSHOWN)` → `Artos/Black Donnel Flint or Brandon Norrey in Stannis's host` → `audience with Stannis (UNSHOWN)`.
+
+**Consequence test:** If the news arrived before combat, Artos's concern for the old gods could make a royal-fire wedding a liability in an already divided army; Brandon Norrey's campaign commitment to rescuing 'Ned's girl' might create an alternative moral argument for protecting Alys. Either result requires a **new scene** and should not be accepted as the five-book outcome.
 
 ## Disposition
 
