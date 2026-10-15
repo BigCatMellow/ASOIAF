@@ -23,6 +23,7 @@ Research the five published *A Song of Ice and Fire* novels; evaluate competing 
 7. [Character analyses](research/characters/README.md) — Jon, Davos, Theon/Asha/Stannis, Daenerys/Barristan/Tyrion, Aegon/Connington, and Jaime/Brienne/Stoneheart.
 8. [research/theories/night-lamp.md](research/theories/night-lamp.md) and [research/theories/pink-letter.md](research/theories/pink-letter.md) — source-backed theory challenges; no outcome adopted.
 9. [research/north-wall-dependencies.md](research/north-wall-dependencies.md) — partial-order timeline and information asymmetry.
+10. [Cross-story consequence map](research/consequence-map-2026-10-14.md) — disputed choices, source gates and two-book branching without forced outcomes.
 
 ## Current checkpoint
 
