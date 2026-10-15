@@ -6,7 +6,7 @@
 - Lifecycle: `ACTIVE`
 - Authority: `ADVISORY / NONE` — no Dany victory, descent, liberation, or Tyrion meeting selected
 - Parent: [ROADMAP.md](../../ROADMAP.md)
-- Source: [Five-book EPUB](../../SOURCES.md), [ADWD novel notes](../../Source/Main-Series/A-Dance-with-Dragons/NOTES.md)
+- Source: [Five-book EPUB](../../SOURCES.md), [ADWD novel notes](../../Source/Main-Series/05-A-Dance-with-Dragons/NOTES.md)
 - Checked: 2026-10-14; targeted ADWD 2, 23, 43, 50, 52, 66, 67, 70, 71 (not every Dany/Tyrion chapter)
 
 ## Core insight

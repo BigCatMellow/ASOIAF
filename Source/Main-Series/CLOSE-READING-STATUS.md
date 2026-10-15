@@ -16,11 +16,11 @@ The EPUB was opened locally on 2026-10-15. Its five title sections, navigation e
 
 | Book | Narrative chapters including prologue/epilogue | New first-pass chapter notes | Still lacking new sequential first-pass notes |
 |---|---:|---:|---:|
-| [AGOT](A-Game-of-Thrones/NOTES.md) | 73 | 7 (Prologue, 1–6) | 66 |
-| [ACOK](A-Clash-of-Kings/NOTES.md) | 70 | 1 (Prologue) | 69 |
-| [ASOS](A-Storm-of-Swords/NOTES.md) | 82 | 1 (Prologue) | 81 |
-| [AFFC](A-Feast-for-Crows/NOTES.md) | 46 | 1 (Prologue) | 45 |
-| [ADWD](A-Dance-with-Dragons/NOTES.md) | 73 | 1 (Prologue) | 72 |
+| [AGOT](01-A-Game-of-Thrones/NOTES.md) | 73 | 7 (Prologue, 1–6) | 66 |
+| [ACOK](02-A-Clash-of-Kings/NOTES.md) | 70 | 1 (Prologue) | 69 |
+| [ASOS](03-A-Storm-of-Swords/NOTES.md) | 82 | 1 (Prologue) | 81 |
+| [AFFC](04-A-Feast-for-Crows/NOTES.md) | 46 | 1 (Prologue) | 45 |
+| [ADWD](05-A-Dance-with-Dragons/NOTES.md) | 73 | 1 (Prologue) | 72 |
 | **TOTAL** | **344** | **11** | **333** |
 
 **Important:** The eleven files are *first-pass* source-grounded interpretive notes, **not certification that every line has undergone an independent microdetail audit**. Some cross-book chapters received focused checks in earlier work; those checks are not counted as completed sequential chapter notes. The earlier 45 short-fragment quote matches were a distinct narrow verification, not 45 extra reviewed chapters.
@@ -40,11 +40,11 @@ The source contains approximately 1,751,065 whitespace-delimited words by the lo
 
 ## Current first-pass files
 
-- **AGOT:** [Prologue](A-Game-of-Thrones/chapters/00-prologue.md) · [1 Bran](A-Game-of-Thrones/chapters/01-bran.md) · [2 Catelyn](A-Game-of-Thrones/chapters/02-catelyn.md) · [3 Daenerys](A-Game-of-Thrones/chapters/03-daenerys.md) · [4 Eddard](A-Game-of-Thrones/chapters/04-eddard.md) · [5 Jon](A-Game-of-Thrones/chapters/05-jon.md) · [6 Catelyn](A-Game-of-Thrones/chapters/06-catelyn.md)
-- **ACOK:** [Prologue / Cressen](A-Clash-of-Kings/chapters/00-prologue.md)
-- **ASOS:** [Prologue / Chett](A-Storm-of-Swords/chapters/00-prologue.md)
-- **AFFC:** [Prologue / Pate](A-Feast-for-Crows/chapters/00-prologue.md)
-- **ADWD:** [Prologue / Varamyr](A-Dance-with-Dragons/chapters/00-prologue.md)
+- **AGOT:** [Prologue](01-A-Game-of-Thrones/chapters/00-prologue.md) · [1 Bran](01-A-Game-of-Thrones/chapters/01-bran.md) · [2 Catelyn](01-A-Game-of-Thrones/chapters/02-catelyn.md) · [3 Daenerys](01-A-Game-of-Thrones/chapters/03-daenerys.md) · [4 Eddard](01-A-Game-of-Thrones/chapters/04-eddard.md) · [5 Jon](01-A-Game-of-Thrones/chapters/05-jon.md) · [6 Catelyn](01-A-Game-of-Thrones/chapters/06-catelyn.md)
+- **ACOK:** [Prologue / Cressen](02-A-Clash-of-Kings/chapters/00-prologue.md)
+- **ASOS:** [Prologue / Chett](03-A-Storm-of-Swords/chapters/00-prologue.md)
+- **AFFC:** [Prologue / Pate](04-A-Feast-for-Crows/chapters/00-prologue.md)
+- **ADWD:** [Prologue / Varamyr](05-A-Dance-with-Dragons/chapters/00-prologue.md)
 
 ## Next in-scope sequential task
 

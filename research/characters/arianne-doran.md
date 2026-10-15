@@ -6,7 +6,7 @@
 - Lifecycle: `ACTIVE`
 - Authority: `ADVISORY / NONE` — no alliance with Aegon adopted
 - Parent: [Research roadmap](../../ROADMAP.md)
-- Source: [Five-book chapter index](../chapter-index.md), [AFFC notes](../../Source/Main-Series/A-Feast-for-Crows/NOTES.md), [ADWD notes](../../Source/Main-Series/A-Dance-with-Dragons/NOTES.md)
+- Source: [Five-book chapter index](../chapter-index.md), [AFFC notes](../../Source/Main-Series/04-A-Feast-for-Crows/NOTES.md), [ADWD notes](../../Source/Main-Series/05-A-Dance-with-Dragons/NOTES.md)
 - Checked: 2026-10-15; AFFC 2 (Hotah), 13 (Arys), 21 (Arianne), 40 (Arianne); ADWD 38 (Hotah); contextual comparison with ADWD 61 (Connington). Not a complete Dorne chronology.
 
 ## Central question

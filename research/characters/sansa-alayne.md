@@ -6,7 +6,7 @@
 - Lifecycle: `ACTIVE`
 - Authority: `ADVISORY / NONE` — no Harry marriage or Vale invasion adopted
 - Parent: [Research roadmap](../../ROADMAP.md)
-- Primary source: [Five-book chapter index](../chapter-index.md), [AFFC source notes](../../Source/Main-Series/A-Feast-for-Crows/NOTES.md)
+- Primary source: [Five-book chapter index](../chapter-index.md), [AFFC source notes](../../Source/Main-Series/04-A-Feast-for-Crows/NOTES.md)
 - Checked: 2026-10-15; ASOS 80; AFFC 10 (Sansa), 23 and 41 (Alayne); selected earlier AGOT/ASOS context. The *Winds* Alayne sample is out of scope.
 
 ## Central question

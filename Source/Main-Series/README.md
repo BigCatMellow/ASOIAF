@@ -8,11 +8,11 @@
 
 **Unmodified shared source:** [A Game of Thrones 5-Book Bundle.epub](A%20Game%20of%20Thrones%205-Book%20Bundle.epub). It physically contains all five novels.
 
-- [*A Game of Thrones* (AGOT)](./A-Game-of-Thrones/NOTES.md)
-- [*A Clash of Kings* (ACOK)](./A-Clash-of-Kings/NOTES.md)
-- [*A Storm of Swords* (ASOS)](./A-Storm-of-Swords/NOTES.md)
-- [*A Feast for Crows* (AFFC)](./A-Feast-for-Crows/NOTES.md)
-- [*A Dance with Dragons* (ADWD)](./A-Dance-with-Dragons/NOTES.md)
+- [*A Game of Thrones* (AGOT)](./01-A-Game-of-Thrones/NOTES.md)
+- [*A Clash of Kings* (ACOK)](./02-A-Clash-of-Kings/NOTES.md)
+- [*A Storm of Swords* (ASOS)](./03-A-Storm-of-Swords/NOTES.md)
+- [*A Feast for Crows* (AFFC)](./04-A-Feast-for-Crows/NOTES.md)
+- [*A Dance with Dragons* (ADWD)](./05-A-Dance-with-Dragons/NOTES.md)
 
 The [EPUB chapter index](../../research/chapter-index.md) is the chapter locator source of truth. [Canon baseline](../../research/canon-baseline.md), [characters](../../research/characters/jon-snow.md), [theories](../../research/theories/night-lamp.md) and [chronology](../../research/north-wall-dependencies.md) own cross-book analysis. Don't duplicate their mutable conclusions here.
 
