@@ -47,3 +47,9 @@ See [master catalog](../../../research/theories/CATALOG.md) for additional `QUEU
 - **AGOT 24 (Bran):** Robb comforts Bran and imagines a family journey to see Jon at the Wall, a reminder of Bran's continuing wish for kinship.
 
 Cross-book analyses: [Arya](../../../research/characters/arya-stark.md), [Bran](../../../research/characters/bran-stark.md), [Stark information](../../../research/continuity/stark-children-information.md). This is a targeted passage pass, not an entire volume audit.
+
+## Sequential chapter reading (new owner-requested pass, 2026-10-15)
+
+See the [coverage tracker](../CLOSE-READING-STATUS.md). **First-pass completed here:** [Prologue](chapters/00-prologue.md), [1 Bran](chapters/01-bran.md), [2 Catelyn](chapters/02-catelyn.md), [3 Daenerys](chapters/03-daenerys.md), [4 Eddard](chapters/04-eddard.md), [5 Jon](chapters/05-jon.md). **Next:** AGOT 6 (Catelyn); rest of volume incomplete.
+
+Initial source junctions: lost warnings from Gared, the six direwolves, heart-tree observation, Jon Arryn reports, Daenerys's red door, Lyanna's promise, iron swords in the crypts, and Jon's ostracism. Each is sourced and challenged in [cross-book clue queue](../../../research/source-clue-index.md).
