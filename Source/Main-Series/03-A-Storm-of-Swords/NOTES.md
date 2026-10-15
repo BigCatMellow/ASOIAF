@@ -61,3 +61,11 @@ Cross-book source owners: [Arya](../../../research/characters/arya-stark.md), [B
 ## Sequential chapter reading (new pass, 2026-10-15)
 
 [Prologue / Chett](chapters/00-prologue.md) now has a dedicated first-pass file contrasting pre-existing Watch mutiny, Mormont's strategy and the three horn blasts. See [coverage](../CLOSE-READING-STATUS.md). The remaining 81 narrative units lack sequential first-pass notes; existing focused theory checks are not counted as whole-chapter reviews.
+
+## Robb's will: council attendance vs document custody (focused source check, 2026-10-15)
+
+- **ASOS 35, 45 (Catelyn):** Robb believes Bran and Rickon dead and is concerned Sansa's Lannister marriage undermines the succession. He asks his assembled lords to seal a document witnessing his decision. The legal text and completed seals are **not separately shown**.
+- **ASOS 45:** Greatjon, Maege Mormont, Galbart Glover, Edmure Tully, Jason Mallister and an unnamed ship captain are present with Robb and Catelyn. **Presence is not proof each signed**; Ser Raynald escorted Catelyn into the meeting but is not shown remaining for the succession instruction.
+- **ASOS 45:** Maege and Galbart are sent separately toward Howland Reed with intentionally misleading military letters. The story does not say they carry Robb's will.
+
+Canonical location/status assessment: [witness ledger](../../../research/continuity/robbs-will-witness-ledger.md). This is an additional selective passage audit, not a completed sequential chapter note.

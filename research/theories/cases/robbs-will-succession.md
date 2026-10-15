@@ -12,7 +12,7 @@
 
 1. **ASOS 35:** Robb believes Bran and Rickon dead; he calls Sansa his heir, then worries her Lannister marriage could deliver Winterfell to the enemy.
 2. **ASOS 45:** He argues in favor of Jon Snow, recognizes that legitimizing a bastard requires royal decree, and insists a sworn brother's vows must be considered. Catelyn objects for dynastic and personal reasons.
-3. **ASOS 45:** He convenes loyal lords and presents a document they are to **seal as witnesses to his succession decision**. Its complete wording is **not reproduced**. The strongest inference is that Jon is designated in some form; whether it automatically legitimizes him, exempts him from vows or includes fallback conditions is `UNKNOWN`.
+3. **ASOS 45:** He convenes loyal lords and **commands them to seal** the succession document; the act of affixing every seal is not separately narrated. Its complete wording is **not reproduced**. The strongest inference is that Jon is designated in some form; whether it automatically legitimizes him, exempts him from vows or includes fallback conditions is `UNKNOWN`.
 4. **ASOS 45:** In the same chapter he separately commissions **Maege Mormont and Galbart Glover** to seek Howland Reed, carrying *false-order* letters to protect their military mission if intercepted. The novel **does not explicitly say they carry the signed succession document**.
 5. **ASOS 79:** Stannis offers Jon Stark status and Winterfell, creating a second proposed legal route to lordship, which Jon does not accept in that scene.
 6. **ADWD 29:** Wyman Manderly knows of **a different, living Stark boy, Rickon**, and conditions alliance on Davos recovering him. That makes Robb's original assumptions about succession incomplete.
@@ -50,4 +50,4 @@
 
 `STRONG INFERENCE`: Robb intended Jon as successor and recorded a witnessed decision. `UNKNOWN`: exact will and legal effect, whereabouts, whether Howland holds it, Jon's final choice. No definitive Stark monarch or automatic succession is adopted.
 
-**Next:** map all *actual* witnesses' locations at the end of ADWD, and distinguish known physical whereabouts from fan assumptions.
+**Next:** inspect the [source-checked council/witness ledger](../../continuity/robbs-will-witness-ledger.md). It distinguishes meeting attendance, unshown physical sealing, possible later witnesses and the separate Howland Reed military mission.

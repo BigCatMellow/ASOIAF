@@ -138,3 +138,16 @@ The project owner explicitly requested **comprehensive per-book notes**, retaini
 - [ ] Independently challenge consequential literary findings and confirm internal links/source locators before marking whole-book research complete.
 
 **Scope warning:** The structural EPUB extraction covers 344 units; that is a corpus inventory, **not** completed literary review. Eleven chapter files exist, 333 sequential chapter files remain to create. Earlier targeted source checks are distinct and cannot inflate this count.
+
+## Character-led checkpoint — 2026-10-15 (Robb/Cersei/Oldtown)
+
+- [x] [Robb's will witness ledger](research/continuity/robbs-will-witness-ledger.md): ASOS 45 orders signatures but does not narrate the completed sealing; Maege/Galbart's mission carries separate military letters, with no confirmed will custody.
+- [x] [Cersei/Faith first pass](research/characters/cersei-faith.md): fiscal/religious bargain (AFFC 28), manufactured allegations and reversal (AFFC 39/43), unsettled trial and Robert Strong (ADWD 65/Epilogue).
+- [x] [Sam/Oldtown first pass](research/characters/samwell-oldtown.md): sea raids, glass candle, Marwyn/Alleras, the dubious 'Pate' and Aemon's warnings, with source/claim labels.
+- [x] [Euron, Victarion, Aeron first pass](research/characters/euron-victarion-aeron.md) and [Oldtown threat map](research/continuity/oldtown-ironborn-threat.md): separate horn claims, observed naval danger, and Moqorro's interpretive reading.
+- [ ] Continue **sequential source reading** from the current [coverage tracker](Source/Main-Series/CLOSE-READING-STATUS.md), without double-counting focused research as complete chapters.
+- [ ] Trace the actual fate of Robb's witnessed document and reasonable routes for testimony; no assumed Howland possession.
+- [ ] Deepen Margaery's actual Faith-trial posture, the Oldtown fleet balance and Victarion's horn control before projecting outcome.
+- [ ] Recheck downstream character/continuity documents for any old unearned future assumptions.
+
+**Nearest next step:** the sequential five-novel reading stream is only in its early chapters; continue that thorough pass while maintaining these character files as canonical cross-book research. No speculative trial, ship battle, Other pact, dragon binding or succession has been adopted.

@@ -75,3 +75,13 @@ Cross-book character analysis: [Arya](../../../research/characters/arya-stark.md
 ## Sequential chapter reading (new pass, 2026-10-15)
 
 [Prologue / Pate](chapters/00-prologue.md) now has a dedicated first-pass file for the Citadel's access controls, Alleras, reports of Daenerys's dragons, Marwyn's alleged candle and the alchemist. See [coverage](../CLOSE-READING-STATUS.md). The remaining 45 narrative units lack sequential first-pass notes; earlier focused chapter checks remain separately documented.
+
+## Cersei/Faith and Oldtown/Ironborn junctions (focused source check, 2026-10-15)
+
+- **AFFC 17, 28 (Cersei):** Cersei defers the Faith's debts and later exchanges an end to Maegor's disarmament restrictions for debt forgiveness and the High Septon's blessing of Tommen. The resulting Warrior's Sons and Poor Fellows gain autonomous coercive power.
+- **AFFC 39, 43 (Cersei):** Pressure on the Blue Bard and use of Osney Kettleblack to accuse Margaery rebound when Cersei herself is detained by the High Sparrow. Allegations/coerced confessions are **not** the same as verified sexual guilt.
+- **AFFC 19 (Aeron):** Euron sounds a dragon horn through another man and claims dragon-binding powers. **No dragon responds on-page.**
+- **AFFC 29 (Victarion):** A hornblower's death is reported; the brothers' interests diverge as Victarion is sent east. Captains debate objectives in the Reach.
+- **AFFC Prologue and 45 (Pate, Sam):** Oldtown receives Sam as Ironborn ravage approaches; Marwyn's glass candle burns and a purported Pate reappears. The murder/infiltration and wider magical motives are not fully resolved.
+
+Cross-book owners: [Cersei/Faith](../../../research/characters/cersei-faith.md), [Sam](../../../research/characters/samwell-oldtown.md), [Ironborn](../../../research/characters/euron-victarion-aeron.md), [Oldtown threat map](../../../research/continuity/oldtown-ironborn-threat.md). These are targeted source notes, **not** sequential chapter files.

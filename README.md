@@ -45,3 +45,12 @@ These are **reference methods**, not inherited project authority. The `ASOIAF` b
 ## New: comprehensive primary-text close-reading pass (2026-10-15)
 
 The original five-book EPUB has been re-opened and its SHA-256 confirmed against the repository source manifest. [Live sequential coverage and chapter links](Source/Main-Series/CLOSE-READING-STATUS.md) now record the first eleven first-pass units (all five prologues plus AGOT 1–6), with 333 still open; earlier selective studies are not treated as completed whole-chapter readings. The [cross-book clue queue](research/source-clue-index.md) keeps potentially important minor details beside serious alternate readings while the book-specific notes preserve each chapter's major causal arc.
+
+## Current character-led research checkpoint — 2026-10-15
+
+- [Robb's will: witness and custody ledger](research/continuity/robbs-will-witness-ledger.md) — assembled council, unshown completed seals, surviving witnesses and political coercion.
+- [Cersei/Faith](research/characters/cersei-faith.md) — revival of the Faith Militant and incomplete trials.
+- [Sam/Oldtown](research/characters/samwell-oldtown.md) and [Euron/Victarion/Aeron](research/characters/euron-victarion-aeron.md) — intersecting but **not unified** occult and maritime threats.
+- [Oldtown/Ironborn continuity](research/continuity/oldtown-ironborn-threat.md) — what each actor can actually know and do next.
+
+The separate [sequential close-reading tracker](Source/Main-Series/CLOSE-READING-STATUS.md) remains the coverage source of truth; these targeted studies **do not** count as every chapter having received a complete first pass.

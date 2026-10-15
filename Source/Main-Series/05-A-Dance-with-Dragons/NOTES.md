@@ -110,3 +110,11 @@ Cross-book canonical readings: [Arya](../../../research/characters/arya-stark.md
 ## Sequential chapter reading (new pass, 2026-10-15)
 
 [Prologue / Varamyr](chapters/00-prologue.md) now has a dedicated first-pass file separating directly observed second life, Haggon's taught prohibitions, human possession, weirwood sight and wight reanimation. See [coverage](../CLOSE-READING-STATUS.md). The remaining 72 narrative units lack sequential first-pass notes; substantial existing targeted work below is valuable but not a sequential whole-book audit.
+
+## Faith trials and horn limits (focused source check, 2026-10-15)
+
+- **ADWD 65 (Cersei):** Her walk of atonement is completed; Robert Strong is introduced as silent champion, but her trial is still forthcoming and his true nature is not independently demonstrated in this scene.
+- **ADWD Epilogue (Kevan):** Cersei and Margaery still face trial, Tyrell/Lannister relationships remain unstable, and Varys murders Kevan and Pycelle. This murder has consequences, but neither trial result is narrated.
+- **ADWD 56 and 63 (Victarion):** Moqorro enters the Iron Fleet's story and translates the dragon horn's apparent fatal inscription. His theory of blood ownership remains **unproven by a dragon-binding event**.
+
+Owners: [Cersei/Faith](../../../research/characters/cersei-faith.md), [Ironborn](../../../research/characters/euron-victarion-aeron.md), [Oldtown](../../../research/continuity/oldtown-ironborn-threat.md). These are targeted reading notes outside the numbered sequential-first-pass coverage.
