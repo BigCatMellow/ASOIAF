@@ -24,7 +24,7 @@
 | Mance Rayder went to Winterfell with six spearwives | Jon and Melisandre dispatched Mance under a glamour; Theon observes Abel and his washerwomen at Winterfell (ADWD 46, 51). | **VERIFIED underlying infiltration**, **UNKNOWN** which outside parties later learned it. |
 | Mance is caged and spearwives flayed | Theon and Jeyne escape; companions including Holly face danger, but the group’s complete fate is not narrated afterward. | **CHARACTER CLAIM / UNKNOWN** |
 | Ramsay's bride was stolen | Theon escorts Jeyne Poole, pretending to be Arya, out of Winterfell (ADWD 51). | **VERIFIED bride missing; false identity still concealed from most factions** |
-| Ramsay wants 'Reek' returned | Theon, whom Ramsay called Reek, escaped with Jeyne and is brought to Stannis's camp (ADWD 51, 62). | **VERIFIED escape; letter's assertion of Ram­say's knowledge of their destination is not shown** |
+| Ramsay wants 'Reek' returned | Theon, whom Ramsay called Reek, escaped with Jeyne and is brought to Stannis's camp (ADWD 51, 62). | **VERIFIED escape; letter's assertion of Ramsay's knowledge of their destination is not shown** |
 | Demands Selyse, Shireen, Melisandre, Val and wildling child | These people are known at Castle Black; their existence is not proof of an exclusively Bolton source. | **CHARACTER DEMANDS; author-specific knowledge UNPROVEN** |
 
 ## Why authorship remains unresolved
