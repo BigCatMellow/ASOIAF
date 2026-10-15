@@ -57,3 +57,7 @@ See [master catalog](../../../research/theories/CATALOG.md) for additional `QUEU
 - **ASOS 74 (Arya):** Arya leaves the wounded Sandor and arranges passage to Braavos with Jaqen's coin; no Sandor death is shown.
 
 Cross-book source owners: [Arya](../../../research/characters/arya-stark.md), [Bran](../../../research/characters/bran-stark.md), [Stark children map](../../../research/continuity/stark-children-information.md).
+
+## Sequential chapter reading (new pass, 2026-10-15)
+
+[Prologue / Chett](chapters/00-prologue.md) now has a dedicated first-pass file contrasting pre-existing Watch mutiny, Mormont's strategy and the three horn blasts. See [coverage](../CLOSE-READING-STATUS.md). The remaining 81 narrative units lack sequential first-pass notes; existing focused theory checks are not counted as whole-chapter reviews.
