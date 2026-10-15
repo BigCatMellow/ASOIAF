@@ -54,3 +54,7 @@ The original five-book EPUB has been re-opened and its SHA-256 confirmed against
 - [Oldtown/Ironborn continuity](research/continuity/oldtown-ironborn-threat.md) — what each actor can actually know and do next.
 
 The separate [sequential close-reading tracker](Source/Main-Series/CLOSE-READING-STATUS.md) remains the coverage source of truth; these targeted studies **do not** count as every chapter having received a complete first pass.
+
+## Series-wide continuation synthesis (separate research workstream)
+
+The [synthesis index](research/synthesis/README.md) brings the independent POV analyses together into a [seven-theater Winds convergence map](research/synthesis/winds-convergence-map.md), a [cross-theater information-handoff ledger](research/synthesis/information-handoffs.md) and a [conditional opening architecture](research/synthesis/winds-conditional-architecture.md). These files are research and reversible planning, not adopted endings or completed chapter close reading. The sequential `Source/Main-Series/` notes remain under their own agent's responsibility.

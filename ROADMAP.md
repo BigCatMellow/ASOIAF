@@ -151,3 +151,16 @@ The project owner explicitly requested **comprehensive per-book notes**, retaini
 - [ ] Recheck downstream character/continuity documents for any old unearned future assumptions.
 
 **Nearest next step:** the sequential five-novel reading stream is only in its early chapters; continue that thorough pass while maintaining these character files as canonical cross-book research. No speculative trial, ship battle, Other pact, dragon binding or succession has been adopted.
+
+## Parallel story synthesis checkpoint — 2026-10-15
+
+This **separate** workstream does not take over the sequential chapter-reading work or its tracker.
+
+- [x] Integrate the existing North/Wall, Aegon/Dorne, court/Faith, Meereen, Oldtown/Ironborn and divided Stark evidence in a [seven-theater convergence map](research/synthesis/winds-convergence-map.md).
+- [x] Record **15 cross-theater information handoffs** with `RECEIVED`, `DISPATCHED`, `PREPARED`, `OVERHEARD`, `INTENDED` and `UNKNOWN` distinctions in [the message ledger](research/synthesis/information-handoffs.md).
+- [x] Set up three conditional macro-trajectories and the nearest unmade decisions in a [Winds opening architecture](research/synthesis/winds-conditional-architecture.md), with no adopted battle/king/magic ending.
+- [ ] Test the North's Theon/Jeyne interrogation and Arnolf-warning uncertainty against exact ADWD 51/62/49 scenes, then propagate only a source-supported consequence.
+- [ ] Challenge Aegon/Doran message receipt timing and Barristan/Victarion involvement before claiming any cross-plot meeting.
+- [ ] Independent review of the resulting conditional scenes; reject shortcuts that presume shared reader knowledge.
+
+**Ownership:** Cross-theater causal synthesis belongs to `research/synthesis/`. Source chapters and [close-reading coverage](Source/Main-Series/CLOSE-READING-STATUS.md) belong to the other agent and remain untouched here.
