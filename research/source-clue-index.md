@@ -954,6 +954,29 @@
 | C-916 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Jorah reminds Dany Illyrio effectively gave her to Drogo | Mixed historical patron motives |
 | C-917 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Dany resolves to contact Pyat Pree after refusals | Next step toward warlocks, no Undying entrance yet |
 
+| C-918 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Myrcella sails aboard Seaswift with Arys Oakheart, escorted by four named royal galleys | Princess transfer begun; safe landing not shown |
+| C-919 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Voyage follows Crackclaw coast then Braavos to avoid Dragonstone | Indirect naval diplomacy protects princess while draining defense |
+| C-920 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Doran Martell promises movement to passes only after Braavos arrival | Political feint, no open combat unless Dorne attacked |
+| C-921 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | King Robert Hammer war galley escorts with about 400 oars | Specific royal naval resource removed from Blackwater |
+| C-922 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Tyrion winch towers for chain about three-quarters complete | Time-critical siege engineering still unfinished |
+| C-923 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Lancel tells Tyrion Cersei patronizes Osmund Osney Osfryd Kettleblack | Coerced informant supplies genuine royal conspiracy intelligence |
+| C-924 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Bronn secretly matches queen payments to Kettleblack brothers | Competing patronage and untested double-agent loyalty |
+| C-925 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Littlefinger Tyrell marriage mission has not sent news yet | Alliance status unknown at time of riot |
+| C-926 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Myrcella consoles crying Tommen; Sansa cites chivalric legends | Family vulnerability and fragile royal treatment contrasted |
+| C-927 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Dead-infant mother openly accuses Cersei of incest in street | Succession allegation circulates with hunger grievances |
+| C-928 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Unseen dung-thrower provokes Joffrey to order Hound into crowd | Unknown actor, royal escalation directly observed |
+| C-929 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Bread demands eclipse cries for various rival kings | Material crisis overrides claimant allegiance in riot |
+| C-930 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Mandon slices rioter hand and Joffrey horse tramples unknown person | Direct consequences of violent escape, victim identity unknown |
+| C-931 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Tyrion strikes Joffrey for provoking mob | Unstable Hand-King relation witnessed |
+| C-932 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Sandor returns injured with wounded Sansa after rescue | Confirmed protective action, not complete safety |
+| C-933 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Flea Bottom flames threaten volatile alchemist guild stocks | City fire creates catastrophic stockpile risk |
+| C-934 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Bywater reports High Septon Preston Greenfield Aron Santagar dead | Reported elite casualties of riot |
+| C-935 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Lollys Stokeworth survives severe mob sexual assault | Survival and vulnerability distinct from Tyrek missing |
+| C-936 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Tyrek Lannister remains missing after riot, no body found | Fate open, no specific kidnapping proof |
+| C-937 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Bywater warns guildhalls streets and Watch ranks may defect from Lannisters | Institutional legitimacy fracture, not completed mutiny |
+| C-938 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Bywater says public blames Tyrion most despite Joffrey actions | Political reputation and scapegoating evidence |
+| C-939 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Bronn suggests Tommen replace Joffrey, Tyrion rejects implied killing | Hypothetical succession violence, not an authorized plan |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -961,4 +984,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and seventeen first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and eighteen first-pass chapters listed in the coverage tracker.

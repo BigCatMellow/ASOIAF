@@ -1,0 +1,64 @@
+# ACOK 41 — Tyrion: Myrcella sails, King's Landing riots, and Tyrek disappears
+
+- Record role: `RESEARCH / SEQUENTIAL CLOSE READING`
+- Status: `FIRST PASS COMPLETE — INDEPENDENT CHALLENGE OPEN`
+- Source: complete [ACOK 41 (Tyrion) primary text](../text/042-tyrion.md), read 2026-10-15. [Evidence rules](../../../../SOURCES.md).
+
+## Main narrative and consequential changes
+
+1. **VERIFIED:** **Myrcella** leaves King's Landing aboard the swift **Seaswift**, accompanied by Ser **Arys Oakheart**, after a farewell from brothers **Joffrey and Tommen**, Cersei, Tyrion and assembled nobles. Tommen weeps while Myrcella consoles him. The protection squadron includes **King Robert's Hammer** (a roughly **400-oar war galley**), **Lionstar, Bold Wind and Lady Lyanna**. This makes the earlier `ACOK 17–20` Dornish marriage diplomacy an **actually begun transfer of the princess**, not merely a signed promise.
+2. **VERIFIED / ROUTE AND STRATEGIC PRICE:** Tyrion instructs the escort to **follow the coast to Crackclaw Point**, then cross to **Braavos**, strictly avoiding **Dragonstone**; Braavosi ships are engaged to bring her onward to **Sunspear**. **Bold Wind** is to stay with Seaswift during any fight. The route is deliberately indirect and relies on foreign protection, and the departure strips a significant fraction of King's Landing's already weakened **naval strength** while Stannis's fleet remains an existential concern. Safe arrival is **not shown**.
+3. **TYRION'S DIPLOMATIC ACCOUNT:** **Doran Martell** has called his banners and promised that after Myrcella reaches Braavos he will advance forces toward mountain passes to pressure marcher lords. Tyrion says this is only a **feint**, and Dorne will not engage in open battle unless **attacked**. Thus the Dornish 'alliance' is **limited deterrence and conditional military pressure**, not committed reinforcements already marching to save King's Landing. Evidence comes through Tyrion's assessment, not a Martell POV.
+4. **VERIFIED / DEFENSE TIMING:** The **harbor winch towers** for Tyrion's great chain are about **three-quarters complete**; he estimates another fortnight is needed. Stannis's fleet was last reported near **Storm's End**, with **Cortnay Penrose** holding out. The prospect of Penrose's continued defense providing time is real strategic hope, but neither finished chain nor Stannis's delay is guaranteed.
+5. **VERIFIED / CONCEALED INFORMER COUNTERPLOT:** Tyrion knows, through coerced informer **Lancel**, that Cersei privately meets **Osmund, Osney and Osfryd Kettleblack**, who promise her a new loyal sellsword bodyguard force. Tyrion believes they have deceived **Cersei** because **Bronn secretly matches the money she pays**, leaving their effective loyalty to Tyrion. This is Tyrion's claimed double-agent arrangement; their ultimate fidelity or autonomy is **not battle-tested here**. The disclosure shows Lancel has supplied useful intelligence after `ACOK 29`.
+6. **VERIFIED:** Tyrion anxiously watches Myrcella go and receives no fresh news from **Littlefinger's Tyrell mission** (`ACOK 36`). **Varys** has advised which fleet captains are most trustworthy, but Tyrion recognizes the hazard of relying on a spy whose own loyalty cannot be proved. The fleet uses **plain white sails** on Seaswift rather than conspicuous Lannister red, another deliberate concealment measure.
+7. **VERIFIED / ROYAL HOUSEHOLD:** Sansa references **Aemon the Dragonknight, Naerys, Arryk and Erryk** to console crying Tommen; Joffrey threatens to have **Meryn Trant kill her**. This is observed ongoing intimidation even after Tyrion's intervention in `ACOK 32`. The route home from the river parade is guarded by **Bywater's gold cloaks**, Kingsguard and Bronn's hidden sellswords.
+8. **VERIFIED / TIPPING POINT:** The royal procession passes sullen, starving city streets. A woman steps before the king holding her **dead infant**, and Joffrey throws a **silver stag** that hits the dead child and leads desperate bystanders to fight over it. She screams explicit accusations against Cersei about incest. A **piece of dung** strikes Joffrey (the thrower's identity is **not witnessed**); he insists **Sandor** find and punish the culprit. Sansa begs him to let it pass, but he persists. The crowd surges while crying for **bread**, overwhelming temporary cries for Robb, Stannis and even Renly. The immediate trigger is royal vindictiveness amid genuine hunger, not proof a single organized conspiracy engineered the riot.
+9. **VERIFIED / VIOLENT BREAKDOWN:** Bywater's mounted wedge gets the royal party moving. **Mandon Moore** cuts off the hand grabbing Joffrey's leg. **Aron Santagar** is dragged from his saddle, the Baratheon and Lannister banners are seized and torn, and Joffrey tramples someone whose **age/sex Tyrion cannot tell**. The king, queen, Tommen, Tyrion and some guards make the Red Keep, but **Sansa, Sandor, Lollys Stokeworth, Tyrek Lannister, Preston Greenfield, the High Septon and Aron** are initially unaccounted for. It is wrong to treat every missing person here as immediately dead.
+10. **VERIFIED / TYRION'S ANGER:** Tyrion **slaps, shoves and kicks Joffrey** in the bailey, blaming his stubbornness for provoking and intensifying violence. **Mandon** forcibly separates them and **Bronn** intervenes; Cersei protects Joffrey. Tyrion is concerned not only for Sansa's safety but for **Jaime's hostage fate** if Stark wardship is harmed. Boros initially resists going back into the mob and is openly threatened with removal from the Kingsguard.
+11. **VERIFIED / SANSA SAFE BUT WOUNDED:** **Sandor returns with Sansa** on her chestnut mare. Sansa has a **head wound** and describes stones, thrown food and a man reaching for her; Sandor severed a would-be captor's arm. The Hound himself has a **wounded arm** and reports witnessing men kill **Aron Santagar** with a cobblestone. His return confirms actual rescue, distinct from the mere cloak and protest at Joffrey's earlier beating.
+12. **VERIFIED / WILDFIRE RISK:** Fires break out in **Flea Bottom**, threatening to spread to the nearby **Alchemists' Guildhall** and volatile **wildfire stores**. Tyrion sends **Bronn** to protect water wagons and prevent ignition of the alchemists' site and commands Sandor to assist. Sandor appears momentarily afraid at the word fire, consistent with his burned face, but says he is going to recover his horse. By evening **Bronn reports the fires extinguished**, not that the city is stable.
+13. **VERIFIED / REPORTED CASUALTIES:** **Bywater's evening report** says the **High Septon** was torn apart by the mob, **Preston Greenfield** stabbed and hacked to death, **Aron Santagar** killed with his head crushed, **nine gold cloaks killed and roughly forty wounded**. **Lollys Stokeworth** survived sexual assault by many men and was found alive afterward. **Tyrek remains missing**, as does the High Septon's crystal crown. The report does not establish Tyrek dead, hidden or abducted by a specific actor. **Mob fatalities are not counted**, a key asymmetry in the royal casualty list.
+14. **BYWATER'S INSTITUTIONAL WARNING:** He says the **bloody flux** is spreading in poorer districts, thieves and killers operate openly, food is scarce at any price, and a large portion of **the City Watch is untrained, undisciplined and unreliable** after **Janos Slynt's rapid expansion**. The gold cloaks share class grievances with the smallfolk and may not stand against siege attackers even if the walls hold. This is informed judgment by the Watch commander, not an observed mutiny that has already happened.
+15. **VERIFIED / POPULAR ATTRIBUTION:** Contrary to Tyrion's assumptions, Bywater says the hungry populace blames **Tyrion more than Joffrey**, claiming he surrounds himself with brutal sellswords and clansmen, exiled honest Janos, imprisoned gentle Pycelle, and may aspire to seize the throne. These are **public allegations and Bywater's report**, not facts about Janos's virtue or Tyrion's throne ambition. The fact that genuine court improvements are poorly attributed matters for the regime's weakness. Older grievances, including **Aerys's killing, the Sack, Rhaegar's murdered children and Ned's execution**, remain politically alive.
+16. **VERIFIED / DISCUSSION NOT ACTION:** In grief and anger, **Bronn** suggests that if young **Tommen** became king he would be more pliable than Joffrey, implicitly requiring Joffrey's death. Tyrion recoils, noting Joffrey is Jaime's son and his own blood, and threatens Bronn for speaking. There is **no actual plan or attempt against Joffrey** in this scene. Tyrion's shaken private desire for Shae's protection prompts an order to **Shagga** to keep her safe at her hidden manse; this is a guard instruction, not an observed attack.
+17. **END STATE:** The capital **survived the day's riot** and most fires were contained, but **food shortages, low troop reliability, ideological anger, disease, missing Tyrek, and a depleted fleet** persist. The chapter advances Myrcella's transfer, the second royal hostage diplomacy, and the vulnerability of civilian legitimacy before the Blackwater, without showing the eventual siege itself.
+
+## Microdetails / rival explanations
+
+| Physical or informational anchor | Supported conclusion / limit |
+|---|---|
+| Seaswift has white sails and fast design | Concealment and speed, not proof of safe landing |
+| Four named escort warships including 400-oar galley | Naval protection trades against King's Landing defenses |
+| Braavos route bypasses Dragonstone | Intentionally indirect and risky to rely on outside harbor |
+| Dorne's pass move is a feint, real battle conditional | Allied deterrence not equivalent to combat reinforcement |
+| Chain towers three quarters complete | Military engineering timeline, not ready weapon |
+| Kettleblack brothers paid by both Cersei and Bronn | Duel of intelligence patronage, loyalty untested |
+| Tyrell marriage mission still silent | Littlefinger's progress and intentions unknown |
+| Sansa's stories of Aemon and Naerys | Courts' ideal chivalry contrasted with Joffrey's threats |
+| Dead baby and coin fight | Food crisis collapses symbolic royal charity |
+| Incest insult from grieving mother | Stannis propaganda reaches common speech |
+| Dung thrower never seen by Tyrion | Unknown provocateur, not demonstrated conspirator |
+| 'King Bread' crowd cries | Material deprivation overtakes claimant slogans |
+| Sansa rescued by Sandor, both injured | Independently witnessed return from mob |
+| Sandor momentary fire fear | Credible trauma, personal motivation distinct from formal command |
+| Guildhall vulnerable to Flea Bottom fires | Volatile stockpile danger beyond battle use |
+| High Septon and Preston deaths are Bywater reports | Reliable institutional source, not direct narrated execution |
+| Tyrek missing with no body | **Do not mark dead** or infer abducting party |
+| Lollys found alive after sexual violence | Survivor not killed; avoid turning victim into political footnote |
+| Many Watchmen potential deserters | Prediction from commander, not yet fact |
+| Public blame Tyrion over Joffrey | Reputation gulf between governance and perceived cause |
+| Bronn hints at Tommen succeeding Joffrey | Hypothetical succession violence, no murder authorized |
+
+## Interpretive and hypothesis tests
+
+- **The riot's cause:** Famine, inequality, hatred of the court and Joffrey's punitive attempt all have direct textual support. The unknown dung-thrower alone is not evidence of a hidden mastermind.
+- **Tyrek disappearance:** A missing boy in a mob is an open **fate, custody and location** question; possible escape, accidental death or deliberate abduction are separate hypotheses to test against subsequent testimony.
+- **Kettleblacks:** Courtly 'loyalty' is bought through multiple rival patrons; Bronn/Tyrion's belief of controlling them may prove premature. Track who pays, who supplies credible information and actual later acts.
+- **Smallfolk and accountability:** Bywater identifies hunger and legacy atrocities as roots of hostility. Tyrion's surprise at being blamed is real, but his inability to address food scarcity and use of coercive retainers are relevant alternatives to pure scapegoating.
+- **Stannis timetable:** A lost fraction of fleet and chain still unfinished make Penrose's resistance consequential; Dorne will not rescue the capital by open battle merely because Myrcella sailed.
+- **Next:** `ACOK 42 (Davos)` for naval plans and Stannis; later Sansa/Tyrion for riot survivors, Tommen, Tyrek and city control; later Dorne for Myrcella's actual arrival.
+
+## Review boundary
+
+Entire primary text read sequentially, distinguishing direct observation from Bywater's casualty reports, the Kettleblack loyalty account and unknown future outcomes. Independent EPUB crosscheck open.
