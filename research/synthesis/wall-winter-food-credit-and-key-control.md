@@ -81,6 +81,8 @@
 
 **A disconfirming branch:** The same locked stores, mass influx, uneasy queen and shortage could force harsh rationing and breakdown **even if the Watch's officers attempt to protect all children**. If so, factional violence would derive from a real capacity shortfall, **not proof that Marsh planned an extermination**. Conversely a temporary food arrangement does **not** prove he has been accepted as a lawful Lord Commander.
 
+**Key-control distinction (2026-10-15):** [The operational command-and-control audit](castle-black-operational-control-and-factional-obedience.md) sources **Mully's separate role as holder of the three Wall tunnel gate keys in ADWD 39 (Jon)**, compared with **Wick's food-vault keys in ADWD 17 (Jon)**. These were **different moments and different kinds of locks**; neither man's key custody at the moment of Jon's stabbing is shown. The political faction holding access to a meal does **not** thereby hold the tunnel, sentries or external Watch outposts.
+
 ## 6. Disposition and peer challenge
 
 - `VERIFIED`: Wick **earlier wore storehouse keys** and helped audit reserves; Wick and Marsh **later stab Jon**; Marsh warned of ration shortfall; Jon agreed to a **quarter reduction of each man's portion**; Jon **signed an Iron Bank contract** and read a copy; the agreed **one-voyage ship arrangement** served the Hardhome plan; the dispatched fleet suffered reported losses; Free Folk valuables and people actually entered Castle Black.
