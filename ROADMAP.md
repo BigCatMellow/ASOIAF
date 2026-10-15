@@ -47,7 +47,8 @@ The owner specifically requested a comprehensive, accessible library of **well-r
 - [x] Create [research library router](research/theories/README.md), [case evidence standard](research/theories/METHOD.md), and [52-topic master catalog](research/theories/CATALOG.md).
 - [x] Record official [2025](research/theories/awards/2025.md), [2024](research/theories/awards/2024.md), [2023](research/theories/awards/2023.md) award intake with original credits, winner/nominee status where checked, and standalone topic summaries.
 - [x] Produce 19 detailed cases from verified short five-book passages, retain the existing Night Lamp and Pink Letter files (**21 total**).
-- [x] Check **36 short quoted fragments** in individual files against specific EPUB chapters (36 matched). Record audit below.\n- [ ] Inspect the remaining paraphrased anchors and every later excerpt as case files expand.
+- [x] Check **36 short quoted fragments** in individual files against specific EPUB chapters (36 matched). Record audit below.
+- [ ] Inspect the remaining paraphrased anchors and every later excerpt as case files expand.
 - [ ] Audit [2025 Best New Theory / Citadel](research/theories/awards/2025.md) originals more deeply and resolve reliance on secondary descriptions.
 - [ ] Expand major high-value unreviewed families: Doran, Big Walder, the Oldtown alchemist, the maesters, Knight of the Laughing Tree, the Others' motivations.
 - [ ] Complete independent evidence/rebuttal review before promoting any theory into the two-book continuation.
