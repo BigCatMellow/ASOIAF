@@ -905,6 +905,55 @@
 | C-868 | [ACOK 37](../Source/Main-Series/02-A-Clash-of-Kings/chapters/37-theon.md) | Theon says his real objective not Torrhen Square | Winterfell strongly inferred but not explicitly named |
 | C-869 | [ACOK 37](../Source/Main-Series/02-A-Clash-of-Kings/chapters/37-theon.md) | Dagmer wears dragonglass-set rings among iron price trophies | Ordinary ornamental obsidian distinct from Jon Fist cache |
 
+| C-870 | [ACOK 38](../Source/Main-Series/02-A-Clash-of-Kings/chapters/38-arya.md) | Tywin host packs supplies and Addam Marbrand rides out first | Departure seen; route and battle outcome unknown |
+| C-871 | [ACOK 38](../Source/Main-Series/02-A-Clash-of-Kings/chapters/38-arya.md) | Weese assumes Arya illiterate and lets her carry unsealed notes | Literacy gives low-profile intelligence access |
+| C-872 | [ACOK 38](../Source/Main-Series/02-A-Clash-of-Kings/chapters/38-arya.md) | A gambling-debt note earns Arya a stolen horn and false promised capon | Minor reward abuse contributes to second chosen victim |
+| C-873 | [ACOK 38](../Source/Main-Series/02-A-Clash-of-Kings/chapters/38-arya.md) | Lorch appointed Harrenhal castellan and Bloody Mummers assigned foraging | Hostile armed subgroups remain in occupation |
+| C-874 | [ACOK 38](../Source/Main-Series/02-A-Clash-of-Kings/chapters/38-arya.md) | Gendry conceals Arya's Winterfell battle cry from Hot Pie | Stark identity remains at risk despite alias |
+| C-875 | [ACOK 38](../Source/Main-Series/02-A-Clash-of-Kings/chapters/38-arya.md) | Arya contemplates horse escape using unread Ser Lyonel written order | Credible escape channel abandoned due to recognition risk |
+| C-876 | [ACOK 38](../Source/Main-Series/02-A-Clash-of-Kings/chapters/38-arya.md) | Marching Lannisters allege Robb commands giant soldiers and wolves | Combat rumor unsupported, not verified giant warfare |
+| C-877 | [ACOK 38](../Source/Main-Series/02-A-Clash-of-Kings/chapters/38-arya.md) | Rorge threatens Arya after her rescue of him | Rescued men are not uniformly protective |
+| C-878 | [ACOK 38](../Source/Main-Series/02-A-Clash-of-Kings/chapters/38-arya.md) | Jaqen hears her approach by leather-footstep sound | Specific perception may have mundane explanation |
+| C-879 | [ACOK 38](../Source/Main-Series/02-A-Clash-of-Kings/chapters/38-arya.md) | Arya names Weese as second Jaqen death | Concrete and psychologically loaded assassination request |
+| C-880 | [ACOK 38](../Source/Main-Series/02-A-Clash-of-Kings/chapters/38-arya.md) | Tywin and Gregor ride out before Arya can redirect second name | Opportunity lost, not proof Jaqen could kill Tywin |
+| C-881 | [ACOK 38](../Source/Main-Series/02-A-Clash-of-Kings/chapters/38-arya.md) | Polliver appears in Gendry bull helm though earlier account names Dunsen | Different observed custody, unseen transfer or discrepancy |
+| C-882 | [ACOK 38](../Source/Main-Series/02-A-Clash-of-Kings/chapters/38-arya.md) | Weese found killed by his own spotted dog, dog shot with crossbow | Death confirmed, arranging mechanism not witnessed |
+| C-883 | [ACOK 38](../Source/Main-Series/02-A-Clash-of-Kings/chapters/38-arya.md) | Jaqen signals two fingers after Weese death | Strong acknowledgement of second requested killing, one remains |
+| C-884 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Martyn Rivers replaces Blackfish leading Frey scouts as Robb rides west | Operational intelligence role and family alliance |
+| C-885 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Robb western raids take cattle gold mines and riverlands revenge | Reports of economic war beyond Oxcross |
+| C-886 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Grey Wind reportedly locates goat path around still-held Golden Tooth | Explains prior route mystery, not proof warg control |
+| C-887 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Oxcross tale of Stafford heart fed wolf circulates despite Catelyn rebuttal | Fable/report rather than verified mutilation |
+| C-888 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Brienne exchanges formal service oath with Catelyn, carrying Renly sword | Actual new allegiance and hospitality protections |
+| C-889 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Catelyn promises Brienne not to prevent eventual vengeance on Stannis | Latent competing oath obligations |
+| C-890 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Mallister Red Fork fords seeded underwater with spikes/caltrops | Verified military preparation, results pending |
+| C-891 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Edmure houses hundreds of refugees at Riverrun despite supply risk | Moral choice and siege logistics tradeoff |
+| C-892 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Cortnay Penrose refuses Storm End surrender unless Edric Storm protected | Named royal bastard is central siege bargaining item |
+| C-893 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Tyrion four disguised Lannister guards open Jaime cell at Riverrun | Secret extraction from ACOK25 carried out, not successful escape |
+| C-894 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Actor imitates Edmure while actual Edmure return exposes false orders | Voice deception defeated by contradictory eyewitness |
+| C-895 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Jaime kills Poul Pemford and Myles then returned to deeper chained cell | Extraction failure and new guard casualties |
+| C-896 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Cleos detained denies foreknowledge of false envoys | Claimed ignorance not established innocence |
+| C-897 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Edmure marshals 8000 infantry 3000 cavalry to contest Tywin's river crossing | Operational plan, actual combat not yet |
+| C-898 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Edmure orders Bolton and Tallhart against Harrenhal, shifts Twin forces | Coalition coordination and crossing guard vulnerability |
+| C-899 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Hoster feverishly addresses Cat as Lysa begging pardon for disputed young suitor | Important unfinished Tully family secret, exact wrongdoing unconfirmed |
+| C-900 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Ned bones delivered with head wired on, Ice still withheld | Physical remains present, sword not returned |
+| C-901 | [ACOK 39](../Source/Main-Series/02-A-Clash-of-Kings/chapters/39-catelyn.md) | Hal Mollen and silent sisters tasked to take Ned remains to Winterfell | Transport ordered, final burial unobserved |
+| C-902 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Pureborn demand procedural gifts and bribes then refuse Dany warships | Court access does not imply political support |
+| C-903 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Pureborn control civic guard and straits fleet distinct from merchant factions | Qarth governance is distributed |
+| C-904 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Thirteen Spicers Tourmaline Brotherhood rival one another | Competition creates interested reports |
+| C-905 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Dragon sightings draw valuables from Yi Ti Myr Asshai | Fame produces gifts and publicity not an army |
+| C-906 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Dany keeps Tourmaline three-headed crown and sells most other gifts | Symbolic legitimacy at expense of practical funds |
+| C-907 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Dany calls herself splendid beggar and recalls Viserys humiliation | Restoration vulnerability recognized |
+| C-908 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Xaro gives tiny gem knights rather than troops, proposes marriage | Decorative substitute for military aid |
+| C-909 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Hypothetical 130 trading ships would still lack crews and pay | Transport quantity insufficient to conquer |
+| C-910 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Firemage raises unsupported forty-foot flaming ladder and disappears | Direct spectacle, magic mechanism not proven |
+| C-911 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Crowd fire performance facilitates ordinary pickpockets | Coexistence of apparent marvel and street crime |
+| C-912 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Quaithe claims firemage stronger since dragons returned | Causal magic revival theory from witness not independently tested |
+| C-913 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Quaithe warns to leave Qarth and gives directional shadow/light riddle | Specific unresolved prophecy, Dany infers Asshai |
+| C-914 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Hatchlings twice size of Vaes Tolorro but cannot be war-ready for years | Concrete dragongrowth constraints and training gap |
+| C-915 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Jorah explains one unrefusable wedding gift each spouse can demand | Potential dragon appropriation under local marriage custom |
+| C-916 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Jorah reminds Dany Illyrio effectively gave her to Drogo | Mixed historical patron motives |
+| C-917 | [ACOK 40](../Source/Main-Series/02-A-Clash-of-Kings/chapters/40-daenerys.md) | Dany resolves to contact Pyat Pree after refusals | Next step toward warlocks, no Undying entrance yet |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -912,4 +961,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and fourteen first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and seventeen first-pass chapters listed in the coverage tracker.
