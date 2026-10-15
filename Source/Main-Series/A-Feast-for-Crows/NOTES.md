@@ -71,3 +71,7 @@ Canonical interpretation and next choices: [Arianne/Doran](../../../research/cha
 - **AFFC 34 (Cat of the Canals):** Cat has social relationships in Braavos. Arya chooses to murder Dareon, a deserter from the Watch, **for her own reasons**; afterward she is given a bitter drink and awakens blind. The Faceless Men disallow choosing personal victims.
 
 Cross-book character analysis: [Arya](../../../research/characters/arya-stark.md); [Stark family information map](../../../research/continuity/stark-children-information.md). Bran has no POV in AFFC; his next narrated chapters are in ADWD.
+
+## Sequential chapter reading (new pass, 2026-10-15)
+
+[Prologue / Pate](chapters/00-prologue.md) now has a dedicated first-pass file for the Citadel's access controls, Alleras, reports of Daenerys's dragons, Marwyn's alleged candle and the alchemist. See [coverage](../CLOSE-READING-STATUS.md). The remaining 45 narrative units lack sequential first-pass notes; earlier focused chapter checks remain separately documented.
