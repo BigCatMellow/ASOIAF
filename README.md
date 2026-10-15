@@ -41,3 +41,7 @@ The owner uploaded three EPUBs to this public repository and authorized organizi
 - [Pilot PLAN](https://github.com/BigCatMellow/Pilot_Projects/blob/main/complete-ai-work-system/roadmaps/05-PLAN-ORCHESTRATION-AND-TASK-COMPILATION.md): bounded execution and evidence-to-next-action, not a second planning runtime.
 
 These are **reference methods**, not inherited project authority. The `ASOIAF` brief and direct human decisions govern this project.
+
+## New: comprehensive primary-text close-reading pass (2026-10-15)
+
+The original five-book EPUB has been re-opened and its SHA-256 confirmed against the repository source manifest. [Live sequential coverage and chapter links](Source/Main-Series/CLOSE-READING-STATUS.md) now record the first ten first-pass units (all five prologues plus AGOT 1–5), with 334 still open; earlier selective studies are not treated as completed whole-chapter readings. The [cross-book clue queue](research/source-clue-index.md) keeps potentially important minor details beside serious alternate readings while the book-specific notes preserve each chapter's major causal arc.
