@@ -160,6 +160,46 @@ A focused comparison of the **same clan names in different POVs** identifies pos
 
 **Consequence test:** If the news arrived before combat, Artos's concern for the old gods could make a royal-fire wedding a liability in an already divided army; Brandon Norrey's campaign commitment to rescuing 'Ned's girl' might create an alternative moral argument for protecting Alys. Either result requires a **new scene** and should not be accepted as the five-book outcome.
 
+## 11. The three distinct consent questions — family protection, Thenn marriage, mass settlement
+
+The ADWD 53 confrontation is **not a retrospective veto of the ADWD 49 marriage**. It concerns a distinct, much larger population and threat model. Test three separate propositions rather than a binary "pro/anti-wildling" allegiance:
+
+| Decision being evaluated | Five-book evidence | Actual northern consent |
+| --- | --- | --- |
+| **Protect Alys from Cregan and honor her marriage** | ADWD 44: she appeals to Jon to escape a forced marriage. ADWD 49: Jon arranges the ceremony; the elder Flint and Norrey attend, drink, and bring their own retainers. | **Unknown** beyond attendance and the absence of public rejection. Jon himself notes the guests might simply prefer not to waste wine. |
+| **Admit Sigorn's Thenns as potential Karhold allies** | ADWD 49: Jon says Sigorn leads roughly 200 Thenns, and Alys sees the Thenns as "more like us" after Jon explains their hereditary leaders, laws, and bronze craft. | **Unknown.** Alys's hope that Karhold opens its gates is not a garrison oath, a clan endorsement or approval of a Thenn land grant. |
+| **Permit Tormund's thousands and possibly the Weeper into the North** | ADWD 53: Tormund claims about 4,000; Marsh estimates about 3,000 by fires. The Norrey and Old Flint object to trespass, mouths to feed, and the Weeper's past attacks. | **Actively contested.** Jon offers Watch-held castles, oaths and 100 boy hostages. The chiefs demand credible enforcement; no collective assent is narrated. |
+
+**Do not collapse subgroup differences.** Alys's acceptance of Sigorn is partly explicable by Jon's description of the Thenns as socially closer to northern landed houses. It does not show that she, Sigorn, or the elders endorse the Weeper, all remaining Free Folk, or unlimited movement south. Nor does the ADWD 53 hostage bargain explicitly bind *Sigorn's marital household* or grant the clan elders coercive power over his Thenns.
+
+**Precedent from ADWD 17 (Jon):** Jon instructs Stannis to win mountain chiefs by visiting, accepting hospitality and asking for loyalty rather than merely commanding. This is directly relevant to Karhold: a legal claim and a red-god ceremony cannot stand in for consent by the people expected to provision, defend and obey a new household. The elders are political intermediaries, not presumed proxies for every Flint, Norrey or Karstark fighter.
+
+**Precision of the ADWD 53 challenge:** Old Flint acknowledges ward/hostage arrangements as an old Winterfell practice. The Norrey asks whether Jon can enforce them against defiant fathers, recalling executions by earlier Kings of Winter. This is an **enforcement credibility test**, not recorded agreement to accept the settlers, and not evidence that Jon has committed to killing those boys. Bowen Marsh then objects to training the hostages at arms—**his Watch opposition must not be attributed wholesale to either elder**.
+
+## 12. Jon perceives the legitimacy trap himself — and Karhold cannot live on a marriage (ADWD 49)
+
+In Jon's private reflection immediately after Cregan refuses to yield, he considers killing the prisoner, then rejects the political risk: others could accuse him of **killing northmen to transfer their land to wildlings**. This accusation is not merely a modern inference about xenophobia; **the POV anticipates the exact hostile framing of the Karhold arrangement**. Releasing Cregan could undermine Alys, while killing him could destroy northern confidence in Jon's neutrality. Cregan is still in custody late in ADWD 69, not executed or released.
+
+At the wedding feast, Alys reports a **failed harvest and a severe survival threat to Karhold's old people and children** after labor was lost to the war (ADWD 49). Jon immediately links that to the First Flints' hunger customs and tells her that older men and spare boys might find shelter or service at the Wall. He also says his father's maternal grandmother came from the mountain Flints. **This is a known ancestral association, not evidence that Torghen Flint is a specified near kinsman or that he ratified the match.**
+
+Placed beside ADWD 53, **food is a common binding constraint**: Old Flint says he cannot accept more mouths on his land; the Watch must pay for Tormund's people; Alys fears Karhold's existing people will starve. Sigorn's followers may be defenders, but even well-disposed northerners would still need to decide **who feeds them and under whose authority they remain**. The novels do not supply a winter provisioning agreement or count of Thenn dependents.
+
+### A second source correction — court approval is not Stannis's approval
+
+In ADWD 49 (Jon), **Ser Axell Florent says** Queen Selyse approves of Alys/Sigorn's wedding and predicts that King Stannis will approve too. This is a **CHARACTER CLAIM about the queen and a prediction about the absent king**, not an on-page communication from Stannis or a grant of Karhold. The queen is visibly present at the ceremony, but a court celebration alone cannot settle Harrion's survival or succession rights.
+
+Axell also says **Ser Patrek of King's Mountain had wanted Alys as his own wife**. By ADWD 69 (Jon), the same Patrek is killed in a violent confrontation with Wun Wun after Selyse has pressed to marry him to Val. These events establish (a) a disappointed alternative suitor and (b) subsequent armed tension involving a queen's knight and a giant at Castle Black. **They do not establish that Patrek's death was caused by resentment about Alys**, nor that his death invalidated her marriage. However, after Jon's attack, the willingness of the queen's men to defend his cross-cultural settlement is especially untested.
+
+## 13. Conditional near-term tests for the unwritten continuation
+
+1. **Limited accord:** If Alys and Sigorn make contact with the elders or Karhold's own household, a pact might recognize *her conditional inheritance* and *his marital position* while requiring local oaths, a named garrison command, provisions, and a rule for armed Thenns crossing clan land. **No such pact has occurred.**
+2. **Marriage without territorial acceptance:** Chiefs might defend Alys's freedom from Cregan yet oppose placing Thenn followers in Karhold, particularly if hungry civilians would bear the cost. This is fully compatible with **attending the wedding** and **opposing mass wildling movement**. **No such refusal has occurred.**
+3. **Authority vacuum at Castle Black:** Jon's stabbing, Cregan's continued captivity, the queen's rival marriage projects, and hostility after Patrek's death could leave Alys and Sigorn short of their original mediator. The next causal action must come from an **identified actor with knowledge and access**; neither a royal takeover nor a Thenn march to Karhold is already shown.
+
+**First decisive new evidence to seek in any subsequent published text or source review:** (1) confirmation of Harrion's life/death; (2) a direct northern acknowledgment or refusal of Alys/Sigorn; (3) any actual messenger conveying the marriage or defectors' testimony to Stannis; (4) an explicit decision about provisions, jurisdiction and Thenn residence; (5) what happened at Castle Black after Jon's assault. Without those, keep Alys's legal claim, Sigorn's people, and the chiefs' consent **separate and contingent**.
+
+**Review challenge:** An apparently easy "old-gods northerners reject a red-god wildling wedding" story ignores the elders' real attendance and Jon's description of the Thenns. The opposite "the northern chiefs attended, so all will accept House Thenn" ignores their ADWD 53 demands and Karhold's hunger. Either oversimplification fails the source test.
+
 ## Disposition
 
 `VERIFIED:` two reported Wall-escort defectors, a royal-household witnessed marriage, a public new Thenn heraldic identity, mountain-elder attendance, historical Karstark fractures.
