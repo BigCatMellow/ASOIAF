@@ -143,3 +143,7 @@ The [Arnolf warning-route audit](arnolf-warning-routing.md) is the canonical syn
 ## Additional political checkpoint
 
 [Winterfell succession and Stannis's expressed Arnolf preference](winterfell-claimants-stannis-arnolf.md) adds the independent source evidence in **ADWD 17 and 32/37** and separates a Baratheon **Lord/Warden** appointment from Robb's independent **King in the North** inheritance. This supersedes earlier shortcuts treating Asha's camp rumor and Alys's accusations as the sole sources.
+
+## Command-level evidence audit (2026-10-15)
+
+The [Karstark command fracture dossier](karstark-command-fracture.md) now verifies that **Reek/Theon remains alone with Roose and Ramsay after the ADWD 32 hall is cleared**, and could testify to the **words he heard** if he chooses. His ADWD 37 belief that Arnolf awaits a Bolton signal may arise from those same words: do **not** treat it as an independent second witness. Stannis has **not received** this testimony on-page. The dossier further tests why exposing Arnolf does **not** prove guilt or loyalty among his ~452 retainers and why Stannis could not effortlessly replace their officers.

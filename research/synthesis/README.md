@@ -19,6 +19,7 @@ This directory belongs to the **cross-book / potential continuation** workstream
 - [Stannis/Theon/Jeyne first-audience decision ledger](stannis-theon-jeyne-decision-ledger.md)
 - [Arnolf Karstark warning-route audit](arnolf-warning-routing.md) — Deepwood courier paths and the uncertain receipt of the warning.
 - [Winterfell claimant audit: Stannis, Arnolf and the Starks](winterfell-claimants-stannis-arnolf.md) — ADWD 17's actual royal preference, ADWD 32's Bolton corroboration, and competing northern legitimacy.
+- [Karstark command fracture: what if Theon testifies?](karstark-command-fracture.md) — firsthand versus inferred Theon evidence, leader versus rank-and-file culpability, 452-soldier security problem and three conditional Stannis decisions.
 
 ### Sources being linked, not reproduced
 

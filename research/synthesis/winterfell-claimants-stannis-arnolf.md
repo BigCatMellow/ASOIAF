@@ -123,3 +123,7 @@ Roose/Ramsay control the ruin and use 'Arya' as a Stark legitimacy asset (**ADWD
 5. **Fraud disclosure:** If the northern clans learn “Arya” is Jeyne, why should they still fight, and what does their idea of a Stark restoration demand?
 
 **Disposition:** `CONFIRMED STANNIS PREFERENCE; STRONGLY CORROBORATED ARNOLF COLLUSION; NO ACTUAL GRANT OR SELECTED SUCCESSOR`. Any narrative branch must pay the cost of verification, consent, wartime legitimacy and hunger.
+
+## Leader versus troops — consequential-source addendum (2026-10-15)
+
+[Karstark command fracture](karstark-command-fracture.md) separates Theon's **directly overheard** Roose statement in ADWD 32 from Theon's **subsequent internal inference** in ADWD 37. These may be dependent evidence, not two corroborating witnesses. It also records Arnolf's son/grandsons, maester/ravens and approximate 452 arms (ADWD 62); none proves the rank and file know Roose's arrangement. An alleged betrayal can be politically devastating without providing Stannis a ready-made replacement command.
