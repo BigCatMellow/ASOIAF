@@ -6,7 +6,7 @@
 - Lifecycle: `ACTIVE`
 - Parent: [theory library](README.md)
 - Scope: original five novels primary; 2025 award ballot, earlier annual results and well-established community theory families
-- Current count: 17 individual case records (15 new + Night Lamp/Pink Letter); further candidates await direct primary research
+- Current count: **21 individual case records** (19 new + Night Lamp/Pink Letter); **31 additional catalog topics queued** for source audit
 
 ## How to read
 
@@ -34,6 +34,13 @@
 | Cersei faces a Trial of Seven | ADWD 65, Epilogue; *Hedge Knight* pending | **SUPPLEMENTARY / OPEN** | [CASE](cases/trial-of-seven.md) |
 | Jojen Paste / cave sacrifice | ADWD 34 | **WEAK-to-OPEN** | [CASE](cases/jojen-paste.md) |
 
+### Four additional detailed research cases
+
+- [Doran/Yronwood](cases/doran-yronwood.md) — explicit blood-debt settlement versus predicted civil war.
+- [Big Walder](cases/big-walder.md) — blood evidence is suspicious but not a confession.
+- [Oldtown alchemist](cases/oldtown-alchemist.md) — Faceless Men, Citadel access and Pate's replacement.
+- [Frey Pies](cases/frey-pies.md) — hospitality, vengeance and the uncertainty of the meat.
+
 ### 2025 r/asoiaf nominees to review in depth
 
 | Theory / analysis | Source candidate | Story question | Evidence audit |
@@ -42,7 +49,7 @@
 | [Robert hired Bran's catspaw](https://www.reddit.com/r/asoiaf/comments/1mayb22/) | AGOT royal visit, Bran aftermath | Mercy killing or Joffrey? | `QUEUED` |
 | [Missing Iron Fleet attacks Dorne](https://www.reddit.com/r/asoiaf/comments/1l2h0p6/) | Victarion, Red Ralf, TWOW Arianne | Desertion and Water Gardens? | `QUEUED / TWOW` |
 | [Jon cannot enter Winterfell after returning](https://www.reddit.com/r/asoiaf/comments/1n1ojrn/) | ASOS, ADWD magic wards | What does undeath bar? | `QUEUED / ORIGINAL UNAVAILABLE` |
-| [Doran/Yronwood feud and Quentyn](https://www.reddit.com/r/asoiaf/comments/1m88m49/) | AFFC/ADWD Dorne and Meereen | Is preventing civil war Doran's true success? | `QUEUED / HIGH` |
+| [Doran/Yronwood feud and Quentyn](https://www.reddit.com/r/asoiaf/comments/1m88m49/) | AFFC/ADWD Dorne and Meereen | Is preventing civil war Doran's true success? | [CASE — blood-debt basis strong](cases/doran-yronwood.md) |
 | [Doran's Darkstar narrative may be false](https://www.reddit.com/r/asoiaf/comments/1o4w2lt/) | AFFC Queenmaker, Myrcella | Which witnesses are reliable? | `QUEUED / HIGH` |
 | [Daenerys's Dothraki return is a long, costly arc](https://www.reddit.com/r/asoiaf/comments/1krtylg/) | ADWD 71 + TWOW | Could Meereen fall before she returns? | `QUEUED / HIGH` |
 | [Sybell Spicer's love-potion Red Wedding 2.0](https://www.reddit.com/r/asoiaf/comments/1jt0r1p/) | ASOS/AFFC Westerlings, Maggy | Did hidden coercion shape past and future marriages? | `QUEUED / LOW-MODERATE` |
@@ -62,11 +69,11 @@
 
 | Theory / research | Proposed payoff | Status |
 | --- | --- | --- |
-| Big Walder as Little Walder's murderer | Unreliable witness, Frey inheritance, Bolton infighting | `QUEUED / 2024 AWARDS` |
+| Big Walder as Little Walder's murderer | Unreliable witness, Frey inheritance, Bolton infighting | [CASE](cases/big-walder.md) |
 | Bastard Letter dossier (many Pink Letter variants) | Authorship map and text-comparison method | `QUEUED / 2024 POST WINNER` |
 | Knight of the Laughing Tree = Lyanna | Early signs of Lyanna's agency and Harrenhal politics | `QUEUED / HIGH` |
 | Dragonbinder kills/enslaves its blower rather than bonds to Euron | Euron, Victarion, dragons and sacrifice | `QUEUED / HIGH` |
-| Jaqen = Oldtown alchemist | Faceless Men at the Citadel and Pate's murder | `QUEUED / HIGH` |
+| Jaqen = Oldtown alchemist | Faceless Men at the Citadel and Pate's murder | [CASE](cases/oldtown-alchemist.md) |
 | The maesters engineered dragon extinction | Citadel ideology, dangerous manipulation of magic | `QUEUED / HIGH` |
 | Dornish Master Plan | Doran's contingencies, Arianne and Quentyn | `QUEUED / HIGH` |
 | The Elder Brother revived Sandor | Physical vs. spiritual rebirth at Quiet Isle | `QUEUED / ALTERNATE GRAVEDIGGER` |
@@ -74,7 +81,7 @@
 | Great Empire of the Dawn dragonlord origins | Ancient magic, Daynes, Asshai and Long Night | `QUEUED / SUPPLEMENTARY TWOIAF` |
 | Others have motives beyond extinction | Reconsider Long Night pact and Wall purpose | `QUEUED / HIGH` |
 | Sansa's Ashford-tourney suitors | Possible marriage sequence including Aegon | `QUEUED / LOW` |
-| Frey Pies / Manderly revenge | Wyman's covert retaliation under guest-right taboo | `QUEUED / HIGH` |
+| Frey Pies / Manderly revenge | Wyman's covert retaliation under guest-right taboo | [CASE](cases/frey-pies.md) |
 | Tyrek Lannister's disappearance / Varys custody | Hostage politics and possible puppet claims | `QUEUED / MODERATE` |
 | Robb's will names Jon / alternative Northern succession | Legal claims and Northern coalition splits | `QUEUED / HIGH` |
 | Bran the Builder and the Others made a bargain | Northern boundary, Wall origin, Last Hero history | `QUEUED / HIGH / ANCIENT HISTORY` |

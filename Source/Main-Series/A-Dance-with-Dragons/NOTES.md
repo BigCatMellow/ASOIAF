@@ -60,6 +60,8 @@ For the chapters reviewed above, ask whether Theon discloses Jeyne's identity, w
 
 ## Cross-referenced fan-theory research (ADWD)
 
+Additional audited cases: [Doran/Yronwood](../../../research/theories/cases/doran-yronwood.md), [Big Walder](../../../research/theories/cases/big-walder.md), [Frey Pies](../../../research/theories/cases/frey-pies.md).
+
 The following case files quote short fragments and cite chapters in this volume, but may also rely on other books. **Link only; don't duplicate their moving assessment here.**
 
 - [aegon blackfyre](../../../research/theories/cases/aegon-blackfyre.md)

@@ -28,6 +28,8 @@ List disputed assumptions and contradictory scenes before adopting a creative co
 
 ## Cross-referenced fan-theory research (ACOK)
 
+Additional audited case: [Jaqen's Oldtown identity](../../../research/theories/cases/oldtown-alchemist.md).
+
 The following case files quote short fragments and cite chapters in this volume, but may also rely on other books. **Link only; don't duplicate their moving assessment here.**
 
 - [septon utt](../../../research/theories/cases/septon-utt.md)

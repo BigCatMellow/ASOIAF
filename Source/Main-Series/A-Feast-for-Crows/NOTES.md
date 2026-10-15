@@ -28,6 +28,8 @@ List disputed assumptions and contradictory scenes before adopting a creative co
 
 ## Cross-referenced fan-theory research (AFFC)
 
+Additional audited cases: [Doran/Yronwood](../../../research/theories/cases/doran-yronwood.md), [Oldtown alchemist](../../../research/theories/cases/oldtown-alchemist.md).
+
 The following case files quote short fragments and cite chapters in this volume, but may also rely on other books. **Link only; don't duplicate their moving assessment here.**
 
 - [sarella alleras](../../../research/theories/cases/sarella-alleras.md)

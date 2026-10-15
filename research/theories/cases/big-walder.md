@@ -1,6 +1,6 @@
 # Did Big Walder kill Little Walder Frey?
 
-- 2024 work: [u/InGenNateKenny, Big Walder / Trojan Horse at Winterfell](https://www.reddit.com/r/asoiaf/comments/1ibazan/)
+- 2024 award mention: u/InGenNateKenny's Big Walder / Trojan Horse of Winterfell argument. [2024 nomination ballot](https://www.reddit.com/r/asoiaf/comments/1ibazan/). **Direct original URL not verified**; do not treat ballot as the article.
 - Status: `SOURCE AUDITED / PLAUSIBLE, NOT SOLVED`
 - Main source: ACOK 4; ADWD 32, 51
 

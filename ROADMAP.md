@@ -46,13 +46,15 @@ The owner specifically requested a comprehensive, accessible library of **well-r
 
 - [x] Create [research library router](research/theories/README.md), [case evidence standard](research/theories/METHOD.md), and [52-topic master catalog](research/theories/CATALOG.md).
 - [x] Record official [2025](research/theories/awards/2025.md), [2024](research/theories/awards/2024.md), [2023](research/theories/awards/2023.md) award intake with original credits, winner/nominee status where checked, and standalone topic summaries.
-- [x] Produce 15 detailed cases from verified short five-book passages, retain the existing Night Lamp and Pink Letter files (**17 total**).
-- [ ] Cross-check each detailed case's short quoted fragment against its exact EPUB chapter; record deviations/withdraw unsupported language.
+- [x] Produce 19 detailed cases from verified short five-book passages, retain the existing Night Lamp and Pink Letter files (**21 total**).
+- [x] Check **36 short quoted fragments** in individual files against specific EPUB chapters (36 matched). Record audit below.\n- [ ] Inspect the remaining paraphrased anchors and every later excerpt as case files expand.
 - [ ] Audit [2025 Best New Theory / Citadel](research/theories/awards/2025.md) originals more deeply and resolve reliance on secondary descriptions.
 - [ ] Expand major high-value unreviewed families: Doran, Big Walder, the Oldtown alchemist, the maesters, Knight of the Laughing Tree, the Others' motivations.
 - [ ] Complete independent evidence/rebuttal review before promoting any theory into the two-book continuation.
 
 **Passage policy:** Short verified excerpts and exact locators, not copied long passages or full chapters in public Markdown. Award recognition is provenance, not proof.
+
+See [quote audit receipt](research/theories/QUOTE_AUDIT.md). Independent literary challenge remains open.
 
 ## Phase 1: first wave
 
@@ -62,8 +64,10 @@ The owner specifically requested a comprehensive, accessible library of **well-r
 - [ ] Deepen Theon's trauma/identity analysis and Stannis's moral reasoning through additional source dialogue.
 - [x] First targeted Daenerys/Barristan/Tyrion Meereen source pass (ADWD 2, 23, 43, 50, 52, 66, 67, 70, 71); chapter-supported aims and contrary evidence recorded.
 - [ ] Complete prior-book trajectories and synchronize their late ADWD chapter dates before choosing a Meereen outcome.
-- [x] Complete a targeted Aegon/Connington/Golden Company source-based decision sheet (ADWD 5, 14, 18, 22, 24, 61, Epilogue).\n- [ ] Deeper Dorne/Stormlands diplomacy pass before accepting a claimant's triumph.
-- [x] Complete a targeted Jaime/Brienne/Stoneheart source-based decision sheet (ASOS, AFFC, ADWD).\n- [ ] Reconstruct exact captivity and Brotherhood command state before choosing Jaime's fate.
+- [x] Complete a targeted Aegon/Connington/Golden Company source-based decision sheet (ADWD 5, 14, 18, 22, 24, 61, Epilogue).
+- [ ] Deeper Dorne/Stormlands diplomacy pass before accepting a claimant's triumph.
+- [x] Complete a targeted Jaime/Brienne/Stoneheart source-based decision sheet (ASOS, AFFC, ADWD).
+- [ ] Reconstruct exact captivity and Brotherhood command state before choosing Jaime's fate.
 - [x] Build **partial-order** North/Wall chronology and knowledge matrix from the five published books.
 - [x] Audit core Manderly/Frey/Karstark chains against ADWD 29, 42, 44, 49, 51 and 62; distinguish dispatch, receipt and action.
 - [ ] Resolve unresolved courier receipts and faction command/arrival sequence before choosing a Battle of Ice branch.
@@ -80,4 +84,4 @@ Later POV tracks: Sansa, Arya, Bran, Cersei/Faith, Dorne, Oldtown and Euron; no 
 
 ## Current next action
 
-Aegon/Connington and Jaime/Brienne/Stoneheart now have targeted first-pass character sheets; a 52-topic theory catalog is built and 17 cases are documented. Next: complete the **unresolved** northern courier/faction branches **or** advance the independent [Meereen character analysis](research/characters/daenerys-barristan-tyrion.md) by tracing Tyrion's earlier moral development and Barristan's disputed poison evidence. No contested outcome is yet adopted; prioritize queued `HIGH` theories when they can actually alter the next character decisions. See [Night Lamp](research/theories/night-lamp.md), [Pink Letter](research/theories/pink-letter.md), and [North/Wall chronology](research/north-wall-dependencies.md). [Jon](research/characters/jon-snow.md) and [Davos](research/characters/davos-seaworth.md) remain initial analyses, not locked outcomes.
+Aegon/Connington and Jaime/Brienne/Stoneheart now have targeted first-pass character sheets; a 52-topic theory catalog is built and **21 cases** are documented. A 36-fragment quotation check found no mismatches. Next: complete the **unresolved** northern courier/faction branches **or** advance the independent [Meereen character analysis](research/characters/daenerys-barristan-tyrion.md) by tracing Tyrion's earlier moral development and Barristan's disputed poison evidence. No contested outcome is yet adopted; prioritize queued `HIGH` theories when they can actually alter the next character decisions. See [Night Lamp](research/theories/night-lamp.md), [Pink Letter](research/theories/pink-letter.md), and [North/Wall chronology](research/north-wall-dependencies.md). [Jon](research/characters/jon-snow.md) and [Davos](research/characters/davos-seaworth.md) remain initial analyses, not locked outcomes.

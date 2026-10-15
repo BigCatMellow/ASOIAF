@@ -33,6 +33,11 @@ Maintain a **living, auditable library** of the strongest, most interesting and 
 - [Cersei and a Trial of Seven](cases/trial-of-seven.md) — 2025 Beric nominee, requires supplementary source.
 - [R+L=J](cases/r-l-j.md) — foundational high-confidence inference, keep its consequences open.\n- [Davos and Rickon](cases/davos-rickon.md) — 2025 Beric nominee, contested moral choice.\n- [Jojen Paste](cases/jojen-paste.md) — influential but unconfirmed dark-cave speculation.
 
+- [Doran and the Yronwood blood debt](cases/doran-yronwood.md) — 2025 Best Analysis nominee.
+- [Big Walder and the Little Walder murder](cases/big-walder.md) — 2024 recognized theory.
+- [The Oldtown alchemist is Jaqen](cases/oldtown-alchemist.md) — influential identity theory.
+- [Frey Pies / Manderly revenge](cases/frey-pies.md) — strong but not proven reading.
+
 ## Admission and status
 
 The catalog may contain a theory before its full case file is written. Every candidate states `QUEUED`, `SOURCE AUDIT`, `REVIEWED`, `CHALLENGED` or `ADOPTED WORKING BRANCH`. A completed file requires the criteria in [METHOD](METHOD.md). Preserve `UNKNOWN`; don't make up quotations, source authors, publication years or author intent.
