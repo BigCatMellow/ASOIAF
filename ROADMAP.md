@@ -133,11 +133,11 @@ The project owner explicitly requested **comprehensive per-book notes**, retaini
 - [x] Inspect all five section boundaries and 344 narrative-unit locators.
 - [x] Create [close-reading method/coverage tracker](Source/Main-Series/CLOSE-READING-STATUS.md) and [cross-book clue queue](research/source-clue-index.md).
 - [x] First-pass notes for five prologues and all AGOT (Prologue, 1–72), giving 77/344 units; [AGOT forest-and-trees synthesis](Source/Main-Series/01-A-Game-of-Thrones/BOOK-ONE-SYNTHESIS.md) completed as book-level first pass, independent challenge open.
-- [ ] Continue sequentially with **ACOK 1 (Arya)** after previously read ACOK Prologue, then subsequent units, logging completeness by volume.
+- [ ] Continue sequentially with **ACOK 7 (Catelyn)** after the new ACOK 1–6 notes and existing ACOK Prologue; log future unit coverage by volume.
 - [ ] Audit subtle clues against later chapters and strong ordinary alternatives; connect to canonical character/theory owners.
 - [ ] Independently challenge consequential literary findings and confirm internal links/source locators before marking whole-book research complete.
 
-**Scope warning:** The structural EPUB extraction covers 344 units; that is a corpus inventory, **not** completed literary review. Seventy-seven chapter files exist, 267 sequential chapter files remain to create. Earlier targeted source checks are distinct and cannot inflate this count.
+**Scope warning:** The structural EPUB extraction covers 344 units; that is a corpus inventory, **not** completed literary review. Eighty-three chapter files exist, 261 sequential chapter files remain to create. Earlier targeted source checks are distinct and cannot inflate this count.
 
 ## Character-led checkpoint — 2026-10-15 (Robb/Cersei/Oldtown)
 
