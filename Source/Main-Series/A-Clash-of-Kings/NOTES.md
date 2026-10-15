@@ -50,3 +50,7 @@ See [master catalog](../../../research/theories/CATALOG.md) for additional `QUEU
 - **ACOK 69 (Bran):** Bran leaves ruined Winterfell but remembers a damaged home and self as capable of surviving. This is not a completed restoration.
 
 Cross-book interpretations: [Arya](../../../research/characters/arya-stark.md), [Bran](../../../research/characters/bran-stark.md). The chapter labels follow this bundle.
+
+## Sequential chapter reading (new pass, 2026-10-15)
+
+[Prologue / Cressen](chapters/00-prologue.md) now has a dedicated first-pass file preserving major political stakes, Patchface's unexplained survival and songs, Stannis's conduct and the poisoned cup. See [coverage](../CLOSE-READING-STATUS.md). The remaining 69 narrative units lack sequential first-pass notes; earlier targeted theory and character passages retain their separate receipts.
