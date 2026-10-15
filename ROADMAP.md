@@ -77,9 +77,11 @@ See [quote audit receipt](research/theories/QUOTE_AUDIT.md). Independent literar
 - [x] First targeted Daenerys/Barristan/Tyrion Meereen source pass (ADWD 2, 23, 43, 50, 52, 66, 67, 70, 71); chapter-supported aims and contrary evidence recorded.
 - [ ] Complete prior-book trajectories and synchronize their late ADWD chapter dates before choosing a Meereen outcome.
 - [x] Complete a targeted Aegon/Connington/Golden Company source-based decision sheet (ADWD 5, 14, 18, 22, 24, 61, Epilogue).
-- [ ] Deeper Dorne/Stormlands diplomacy pass before accepting a claimant's triumph.
+- [x] Deepen Aegon/Connington Stormlands decision cliff: war council, contingent logistics, princely command, court response, Ronnet prisoners.
+- [ ] Verify Arianne/Doran message travel and specific Stormlords' reactions before adopting an Aegon military or diplomatic outcome.
 - [x] Complete a targeted Jaime/Brienne/Stoneheart source-based decision sheet (ASOS, AFFC, ADWD).
-- [ ] Reconstruct exact captivity and Brotherhood command state before choosing Jaime's fate.
+- [x] Audit Brienne's coercion and Jaime's Pennytree cliff: the novel does **not** show Jaime leave with her; Lem uses the Hound guise.
+- [ ] Resolve Podrick/Hyle custody after Brienne's hanging scene and Jaime's actual response before adopting a Stoneheart outcome.
 - [x] Build **partial-order** North/Wall chronology and knowledge matrix from the five published books.
 - [x] Audit core Manderly/Frey/Karstark chains against ADWD 29, 42, 44, 49, 51 and 62; distinguish dispatch, receipt and action.
 - [ ] Resolve unresolved courier receipts and faction command/arrival sequence before choosing a Battle of Ice branch.
@@ -94,7 +96,20 @@ Later POV tracks: Sansa, Arya, Bran, Cersei/Faith, Dorne, Oldtown and Euron; no 
 - A discovery changes a major ending premise → return to THINK and reopen alternatives.
 - Artistic choice cannot be resolved from text → present distinct supported branches for human choice.
 
-## Current next action — 2026-10-14 four-family audit
+## Character-led work resumed — 2026-10-14
+
+Following the owner's instruction to **resume character/plot analysis instead of more fan-theory intake**, the active strand is [Aegon and Connington](research/characters/aegon-jon-connington.md) alongside [Jaime, Brienne and Stoneheart](research/characters/jaime-brienne-stoneheart.md).
+
+- [x] Investigate what the Golden Company *actually agreed*, its divergent officer motives, Connington's material limitations, and Aegon's final insistence on command.
+- [x] Correct the previous claim that Jaime rode away with Brienne: ADWD 48 stops at her invitation.
+- [x] Identify Red Ronnet as a link between Griffin's Roost prisoners, the King's Landing court and Jaime's former troops, without inventing courier travel.
+- [x] Create [Stormlands/Riverlands knowledge map](research/continuity/stormlands-riverlands-handoff.md) and [two reversible gardening tests](research/gardening/decision-tests-aegon-jaime.md).
+- [ ] Check actual messenger routes, troop status and living captives before selecting the first *Winds* scene for either strand.
+- [ ] Return to the next unreviewed POV perspectives after these immediate decisions: Arianne/Doran, Sansa/Alayne, Arya and Bran.
+
+**Current nearest next step:** Trace trustworthy reports of Dorne's position, the Golden Company's actual remaining muster, who knows Red Ronnet's relatives are prisoners, and what Jaime's men would do if he chose to ride alone. Do **not** substitute the sample *Winds* chapters or show events for the ending of the published five novels.
+
+## Previous checkpoint — four-family theory audit
 
 Four [theory case files](research/theories/README.md) now distinguish **text-supported** Martell contingencies, Robb's witnessed succession choice, Citadel information control, and the Others' observed danger from **unproven** master plans, missing legal wording, central conspiracies and ancient treaties. [Cross-story consequence map](research/consequence-map-2026-10-14.md) preserves decision forks.
 

@@ -44,3 +44,12 @@ The following case files quote short fragments and cite chapters in this volume,
 - [first men religion](../../../research/theories/cases/first-men-religion.md)
 
 See [master catalog](../../../research/theories/CATALOG.md) for additional `QUEUED` topics involving this volume. Theories are not canon observations.
+
+## Source-checked oath and aftermath scenes (additional pass)
+
+- **AFFC 37 (Brienne):** Brienne refuses to abandon children threatened at the crossroads inn, is savagely bitten by Biter and later falls into the Brotherhood's custody. Rescue doesn't immunize her from subsequent accusations.
+- **AFFC 42:** Thoros describes the moral decline of Beric's followers. Stoneheart interprets the Lannister sword and royal documents as evidence against Brienne, requires her to kill Jaime, and orders Brienne, Podrick and Hyle hanged; the exact word Brienne cries out is not narrated.
+- **AFFC 42:** Lem Lemoncloak is operating in Sandor Clegane's Hound helm. This complicates later uses of the name 'the Hound'; no claim about Sandor's physical return is needed.
+- **AFFC 44 (Jaime):** Jaime secures a negotiated Riverrun surrender but threatened grave harm to Edmure's family. Contrast later unwillingness to punish innocent villagers at Pennytree (ADWD 48).
+
+For the precise final decision point and its uncertainty, see [Jaime/Brienne/Stoneheart](../../../research/characters/jaime-brienne-stoneheart.md) and [cross-plot handoff](../../../research/continuity/stormlands-riverlands-handoff.md).

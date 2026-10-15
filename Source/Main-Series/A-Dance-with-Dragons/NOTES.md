@@ -79,3 +79,12 @@ The following case files quote short fragments and cite chapters in this volume,
 - [bloodraven crow](../../../research/theories/cases/bloodraven-crow.md)
 
 See [master catalog](../../../research/theories/CATALOG.md) for additional `QUEUED` topics involving this volume. Theories are not canon observations.
+
+## Source-checked decision cliffs — Aegon, Ronnet, Jaime (additional pass)
+
+- **ADWD 22 and 24:** Tyrion undermines Aegon's assumption of a compliant Daenerys; Aegon actively proposes sailing west, overruling the company's earlier eastward focus. This decision does not establish future success.
+- **ADWD 61:** Griffin's Roost is captured before the prince's banner is raised publicly. Connington's scattered force, incomplete horse/elephant muster, and Strickland's objections constrain his proposed move on Storm's End. **Aegon says he will lead it; Connington's reply and result are not narrated.**
+- **ADWD 61 ↔ Epilogue:** Connington holds Red Ronnet's relatives while Ronnet publicly supports the royal court and is treated with suspicion. Some of Ronnet's soldiers were reassigned to him by Jaime, supplying a **real cross-plot connection**.
+- **ADWD 48:** Jaime sees Brienne at Pennytree; she asks him to travel alone toward the girl she says is Sansa. **The chapter does not show him departing with her.** No Jaime/Stoneheart encounter has yet occurred on-page.
+
+Detailed interpretation and information boundaries are owned by [Aegon/Connington](../../../research/characters/aegon-jon-connington.md), [Jaime/Brienne/Stoneheart](../../../research/characters/jaime-brienne-stoneheart.md), and [Stormlands/Riverlands handoff](../../../research/continuity/stormlands-riverlands-handoff.md).

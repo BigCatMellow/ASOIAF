@@ -40,3 +40,10 @@ The table is deliberately **not a list of planned plot beats**. An idea advances
 ## Related library (separate owner)
 
 The [master fan-theory catalog](theories/CATALOG.md) holds unselected research hypotheses and award provenance. This file holds only the candidates whose **decisions/consequences** materially affect the continuation. A theory does not move here because it won an award; it moves when its textual mechanism is challenged and the scene's actor could plausibly choose it.
+
+## Active immediate character decisions — October 14 continuation
+
+- [Aegon's decision at Griffin's Roost](characters/aegon-jon-connington.md): `VERIFIED` he demands to lead Storm's End; `UNKNOWN` whether Connington accepts or the attack succeeds. Strickland's caution and Doran's undecided support are live constraints.
+- [Jaime's response at Pennytree](characters/jaime-brienne-stoneheart.md): `VERIFIED` Brienne asks him to come alone; `UNKNOWN` whether he agrees, departs or meets Stoneheart. Previous shorthand claiming that he departed has been corrected.
+- [Red Ronnet's cross-plot family](continuity/stormlands-riverlands-handoff.md): `VERIFIED` prisoners at Griffin's Roost and his presence at court; `UNKNOWN` any message to Jaime and future bargaining.
+- [Two reversible short-form gardening experiments](gardening/decision-tests-aegon-jaime.md): define next character choices, not adopted outcomes.
