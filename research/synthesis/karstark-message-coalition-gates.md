@@ -192,6 +192,8 @@ Axell also says **Ser Patrek of King's Mountain had wanted Alys as his own wife*
 
 **Detailed follow-up:** The [Castle Black post-stabbing custody and marriage audit](castle-black-after-jon-alliances.md) separately tracks Val's protected Hardin's Tower quarters, Patrek's death at that site, Selyse's contradictory integration terms, the Watch/Free Folk hostages, Cregan's custody and the misread Alys/Arya grey-girl vision. These remain unresolved causal gates, not adopted explanations.
 
+**Sigorn agency correction:** The [Castle Black first-night command audit](castle-black-command-custody-first-night.md) revisits **ASOS 55 (Jon)** and **ADWD 35/49 (Jon)**: Styr is lost in the burning, collapsing Wall stair, Jon privately fears Sigorn blames him, and Jon distrusts the young magnar's willingness to obey Watch command. But **ADWD 49** also depicts Sigorn sincerely making his vow to Alys and handling her new cloak gently. The marriage is an observed commitment, not automatic personal loyalty to Jon or the Watch; conversely an old grievance is not evidence Sigorn plans revenge or repudiates Alys. His choice after the stabbing, location, and path to news remain **UNKNOWN**.
+
 ## 13. Conditional near-term tests for the unwritten continuation
 
 1. **Limited accord:** If Alys and Sigorn make contact with the elders or Karhold's own household, a pact might recognize *her conditional inheritance* and *his marital position* while requiring local oaths, a named garrison command, provisions, and a rule for armed Thenns crossing clan land. **No such pact has occurred.**
