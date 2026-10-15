@@ -477,6 +477,33 @@
 | C-454 | [ACOK 6](../Source/Main-Series/02-A-Clash-of-Kings/chapters/06-jon.md) | Mormont describes Aemon's rejected kingship and warns Jon of Robb's crown | Direct institutional lesson on vows/legitimacy, not verification of Jon's bloodline |
 | C-455 | [ACOK 6](../Source/Main-Series/02-A-Clash-of-Kings/chapters/06-jon.md) | Raven repeatedly calls 'king' during Jon and Aemon discussion | Talking bird's language may be ordinary mimicry; no demonstrated omniscient sender |
 
+| C-456 | [ACOK 7](../Source/Main-Series/02-A-Clash-of-Kings/chapters/07-catelyn.md) | Robb's bronze crown has nine black-iron sword spikes; fate of Torrhen's original remains unknown | Material royal continuity, not proof a hidden original survives |
+| C-457 | [ACOK 7](../Source/Main-Series/02-A-Clash-of-Kings/chapters/07-catelyn.md) | Cleos Frey links Genna Lannister and Emmon Frey and swears publicly to return from Cersei | Cross-house diplomacy; pledge and completed return are distinct |
+| C-458 | [ACOK 7](../Source/Main-Series/02-A-Clash-of-Kings/chapters/07-catelyn.md) | Robb's peace requires Arya's release even though Cersei earlier admitted losing Arya | Crucial cross-POV information asymmetry |
+| C-459 | [ACOK 7](../Source/Main-Series/02-A-Clash-of-Kings/chapters/07-catelyn.md) | Robb demands North/Trident independence, Ice, remains, ten hostages, and keeps Jaime | Incompatible incentives and enforcement risks, not straightforward peace |
+| C-460 | [ACOK 7](../Source/Main-Series/02-A-Clash-of-Kings/chapters/07-catelyn.md) | Karstark walks out of peace offer; Robb fears lords can unmake him | Real coalition dissent, not yet mutiny |
+| C-461 | [ACOK 7](../Source/Main-Series/02-A-Clash-of-Kings/chapters/07-catelyn.md) | Robb sends Theon to Balon despite Catelyn's hostage warning | Directly disputed strategic gamble |
+| C-462 | [ACOK 7](../Source/Main-Series/02-A-Clash-of-Kings/chapters/07-catelyn.md) | Hoster's drugged last regrets are unclear while white raven has announced autumn | Family-memory lead and season marker with strong reliability limits |
+| C-463 | [ACOK 7](../Source/Main-Series/02-A-Clash-of-Kings/chapters/07-catelyn.md) | Brynden reports Beric and red priest striking foragers, Darry massacre and devastated riverlands | Mixed scouts' reports; specific events not all on-page eyewitness testimony |
+| C-464 | [ACOK 7](../Source/Main-Series/02-A-Clash-of-Kings/chapters/07-catelyn.md) | Brynden infers Tywin wants Harrenhal battle; Renly could threaten that posture but demand homage | Military interpretation and potential sovereignty conflict |
+| C-465 | [ACOK 8](../Source/Main-Series/02-A-Clash-of-Kings/chapters/08-tyrion.md) | Slynt admits selecting Deem to kill Robert's infant daughter and her mother | Direct subordinate admission, not a recorded Cersei order |
+| C-466 | [ACOK 8](../Source/Main-Series/02-A-Clash-of-Kings/chapters/08-tyrion.md) | Bywater takes City Watch command while Slynt and six others are ordered toward Eastwatch | Enforced transfer versus unverified completion of voyage |
+| C-467 | [ACOK 8](../Source/Main-Series/02-A-Clash-of-Kings/chapters/08-tyrion.md) | Tyrion hints Deem should drown en route without witnessing death | Concealed lethal instruction is not completed event |
+| C-468 | [ACOK 8](../Source/Main-Series/02-A-Clash-of-Kings/chapters/08-tyrion.md) | Varys claims to have protected older royal bastard boy; compare Gendry's persecution | Identity, route, motive and original order still require confirmation |
+| C-469 | [ACOK 8](../Source/Main-Series/02-A-Clash-of-Kings/chapters/08-tyrion.md) | Varys's power-and-belief riddle accompanies actual transfer of armed obedience | Political theory with an interested narrator and concrete example |
+| C-470 | [ACOK 8](../Source/Main-Series/02-A-Clash-of-Kings/chapters/08-tyrion.md) | Tyrion wonders if Bywater belongs to Varys rather than to himself | Suspected agent alignment, not confirmed ownership |
+| C-471 | [ACOK 8](../Source/Main-Series/02-A-Clash-of-Kings/chapters/08-tyrion.md) | White Hart and Moonrunner intelligence names planned betrayal/escape schemes | Plans and interceptions not evidence of completed events |
+| C-472 | [ACOK 8](../Source/Main-Series/02-A-Clash-of-Kings/chapters/08-tyrion.md) | Shae asks to help as Tyrion houses her; Bronn would ask price for infanticide | Sex worker agency and selective ethics in Tyrion's own circle |
+| C-473 | [ACOK 9](../Source/Main-Series/02-A-Clash-of-Kings/chapters/09-arya.md) | Yoren's west-of-Gods-Eye detour delays wagons and exhausts food | Geographic and material constraint on escape |
+| C-474 | [ACOK 9](../Source/Main-Series/02-A-Clash-of-Kings/chapters/09-arya.md) | Gendry says Mott sent him suddenly; Lommy wrongly supposes Stark paternity | Bastard's objective risk and his ignorance differ |
+| C-475 | [ACOK 9](../Source/Main-Series/02-A-Clash-of-Kings/chapters/09-arya.md) | Briarwhite's farmers charge and threaten Watch recruiters | Visible collapse of customary hospitality |
+| C-476 | [ACOK 9](../Source/Main-Series/02-A-Clash-of-Kings/chapters/09-arya.md) | Unidentified wounded men display black/yellow spotted treecat on brown | Keep heraldry unresolved; Yoren's detour costs days |
+| C-477 | [ACOK 9](../Source/Main-Series/02-A-Clash-of-Kings/chapters/09-arya.md) | Arya sees scorched impaled civilians; Yoren saves maimed woman and toddler | Perpetrators unknown, child's fate unverified |
+| C-478 | [ACOK 9](../Source/Main-Series/02-A-Clash-of-Kings/chapters/09-arya.md) | Hot Pie retracts boast of killing a child, while Gendry dons bull helm | Character reliability correction and material response to trauma |
+| C-479 | [ACOK 9](../Source/Main-Series/02-A-Clash-of-Kings/chapters/09-arya.md) | Willow sounds like dead woman's plea to Arya | Distinguish fear-associated perception from talking tree |
+| C-480 | [ACOK 9](../Source/Main-Series/02-A-Clash-of-Kings/chapters/09-arya.md) | Six pairs of wolf eyes approach Arya near Gods Eye then withdraw | Compare Nymeria rumor, do not assign pack identity |
+| C-481 | [ACOK 9](../Source/Main-Series/02-A-Clash-of-Kings/chapters/09-arya.md) | Yoren laments habitual road route; Arya hears possible distant screams | Logistical regret and sensory uncertainty, not confirmed further violence |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -484,4 +511,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the eighty-three first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the eighty-six first-pass chapters listed in the coverage tracker.
