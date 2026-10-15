@@ -680,6 +680,24 @@
 | C-649 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Mormont concludes Mance plans southward attack through vulnerable Wall | Plausible campaign hypothesis, flight from Others serious alternative |
 | C-650 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Sudden frost turns rainsoaked encampment crystal at dawn | Weather observation, magic source unproven |
 
+| C-651 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Theon Sea Bitch 100ft 50 oars 100 men and iron ram | New vessel specs; his firsthand command inexperience |
+| C-652 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Asha masquerades as pregnant married Esgred and advises crew selection | Intentional identity test, not real pregnancy or Sigrin marriage |
+| C-653 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Asha emphasizes seasoned rowers working in concert | Seamanship and existing social ties vs Theon's insistence on warriors |
+| C-654 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Lord Goodbrother brings nearly forty longships, shores full of preparations | Mobilization broad but no exact island fleet total |
+| C-655 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Balon prevents Myraham and other merchants leaving Lordsport | Operational secrecy to hide intended northern invasion |
+| C-656 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Theon squire Wex mute but clever and held through Botley horse bargain | Mutism not lack of awareness; Wex recognizes Asha |
+| C-657 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Theon's prized stallion Smiler requires Winterfell riding skill | Hostage years produce useful mainland training |
+| C-658 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Euron absent nearly two years, Silence black sail and red hull | Reported notoriety and succession uncertainty |
+| C-659 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Theon defers visit to mother Alannys on Harlaw | Missed family reconnection amid legitimacy anxiety |
+| C-660 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Asha recognized by dogs and servants while Theon unaware | Powerful network and knowledge asymmetry |
+| C-661 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Asha honored at Balon's right and commands Black Wind | Visible preferred status not established inheritance decree |
+| C-662 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Asha catches hurled finger-dance axe, supposed husband and child are axe and dirk | Competence display and unraveling of invented identity |
+| C-663 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Balon gives Theon eight longships to raid Stony Shore with Dagmer and Aeron | Diversion assignment, not captured castles |
+| C-664 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Balon gives Asha thirty picked ships to capture Deepwood Motte | Major northern base objective, result not yet verified |
+| C-665 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Victarion ordered via Saltspear and Fever River toward Moat Cailin | Main thrust targeting Robb return route at the Neck |
+| C-666 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Balon expects northern castles to lack strong defenders and Winterfell can wait | Operational assumptions vulnerable to unforeseen local resistance |
+| C-667 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Asha helps drunken Theon across swaying bridge despite mockery | Family relationship is adversarial yet not solely hostile |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -687,4 +705,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and one first-pass chapters listed in the coverage tracker.
