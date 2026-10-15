@@ -50,7 +50,7 @@ A sourced, contradiction-aware, character-led basis for two unofficial further n
 - [ ] Analyze Aegon and Jon Connington against Varys's testimony and Golden Company incentives.
 - [ ] Follow Jaime, Brienne and Stoneheart through their last incompatible oaths.
 - [x] Build **partial-order** North/Wall chronology and knowledge matrix from the five published books.
-- [ ] Resolve remaining courier and faction uncertainties before selecting a Battle of Ice branch.
+- [x] Audit core Manderly/Frey/Karstark chains against ADWD 29, 42, 44, 49, 51 and 62; distinguish dispatch, receipt and action.\n- [ ] Resolve unresolved courier receipts and faction command/arrival sequence before choosing a Battle of Ice branch.
 
 Later POV tracks: Sansa, Arya, Bran, Cersei/Faith, Dorne, Oldtown and Euron; no unsupported fixed chapter order yet.
 
@@ -64,4 +64,4 @@ Later POV tracks: Sansa, Arya, Bran, Cersei/Faith, Dorne, Oldtown and Euron; no 
 
 ## Current next action
 
-Theon/Asha/Stannis cross-book pass and North/Wall chronology slice are documented. Next: trace the Manderly–Frey and Arnolf–Jon courier chains (including who knew what and when), then test one grounded branch of the Battle of Ice. See [Night Lamp](research/theories/night-lamp.md), [Pink Letter](research/theories/pink-letter.md), and [North/Wall chronology](research/north-wall-dependencies.md). [Jon](research/characters/jon-snow.md) and [Davos](research/characters/davos-seaworth.md) remain initial analyses, not locked outcomes.
+The initial Manderly–Frey–Arnolf source audit is complete, and the unsupported 'Stannis knows the Night Lamp' claim has been corrected. Next: trace the **unresolved** courier receipts, Bolton intelligence source, actual Frey/Manderly command paths, and Theon/Jeyne's treatment before selecting any Battle of Ice branch. See [Night Lamp](research/theories/night-lamp.md), [Pink Letter](research/theories/pink-letter.md), and [North/Wall chronology](research/north-wall-dependencies.md). [Jon](research/characters/jon-snow.md) and [Davos](research/characters/davos-seaworth.md) remain initial analyses, not locked outcomes.

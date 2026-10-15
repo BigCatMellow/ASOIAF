@@ -64,6 +64,21 @@ Wyman also discusses departing to the Bolton wedding with Freys as guests, and p
 
 **Counterexample:** One must not assume that a Wyman–Stannis alliance is already active simply because their ultimate enemies are the same. Wyman might prioritize restoring a Stark child over the Baratheon claim; his men might not know his covert promises; he may be too badly injured to control their conduct.
 
+## Source-checked communication and troop constraints (2026-10-14)
+
+| Chain | Directly observed / reported | Unsupported leap to avoid |
+| --- | --- | --- |
+| White Harbor | ADWD 29: Manderly's conditional Stark-heir bargain; Wylis is back; he can command ships and men. ADWD 51: Wyman is wounded in a Frey brawl, and White Harbor men are ordered through Winterfell's east gate. | His bargain with Davos proves he has already coordinated with Stannis's battle captains or that his wounded self will command the sortie. |
+| Freys | ADWD 51: Little Walder is found murdered; Hosteen accuses Wyman and attacks him; Roose sends Hosteen's force out of the main gate. | Hosteen reaches Stannis first, obeys a coordinated plan, or knows his allies' covert intentions. |
+| Karstarks | ADWD 44/49: Alys exposes Arnolf's scheme and Jon warns Deepwood. ADWD 62: Arnolf arrived eight days ago with more than 450 troops, a maester, ravens, and his own provisions; he urges assault. | The king is aware of Alys's warning or has already neutralized the embedded force. |
+| Stannis and logistics | ADWD 42: northmen select lakes for fishing; the anticipated fifteen-day march becomes much longer. ADWD 62: after nineteen days the host remains three days from Winterfell; hunger, horse losses, cannibalism and confessional tension persist. | The lake holes were prepared as traps on the king's orders or the army can easily convert a victory into a siege. |
+| Theon/Jeyne | ADWD 51: they escape with surviving members of Abel's group. ADWD 62: Mors Umber gives them to Tycho's escort, which reaches Stannis's camp. | They have already been questioned, convinced Stannis of Jeyne's true identity, or know the fate of every spearwife. |
+| False beacon | ADWD 9: **Davos** recalls Sistermen deceiving sailors with false coastal lights. ADWD 62: the winter camp has a watchtower beacon. | Stannis is shown knowing the Sistermen technique; this is **not established** in the five-book text. |
+
+**A date-like clue that does not solve calendar synchronization:** Asha says Arnolf has been with the army for eight days and that they have remained roughly three days from Winterfell for nineteen days. Those are first-person elapsed durations within ADWD 62, not dates that synchronize all Jon/Theon POV events. Roose receives a raven with accurate-looking location and supply intelligence in ADWD 51, but the source of that raven is not revealed in the scene.
+
+**THEORY pressure point:** The conjunction of a compromised Karstark contingent, a Frey/Manderly feud, the king's severe supply crisis, and Theon/Jeyne's arrival presents **several** possible paths. A secret, fully synchronized northern coalition would require new on-page evidence rather than an assumption that everyone's motives align.
+
 ## Open dependencies before choosing the Battle of Ice result
 
 - **Courier chain:** Who, if anyone, forwarded Clydas's raven from Deepwood to the king; did Tycho learn Alys's warning before leaving?

@@ -18,7 +18,7 @@ Does the five-book text warrant a *deliberate* Stannis plan to lure Frey cavalry
 
 | Observation | Precise locator | Epistemic class | Supports / limits |
 | --- | --- | --- | --- |
-| Sistermen wreck ships by using false beacon lights; Stannis once threatened Godric Borrell over extinguishing the Night Lamp. | **ADWD 9 (Davos)** | **VERIFIED** as narrated memory/conversation | Establishes a precise maritime deception **known to Stannis**, rather than a generic assumption about his cleverness. Does not establish intent to reuse it on ice. |
+| Davos recalls that Sistermen sometimes use false coastal lights to wreck ships. The text does **not** say Stannis threatened Borrell over the Night Lamp. | **ADWD 9 (Davos)** | **VERIFIED** as narrated memory/conversation | Establishes a maritime deception **known to Davos/the reader**. The claim that Stannis personally knows or plans this method is an **unsupported inference**. |
 | Crofter's village is between two frozen lakes; a wooded island has a weirwood; watchtower beacon burns day and night. | **ADWD 62 (Asha / The Sacrifice)** | **VERIFIED** | Supplies the geometry and visible navigational marker. |
 | Repeated ice-fishing has made many holes, especially toward an island; northern scout Ned Woods warns the lake ice is dangerously perforated. | **ADWD 62** | **VERIFIED** | Supports a potentially deadly surface; **the holes are described as fishing activity**, not as a command to engineer a trap. |
 | In the blizzard, Asha loses her way in a few steps while the watchtower beacon remains visible. | **ADWD 62** | **VERIFIED** | Disorientation and beacon dependence are credible mechanisms. |
@@ -36,17 +36,25 @@ The developed Night Lamp hypothesis is from **Cantuse, 2014**, inspired in part 
 
 **THEORY mechanism:** Extinguish real village beacon → illuminate a false light on the island → confuse approaching cavalry in a blizzard → cavalry traverses fishing-damaged ice → drowned enemies and counterattack. **Not confirmed in the novel.** Supplementary embellishments (catapults, exact encirclement, timing of Lightbringer, who intercepts supplies) need independent proof and are not adopted merely by association.
 
-**Five-book baseline alone warrants:** this is a *plausible tactical possibility*, not that Stannis secretly orchestrated fishing, prepared the false beacon, or won.
+**Five-book baseline alone warrants:** this is a *plausible tactical possibility*, not that Stannis knows the Sistermen practice, secretly orchestrated fishing, prepared the false beacon, or won.
+
+## Additional verified material from source pass
+
+- **ADWD 42 (The King's Prize):** Horpe selects the crofter's village because the frozen lakes offer fishing, explicitly a survival motive. The host expected about fifteen days' march from Deepwood, but on the fifteenth day had not covered half the distance. Harsh logistics are a real constraint, not decoration.
+- **ADWD 51 (Theon):** Roose's wet raven reports Stannis's host is three days away, snowbound and starving. Hosteen Frey and the White Harbor force receive separate sortie orders; the aftermath is off-page.
+- **ADWD 62 (The Sacrifice):** Asha reports they have been three days away from Winterfell for nineteen days; Stannis's beacon remains alight and the camp is deeply divided. Arnolf arrived eight days earlier with over 450 armed men and limited provisions. Tycho arrives after meeting Mors Umber, bringing Theon and Jeyne. The enemy's actual approach is still unseen.
+
+**Method correction:** The earlier version of this record wrongly claimed that ADWD 9 showed Stannis threatening Godric Borrell over the Night Lamp and knowing the false-beacon trick. The inspected passage supports neither assertion. That was an unsupported embellishment and has been withdrawn.
 
 ## Strong counterarguments / disconfirmers
 
-1. **Causation vs. coincidence:** Ice holes came from subsistence fishing. The text doesn't say Stannis ordered a specific layout.
-2. **Practicality:** Armored horses could break ice, but whether enough enemy cavalry will move onto a lake, how a false beacon would be positioned and mistaken for the tower, and how defenders survive friendly-fire/breakthrough remain unproved.
-3. **Enemy route/competence:** Roose ordered two mutually hostile groups out via different gates (ADWD 51). Their relative arrival, scouting, behavior and ability to see the false beacon are unshown.
-4. **Command/supply failure:** Stannis's own men are starving, frostbitten, and divided; even a successful trap may be a pyrrhic victory.
-5. **Karstark sabotage:** If Stannis hasn't learned of Arnolf's betrayal, a clever plan may fail from within. Alys's warning was addressed to his *former* location (ADWD 44/49).
-6. **Over-reading hearsay:** The Pink Letter's description of Stannis's defeat is a **claim**, not direct battle evidence (ADWD 69).
-7. **Alternative explanation:** Asha interprets Stannis alone by the beacon as praying for rescue; she may be wrong, but the reader cannot simply replace her mistake with certainty that he is plotting.
+1. **Unproven knowledge chain:** A metaphorical parallel between Davos's coastal memories and Stannis's camp does not prove a decision by Stannis. A messenger, shared experience, or other source would be needed to establish that link.\n2. **Causation vs. coincidence:** Ice holes came from subsistence fishing. The text doesn't say Stannis ordered a specific layout.
+3. **Practicality:** Armored horses could break ice, but whether enough enemy cavalry will move onto a lake, how a false beacon would be positioned and mistaken for the tower, and how defenders survive friendly-fire/breakthrough remain unproved.
+4. **Enemy route/competence:** Roose ordered two mutually hostile groups out via different gates (ADWD 51). Their relative arrival, scouting, behavior and ability to see the false beacon are unshown.
+5. **Command/supply failure:** Stannis's own men are starving, frostbitten, and divided; even a successful trap may be a pyrrhic victory.
+6. **Karstark sabotage:** If Stannis hasn't learned of Arnolf's betrayal, a clever plan may fail from within. Alys's warning was addressed to his *former* location (ADWD 44/49).
+7. **Over-reading hearsay:** The Pink Letter's description of Stannis's defeat is a **claim**, not direct battle evidence (ADWD 69).
+8. **Alternative explanation:** Asha interprets Stannis alone by the beacon as praying for rescue; she may be wrong, but the reader cannot simply replace her mistake with certainty that he is plotting.
 
 ## Three viable near-term branches (none adopted)
 
@@ -58,7 +66,7 @@ The developed Night Lamp hypothesis is from **Cantuse, 2014**, inspired in part 
 
 ## THINK → PLAN call
 
-**THINK finding:** The triad *false lights known to Stannis (ADWD 9) + beacon and damaged ice (ADWD 62) + Frey/Manderly sortie (ADWD 51)* is the theory's robust foundation. The causal leap from **can** to **will** is not yet earned.
+**THINK finding (corrected after direct EPUB check):** The triad *Sistermen false lights recalled by Davos (ADWD 9) + beacon and damaged ice (ADWD 62) + Frey/Manderly sortie (ADWD 51)* is the theory's foundation. **A direct link from Davos's recollection to Stannis's tactical knowledge has not been established.** The causal leap from **can** to **will** is not yet earned.
 
 **PLAN next test:** Reconstruct a partial-order sequence for ADWD 44/49/51/62/69. Trace (i) arrival of Jon's raven, (ii) Arnolf's advice, (iii) first contact from Hosteen, (iv) what Theon/Jeyne can attest, and (v) Manderly force posture. Only then promote one tactical branch for drafting.
 

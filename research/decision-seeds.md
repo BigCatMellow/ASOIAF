@@ -13,7 +13,7 @@ The table is deliberately **not a list of planned plot beats**. An idea advances
 
 | Seed / theory | Text anchor | Current assessment | Decisive unanswered question / counterweight |
 |---|---|---|---|
-| [Night Lamp: Stannis may manipulate Frey forces on winter ice](theories/night-lamp.md) | ADWD 9 (Davos); ADWD 51 (Theon); ADWD 62 (The Sacrifice) | `THEORY — KEEP OPEN / HIGH-VALUE TEST` | Can deployed forces, terrain and information create the tactic without attributing omniscience? |
+| [Night Lamp: Stannis may manipulate Frey forces on winter ice](theories/night-lamp.md) | ADWD 9 (Davos); ADWD 51 (Theon); ADWD 62 (The Sacrifice) | `THEORY — KEEP OPEN; false beacon knowledge by Stannis UNVERIFIED` | Can deployed forces, terrain and information create the tactic without attributing omniscience? |
 | [Pink Letter authorship / factual reliability](theories/pink-letter.md) | ADWD 51 (Theon); ADWD 62 (Asha); ADWD 69 (Jon) | `VERIFIED receipt and fallout; authorship / factual claims UNKNOWN` | Who has every asserted secret, motive and means to deliver it? |
 | Davos leaves Rickon hidden | ADWD 29 (Davos); ASOS 63 (Davos) | `THEORY — CONDITIONAL` | Is returning Rickon actually comparable to sacrificing Edric? No proof of Skagos conditions. |
 | Aegon's successful political campaign | ADWD 61 (Griffin Reborn); ADWD epilogue (Kevan) | `THEORY — TEST` | Does a credible Targaryen claimant unify claimants, or magnify rival incentives? |

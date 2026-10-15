@@ -84,6 +84,16 @@ Possible paths:
 
 **Gardening rule:** Do not determine which path occurs until Stannis, Asha, Jeyne and Theon have reacted to one another. This knot can alter the Manderly–Frey response **independently** of the Night Lamp's military success.
 
+## Hand-off details and risk to the witnesses
+
+**VERIFIED ADWD 51 → 62:** Rowan and other rescuers push Theon and Jeyne to escape before the newly ordered Bolton sortie reaches Stannis. After fleeing Winterfell, the pair are picked up by Mors Umber's forces; Mors hands them over to Tycho's traveling party, which reaches Stannis's frozen camp. Asha, not Stannis, is the POV for their arrival.
+
+**CHARACTER CLAIM:** Rowan denies the spearwives killed Little Walder. This denial is evidence of what she says, not proof identifying the actual killer. Theon's accusation arose from the killers' previous activity, not direct observation of the child's death.
+
+**Political stakes:** Wyman's conditional bid to restore a Stark boy makes the false-Arya marriage crucial, but it does not give Stannis or Manderly's field commanders full knowledge of the deception. Theon could offer the truth while still being distrusted; Jeyne could face renewed exploitation if her identity becomes a political instrument.
+
+**Status:** The first delivery is verified. Interrogation, treatment of Jeyne, and Stannis's own reaction are **UNKNOWN**.
+
 ## THINK challenge
 
 The narrative temptation is to make all three cooperate instantly and deliver Stannis a brilliant battle victory. Yet Theon may not trust any captor, Asha knows her status is precarious, and Stannis needs information during a starvation crisis. These conflicts are *productive*; they should change the tactical outcome.
