@@ -86,7 +86,7 @@ Only *after* a layer-1 decision should any of these events affect other theaters
 
 ## Nearest bounded research tasks
 
-1. **Stannis and North:** Three variants have been source-audited in the [first-audience decision ledger](stannis-theon-jeyne-decision-ledger.md). Next verify who can authenticate the distinct Theon, Arnolf and Manderly information before fighting.
+1. **Stannis and North:** Three variants have been source-audited in the [first-audience decision ledger](stannis-theon-jeyne-decision-ledger.md). The [Arnolf warning-route audit](arnolf-warning-routing.md) now separates four possible delivery/receipt chains and tests command consequences; **actual receipt and the enemy's approach remain open**. Next test a private audience against real troop/courier constraints.
 2. **Aegon and Dorne:** Separate *message dispatch* from *reception*. Compare Doran's ADWD 38 assumptions to Connington's ADWD 61 outbound order. No speculative arrival dates.
 3. **Meereen:** Read the exact orders and hostage discussions in ADWD 67/70 alongside ADWD 66/63, and test what happens if Tyrion/Victarion act without Daenerys ever hearing from Barristan.
 4. **Independent challenge:** Check whether the three clusters are enough for the reader to recognize winter's escalating cost; if not, move a Sam/Wall knowledge scene earlier without inventing a message.

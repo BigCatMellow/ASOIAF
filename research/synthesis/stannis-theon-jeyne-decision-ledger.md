@@ -134,3 +134,7 @@ The arrows illustrate **possible consequences of deliberate choices**; no node m
 - **Independent source-tier rule:** Later *Winds* sample chapters can be reviewed in a separate document when authorized, but they cannot backfill the **five published novels' ending**.
 
 **Disposition:** `A, B, C ALL RETAINED`. **Best evidence-supported next movement:** a **brief protective, skeptical audience** (a weak version of A), because witness testimony could change the next choices and the camp cannot afford costly false intelligence. This is a *literary experiment preference*, not a claim Stannis will choose it; competing branches remain valid.
+
+## Warning-route companion (2026-10-15)
+
+The [Arnolf warning-route audit](arnolf-warning-routing.md) is the canonical synthesis owner for the four possible routes from Castle Black through Deepwood to Stannis. Its strongest new ordering constraint: **Tycho meets Jon before Alys reveals the betrayal in ADWD 44**, but later travels through Deepwood to the king's camp. The novel never depicts a Deepwood receipt or an audience with Stannis. All three first-audience branches above remain open.

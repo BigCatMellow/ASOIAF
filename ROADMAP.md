@@ -160,7 +160,8 @@ This **separate** workstream does not take over the sequential chapter-reading w
 - [x] Record **15 cross-theater information handoffs** with `RECEIVED`, `DISPATCHED`, `PREPARED`, `OVERHEARD`, `INTENDED` and `UNKNOWN` distinctions in [the message ledger](research/synthesis/information-handoffs.md).
 - [x] Set up three conditional macro-trajectories and the nearest unmade decisions in a [Winds opening architecture](research/synthesis/winds-conditional-architecture.md), with no adopted battle/king/magic ending.
 - [x] [Stannis/Theon/Jeyne source-audited three-way first-audience test](research/synthesis/stannis-theon-jeyne-decision-ledger.md), anchored in ADWD 44/49/51/62: the newcomers reach Asha's camp, **not a narrated audience with Stannis**; Theon's knowledge of the false Arya and Roose's separate sortie orders does not verify Arnolf's betrayal.
-- [ ] Verify physical and informational access to Stannis's watchtower, the arrival of Clydas's warning, the shape of the banker's offer, and protections for both rescued captives before selecting any battle result.
+- [x] [Arnolf warning courier-route audit](research/synthesis/arnolf-warning-routing.md): Tycho's initial Jon meeting predates Alys's revelation; Clydas's raven went to Deepwood; Tycho later passed Deepwood; camp contains black-clad riders, Arnolf's own maester/ravens and a contested command structure. **No warning transfer or kingly receipt is proved.**
+- [ ] Verify whether Deepwood read or forwarded the warning, who the two black-clad riders were, the banker's actual terms, and how an accused Arnolf's 400+ contingent could be isolated without an armed crisis before selecting any battle result.
 - [ ] Challenge Aegon/Doran message receipt timing and Barristan/Victarion involvement before claiming any cross-plot meeting.
 - [ ] Independent review of the resulting conditional scenes; reject shortcuts that presume shared reader knowledge.
 

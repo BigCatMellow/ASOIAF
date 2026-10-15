@@ -12,7 +12,7 @@
 
 | # | Source → prospective receiver | Message / what may be learned | Status in five novels | Must be shown before story can act on it |
 | --- | --- | --- | --- | --- |
-| 1 | **Alys/Jon → Stannis** | Arnolf Karstark's treachery | `DISPATCHED` to **Deepwood Motte**, *not directly observed in Stannis's hand* (ADWD 44, 49). | Forwarding route to army; date; who can authenticate Alys's accusation. |
+| 1 | **Alys → Jon/Clydas → Deepwood → Stannis?** | Alys alleges Arnolf Karstark's betrayal | `REPORTED TO JON` (ADWD 44); `DISPATCHED TO DEEPWOOD` by Clydas (ADWD 49); **neither arrival at Deepwood nor Stannis receipt is narrated**. Tycho meets Jon *before* Alys's disclosure, later passes through Deepwood (ADWD 62). | Verify actual receipt, second human relay or other route. [Courier and command audit](arnolf-warning-routing.md). |
 | 2 | **Mors Umber/Tycho → Stannis's camp** | Theon and Jeyne after Winterfell escape | `RECEIVED AT CAMP` by **Asha**, not shown received personally by Stannis (ADWD 62); **interrogation not shown**. | Stannis needs an audience to hear Theon's identity and sortie claims, judge their credibility and protect the two. See [source test](stannis-theon-jeyne-decision-ledger.md). |
 | 3 | **Davos/White Harbor → Northern lords/Stannis** | Genuine Rickon/Skagos route and conditional Manderly allegiance | `RECEIVED` **by Davos**, not the boy's recovery (ADWD 29). `BLOCKED` pending mission. | Return or credible news from Rickon; independent proof of survival; political consent of Manderly's captains. |
 | 4 | **Connington → Doran** | Aegon claimed to be Elia's son | `PREPARED`: Connington tells Haldon to write (ADWD 61). | Show actual sending/receipt and a Dornish assessment of the identity claim. |
