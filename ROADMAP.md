@@ -94,6 +94,10 @@ Later POV tracks: Sansa, Arya, Bran, Cersei/Faith, Dorne, Oldtown and Euron; no 
 - A discovery changes a major ending premise → return to THINK and reopen alternatives.
 - Artistic choice cannot be resolved from text → present distinct supported branches for human choice.
 
-## Current next action
+## Current next action — 2026-10-14 four-family audit
 
-Aegon/Connington and Jaime/Brienne/Stoneheart now have targeted first-pass character sheets; a 52-topic theory catalog is built and **25 cases** are documented. A 36-fragment quotation check found no mismatches. Next: complete the **unresolved** northern courier/faction branches **or** advance the independent [Meereen character analysis](research/characters/daenerys-barristan-tyrion.md) by tracing Tyrion's earlier moral development and Barristan's disputed poison evidence. No contested outcome is yet adopted; prioritize queued `HIGH` theories when they can actually alter the next character decisions. See [Night Lamp](research/theories/night-lamp.md), [Pink Letter](research/theories/pink-letter.md), and [North/Wall chronology](research/north-wall-dependencies.md). [Jon](research/characters/jon-snow.md) and [Davos](research/characters/davos-seaworth.md) remain initial analyses, not locked outcomes.
+Four [theory case files](research/theories/README.md) now distinguish **text-supported** Martell contingencies, Robb's witnessed succession choice, Citadel information control, and the Others' observed danger from **unproven** master plans, missing legal wording, central conspiracies and ancient treaties. [Cross-story consequence map](research/consequence-map-2026-10-14.md) preserves decision forks.
+
+**Next bounded research:** (1) map surviving Robb-will witnesses/claimant-information access; (2) Dorne ↔ Aegon ↔ Quentyn information travel; (3) independently audit *The World of Ice & Fire*'s conflicting ancient accounts and *Fire & Blood*'s dragon-extinction record in clearly segregated source tiers. No battle, supernatural or royal outcome adopted. The other previously identified North/Wall and Meereen dependencies remain open.
+
+**Quality note:** Four new case files passed a targeted 9/9 source-fragment check; 36 earlier checks remain on record, but contextual verification and independent review are unfinished.
