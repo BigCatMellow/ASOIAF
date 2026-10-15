@@ -37,17 +37,20 @@ A sourced, contradiction-aware, character-led basis for two unofficial further n
 - [x] Confirm 5 novels present in supplied EPUB.
 - [x] Verify navigation and store chapter index.
 - [x] Preserve targeted closing-state baseline, clearly provisional.
-- [x] Establish source / copyright boundary and note public `Source/` uploads added by the owner during this work.\n- [ ] Owner-side rights/visibility review for public EPUBs (not a blocker for non-redistributive research; see [SOURCES.md](SOURCES.md)).
+- [x] Establish source / copyright boundary and note public `Source/` uploads added by the owner during this work.
+- [ ] Owner-side rights/visibility review for public EPUBs (not a blocker for non-redistributive research; see [SOURCES.md](SOURCES.md)).
 
 ## Phase 1: first wave
 
 - [x] Ground Jon's duty-vs-kin tension in chapters spanning AGOT → ADWD.
 - [x] Ground Davos's conscience-vs-service tension in ACOK → ADWD.
-- [x] First cross-book Theon/Asha/Stannis pass: verified core decisions from ACOK, AFFC and ADWD, without assuming the Pink Letter is accurate.\n- [ ] Deepen Theon's trauma/identity analysis and Stannis's moral reasoning through additional source dialogue.
+- [x] First cross-book Theon/Asha/Stannis pass: verified core decisions from ACOK, AFFC and ADWD, without assuming the Pink Letter is accurate.
+- [ ] Deepen Theon's trauma/identity analysis and Stannis's moral reasoning through additional source dialogue.
 - [ ] Analyze Daenerys's ruler-to-conqueror tension with Barristan and Tyrion's incompatible agendas.
 - [ ] Analyze Aegon and Jon Connington against Varys's testimony and Golden Company incentives.
 - [ ] Follow Jaime, Brienne and Stoneheart through their last incompatible oaths.
-- [x] Build **partial-order** North/Wall chronology and knowledge matrix from the five published books.\n- [ ] Resolve remaining courier and faction uncertainties before selecting a Battle of Ice branch.
+- [x] Build **partial-order** North/Wall chronology and knowledge matrix from the five published books.
+- [ ] Resolve remaining courier and faction uncertainties before selecting a Battle of Ice branch.
 
 Later POV tracks: Sansa, Arya, Bran, Cersei/Faith, Dorne, Oldtown and Euron; no unsupported fixed chapter order yet.
 
