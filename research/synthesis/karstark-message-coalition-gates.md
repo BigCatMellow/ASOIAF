@@ -190,6 +190,8 @@ In ADWD 49 (Jon), **Ser Axell Florent says** Queen Selyse approves of Alys/Sigor
 
 Axell also says **Ser Patrek of King's Mountain had wanted Alys as his own wife**. By ADWD 69 (Jon), the same Patrek is killed in a violent confrontation with Wun Wun after Selyse has pressed to marry him to Val. These events establish (a) a disappointed alternative suitor and (b) subsequent armed tension involving a queen's knight and a giant at Castle Black. **They do not establish that Patrek's death was caused by resentment about Alys**, nor that his death invalidated her marriage. However, after Jon's attack, the willingness of the queen's men to defend his cross-cultural settlement is especially untested.
 
+**Detailed follow-up:** The [Castle Black post-stabbing custody and marriage audit](castle-black-after-jon-alliances.md) separately tracks Val's protected Hardin's Tower quarters, Patrek's death at that site, Selyse's contradictory integration terms, the Watch/Free Folk hostages, Cregan's custody and the misread Alys/Arya grey-girl vision. These remain unresolved causal gates, not adopted explanations.
+
 ## 13. Conditional near-term tests for the unwritten continuation
 
 1. **Limited accord:** If Alys and Sigorn make contact with the elders or Karhold's own household, a pact might recognize *her conditional inheritance* and *his marital position* while requiring local oaths, a named garrison command, provisions, and a rule for armed Thenns crossing clan land. **No such pact has occurred.**
