@@ -16,6 +16,7 @@ This directory belongs to the **cross-book / potential continuation** workstream
 - [Convergence map](winds-convergence-map.md) — canonical owner for **cross-theater** dependencies, where local decisions could intersect, and the difference between winning and governing.
 - [Information handoffs](information-handoffs.md) — canonical owner for **cross-theater communication and verification state**. Local chronology detail belongs to the existing specialist files.
 - [Conditional Winds architecture](winds-conditional-architecture.md) — **working experiments** for an organically developing opening, with alternative outcomes and reversal tests.
+- [Stannis/Theon/Jeyne first-audience decision ledger](stannis-theon-jeyne-decision-ledger.md) — three source-constrained paths: private verification, controlled deception or urgent military action. Distinguishes delivery to Asha from direct kingly interrogation.
 
 ### Sources being linked, not reproduced
 

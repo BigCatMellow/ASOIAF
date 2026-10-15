@@ -13,7 +13,7 @@
 | # | Source → prospective receiver | Message / what may be learned | Status in five novels | Must be shown before story can act on it |
 | --- | --- | --- | --- | --- |
 | 1 | **Alys/Jon → Stannis** | Arnolf Karstark's treachery | `DISPATCHED` to **Deepwood Motte**, *not directly observed in Stannis's hand* (ADWD 44, 49). | Forwarding route to army; date; who can authenticate Alys's accusation. |
-| 2 | **Mors Umber/Tycho → Stannis** | Theon and Jeyne captured after Winterfell escape | `RECEIVED` at camp by arrival seen in Asha's POV (ADWD 62); **interrogation not shown**. | Theon/Jeyne must reveal their knowledge; Stannis must decide what to believe and how to protect them. |
+| 2 | **Mors Umber/Tycho → Stannis's camp** | Theon and Jeyne after Winterfell escape | `RECEIVED AT CAMP` by **Asha**, not shown received personally by Stannis (ADWD 62); **interrogation not shown**. | Stannis needs an audience to hear Theon's identity and sortie claims, judge their credibility and protect the two. See [source test](stannis-theon-jeyne-decision-ledger.md). |
 | 3 | **Davos/White Harbor → Northern lords/Stannis** | Genuine Rickon/Skagos route and conditional Manderly allegiance | `RECEIVED` **by Davos**, not the boy's recovery (ADWD 29). `BLOCKED` pending mission. | Return or credible news from Rickon; independent proof of survival; political consent of Manderly's captains. |
 | 4 | **Connington → Doran** | Aegon claimed to be Elia's son | `PREPARED`: Connington tells Haldon to write (ADWD 61). | Show actual sending/receipt and a Dornish assessment of the identity claim. |
 | 5 | **Quentyn's party/Meereen → Doran/Arianne** | Quentyn's death and Daenerys's position | `NOT RECEIVED` in any five-book Dorne POV; Quentyn's disaster is narrated in ADWD 68; Barristan sees consequences (ADWD 70). | A messenger/ship with a plausible timeline and identification of what they really know. |
@@ -42,7 +42,7 @@ Most 'convergences' are **asymmetric receipt situations**:
 
 ## Highest-value handoffs to verify next
 
-1. `#1 + #2`: Does Theon/Jeyne's arrival occur soon enough for Stannis to identify both the false Arya and Karstark plot before fighting? These are different facts from different people.
+1. `#1 + #2`: Theon and Jeyne arrive **before Asha**, not within a narrated audience with Stannis. Theon's possible evidence of false Arya and Roose's separate sortie orders **cannot** certify Alys's Karstark warning. See [three-way ledger](stannis-theon-jeyne-decision-ledger.md).
 2. `#4 + #5`: Can Doran receive Aegon's claim **before** news of Quentyn's fate? The two arrival orders imply different political motivations and scenes.
 3. `#7 + #8`: Does Sam deliver his warning beyond Marwyn, and can Marwyn still travel if the Reach coast deteriorates?
 4. `#9 + #10`: Does Victarion's battle/horn intervention precede Dany's political return, or does she encounter its consequences later?

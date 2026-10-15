@@ -159,7 +159,8 @@ This **separate** workstream does not take over the sequential chapter-reading w
 - [x] Integrate the existing North/Wall, Aegon/Dorne, court/Faith, Meereen, Oldtown/Ironborn and divided Stark evidence in a [seven-theater convergence map](research/synthesis/winds-convergence-map.md).
 - [x] Record **15 cross-theater information handoffs** with `RECEIVED`, `DISPATCHED`, `PREPARED`, `OVERHEARD`, `INTENDED` and `UNKNOWN` distinctions in [the message ledger](research/synthesis/information-handoffs.md).
 - [x] Set up three conditional macro-trajectories and the nearest unmade decisions in a [Winds opening architecture](research/synthesis/winds-conditional-architecture.md), with no adopted battle/king/magic ending.
-- [ ] Test the North's Theon/Jeyne interrogation and Arnolf-warning uncertainty against exact ADWD 51/62/49 scenes, then propagate only a source-supported consequence.
+- [x] [Stannis/Theon/Jeyne source-audited three-way first-audience test](research/synthesis/stannis-theon-jeyne-decision-ledger.md), anchored in ADWD 44/49/51/62: the newcomers reach Asha's camp, **not a narrated audience with Stannis**; Theon's knowledge of the false Arya and Roose's separate sortie orders does not verify Arnolf's betrayal.
+- [ ] Verify physical and informational access to Stannis's watchtower, the arrival of Clydas's warning, the shape of the banker's offer, and protections for both rescued captives before selecting any battle result.
 - [ ] Challenge Aegon/Doran message receipt timing and Barristan/Victarion involvement before claiming any cross-plot meeting.
 - [ ] Independent review of the resulting conditional scenes; reject shortcuts that presume shared reader knowledge.
 

@@ -41,7 +41,7 @@ These are **possible next choices**, not an assigned chapter order. Each line ca
 
 | Cluster | First decision to dramatize | Choice A | Choice B | Character-driven cost |
 | --- | --- | --- | --- | --- |
-| **North / Wall** | Stannis receives people who can expose Winterfell's false Arya while an embedded Karstark faction urges attack (ADWD 62). | Question/protect Theon and Jeyne; postpone action to verify | Prioritize an assault or controlled deception to survive | Delay increases hunger and danger; immediate attack risks lies, betrayal and lives. |
+| **North / Wall** | Tycho's party reaches Stannis's camp with Theon and Jeyne, while Arnolf's Karstarks urge attack; **Stannis has not yet met or interrogated the arrivals on-page** (ADWD 62). | Question/protect Theon and Jeyne; postpone action to verify | Prioritize an assault or controlled deception to survive | Delay increases hunger and danger; immediate attack risks lies, betrayal and lives. |
 | **South / legitimacy** | Aegon insists on leading an assault (ADWD 61); Connington decides how much agency the claimant gets. | Shield him through a symbolic command | Trust him with real risk and responsibility | Protecting him may infantilize him; exposing him may endanger the entire cause. |
 | **Meereen / sovereignty** | Barristan governs after deposing Hizdahr, while Yunkish military threats escalate (ADWD 67/70). | Negotiate or preserve hostages while defending | Strike first and seek military success | A victory can cost the queen's chosen settlement; restraint can cost freed people and the city's defenses. |
 
@@ -86,7 +86,7 @@ Only *after* a layer-1 decision should any of these events affect other theaters
 
 ## Nearest bounded research tasks
 
-1. **Stannis and North:** From ADWD 51/62, write three evidence-gated variants for *how* Stannis questions Theon/Jeyne before battle; use the extant [North chronology](../north-wall-dependencies.md), not the sequential-agent chapter folder.
+1. **Stannis and North:** Three variants have been source-audited in the [first-audience decision ledger](stannis-theon-jeyne-decision-ledger.md). Next verify who can authenticate the distinct Theon, Arnolf and Manderly information before fighting.
 2. **Aegon and Dorne:** Separate *message dispatch* from *reception*. Compare Doran's ADWD 38 assumptions to Connington's ADWD 61 outbound order. No speculative arrival dates.
 3. **Meereen:** Read the exact orders and hostage discussions in ADWD 67/70 alongside ADWD 66/63, and test what happens if Tyrion/Victarion act without Daenerys ever hearing from Barristan.
 4. **Independent challenge:** Check whether the three clusters are enough for the reader to recognize winter's escalating cost; if not, move a Sam/Wall knowledge scene earlier without inventing a message.
