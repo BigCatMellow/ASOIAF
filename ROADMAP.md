@@ -43,11 +43,11 @@ A sourced, contradiction-aware, character-led basis for two unofficial further n
 
 - [x] Ground Jon's duty-vs-kin tension in chapters spanning AGOT → ADWD.
 - [x] Ground Davos's conscience-vs-service tension in ACOK → ADWD.
-- [ ] Trace Theon and Asha from Winterfell through the crofter's village; incorporate Stannis without treating Pink Letter as truth.
+- [x] First cross-book Theon/Asha/Stannis pass: verified core decisions from ACOK, AFFC and ADWD, without assuming the Pink Letter is accurate.\n- [ ] Deepen Theon's trauma/identity analysis and Stannis's moral reasoning through additional source dialogue.
 - [ ] Analyze Daenerys's ruler-to-conqueror tension with Barristan and Tyrion's incompatible agendas.
 - [ ] Analyze Aegon and Jon Connington against Varys's testimony and Golden Company incentives.
 - [ ] Follow Jaime, Brienne and Stoneheart through their last incompatible oaths.
-- [ ] Build the North/Wall chronological dependency strip before writing any Jon–Stannis–Rickon crossover.
+- [x] Build **partial-order** North/Wall chronology and knowledge matrix from the five published books.\n- [ ] Resolve remaining courier and faction uncertainties before selecting a Battle of Ice branch.
 
 Later POV tracks: Sansa, Arya, Bran, Cersei/Faith, Dorne, Oldtown and Euron; no unsupported fixed chapter order yet.
 
@@ -61,4 +61,4 @@ Later POV tracks: Sansa, Arya, Bran, Cersei/Faith, Dorne, Oldtown and Euron; no 
 
 ## Current next action
 
-Theon/Asha/Stannis source pass, then build the North/Wall chronology slice. [Jon](research/characters/jon-snow.md) and [Davos](research/characters/davos-seaworth.md) are initial examples, not final story decisions.
+Theon/Asha/Stannis cross-book pass and North/Wall chronology slice are documented. Next: trace the Manderly–Frey and Arnolf–Jon courier chains (including who knew what and when), then test one grounded branch of the Battle of Ice. See [Night Lamp](research/theories/night-lamp.md), [Pink Letter](research/theories/pink-letter.md), and [North/Wall chronology](research/north-wall-dependencies.md). [Jon](research/characters/jon-snow.md) and [Davos](research/characters/davos-seaworth.md) remain initial analyses, not locked outcomes.
