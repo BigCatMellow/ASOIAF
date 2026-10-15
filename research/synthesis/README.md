@@ -22,8 +22,9 @@ This directory belongs to the **cross-book / potential continuation** workstream
 - [Karstark command fracture: what if Theon testifies?](karstark-command-fracture.md) — firsthand versus inferred Theon evidence, leader versus rank-and-file culpability, 452-soldier security problem and three conditional Stannis decisions.
 - [Karstark household split: two men change sides](karstark-household-split.md)
 - [Karstark communications, marriage and northern-clan consent](karstark-message-coalition-gates.md) — tests four possible messenger routes, separates historic Karstark contingents, and follows Flint/Norrey's **post-wedding skepticism** in ADWD 53. — source correction from ADWD 49: Jon reports two of Cregan's Wall escorts support Alys and confirm Arnolf's plans with Ramsay; the 452 at Stannis's camp remain untested.
-- [Castle Black after Jon's stabbing: custody, Val–Patrek tower mystery, and Karhold fallout](castle-black-after-jon-alliances.md)
-- [Castle Black first-night command and custody ledger](castle-black-command-custody-first-night.md) — election rules, absent garrison commanders, Marsh's real but limited authority, scattered Free Folk hostages, Cregan's separate prison, and the swapped-infant information trap; all post-attack responses remain unshown. — direct ADWD 31/49/53/58/69 audit; separates proven site and marriage facts from unproved motives, shows Selyse's competing settlement terms, and leaves each post-stabbing branch conditional.
+- [Castle Black after Jon's stabbing: custody, Val–Patrek tower mystery, and Karhold fallout](castle-black-after-jon-alliances.md) — source audit of Val's protection, Patrek's death, queen's marriage plans and unresolved motives.
+- [Castle Black first-night command and custody ledger](castle-black-command-custody-first-night.md) — election rules, scattered Watch commanders, prisoner and hostage protection, and first-night emergency decisions.
+- [Free Folk coalition and hostage-son decision gates](free-folk-alliance-hostage-and-command-gates.md) — named sons of separate chiefs, individually sworn oaths, divided Wall castles, Gerrick's rival royal status, and conditional paths to either restraint or fracture.
 
 ### Sources being linked, not reproduced
 
