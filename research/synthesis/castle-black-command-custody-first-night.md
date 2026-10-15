@@ -192,6 +192,8 @@ The source supports **no affirmative answer** to any of these. This is a specifi
 
 **Disposition:** `VERIFIED: historic cross-garrison proxy votes, two-thirds Watch election, Pyke/Mallister's independent old criticisms of Marsh, Sam's double bluff, Pyke's absence and Hewett's local command.` `UNKNOWN: response to assassination, current proxy instructions, every garrison's new vote, Pyke's survival and receipt, post-stabbing expedition fate.` `THEORY: a contested interim administrator, a later compromise election or a separate Eastwatch stance.` None adopted.
 
+**Free Folk cross-check (2026-10-15):** The [chief-by-chief Free Folk and hostage-sons audit](free-folk-alliance-hostage-and-command-gates.md) identifies captive sons of Soren, Morna, Brogg, Howd, Gerrick and other named chiefs (ADWD 58); it distinguishes each leader's individual oath and daughter/royal claims from Tormund's own obligations (ADWD 53/58/69). The children belong to **several politically independent constituencies**, and sixty were sent toward two different Watch fortresses. No post-stabbing chief decision has been observed; do not draft a monolithic retaliation before showing receipt, custodial guarantees and a credible speaker.
+
 ## 9. Serious counterexamples, source corrections and verification
 
 **Counterexample A — rapid restoration of Watch order without open civil war:** Marsh's faction might impose temporary control while Leathers or other brothers prevent wider bloodshed. The meeting's numbers do not prove every Free Folk fighter would rush to revenge. This could leave a credible, ugly contested authority without a full battle.
