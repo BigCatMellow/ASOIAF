@@ -21,7 +21,7 @@ The [EPUB chapter index](../../research/chapter-index.md) is the chapter locator
 - [**Live close-reading coverage and method**](CLOSE-READING-STATUS.md) — verified EPUB identity, per-book chapter progress, precise first-pass links, and rules for completing each unit.
 - [**Cross-book clue queue**](../../research/source-clue-index.md) — source-to-source questions with ordinary counter-readings; not a declaration that a theory is true.
 
-The per-book `NOTES.md` files below summarize source junctions; each new sequential narrative unit receives its own `chapters/` file within the corresponding book folder. The initial eleven files cover all five prologues and AGOT 1–6. The remaining 333 narrative units are not yet covered by this sequential close-reading pass. Earlier selective work is linked but not double-counted.
+The per-book `NOTES.md` files below summarize source junctions; each new sequential narrative unit receives its own `chapters/` file within the corresponding book folder. The current nineteen first-pass files cover all five prologues and AGOT 1–14. The remaining 325 narrative units are not yet covered by this sequential close-reading pass. Earlier selective work is linked but not double-counted.
 
 ## Markdown source-text navigation
 
