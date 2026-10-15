@@ -23,7 +23,7 @@ Brienne swore to protect Catelyn's daughters and has come to trust Jaime, but Ca
 | AFFC 31 (Brienne) | The Quiet Isle hosts a limping, large gravedigger; the Elder Brother claims Sandor Clegane is 'dead.' | A gravedigger's identification with Sandor is a theory, not shown as fact. |
 | AFFC 42 (Brienne) | Stoneheart's followers accuse Brienne through Oathkeeper and papers from the crown. Stoneheart requires Jaime's death and orders Brienne, Podrick and Hyle hanged; Brienne cries a single unidentified word. | The word's identity, exact escape terms, and future demands are not directly narrated. |
 | AFFC 44 (Jaime) | Jaime takes Riverrun through negotiations and explicit coercive threats, including against Edmure's unborn child. | Ending the siege without a storming does not erase the threat's cruelty. |
-| ADWD 48 (Jaime) | Brienne seeks Jaime and claims to have found Sansa, asking him to accompany her alone; he departs with her. | Whether she's lying under duress, what Stoneheart ordered, and what Jaime will find. |
+| ADWD 48 (Jaime) | Brienne seeks Jaime, claims to have found Sansa, and asks him to come alone; **the chapter ends before Jaime answers**. | Whether she's lying under duress, what Stoneheart ordered, and what Jaime will find. |
 
 ## Character dilemmas
 
@@ -51,3 +51,47 @@ Brienne swore to protect Catelyn's daughters and has come to trust Jaime, but Ca
 ## Disposition
 
 `OPEN`; prioritize the immediate consequence of Brienne's actual decision, not a preset Jaime ending.
+
+## Second pass: the story's genuine cliff edge
+
+Source check: AFFC 37, 42, 44; ADWD 48, with supporting ASOS Jaime/Brienne history. **Material correction:** a prior version of this sheet said Jaime “departs with her.” This is **not depicted**. ADWD 48 ends on Brienne's request; Jaime's response is UNKNOWN.
+
+### Sequence and source reliability
+
+| Text scene | What happens | What is not established |
+| --- | --- | --- |
+| **AFFC 37 (Brienne), inn at the crossroads** | Brienne chooses to defend vulnerable children; she is horribly injured by Biter. Gendry intervenes. Brotherhood members later capture her. | Her attackers were not a collective, unanimously authorized Brotherhood mission. |
+| **AFFC 42 (Brienne), Thoros** | Thoros says Beric surrendered his life for Catelyn, acknowledges that the Brotherhood's original justice has deteriorated, and explains that mercy is scarce among the remnants. | Thoros's regret does not establish that he will lead a rebellion against Stoneheart. |
+| **AFFC 42, Stoneheart's hearing** | Oathkeeper's Lannister fittings and Tommen's sealed paper are taken as incriminating; Brienne explains Jaime's attempt to honor Catelyn's oath. Stoneheart demands Jaime's death, then orders Brienne, Podrick and Hyle hanged when she refuses. | Stoneheart need not believe Brienne's account. **The exact meaning of Brienne's final screamed word is not given.** |
+| **AFFC 42, identity of 'the Hound'** | **Lem Lemoncloak** wears Sandor's former helm and operates under the Hound identity. Thoros denies that the real Hound is with them. | An ADWD reference to “the Hound” cannot automatically be attributed to Sandor Clegane. Lem's masquerade complicates the later threat. |
+| **AFFC 44 (Jaime), Riverrun** | Jaime negotiates surrender but uses threats toward Edmure's family; he secures Riverrun without storming it. The Blackfish escapes. | “No storming” is not the same as renouncing coercion or ensuring permanent peace. |
+| **ADWD 48 (Jaime), Raventree/Pennytree** | Jaime negotiates Blackwood submission and hostages, reflects on the futility of blood feuds, and refuses to punish Pennytree's villagers for hiding from kings' men. Brienne later arrives visibly wounded, says Sansa is a day's ride away, and asks Jaime to come alone because “the Hound” will kill her. | Jaime **has not yet agreed or departed on-page**. Neither Sansa's presence nor the nature of this claimed Hound is independently confirmed. |
+
+### The exact point where the continuation begins
+
+**Last narrated moment:** Pennytree, nighttime, Jaime and his escort present, Brienne newly returned, injured and offering a specific private journey. **We do not know whether Jaime accepts the invitation.**
+
+- **Route A — He trusts Brienne:** Jaime risks ambush and his soldiers' safety. Her conflicting loyalties may force a confession or an act of self-sacrifice, but no surrender into Stoneheart's power has yet occurred in the novels.
+- **Route B — He questions the story:** Jaime notices the implausible claim about Sansa, Brienne's bite, and the sudden need for isolation. He can demand proof, offer escorts, insist on Podrick's safety or refuse. These are feasible actions, not proof he detects a lie.
+- **Route C — He tries to help without accompanying her:** This could protect Jaime but might condemn the hostages Brienne sought to save. She faces the renewed cost of misleading him.
+
+**Brienne's 'Hound' statement is doubly uncertain:** She has encountered Lem using Sandor's helm; the name is now transferable. She may be lying about Sansa to satisfy Stoneheart's ultimatum, yet that does not mean every part of the warning is necessarily invented.
+
+### Jaime's deeper contradiction
+
+**AFFC 44 ↔ ADWD 48:** Jaime aims to end destructive conflict and refuses an unnecessary assault on villagers, yet he threatens innocents, collects noble children as hostages, and invokes his father's annihilation of rebellious houses during a conversation with Hoster Blackwood. Hoster observes that slaughter creates new generations of enemies. A Stoneheart encounter should **test this incomplete moral change**, not simply erase his past because he once saved Brienne.
+
+### Brotherhood is a faction, not a single mind
+
+- Stoneheart explicitly orders executions.
+- Lem eagerly enforces brutal punishment under a stolen terror-symbol.
+- Thoros expresses disillusionment with their loss of mercy.
+- Brienne's awareness of Catelyn's former identity collides with a changed leader who regards Jaime as an enemy.
+
+These differing perspectives create room for negotiation, dissent, escape, sacrifice, or division. They do **not** establish an impending rebellion, a 'Red Wedding 2.0' plan or the Brotherhood's exact future ranks.
+
+### Immediate cross-story leverage
+
+**Red Ronnet Connington** is connected to Jaime through former Gregor Clegane retainers (ADWD Epilogue), while Jon Connington holds Ronnet's relatives at Griffin's Roost (ADWD 61). This provides a real but slow communication/hostage bridge to Aegon's invasion, *not* evidence that Jaime knows about those prisoners while standing in Pennytree.
+
+**Next audit:** reconstruct who controls Podrick and Hyle after the hanging and who can credibly send a message to Jaime's men. Distinguish Brienne's words from the truth of the claim she makes. No fixed Jaime death, Cersei confrontation or Stoneheart settlement.
