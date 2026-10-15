@@ -530,6 +530,39 @@
 | C-504 | [ACOK 11](../Source/Main-Series/02-A-Clash-of-Kings/chapters/11-theon.md) | Balon declares a different, vulnerable target from the west; northern assault is implied | Independent invasion intention; actual raids require subsequent chapters |
 | C-505 | [ACOK 11](../Source/Main-Series/02-A-Clash-of-Kings/chapters/11-theon.md) | Aeron disputes male primogeniture even with Theon as last son | Unresolved Greyjoy succession status despite Theon's entitlement |
 
+| C-506 | [ACOK 12](../Source/Main-Series/02-A-Clash-of-Kings/chapters/12-daenerys.md) | Comet leads Dany east while enemy khalasars close other routes | An apparently prophetic path has mundane strategic necessity |
+| C-507 | [ACOK 12](../Source/Main-Series/02-A-Clash-of-Kings/chapters/12-daenerys.md) | A third of her remnant khalasar dies in Red Waste; Doreah and infant succumb | Costs are witnessed, not only omen imagery |
+| C-508 | [ACOK 12](../Source/Main-Series/02-A-Clash-of-Kings/chapters/12-daenerys.md) | Dragons refuse raw horsemeat and take charred meat instead | Practical dragon husbandry, not a universal rule yet |
+| C-509 | [ACOK 12](../Source/Main-Series/02-A-Clash-of-Kings/chapters/12-daenerys.md) | Dany names black-red Drogon, green Rhaegal, cream-gold Viserion | Color and memorial names distinguish each |
+| C-510 | [ACOK 12](../Source/Main-Series/02-A-Clash-of-Kings/chapters/12-daenerys.md) | Vaes Tolorro contains old burns, bones, empty statue and productive hidden orchards | Unidentified previous city; ghosts not verified |
+| C-511 | [ACOK 12](../Source/Main-Series/02-A-Clash-of-Kings/chapters/12-daenerys.md) | Dany prepares grazing by opening plaza paving and repairing gates | Early settlement governance under scarcity |
+| C-512 | [ACOK 12](../Source/Main-Series/02-A-Clash-of-Kings/chapters/12-daenerys.md) | Jorah's Lynesse history mentions vanished Glover first wife, debt and unspoken shame | Self-serving testimony with explicit omission |
+| C-513 | [ACOK 12](../Source/Main-Series/02-A-Clash-of-Kings/chapters/12-daenerys.md) | Lynesse allegedly looks like Dany; Dany recognizes Jorah's romantic wish | Potential conflict in counselor's motives |
+| C-514 | [ACOK 12](../Source/Main-Series/02-A-Clash-of-Kings/chapters/12-daenerys.md) | Dany accepts Mirri's purported infertility curse as certain | Narrator belief distinct from actual future childbearing |
+| C-515 | [ACOK 12](../Source/Main-Series/02-A-Clash-of-Kings/chapters/12-daenerys.md) | Rakharo describes enormous dragon bones, Aggo old scrolls and fire opal | Unverified scout reports and lost written evidence |
+| C-516 | [ACOK 12](../Source/Main-Series/02-A-Clash-of-Kings/chapters/12-daenerys.md) | Pyat Pree, Xaro and Quaithe arrive at Vaes Tolorro asking for dragons | Shared declared interest not proven allied intentions |
+| C-517 | [ACOK 13](../Source/Main-Series/02-A-Clash-of-Kings/chapters/13-jon.md) | Whitetree huge weirwood mouth contains burned human skulls | Who placed them and why remains unknown |
+| C-518 | [ACOK 13](../Source/Main-Series/02-A-Clash-of-Kings/chapters/13-jon.md) | Four wildling villages appear evacuated without battle damage | Pattern warrants investigation; origin unknown |
+| C-519 | [ACOK 13](../Source/Main-Series/02-A-Clash-of-Kings/chapters/13-jon.md) | Jon thinks cremation protects against reanimated wights | Inference from own wight experience, not local testimony |
+| C-520 | [ACOK 13](../Source/Main-Series/02-A-Clash-of-Kings/chapters/13-jon.md) | Smallwood wears Jaremy Rykker's salvaged armor and wants weirwood cut | Watch thrift and religious conflict |
+| C-521 | [ACOK 13](../Source/Main-Series/02-A-Clash-of-Kings/chapters/13-jon.md) | Mormont's raven message to Aemon is sent but not delivered on-page | Important dispatch/receipt distinction |
+| C-522 | [ACOK 13](../Source/Main-Series/02-A-Clash-of-Kings/chapters/13-jon.md) | Column consists of 200 Watch men 300 mounts; Qhorin has not joined | Current versus planned manpower |
+| C-523 | [ACOK 13](../Source/Main-Series/02-A-Clash-of-Kings/chapters/13-jon.md) | Sam trains birds to say 'snow' and grows less afraid than veteran rangers | Ordinary mimicry and reversed courage expectations |
+| C-524 | [ACOK 13](../Source/Main-Series/02-A-Clash-of-Kings/chapters/13-jon.md) | Ghost finds little game; Dywen suspects abnormal evacuation | Cause unverified; party noise can frighten prey |
+| C-525 | [ACOK 13](../Source/Main-Series/02-A-Clash-of-Kings/chapters/13-jon.md) | Mormont imagines Benjen was silenced for knowing reason wildlings vanished | Disappearance theory, not confirmation |
+| C-526 | [ACOK 14](../Source/Main-Series/02-A-Clash-of-Kings/chapters/14-arya.md) | Unidentified green-cloaked corpse bears four coppers and blonde-hair red-ribbon token | Unproven identity and personal connection |
+| C-527 | [ACOK 14](../Source/Main-Series/02-A-Clash-of-Kings/chapters/14-arya.md) | Yoren's raft/boat plans fail after bridge burns and lake boats are missing | Logistical bottleneck and lack of safe choice |
+| C-528 | [ACOK 14](../Source/Main-Series/02-A-Clash-of-Kings/chapters/14-arya.md) | Yoren expects Lady Whent at Harrenhal while Tywin holds fortress elsewhere in POV record | Cross-POV knowledge lag |
+| C-529 | [ACOK 14](../Source/Main-Series/02-A-Clash-of-Kings/chapters/14-arya.md) | Evacuated lakeside houses retain a nursing mother cat and supplies | Abandonment pattern, not proven attackers |
+| C-530 | [ACOK 14](../Source/Main-Series/02-A-Clash-of-Kings/chapters/14-arya.md) | Concealed barn-to-lake tunnel and ten-foot unmortared walls govern battle and escape | Concrete established architecture |
+| C-531 | [ACOK 14](../Source/Main-Series/02-A-Clash-of-Kings/chapters/14-arya.md) | Rescued toddler survives to holdfast and is fed by Hot Pie | Continuity from ACOK 9 |
+| C-532 | [ACOK 14](../Source/Main-Series/02-A-Clash-of-Kings/chapters/14-arya.md) | Arya wakes with wolf sound before Kurz blows independently audible warning horn | Danger verified, source of first howl unknown |
+| C-533 | [ACOK 14](../Source/Main-Series/02-A-Clash-of-Kings/chapters/14-arya.md) | Lorch identifies himself under Lannister lion and attacks neutral Watch recruits | Attribution for this massacre, not preceding burned village |
+| C-534 | [ACOK 14](../Source/Main-Series/02-A-Clash-of-Kings/chapters/14-arya.md) | Yoren's black cloak is likened to Beric's black shield and purple lightning | Lorch's bad-faith pretext for violence |
+| C-535 | [ACOK 14](../Source/Main-Series/02-A-Clash-of-Kings/chapters/14-arya.md) | Yoren last seen directing child evacuation; Lommy and Gerren wounded | Fates not all shown at chapter end |
+| C-536 | [ACOK 14](../Source/Main-Series/02-A-Clash-of-Kings/chapters/14-arya.md) | Arya and Gendry save child, Arya returns inside burning barn and gives axe to Rorge | Rescue action vs actual escape of three convicts |
+| C-537 | [ACOK 14](../Source/Main-Series/02-A-Clash-of-Kings/chapters/14-arya.md) | Arya ends crawling underground amid smoke and fire, weeping | Outcome and grief target unresolved |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -537,4 +570,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the eighty-eight first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the ninety-one first-pass chapters listed in the coverage tracker.

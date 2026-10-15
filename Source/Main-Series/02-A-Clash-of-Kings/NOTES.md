@@ -53,7 +53,7 @@ Cross-book interpretations: [Arya](../../../research/characters/arya-stark.md), 
 
 ## Sequential chapter reading (new pass, 2026-10-15)
 
-**Sequential first-pass notes:** [Prologue / Cressen](chapters/00-prologue.md), [1 Arya](chapters/01-arya.md), [2 Sansa](chapters/02-sansa.md), [3 Tyrion](chapters/03-tyrion.md), [4 Bran](chapters/04-bran.md), [5 Arya](chapters/05-arya.md), [6 Jon](chapters/06-jon.md), [7 Catelyn](chapters/07-catelyn.md), [8 Tyrion](chapters/08-tyrion.md), [9 Arya](chapters/09-arya.md), [10 Davos](chapters/10-davos.md), [11 Theon](chapters/11-theon.md). These twelve files are source-grounded first passes, **not independent exhaustive audits**. **58 ACOK units remain**, next `ACOK 12 (Daenerys)`. See [coverage](../CLOSE-READING-STATUS.md). Key new decisions: Arya's exile route and Gendry warrant, Sansa preserving Dontos, Cersei admitting fortified hunting wine, Bran's detailed wolf-body dream and Frey mayhaps game, and Sam's rediscovery of old Watch records. Earlier targeted cross-book theory checks remain separate.
+**Sequential first-pass notes:** [Prologue / Cressen](chapters/00-prologue.md), [1 Arya](chapters/01-arya.md), [2 Sansa](chapters/02-sansa.md), [3 Tyrion](chapters/03-tyrion.md), [4 Bran](chapters/04-bran.md), [5 Arya](chapters/05-arya.md), [6 Jon](chapters/06-jon.md), [7 Catelyn](chapters/07-catelyn.md), [8 Tyrion](chapters/08-tyrion.md), [9 Arya](chapters/09-arya.md), [10 Davos](chapters/10-davos.md), [11 Theon](chapters/11-theon.md), [12 Daenerys](chapters/12-daenerys.md), [13 Jon](chapters/13-jon.md), [14 Arya](chapters/14-arya.md). These fifteen files are source-grounded first passes, **not independent exhaustive audits**. **55 ACOK units remain**, next `ACOK 15 (Tyrion)`. See [coverage](../CLOSE-READING-STATUS.md). Key new decisions: Arya's exile route and Gendry warrant, Sansa preserving Dontos, Cersei admitting fortified hunting wine, Bran's detailed wolf-body dream and Frey mayhaps game, and Sam's rediscovery of old Watch records. Earlier targeted cross-book theory checks remain separate.
 
 ## Sequential first-pass additions, 2026-10-15
 
@@ -64,3 +64,9 @@ Cross-book interpretations: [Arya](../../../research/characters/arya-stark.md), 
 - [ACOK 10 (Davos)](chapters/10-davos.md): coercive burning of Seven, supposedly holy sword with ordinary ignition mechanism, Saan's Azor Ahai legend, logistical cask problem, Stannis's letter-distribution network and private avowed religious skepticism. First pass only; several claims remain character testimony.
 
 - [ACOK 11 (Theon)](chapters/11-theon.md): Theon's unreliable homecoming expectations, Aeron's challenge to his succession, Asha's documented command, Balon's preexisting muster, rejection of Robb's alliance and intended alternative target. No invasion or pregnancy claimed completed.
+
+## ACOK 12–14 sequential reading, 2026-10-15
+
+- [12 Daenerys](chapters/12-daenerys.md): the Red Waste attrition, dragons' food, Vaes Tolorro, Jorah's Lynesse account and Qarth's three visitors.
+- [13 Jon](chapters/13-jon.md): Whitetree's human remains and fourth deserted settlement; two hundred Watch men and Sam's departing message to Aemon, not a confirmed receipt.
+- [14 Arya](chapters/14-arya.md): impassable river, empty lake town and holdfast; Ser Amory Lorch's verified assault, child rescue, the rescue attempt for three prisoners, and unknown final survivor list.
