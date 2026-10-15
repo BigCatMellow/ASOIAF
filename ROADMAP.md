@@ -46,16 +46,27 @@ The owner specifically requested a comprehensive, accessible library of **well-r
 
 - [x] Create [research library router](research/theories/README.md), [case evidence standard](research/theories/METHOD.md), and [52-topic master catalog](research/theories/CATALOG.md).
 - [x] Record official [2025](research/theories/awards/2025.md), [2024](research/theories/awards/2024.md), [2023](research/theories/awards/2023.md) award intake with original credits, winner/nominee status where checked, and standalone topic summaries.
-- [x] Produce 19 detailed cases from verified short five-book passages, retain the existing Night Lamp and Pink Letter files (**21 total**).
+- [x] Produce 19 detailed cases from verified short five-book passages, retain the existing Night Lamp and Pink Letter files (**25 total** after the four theory passes below).
 - [x] Check **36 short quoted fragments** in individual files against specific EPUB chapters (36 matched). Record audit below.
 - [ ] Inspect the remaining paraphrased anchors and every later excerpt as case files expand.
 - [ ] Audit [2025 Best New Theory / Citadel](research/theories/awards/2025.md) originals more deeply and resolve reliance on secondary descriptions.
-- [ ] Expand major high-value unreviewed families: Doran, Big Walder, the Oldtown alchemist, the maesters, Knight of the Laughing Tree, the Others' motivations.
+- [x] First focused five-book source passes on Doran, Big Walder, the Oldtown alchemist, the Citadel and the Others.
+- [ ] Continue source audit for Knight of the Laughing Tree and the **supplementary** Others/dragon history in TWOIAF and Fire & Blood; probe remaining origin questions.
 - [ ] Complete independent evidence/rebuttal review before promoting any theory into the two-book continuation.
 
 **Passage policy:** Short verified excerpts and exact locators, not copied long passages or full chapters in public Markdown. Award recognition is provenance, not proof.
 
 See [quote audit receipt](research/theories/QUOTE_AUDIT.md). Independent literary challenge remains open.
+
+## Critical chronology and motivation gates identified in this pass
+
+- [x] [Robb's will](research/theories/cases/robbs-will-succession.md): distinguish witnessed decision from its unreproduced final wording and undisclosed custodian; do not assume Howland has the original.
+- [x] [Martell plan](research/theories/cases/dornish-master-plan.md): demonstrate Doran's contingency and dangerous secrecy without assuming Quentyn was sent to die.
+- [x] [Citadel](research/theories/cases/citadel-magic-conspiracy.md): Marwyn's allegation is a character claim; the institution's knowledge role is textual fact.
+- [x] [Others / Wall](research/theories/cases/others-wall-pact.md): distinguish First Men–children pact, human–Others treaty proposal and Others-built-Wall proposition; latter two not confirmed.
+- [ ] Reconcile Dorne/Aegon diplomacy with source-verified Quentyn news travel; identify when Arianne and Doran learn his fate.
+- [ ] Map custody and enforcement of Robb's will versus independently verified living Stark claimants.
+- [ ] Supplementary history audit for maesters, dragon extinction and Old Gods chronology, strictly separated from five-book facts.
 
 ## Phase 1: first wave
 
@@ -85,4 +96,4 @@ Later POV tracks: Sansa, Arya, Bran, Cersei/Faith, Dorne, Oldtown and Euron; no 
 
 ## Current next action
 
-Aegon/Connington and Jaime/Brienne/Stoneheart now have targeted first-pass character sheets; a 52-topic theory catalog is built and **21 cases** are documented. A 36-fragment quotation check found no mismatches. Next: complete the **unresolved** northern courier/faction branches **or** advance the independent [Meereen character analysis](research/characters/daenerys-barristan-tyrion.md) by tracing Tyrion's earlier moral development and Barristan's disputed poison evidence. No contested outcome is yet adopted; prioritize queued `HIGH` theories when they can actually alter the next character decisions. See [Night Lamp](research/theories/night-lamp.md), [Pink Letter](research/theories/pink-letter.md), and [North/Wall chronology](research/north-wall-dependencies.md). [Jon](research/characters/jon-snow.md) and [Davos](research/characters/davos-seaworth.md) remain initial analyses, not locked outcomes.
+Aegon/Connington and Jaime/Brienne/Stoneheart now have targeted first-pass character sheets; a 52-topic theory catalog is built and **25 cases** are documented. A 36-fragment quotation check found no mismatches. Next: complete the **unresolved** northern courier/faction branches **or** advance the independent [Meereen character analysis](research/characters/daenerys-barristan-tyrion.md) by tracing Tyrion's earlier moral development and Barristan's disputed poison evidence. No contested outcome is yet adopted; prioritize queued `HIGH` theories when they can actually alter the next character decisions. See [Night Lamp](research/theories/night-lamp.md), [Pink Letter](research/theories/pink-letter.md), and [North/Wall chronology](research/north-wall-dependencies.md). [Jon](research/characters/jon-snow.md) and [Davos](research/characters/davos-seaworth.md) remain initial analyses, not locked outcomes.

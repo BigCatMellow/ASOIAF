@@ -31,12 +31,19 @@ Maintain a **living, auditable library** of the strongest, most interesting and 
 - [Bloodraven vs. Three-Eyed Crow](cases/bloodraven-crow.md) — contested magic-agent identity.
 - [Lady Hornwood's fingers](cases/hornwood-fingers.md) — 2025 Old Nan nominee.
 - [Cersei and a Trial of Seven](cases/trial-of-seven.md) — 2025 Beric nominee, requires supplementary source.
-- [R+L=J](cases/r-l-j.md) — foundational high-confidence inference, keep its consequences open.\n- [Davos and Rickon](cases/davos-rickon.md) — 2025 Beric nominee, contested moral choice.\n- [Jojen Paste](cases/jojen-paste.md) — influential but unconfirmed dark-cave speculation.
+- [R+L=J](cases/r-l-j.md) — foundational high-confidence inference, keep its consequences open.
+- [Davos and Rickon](cases/davos-rickon.md) — 2025 Beric nominee, contested moral choice.
+- [Jojen Paste](cases/jojen-paste.md) — influential but unconfirmed dark-cave speculation.
 
 - [Doran and the Yronwood blood debt](cases/doran-yronwood.md) — 2025 Best Analysis nominee.
 - [Big Walder and the Little Walder murder](cases/big-walder.md) — 2024 recognized theory.
 - [The Oldtown alchemist is Jaqen](cases/oldtown-alchemist.md) — influential identity theory.
 - [Frey Pies / Manderly revenge](cases/frey-pies.md) — strong but not proven reading.
+
+- [Martell Master Plan](cases/dornish-master-plan.md) — contingency versus intentional failure, with Doran's own admissions.
+- [Robb's will and Stark succession](cases/robbs-will-succession.md) — unknown wording, bearers and competing living heirs.
+- [Citadel/maester suppression of magic](cases/citadel-magic-conspiracy.md) — Marwyn's accusation versus actual institutional evidence.
+- [Others, the Wall and a hypothetical pact](cases/others-wall-pact.md) — three separate historical proposals, not one adopted conclusion.
 
 ## Admission and status
 

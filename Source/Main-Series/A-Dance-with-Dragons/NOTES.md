@@ -58,6 +58,14 @@ For the chapters reviewed above, ask whether Theon discloses Jeyne's identity, w
 
 **Unresolved:** identity of Little Walder's killer; survival/command status of Wyman after his wound; the extent of Arnolf's correspondence with Roose; whether Jon's warning reached Stannis; exact tactics or outcome of the battle; how Stannis will react to Theon/Jeyne. No plot outcome is preapproved in this note.
 
+## Verified source junctions — 2026-10-14 focused pass
+
+**Martell conclusion (ADWD 6, 59, 60, 68):** Quentyn's genuine fear of failure and disastrous dragon decision are narrated independently of Doran's intentions. [Martell Master Plan](../../../research/theories/cases/dornish-master-plan.md).
+
+**Northern succession (ADWD 29):** Wyman's Rickon bargaining makes Robb's original knowledge outdated. [Robb's will](../../../research/theories/cases/robbs-will-succession.md).
+
+**Citadel and magical history (ADWD 37, Theon; ADWD 34, Bran):** Lady Dustin's charge against 'grey rats' is a character's accusation; greenseer memory is observed in Bran's narrative. [Citadel case](../../../research/theories/cases/citadel-magic-conspiracy.md) · [Others case](../../../research/theories/cases/others-wall-pact.md).
+
 ## Cross-referenced fan-theory research (ADWD)
 
 Additional audited cases: [Doran/Yronwood](../../../research/theories/cases/doran-yronwood.md), [Big Walder](../../../research/theories/cases/big-walder.md), [Frey Pies](../../../research/theories/cases/frey-pies.md).

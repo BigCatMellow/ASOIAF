@@ -26,6 +26,12 @@ Identify available options and what each actor knew **at that point**. Where a c
 
 List disputed assumptions and contradictory scenes before adopting a creative continuation. No plot outcome is preapproved in this note.
 
+## Verified source junctions — 2026-10-14 focused pass
+
+**Martell source junction (AFFC 21 and 40):** Doran acknowledges his changed inheritance plan and failed secret betrothal; the text does not show him planning Quentyn's destruction. [Martell Master Plan](../../../research/theories/cases/dornish-master-plan.md).
+
+**Citadel source junction (AFFC Prologue and 45):** The glass candle burns; Marwyn's accusation remains his claim. [Citadel case](../../../research/theories/cases/citadel-magic-conspiracy.md).
+
 ## Cross-referenced fan-theory research (AFFC)
 
 Additional audited cases: [Doran/Yronwood](../../../research/theories/cases/doran-yronwood.md), [Oldtown alchemist](../../../research/theories/cases/oldtown-alchemist.md).

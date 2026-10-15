@@ -26,7 +26,7 @@ Research the five published *A Song of Ice and Fire* novels; evaluate competing 
 
 ## Current checkpoint
 
-The owner uploaded three EPUBs to this public repository and authorized organizing them into [per-volume source folders](Source/README.md). The bundled five novels remain one unchanged EPUB; redistribution rights are not independently verified. Initial chapter indexing, a targeted closing-state baseline, the North/Wall **partial** chronology, POV study files and an expanding **21-case/31-queued theory library** are available. Exhaustive POV histories, complete chronology reconciliation, remaining theory audits and two-book drafting remain open.
+The owner uploaded three EPUBs to this public repository and authorized organizing them into [per-volume source folders](Source/README.md). The bundled five novels remain one unchanged EPUB; redistribution rights are not independently verified. Initial chapter indexing, a targeted closing-state baseline, the North/Wall **partial** chronology, POV study files and an expanding **25-case/27-queued theory library** are available. Exhaustive POV histories, complete chronology reconciliation, remaining theory audits and two-book drafting remain open.
 
 **No outline idea is automatically canon.** Mark `VERIFIED`, `INFERRED`, `THEORY`, or `UNKNOWN` locally. Retain live alternatives while evidence is incomplete.
 

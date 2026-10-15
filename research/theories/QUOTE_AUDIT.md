@@ -50,3 +50,19 @@ Parsed the EPUB's `toc.ncx` chapter locators and **all split HTML fragments with
 ## Follow-up
 
 Expand source context around quoted paragraphs, audit candidate theories against disconfirmers, and run another check on each new batch. Correct claims in-place; preserve changelog when a popular theory's textual support is weaker than claimed.
+
+## Additional four-family check — 2026-10-14
+
+Selected brief fragments were matched by normalized exact string in their named EPUB chapters using the local five-book source, not scraped secondary quotations:
+
+- AFFC 40: Doran's plans overthrown by circumstances.
+- ADWD 60: Quentyn accepts personal responsibility for the mission.
+- ADWD 68: Quentyn fears burning.
+- ASOS 45: Robb requests witness seals.
+- AFFC 45: Marwyn's dragon-extinction allegation.
+- ADWD 37: Dustin's “grey rats” reference.
+- ASOS 33: Craster's sons as named by an old wife.
+- AGOT 24: Last Hero seeks the children.
+- ASOS 18: dragonglass described in Sam's Other encounter.
+
+**Result: 9/9 targeted textual checks matched.** The previous **36/36** receipt is unchanged; 45 total checks are recorded across the two passes, although this is not a comprehensive independent line-by-line review and does not prove the interpretations.

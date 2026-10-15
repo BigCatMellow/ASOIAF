@@ -26,6 +26,10 @@ Identify available options and what each actor knew **at that point**. Where a c
 
 List disputed assumptions and contradictory scenes before adopting a creative continuation. No plot outcome is preapproved in this note.
 
+## Verified source junctions — 2026-10-14 focused pass
+
+**Long Night/Wall source junction (AGOT Prologue and AGOT 24):** The Others' attack is directly narrated; Old Nan's Last Hero story is oral tradition. [Others and ancient boundary case](../../../research/theories/cases/others-wall-pact.md).
+
 ## Cross-referenced fan-theory research (AGOT)
 
 The following case files quote short fragments and cite chapters in this volume, but may also rely on other books. **Link only; don't duplicate their moving assessment here.**

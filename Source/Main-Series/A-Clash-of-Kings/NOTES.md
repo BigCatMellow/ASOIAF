@@ -26,6 +26,10 @@ Identify available options and what each actor knew **at that point**. Where a c
 
 List disputed assumptions and contradictory scenes before adopting a creative continuation. No plot outcome is preapproved in this note.
 
+## Verified source junctions — 2026-10-14 focused pass
+
+**Citadel source junction (ACOK 28, Bran):** Luwin has studied higher mysteries and dismisses functional magic; this describes his belief, not the world's objective condition. [Citadel case](../../../research/theories/cases/citadel-magic-conspiracy.md).
+
 ## Cross-referenced fan-theory research (ACOK)
 
 Additional audited case: [Jaqen's Oldtown identity](../../../research/theories/cases/oldtown-alchemist.md).

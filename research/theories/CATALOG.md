@@ -6,7 +6,7 @@
 - Lifecycle: `ACTIVE`
 - Parent: [theory library](README.md)
 - Scope: original five novels primary; 2025 award ballot, earlier annual results and well-established community theory families
-- Current count: **21 individual case records** (19 new + Night Lamp/Pink Letter); **31 additional catalog topics queued** for source audit
+- Current count: **25 individual case records** (23 new + Night Lamp/Pink Letter); **27 additional catalog topics queued** for source audit
 
 ## How to read
 
@@ -34,7 +34,14 @@
 | Cersei faces a Trial of Seven | ADWD 65, Epilogue; *Hedge Knight* pending | **SUPPLEMENTARY / OPEN** | [CASE](cases/trial-of-seven.md) |
 | Jojen Paste / cave sacrifice | ADWD 34 | **WEAK-to-OPEN** | [CASE](cases/jojen-paste.md) |
 
-### Four additional detailed research cases
+### Four recently audited major theory families
+
+- [Dornish Master Plan](cases/dornish-master-plan.md) — Doran's explicit plans, Quentyn's agency, and false omniscience.
+- [Robb's will / northern succession](cases/robbs-will-succession.md) — witnessed decision without a reproduced legal text or confirmed bearer.
+- [Citadel suppression of magic](cases/citadel-magic-conspiracy.md) — documented institutional skepticism; extinction conspiracy unverified.
+- [Others / Wall / treaty](cases/others-wall-pact.md) — verified danger and magic, unverified history and negotiating capacity.
+
+### Four earlier detailed research cases
 
 - [Doran/Yronwood](cases/doran-yronwood.md) — explicit blood-debt settlement versus predicted civil war.
 - [Big Walder](cases/big-walder.md) — blood evidence is suspicious but not a confession.
@@ -74,16 +81,16 @@
 | Knight of the Laughing Tree = Lyanna | Early signs of Lyanna's agency and Harrenhal politics | `QUEUED / HIGH` |
 | Dragonbinder kills/enslaves its blower rather than bonds to Euron | Euron, Victarion, dragons and sacrifice | `QUEUED / HIGH` |
 | Jaqen = Oldtown alchemist | Faceless Men at the Citadel and Pate's murder | [CASE](cases/oldtown-alchemist.md) |
-| The maesters engineered dragon extinction | Citadel ideology, dangerous manipulation of magic | `QUEUED / HIGH` |
-| Dornish Master Plan | Doran's contingencies, Arianne and Quentyn | `QUEUED / HIGH` |
+| The maesters engineered dragon extinction | Citadel ideology, dangerous manipulation of magic | [CASE — allegations vs proof](cases/citadel-magic-conspiracy.md) |
+| Dornish Master Plan | Doran's contingencies, Arianne and Quentyn | [CASE](cases/dornish-master-plan.md) |
 | The Elder Brother revived Sandor | Physical vs. spiritual rebirth at Quiet Isle | `QUEUED / ALTERNATE GRAVEDIGGER` |
 | Bloodraven influenced Euron | Three-eyed imagery, competing supernatural histories | `QUEUED / SPECULATIVE` |
 | Great Empire of the Dawn dragonlord origins | Ancient magic, Daynes, Asshai and Long Night | `QUEUED / SUPPLEMENTARY TWOIAF` |
-| Others have motives beyond extinction | Reconsider Long Night pact and Wall purpose | `QUEUED / HIGH` |
+| Others have motives beyond extinction | Reconsider Long Night pact and Wall purpose | [CASE — motivations unknown](cases/others-wall-pact.md) |
 | Sansa's Ashford-tourney suitors | Possible marriage sequence including Aegon | `QUEUED / LOW` |
 | Frey Pies / Manderly revenge | Wyman's covert retaliation under guest-right taboo | [CASE](cases/frey-pies.md) |
 | Tyrek Lannister's disappearance / Varys custody | Hostage politics and possible puppet claims | `QUEUED / MODERATE` |
-| Robb's will names Jon / alternative Northern succession | Legal claims and Northern coalition splits | `QUEUED / HIGH` |
+| Robb's will names Jon / alternative Northern succession | Legal claims and Northern coalition splits | [CASE — wording unknown](cases/robbs-will-succession.md) |
 | Bran the Builder and the Others made a bargain | Northern boundary, Wall origin, Last Hero history | `QUEUED / HIGH / ANCIENT HISTORY` |
 | Eldritch Euron ritual at Oldtown | Blood sacrifice and destruction of existing magical safeguards | `QUEUED / TWOW FORSAKEN` |
 | Alternate timeline / Bran–Shireen marriage theory | Critique of magical determinism and chronology | `QUEUED / 2023 CITADEL NOMINATION` |
