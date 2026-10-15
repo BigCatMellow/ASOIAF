@@ -58,6 +58,15 @@ The [sequential close-reading files](../../../Source/Main-Series/CLOSE-READING-S
 
 **Disconfirming tests:** Look for primary-text historical records of the Watch's founding; inspect the Black Gate and oath mechanics; find an independent witness/vision of Wall construction and actual Others' motives. Do not infer original design from which direction Robb should march *now*.
 
+## Additional full-AGOT evidence: the *actual* Pact vs the Wall's origin (2026-10-15)
+
+- **[AGOT 66 (Bran)](../../../Source/Main-Series/01-A-Game-of-Thrones/chapters/66-bran.md):** Maester Luwin expressly describes a **First Men–children of the forest Pact** on the **Isle of Faces**, a division of land, an end to cutting weirwoods, and green men to watch the site. This is `CHARACTER HISTORICAL TESTIMONY`, **not** evidence of an agreed boundary with Others. He narrates the pact *before* the later Long Night; equating those two traditions is a source-level conflation.
+- **[AGOT 70 (Jon)](../../../Source/Main-Series/01-A-Game-of-Thrones/chapters/70-jon.md):** Mormont says **First Men built the Wall** and reminds Jon that dead men beyond it make southern crown disputes a secondary threat. Both are `CHARACTER CLAIM / HISTORICAL TRADITION` and current strategic argument, respectively. The First Men attribution is not an eyewitness construction record.
+- **[AGOT 52 (Jon)](../../../Source/Main-Series/01-A-Game-of-Thrones/chapters/52-jon.md)** plus **[AGOT 60 (Jon)](../../../Source/Main-Series/01-A-Game-of-Thrones/chapters/60-jon.md)** establishes **two reanimated rangers**, not one: Othor directly attacks Mormont, and **Jafer Flowers is reported to kill Ser Jaremy Rykker and four more**. This is difficult for any theory insisting the northern undead danger is a misunderstanding of ordinary human threat.
+- **[AGOT 53 (Bran)](../../../Source/Main-Series/01-A-Game-of-Thrones/chapters/53-bran.md)** adds Osha's **different** proposition: Robb should march north rather than south; it concerns political priorities now, **not** the founding oath's direction.
+
+**Disposition unchanged:** the strategic warning is well supported; a negotiated pact with Others remains open conjecture, and an Others-built south-facing prison Wall is weak absent an independently grounded origin account.
+
 ## Disposition
 
 `VERIFIED`: the threat and specific magical interactions. `STRONG HISTORICAL INFERENCE`: humanity and children shared ancient danger, but this is preserved in legend. `OPEN`: Others' origins and negotiability. `WEAK AS CURRENT CLAIM`: Others-built-human-prison Wall. Do not let the emotionally attractive 'balance of ice and fire' idea override contrary scenes.
