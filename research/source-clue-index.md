@@ -517,6 +517,19 @@
 | C-492 | [ACOK 10](../Source/Main-Series/02-A-Clash-of-Kings/chapters/10-davos.md) | Stannis explicitly rejects gods after parents died on Windproud yet values Melisandre as frightening asset | Separates private unbelief from public religious strategy |
 | C-493 | [ACOK 10](../Source/Main-Series/02-A-Clash-of-Kings/chapters/10-davos.md) | Stannis recalls Proudwing, Thunderclap and Harbert's advice as explanation for trying a red hawk | Character's own rationalization for changing methods, not prophecy |
 
+| C-494 | [ACOK 11](../Source/Main-Series/02-A-Clash-of-Kings/chapters/11-theon.md) | Pyke has no safe offshore approach and is linked by fragile bridges on shattered sea stacks | Geography and Theon's memories are material, not a secret-world hypothesis |
+| C-495 | [ACOK 11](../Source/Main-Series/02-A-Clash-of-Kings/chapters/11-theon.md) | Theon privately reads the comet and Robb's sealed letter as his own crown's herald | POV self-interest; letters carry proposals, not binding crowns |
+| C-496 | [ACOK 11](../Source/Main-Series/02-A-Clash-of-Kings/chapters/11-theon.md) | Theon's shipboard partner fears paternal beating; Theon alleges possible pregnancy | Exploitation and unresolved personal consequence, not confirmed child |
+| C-497 | [ACOK 11](../Source/Main-Series/02-A-Clash-of-Kings/chapters/11-theon.md) | Fifty–sixty longships already cluster at Lordsport, Great Kraken present but Silence not seen | Muster predates envoy and Euron location stays unknown |
+| C-498 | [ACOK 11](../Source/Main-Series/02-A-Clash-of-Kings/chapters/11-theon.md) | Aeron ritualizes Theon's return and says Asha runs Black Wind on Balon's errand | Religion and independent female command undermine automatic inheritance |
+| C-499 | [ACOK 11](../Source/Main-Series/02-A-Clash-of-Kings/chapters/11-theon.md) | Aeron reports Theon's mother ill on Harlaw, Dagmer recruiting Stonehouses and Drumms | Concrete family / command geography, not evidence of their future outcomes |
+| C-500 | [ACOK 11](../Source/Main-Series/02-A-Clash-of-Kings/chapters/11-theon.md) | Theon recalls Rodrik died under Mallister and Maron in tower collapse, not by Ned's sword | Personal grievance conflicts with exact culpability |
+| C-501 | [ACOK 11](../Source/Main-Series/02-A-Clash-of-Kings/chapters/11-theon.md) | Theon gets dusty Bloody Keep rooms and finds Sylas/Qalen dead | Homecoming estrangement and changed knowledge network |
+| C-502 | [ACOK 11](../Source/Main-Series/02-A-Clash-of-Kings/chapters/11-theon.md) | Balon breaks Theon's purchased gold chain and burns Robb's letter | Iron-price ideology made material; expressly refused subordination |
+| C-503 | [ACOK 11](../Source/Main-Series/02-A-Clash-of-Kings/chapters/11-theon.md) | Theon asks to conquer Lannisport and Casterly Rock, ignoring their enduring defensibility | Expedition proposal, not military outcome |
+| C-504 | [ACOK 11](../Source/Main-Series/02-A-Clash-of-Kings/chapters/11-theon.md) | Balon declares a different, vulnerable target from the west; northern assault is implied | Independent invasion intention; actual raids require subsequent chapters |
+| C-505 | [ACOK 11](../Source/Main-Series/02-A-Clash-of-Kings/chapters/11-theon.md) | Aeron disputes male primogeniture even with Theon as last son | Unresolved Greyjoy succession status despite Theon's entitlement |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -524,4 +537,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the eighty-seven first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the eighty-eight first-pass chapters listed in the coverage tracker.
