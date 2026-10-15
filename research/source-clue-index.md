@@ -733,6 +733,66 @@
 | C-700 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | Arya chooses alias Weasel after earlier rescued girl vanishes | Name reuse does not resolve missing toddler fate |
 | C-701 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | Harra's slap and Amabel assignment place Arya under Weese of Wailing Tower | Denied stable work and constrained escape opportunity |
 
+| C-702 | [ACOK 27](../Source/Main-Series/02-A-Clash-of-Kings/chapters/27-daenerys.md) | Qarth triple walls carved animals violence and pleasure with rising height | Tangible wealth and layered city iconography, no compelled prophecy |
+| C-703 | [ACOK 27](../Source/Main-Series/02-A-Clash-of-Kings/chapters/27-daenerys.md) | Pyat offers Undying audience while Xaro promises Thirteen wealth | Competing access seekers, no actual ship or sword supplied |
+| C-704 | [ACOK 27](../Source/Main-Series/02-A-Clash-of-Kings/chapters/27-daenerys.md) | Xaro says warlocks drink shade-of-the-evening and declined in power | Self-interested rival appraisal, to test in Undying scenes |
+| C-705 | [ACOK 27](../Source/Main-Series/02-A-Clash-of-Kings/chapters/27-daenerys.md) | Quaithe warns all will covet dragons as embodied power | Vague warning without named culprit |
+| C-706 | [ACOK 27](../Source/Main-Series/02-A-Clash-of-Kings/chapters/27-daenerys.md) | Pyat gives ointment said to reveal spirits | Claimed effect, no observed use |
+| C-707 | [ACOK 27](../Source/Main-Series/02-A-Clash-of-Kings/chapters/27-daenerys.md) | Dany stations own guards and sends Rakharo including female scouts | Active counterintelligence under luxurious hospitality |
+| C-708 | [ACOK 27](../Source/Main-Series/02-A-Clash-of-Kings/chapters/27-daenerys.md) | Jorah inspects Qartheen docks for Westerosi crews | Transport priority despite protector's objections |
+| C-709 | [ACOK 27](../Source/Main-Series/02-A-Clash-of-Kings/chapters/27-daenerys.md) | Dany distinguishes ruling a beautiful realm from Dothraki pillaging | Self-stated governing intention may face later contradiction |
+| C-710 | [ACOK 27](../Source/Main-Series/02-A-Clash-of-Kings/chapters/27-daenerys.md) | Quhuru Mo Cinnamon Wind visits Oldtown Dorne Lys with old news | International trade-news network and months of delay |
+| C-711 | [ACOK 27](../Source/Main-Series/02-A-Clash-of-Kings/chapters/27-daenerys.md) | Robert's death widely reported but Ned only reported seized for treason | Critical cross-POV lag relative to prior Ned execution |
+| C-712 | [ACOK 27](../Source/Main-Series/02-A-Clash-of-Kings/chapters/27-daenerys.md) | Jorah disputes Ned treason while Dany judges Ned traitor to Aerys | Opposing loyalties and partial historical information |
+| C-713 | [ACOK 27](../Source/Main-Series/02-A-Clash-of-Kings/chapters/27-daenerys.md) | Cinnamon Wind heads east for a year or longer | No immediate voyage to Westeros available |
+| C-714 | [ACOK 27](../Source/Main-Series/02-A-Clash-of-Kings/chapters/27-daenerys.md) | Captain says sight of dragons already recompenses him | Dragon fame itself exports political information |
+| C-715 | [ACOK 27](../Source/Main-Series/02-A-Clash-of-Kings/chapters/27-daenerys.md) | Dany likens post-Robert division to broken Drogo khalasar | Strategic inference, not prediction of instant conquest |
+| C-716 | [ACOK 28](../Source/Main-Series/02-A-Clash-of-Kings/chapters/28-bran.md) | Meera nets Summer in controlled fight despite being knocked down | Demonstrates non-knightly martial skill and definition of victory |
+| C-717 | [ACOK 28](../Source/Main-Series/02-A-Clash-of-Kings/chapters/28-bran.md) | Bran recently nine and moves himself to tree without assistance | Disability autonomy and social maturation |
+| C-718 | [ACOK 28](../Source/Main-Series/02-A-Clash-of-Kings/chapters/28-bran.md) | Meera says Greywater Watch moves and cannot be found by ravens | Reed statement, mechanism and directions unshown |
+| C-719 | [ACOK 28](../Source/Main-Series/02-A-Clash-of-Kings/chapters/28-bran.md) | Roose bastard abducted Lady Hornwood and married her quickly | Reported coercive northern succession seizure after ACOK16 |
+| C-720 | [ACOK 28](../Source/Main-Series/02-A-Clash-of-Kings/chapters/28-bran.md) | Manderly occupies Hornwood Castle claiming protective purpose | Northern coalition internal friction, legitimacy contested |
+| C-721 | [ACOK 28](../Source/Main-Series/02-A-Clash-of-Kings/chapters/28-bran.md) | Ser Rodrik away to address Hornwood crisis and Luwin runs Winterfell | Local defense/governance availability |
+| C-722 | [ACOK 28](../Source/Main-Series/02-A-Clash-of-Kings/chapters/28-bran.md) | Jojen dreams winged wolf chained by grey stone and three-eyed crow pecking | Explicit dream interpreted as Bran; symbolic chains unresolved |
+| C-723 | [ACOK 28](../Source/Main-Series/02-A-Clash-of-Kings/chapters/28-bran.md) | Jojen says crow came during greywater fever and now lies beyond Wall | Interested supernatural testimony, location not verified |
+| C-724 | [ACOK 28](../Source/Main-Series/02-A-Clash-of-Kings/chapters/28-bran.md) | Howland sent Meera and Jojen after green dream | Reed mission beyond routine fealty |
+| C-725 | [ACOK 28](../Source/Main-Series/02-A-Clash-of-Kings/chapters/28-bran.md) | Jojen recounts physical touching of Summer and Bran's wolf dream | Specific independent match to ACOK21 narrated event |
+| C-726 | [ACOK 28](../Source/Main-Series/02-A-Clash-of-Kings/chapters/28-bran.md) | Summer and Shaggydog threaten Reeds while Bran distressed, Hodor drives them off | Warg-control claim vs material wolf danger |
+| C-727 | [ACOK 28](../Source/Main-Series/02-A-Clash-of-Kings/chapters/28-bran.md) | Luwin's Valyrian-steel chain link signifies study of higher mysteries | Institutional magic inquiry and failed experiments |
+| C-728 | [ACOK 28](../Source/Main-Series/02-A-Clash-of-Kings/chapters/28-bran.md) | Luwin claims dragons extinct while Dany has living hatchlings | Observable reader/character knowledge asymmetry |
+| C-729 | [ACOK 28](../Source/Main-Series/02-A-Clash-of-Kings/chapters/28-bran.md) | Jojen second dream: bloody rare Bran meat, grey Frey meat, Luwin serves | Distinct pending symbolic prediction, not falsified by pigeon pie supper |
+| C-730 | [ACOK 28](../Source/Main-Series/02-A-Clash-of-Kings/chapters/28-bran.md) | Bran fears golden man and falling from tower amid wolf dreams | Repressed assault memory and recurring crow imagery |
+| C-731 | [ACOK 29](../Source/Main-Series/02-A-Clash-of-Kings/chapters/29-tyrion.md) | Cersei commands Pycelle released and Bywater arrested for disobedience | Regent-Hand jurisdiction struggle |
+| C-732 | [ACOK 29](../Source/Main-Series/02-A-Clash-of-Kings/chapters/29-tyrion.md) | Lancel reports Cersei gave him strongwine for Robert's hunt | Participant testimony linking court plot to boar death |
+| C-733 | [ACOK 29](../Source/Main-Series/02-A-Clash-of-Kings/chapters/29-tyrion.md) | Tyrion exposes Cersei-Lancel liaison via Varys intelligence | Council spy network reaches queen's bedroom |
+| C-734 | [ACOK 29](../Source/Main-Series/02-A-Clash-of-Kings/chapters/29-tyrion.md) | Tyrion forces Lancel to spy on queen with Joffrey exposure threat | Compromised informer under blackmail, not secure loyalty |
+| C-735 | [ACOK 29](../Source/Main-Series/02-A-Clash-of-Kings/chapters/29-tyrion.md) | Tyrion promises release of Pycelle but continued exclusion from council | Future concession, actual release not on-page |
+| C-736 | [ACOK 29](../Source/Main-Series/02-A-Clash-of-Kings/chapters/29-tyrion.md) | Tyrion demands Lancel continue affair without pregnancy | Coercion creates future succession/security risk |
+| C-737 | [ACOK 29](../Source/Main-Series/02-A-Clash-of-Kings/chapters/29-tyrion.md) | Tyrion recalls Cersei's illness would last longer if powder dose larger | Confirms intent to medically incapacitate in ACOK25 |
+| C-738 | [ACOK 29](../Source/Main-Series/02-A-Clash-of-Kings/chapters/29-tyrion.md) | Chataya can't buy good wine and cat carcass carried in street | Ordinary supply scarcity, cat intended use inferred |
+| C-739 | [ACOK 29](../Source/Main-Series/02-A-Clash-of-Kings/chapters/29-tyrion.md) | Marei reportedly teaches brothel women to read | Low-visibility educational network |
+| C-740 | [ACOK 29](../Source/Main-Series/02-A-Clash-of-Kings/chapters/29-tyrion.md) | Alayaya acts as public cover while Tyrion takes secret tunnel | Concealment requires repeated performed identity |
+| C-741 | [ACOK 29](../Source/Main-Series/02-A-Clash-of-Kings/chapters/29-tyrion.md) | Varys selects mercenary guards protecting Shae's manse | Patronage creates informational dependency |
+| C-742 | [ACOK 29](../Source/Main-Series/02-A-Clash-of-Kings/chapters/29-tyrion.md) | Tysha memory from song rests on Jaime's earlier story of staged marriage | Tyrion belief with independent truth not proven |
+| C-743 | [ACOK 29](../Source/Main-Series/02-A-Clash-of-Kings/chapters/29-tyrion.md) | Tyrion thinks he loves Shae and political power simultaneously | Private desire vs reliable relationship security |
+| C-744 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Harrenhal named five towers, only small parts of two previously used | Scale creates decayed rooms and covert access |
+| C-745 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Wailing Tower noise explained as wind in melted masonry | Natural account of apparent haunting |
+| C-746 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Great hall named Hundred Hearths has about 33 or 35 fireplaces | Arya count uncertain; prestige language exaggerates |
+| C-747 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Arya alias Weasel, Hot Pie kitchens, Gendry forge | Separate statuses and identity exposure risk |
+| C-748 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Weese dogs latrine boy and violently disciplines child servants | Ordinary lived coercion and Weese moves top death list |
+| C-749 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Maester Tothmure reportedly told by Tywin to burn Joffrey incest claim | Letter spread to Lannister headquarters, report indirect |
+| C-750 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Beric reportedly killed repeatedly, soldiers laugh at final death boast | Early extraordinary mortality rumors, unverified resurrection |
+| C-751 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Vargo Hoat arrives with black goat banner and Brave Companions | Mercenary force makes Lannister occupation unstable |
+| C-752 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Tywin hangs two wounded Brave Companions and an archer after brawl | Discipline despite uncertain responsibility |
+| C-753 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Roose Bolton reportedly controls ruby ford of Trident | Possible northern military position, report not eyewitness |
+| C-754 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Four Frey captives ransomed while northern captives remain | Ransom privilege and financial access |
+| C-755 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Arya sees Lord Cerwyn's dead body borne away by silent sisters | Resolves status of captain offered by Tyrion in ACOK25 |
+| C-756 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Ser Amory returns with surviving Rorge Biter and Jaqen | Confirms three prisoners Arya aided escaped fire |
+| C-757 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Jaqen recognizes Arya alias and offers three named deaths | Red God obligation claimed, not witnessed magic law |
+| C-758 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Chiswyck boasts of assault by Gregor men on innkeeper's daughter | Character self-incriminating account, not Arya eyewitness |
+| C-759 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Arya requests Chiswyck, hears he fell from battlements three days later | Jaqen role strongly suggested, physical method unobserved |
+| C-760 | [ACOK 30](../Source/Main-Series/02-A-Clash-of-Kings/chapters/30-arya.md) | Arya deletes Chiswyck from death litany | First apparent delegated killing and changing ritual |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -740,4 +800,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and three first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and seven first-pass chapters listed in the coverage tracker.
