@@ -94,6 +94,8 @@ Do **not** infer that Val was abducted, harmed, witnessed the struggle, summoned
 5. What, if anything, does Stannis receive about Alys, the two Wall-escort defectors, and Jon's fall? **UNSHOWN.**
 6. Is Harrion Karstark alive and therefore lord of Karhold? **Unverified by the cited scenes.**
 
+**First-night follow-up:** See the [command and custody ledger](castle-black-command-custody-first-night.md) for the verified two-thirds Watch election precedent, actual officer/escort positions, Cregan's transfer, 60 dispersed Free Folk boy hostages, the child-swap misinformation risk, and provisional orders-versus-lawful-command distinction. This narrows—but does **not resolve**—the six unknowns above.
+
 ## Independent-challenge checklist / disposition
 
 - **Reject:** "Patrek was definitely trying to rape or abduct Val." No witness or Val statement establishes it, even though the tower location creates a serious lead.
