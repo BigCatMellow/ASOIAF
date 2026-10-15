@@ -876,6 +876,35 @@
 | C-840 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Jojen dream Reek flays Bran/Rickon with red blade and sees them in crypts | Future images unfulfilled, literal death not established |
 | C-841 | [ACOK 35](../Source/Main-Series/02-A-Clash-of-Kings/chapters/35-bran.md) | Meera rejects Jojen fixed-fate conclusion by urging intervention | Reed siblings disagree about prophecy changeability |
 
+| C-842 | [ACOK 36](../Source/Main-Series/02-A-Clash-of-Kings/chapters/36-tyrion.md) | Varys hears mutually contradictory rumors blaming Brienne Catelyn Stannis for Renly death | Camp intelligence weaker than Catelyn eyewitness |
+| C-843 | [ACOK 36](../Source/Main-Series/02-A-Clash-of-Kings/chapters/36-tyrion.md) | Most Renly cavalry lords bend knee to Stannis under Alester Florent | Coalition transition reported, not universal |
+| C-844 | [ACOK 36](../Source/Main-Series/02-A-Clash-of-Kings/chapters/36-tyrion.md) | Loras Tarly Rowan withhold allegiance, fifth of knights follow Loras | Crucial Reach forces are undecided |
+| C-845 | [ACOK 36](../Source/Main-Series/02-A-Clash-of-Kings/chapters/36-tyrion.md) | Varys reports Loras killed Emmon Cuy Robar Royce and third guard | Secondary casualty report, Robar had aided Brienne |
+| C-846 | [ACOK 36](../Source/Main-Series/02-A-Clash-of-Kings/chapters/36-tyrion.md) | Cortnay Penrose holds Storm End and demands vanished corpse | Operational check on Stannis while body whereabouts unknown |
+| C-847 | [ACOK 36](../Source/Main-Series/02-A-Clash-of-Kings/chapters/36-tyrion.md) | Tyrion proposes Margaery Tyrell as Joffrey bride to attract Highgarden | Marriage offer, not formal agreement |
+| C-848 | [ACOK 36](../Source/Main-Series/02-A-Clash-of-Kings/chapters/36-tyrion.md) | Sansa betrothal still extant but Tyrion says it can be broken | Deferred marital sovereignty, no actual release |
+| C-849 | [ACOK 36](../Source/Main-Series/02-A-Clash-of-Kings/chapters/36-tyrion.md) | Tyrion privately seeks Joffrey unguarded by Hound for brothel initiative | Ambiguous surveillance risk not an executed event |
+| C-850 | [ACOK 36](../Source/Main-Series/02-A-Clash-of-Kings/chapters/36-tyrion.md) | Mace Tyrell values Loras though he has two older sons | House alignment shaped by personal preference |
+| C-851 | [ACOK 36](../Source/Main-Series/02-A-Clash-of-Kings/chapters/36-tyrion.md) | Littlefinger volunteers Bitterbridge mission and wins 300 gold cloaks 40 knight-squires | Negotiation empowered at security cost |
+| C-852 | [ACOK 36](../Source/Main-Series/02-A-Clash-of-Kings/chapters/36-tyrion.md) | Littlefinger demands binding treaty commission under king and council seals | Unusually broad authority to a manipulator |
+| C-853 | [ACOK 36](../Source/Main-Series/02-A-Clash-of-Kings/chapters/36-tyrion.md) | Hobber Redwyne to be returned while Horas remains hostage | Combined inducement and pressure on Arbor fleet |
+| C-854 | [ACOK 36](../Source/Main-Series/02-A-Clash-of-Kings/chapters/36-tyrion.md) | Tyrion notes chain still grows and Penrose delays Stannis | Siege timing constraints before blockade |
+| C-855 | [ACOK 36](../Source/Main-Series/02-A-Clash-of-Kings/chapters/36-tyrion.md) | Cersei unexpectedly praises and kisses Tyrion | Observable behavior, secret motive unknown |
+| C-856 | [ACOK 37](../Source/Main-Series/02-A-Clash-of-Kings/chapters/37-theon.md) | Benfred Tallhart Wild Hares ambushed without scouts and wearing rabbitskins | Militia vulnerability links Bran16 to coastal offensive |
+| C-857 | [ACOK 37](../Source/Main-Series/02-A-Clash-of-Kings/chapters/37-theon.md) | Aeron insists drown captive Benfred under Drowned God rather than interrogate | Faith hierarchy overrides tactical intelligence |
+| C-858 | [ACOK 37](../Source/Main-Series/02-A-Clash-of-Kings/chapters/37-theon.md) | Benfred body dragged from surf after ritual drowning | Death confirmed within chapter |
+| C-859 | [ACOK 37](../Source/Main-Series/02-A-Clash-of-Kings/chapters/37-theon.md) | Theon tries shooting Todric hand but arrow hits belly after sudden stumble | Intent differs from fatal result |
+| C-860 | [ACOK 37](../Source/Main-Series/02-A-Clash-of-Kings/chapters/37-theon.md) | Theon orders Botleys cut wounded Todric throat and presents result as discipline | Performed authority and responsibility for death |
+| C-861 | [ACOK 37](../Source/Main-Series/02-A-Clash-of-Kings/chapters/37-theon.md) | Ironborn destroy fishing village with sexual slavery rape and executions | Theon-led atrocities are observed and admitted |
+| C-862 | [ACOK 37](../Source/Main-Series/02-A-Clash-of-Kings/chapters/37-theon.md) | Theon permits some villagers to flee toward Torrhen Square as warning | Terror network also routes defenders |
+| C-863 | [ACOK 37](../Source/Main-Series/02-A-Clash-of-Kings/chapters/37-theon.md) | Theon recalls Dagmer as more approving mentor than Balon or Ned | Paternal longing shapes recruitment of supporter |
+| C-864 | [ACOK 37](../Source/Main-Series/02-A-Clash-of-Kings/chapters/37-theon.md) | Dagmer explains Asha learned father's reliance after Theon taken hostage | Competence not merely birthright determines standing |
+| C-865 | [ACOK 37](../Source/Main-Series/02-A-Clash-of-Kings/chapters/37-theon.md) | Theon plans six ships under Aeron and two remaining ships for private move | Deliberate deviation from Balon's Stony Shore order |
+| C-866 | [ACOK 37](../Source/Main-Series/02-A-Clash-of-Kings/chapters/37-theon.md) | Dagmer ordered ostentatiously to besiege Torrhen Square without real means | Feint rather than intended castle conquest |
+| C-867 | [ACOK 37](../Source/Main-Series/02-A-Clash-of-Kings/chapters/37-theon.md) | Theon insists raven be allowed to summon Ser Rodrik from Winterfell | Manipulates Stark command duty through information |
+| C-868 | [ACOK 37](../Source/Main-Series/02-A-Clash-of-Kings/chapters/37-theon.md) | Theon says his real objective not Torrhen Square | Winterfell strongly inferred but not explicitly named |
+| C-869 | [ACOK 37](../Source/Main-Series/02-A-Clash-of-Kings/chapters/37-theon.md) | Dagmer wears dragonglass-set rings among iron price trophies | Ordinary ornamental obsidian distinct from Jon Fist cache |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -883,4 +912,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and twelve first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and fourteen first-pass chapters listed in the coverage tracker.
