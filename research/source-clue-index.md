@@ -504,6 +504,19 @@
 | C-480 | [ACOK 9](../Source/Main-Series/02-A-Clash-of-Kings/chapters/09-arya.md) | Six pairs of wolf eyes approach Arya near Gods Eye then withdraw | Compare Nymeria rumor, do not assign pack identity |
 | C-481 | [ACOK 9](../Source/Main-Series/02-A-Clash-of-Kings/chapters/09-arya.md) | Yoren laments habitual road route; Arya hears possible distant screams | Logistical regret and sensory uncertainty, not confirmed further violence |
 
+| C-482 | [ACOK 10](../Source/Main-Series/02-A-Clash-of-Kings/chapters/10-davos.md) | Burning the Seven destroys Dragonstone's historical sept; Rambton resistance and Sunglass imprisonment | Religious legitimacy and physical repression, not consensual conversion |
+| C-483 | [ACOK 10](../Source/Main-Series/02-A-Clash-of-Kings/chapters/10-davos.md) | Septon says seven statues were carved from original Targaryen ship masts | Historic artifact provenance is character testimony |
+| C-484 | [ACOK 10](../Source/Main-Series/02-A-Clash-of-Kings/chapters/10-davos.md) | Stannis withdraws burning sword with glove and cape; fire dies and sword is wrapped away | Ritual depicted; authentication as supernatural Lightbringer unsupported |
+| C-485 | [ACOK 10](../Source/Main-Series/02-A-Clash-of-Kings/chapters/10-davos.md) | Davos's sons report green-pine water casks after queen's men take seasoned wood | Factional patronage creates tangible fleet supply risk |
+| C-486 | [ACOK 10](../Source/Main-Series/02-A-Clash-of-Kings/chapters/10-davos.md) | Davos retains clipped finger joints as luck charms and defends Stannis's patronage | Embodied punishment plus class mobility; subjective luck |
+| C-487 | [ACOK 10](../Source/Main-Series/02-A-Clash-of-Kings/chapters/10-davos.md) | Saan reports Slynt dismissal and Renly moving from Highgarden with bride | Trade intelligence partly corroborated by Tyrion POV; Renly route still external news |
+| C-488 | [ACOK 10](../Source/Main-Series/02-A-Clash-of-Kings/chapters/10-davos.md) | Saan recounts Nissa Nissa sacrifice in legendary forging of Lightbringer; Davos recoils | Religious tale is not established historical mechanism or future necessity |
+| C-489 | [ACOK 10](../Source/Main-Series/02-A-Clash-of-Kings/chapters/10-davos.md) | Saan says Stannis owes another 30,000 dragons at next black moon | Military seapower rests on hired contractor and future cash obligations |
+| C-490 | [ACOK 10](../Source/Main-Series/02-A-Clash-of-Kings/chapters/10-davos.md) | Stannis plans 117 ravens and sea-borne letters throughout Westeros and Free Cities | Publication/dispatch distinct from read receipt and acceptance |
+| C-491 | [ACOK 10](../Source/Main-Series/02-A-Clash-of-Kings/chapters/10-davos.md) | Edric Storm at Storm's End is Stannis's proposed but inaccessible proof of Robert's paternity | Claim's evidentiary power depends on access and witness comparison |
+| C-492 | [ACOK 10](../Source/Main-Series/02-A-Clash-of-Kings/chapters/10-davos.md) | Stannis explicitly rejects gods after parents died on Windproud yet values Melisandre as frightening asset | Separates private unbelief from public religious strategy |
+| C-493 | [ACOK 10](../Source/Main-Series/02-A-Clash-of-Kings/chapters/10-davos.md) | Stannis recalls Proudwing, Thunderclap and Harbert's advice as explanation for trying a red hawk | Character's own rationalization for changing methods, not prophecy |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -511,4 +524,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the eighty-six first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the eighty-seven first-pass chapters listed in the coverage tracker.
