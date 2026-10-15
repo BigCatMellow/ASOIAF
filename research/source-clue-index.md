@@ -31,6 +31,10 @@
 | C-019 | [ADWD Prologue](../Source/Main-Series/A-Dance-with-Dragons/chapters/00-prologue.md) | Varamyr's resisted attempt to enter Thistle's mind | Compare Bran and Hodor ethics; inability to achieve stable control does not prove impossibility in all circumstances |
 | C-020 | [ADWD Prologue](../Source/Main-Series/A-Dance-with-Dragons/chapters/00-prologue.md) | Brief dying weirwood perspective, followed by Thistle as wight | Distinguish skinchanging, greenseeing and raising the dead before combining into one mechanism |
 
+| C-021 | [AGOT 6](../Source/Main-Series/A-Game-of-Thrones/chapters/06-catelyn.md) | Winterfell's natural hot-water circulation and glass gardens | Physically verify tunnels/cellars and their size before claiming a hidden surviving city; known heating infrastructure is sufficient |
+| C-022 | [AGOT 6](../Source/Main-Series/A-Game-of-Thrones/chapters/06-catelyn.md) | Lysa's private cipher, false-bottom lens package, accusation and burned letter | Track who composed/delivered it and later direct testimony; secure delivery does **not** validate the alleged killer |
+| C-023 | [AGOT 6](../Source/Main-Series/A-Game-of-Thrones/chapters/06-catelyn.md) | Ashara Dayne rumor, Ned's 'my blood' wording, Jon's wet nurse and arrival chronology | Contrast parentage alternatives using witnesses and travel dates; kinship does not by itself establish fatherhood |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -38,4 +42,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the ten first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the eleven first-pass chapters listed in the coverage tracker.
