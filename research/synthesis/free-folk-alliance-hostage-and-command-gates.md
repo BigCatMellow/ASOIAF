@@ -139,6 +139,12 @@ These are **proposed actions for a prospective opening scene, not events asserte
 
 **Verdict:** `DIRECT SOURCE RECHECK COMPLETE / SOME WARDS CANNOT COERCE A LIVING FATHER / ENTRY AND TOLL RECORDS EXIST / FULL CUSTODY LIST UNOBSERVED / CHILD PROTECTION IS A NEW DECISION, NOT CANON / INDEPENDENT REVIEW PENDING`.
 
+### Institutional distinction: sworn brothers versus accepted children
+
+The parallel [Watch-order continuity and caretaker-authority audit](castle-black-command-custody-first-night.md) verifies that **Marsh assisted Jon and Iron Emmett in assessing former Free Folk recruits** and was **expressly left the Wall for Jon's short absence** (ADWD 35). Once **Leathers and Jax** took their vows, the Watch's remission-of-prior-crimes rule and brotherhood traditions applied to them (**ASOS 78, Samwell; ADWD 39, Jon**). That gives these *sworn adults* a stronger institutional status than the hundred *unsworn children*. **Neither membership nor a former delegated command turns Marsh into an elected Lord Commander**, and nothing establishes a Watch statute that would protect child hostages automatically.
+
+A second precedent matters for *practical* protection: **ADWD 39 (Jon)** reports that Jeor Mormont left cautionary notes about dangerous members of the Watch; Jon placed **Iron Emmett and Edd at Long Barrow** because he trusted them to supervise Free Folk spearwives (ADWD 35/39/58). The notes’ contents and location remain unshown, and the young girls' transfer to Long Barrow remains only a stated intention. This is an **INFERRED opportunity for screening guards**, not proof either remote garrison has safe conditions for every boy.
+
 ## 7. Serious challenge / theory dispositions
 
 - **REJECT:** “Tormund controls every Free Folk warrior, including the Thenns, Weeper and Gerrick's court.” Different leadership structures, locations and interests are narrated.
