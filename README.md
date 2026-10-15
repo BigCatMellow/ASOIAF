@@ -44,7 +44,7 @@ These are **reference methods**, not inherited project authority. The `ASOIAF` b
 
 ## New: comprehensive primary-text close-reading pass (2026-10-15)
 
-The original five-book EPUB has been re-opened and its SHA-256 confirmed against the repository source manifest. [Live sequential coverage and chapter links](Source/Main-Series/CLOSE-READING-STATUS.md) now record the first one hundred and one first-pass units (all five prologues, full AGOT 1–72 and ACOK 1–24), with 243 still open; earlier selective studies are not treated as completed whole-chapter readings. The [cross-book clue queue](research/source-clue-index.md) keeps potentially important minor details beside serious alternate readings while the book-specific notes preserve each chapter's major causal arc.
+The original five-book EPUB has been re-opened and its SHA-256 confirmed against the repository source manifest. [Live sequential coverage and chapter links](Source/Main-Series/CLOSE-READING-STATUS.md) now record the first one hundred and three first-pass units (all five prologues, full AGOT 1–72 and ACOK 1–26), with 241 still open; earlier selective studies are not treated as completed whole-chapter readings. The [cross-book clue queue](research/source-clue-index.md) keeps potentially important minor details beside serious alternate readings while the book-specific notes preserve each chapter's major causal arc.
 
 ## Current character-led research checkpoint — 2026-10-15
 

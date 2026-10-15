@@ -698,6 +698,41 @@
 | C-666 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Balon expects northern castles to lack strong defenders and Winterfell can wait | Operational assumptions vulnerable to unforeseen local resistance |
 | C-667 | [ACOK 24](../Source/Main-Series/02-A-Clash-of-Kings/chapters/24-theon.md) | Asha helps drunken Theon across swaying bridge despite mockery | Family relationship is adversarial yet not solely hostile |
 
+| C-668 | [ACOK 25](../Source/Main-Series/02-A-Clash-of-Kings/chapters/25-tyrion.md) | Cersei orders street preachers jailed; Lancel wants tongues removed | State repression of anti-Lannister prophecy |
+| C-669 | [ACOK 25](../Source/Main-Series/02-A-Clash-of-Kings/chapters/25-tyrion.md) | Stannis has besieged Storm's End and Renly marches to oppose him | Corroborates Catelyn messenger; still no observed battle |
+| C-670 | [ACOK 25](../Source/Main-Series/02-A-Clash-of-Kings/chapters/25-tyrion.md) | Tyrion powders Cersei wine and she is confined ill next day | Covert drugging established, medicine identity unspecified |
+| C-671 | [ACOK 25](../Source/Main-Series/02-A-Clash-of-Kings/chapters/25-tyrion.md) | Cersei says Robert intended slight by giving Storm's End to Renly | Interested character account of Robert's motive |
+| C-672 | [ACOK 25](../Source/Main-Series/02-A-Clash-of-Kings/chapters/25-tyrion.md) | Tyrion rejects Stark independence and demands bannerman children as hostages | Public coercive counterterms designed partly for delay |
+| C-673 | [ACOK 25](../Source/Main-Series/02-A-Clash-of-Kings/chapters/25-tyrion.md) | Tyrion offers Harrion/Wylis and Cerwyn/Donnel against Willem/Tion | Specific unequal bargaining positions |
+| C-674 | [ACOK 25](../Source/Main-Series/02-A-Clash-of-Kings/chapters/25-tyrion.md) | Tyrion conceals Arya's absence while naming two Stark girls hostages | Public deception with vital cross-POV information gap |
+| C-675 | [ACOK 25](../Source/Main-Series/02-A-Clash-of-Kings/chapters/25-tyrion.md) | Tyrion returns Ned bones but withholds sword Ice until agreement | Symbols of family and power used as leverage |
+| C-676 | [ACOK 25](../Source/Main-Series/02-A-Clash-of-Kings/chapters/25-tyrion.md) | All 100 Vylarr red cloaks dispatched with Cleos from King's Landing | Cersei's independent guard weakened for alternate purpose |
+| C-677 | [ACOK 25](../Source/Main-Series/02-A-Clash-of-Kings/chapters/25-tyrion.md) | Four criminals masked as escort intended to free Jaime at Riverrun | Covert infiltration plan, success not verified |
+| C-678 | [ACOK 25](../Source/Main-Series/02-A-Clash-of-Kings/chapters/25-tyrion.md) | Thorne reports dead men walking but preserved hand decayed waiting for audience | Lost exhibit does not falsify directly witnessed Watch wights |
+| C-679 | [ACOK 25](../Source/Main-Series/02-A-Clash-of-Kings/chapters/25-tyrion.md) | Tyrion mocks Thorne in public but supplies prisoner recruits | Image management competes with emergency preparedness |
+| C-680 | [ACOK 25](../Source/Main-Series/02-A-Clash-of-Kings/chapters/25-tyrion.md) | Littlefinger learns Myrcella-Dorne true and resents prior Vale deception | Controlled leak story reaches openly hostile adviser |
+| C-681 | [ACOK 25](../Source/Main-Series/02-A-Clash-of-Kings/chapters/25-tyrion.md) | Pycelle named as keeper of true Dorne letter; Tyrion claims duplicate handed Cersei | Controlled-trap leaker identification beyond mere suspicion |
+| C-682 | [ACOK 25](../Source/Main-Series/02-A-Clash-of-Kings/chapters/25-tyrion.md) | Under violent threats Pycelle admits urging Aerys open gates to Tywin | Sack involvement character testimony under duress |
+| C-683 | [ACOK 25](../Source/Main-Series/02-A-Clash-of-Kings/chapters/25-tyrion.md) | Pycelle admits sending away Colemon while Jon Arryn was purged, denies poison | Confirmed interference not confirmed murder |
+| C-684 | [ACOK 25](../Source/Main-Series/02-A-Clash-of-Kings/chapters/25-tyrion.md) | Pycelle accuses Hugh of poison and alleges Cersei wished Arryn dead | Unsubstantiated alternative killer claim, not adopted |
+| C-685 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | Eight days captive in storehouse, daily Gregor-selected tortured deaths | Systematic terror rather than isolated battle |
+| C-686 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | Tickler's repeated Beric Dondarrion queries yield contradictory answers | Torture produces unreliable intelligence |
+| C-687 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | King-loyal elderly captive and woman's daughter killed despite cooperation | Obedience has no safety guarantee |
+| C-688 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | Gregor's men kill three-year-old crying boy and mother | Direct atrocity against defenseless civilians |
+| C-689 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | Gregor executes woman who resists soldiers' sexual violence | Retaliation against captive despite no combat threat |
+| C-690 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | Gendry retained because he can forge metal and made bull helm | Craft skill rather than nobility averts immediate murder |
+| C-691 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | Gregor brings stolen animals and nine salt-fish wagons toward Harrenhal | Looting supply logistics |
+| C-692 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | Villagers disagree whether Beric's group paid, one notes paper tokens by Thoros | Rival smallfolk perspectives on alternative armed group |
+| C-693 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | An old captive praises Aerys rather than Robert | Individual royal nostalgia not population-level support |
+| C-694 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | Arya cannot conceal gender in forced march but highborn Stark name stays hidden | Two different identity secrets |
+| C-695 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | Polliver holds Needle, Dunsen wears Gendry's helm | Specific seized object custody |
+| C-696 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | Raff identified as Lommy's throat spearman | Resolves perpetrator previously unnamed in Arya 19 |
+| C-697 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | Chiswyck cruel with humor, Shitmouth crude but sometimes gives bread | External manner inversely correlated with kindness |
+| C-698 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | Arya repeats hatred names as nightly prayer | Protective ritual and desire for revenge, no fate fixed |
+| C-699 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | Harrenhal colossal melted towers and stinking encampment are witnessed | Physical dragon-fire ruins and sanitation, legends remain partly unverified |
+| C-700 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | Arya chooses alias Weasel after earlier rescued girl vanishes | Name reuse does not resolve missing toddler fate |
+| C-701 | [ACOK 26](../Source/Main-Series/02-A-Clash-of-Kings/chapters/26-arya.md) | Harra's slap and Amabel assignment place Arya under Weese of Wailing Tower | Denied stable work and constrained escape opportunity |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -705,4 +740,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and one first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and three first-pass chapters listed in the coverage tracker.
