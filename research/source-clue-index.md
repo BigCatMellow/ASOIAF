@@ -648,6 +648,38 @@
 | C-618 | [ACOK 21](../Source/Main-Series/02-A-Clash-of-Kings/chapters/21-bran.md) | Ned said Howland Reed saved him from Arthur Dayne | Critical Tower of Joy fact, method unshown |
 | C-619 | [ACOK 21](../Source/Main-Series/02-A-Clash-of-Kings/chapters/21-bran.md) | Bran dreams Summer and Shaggy encounter Reeds, Jojen touches wolf | Dream-contact and claim of foresight, no waking verification |
 
+| C-620 | [ACOK 22](../Source/Main-Series/02-A-Clash-of-Kings/chapters/22-catelyn.md) | Catelyn dreams restored family and handles wounded by Valyrian dagger | Grief and trauma, not predictive dream |
+| C-621 | [ACOK 22](../Source/Main-Series/02-A-Clash-of-Kings/chapters/22-catelyn.md) | Robb plans to march but explicitly denies saying Harrenhal his target | Known intention to maneuver; exact target open |
+| C-622 | [ACOK 22](../Source/Main-Series/02-A-Clash-of-Kings/chapters/22-catelyn.md) | Robb dispatches Cat since Hoster unwell Brynden vital Edmure at Riverrun | Delegation dictated by alliance and kinship constraints |
+| C-623 | [ACOK 22](../Source/Main-Series/02-A-Clash-of-Kings/chapters/22-catelyn.md) | Hoster addresses Cat as Minisa and remembers Lysa as little girl | Demonstrated confusion, no confirmed death yet |
+| C-624 | [ACOK 22](../Source/Main-Series/02-A-Clash-of-Kings/chapters/22-catelyn.md) | Colen scouts Catelyn party via windmill and conveys her under escort | Renly field intelligence and contested diplomatic status |
+| C-625 | [ACOK 22](../Source/Main-Series/02-A-Clash-of-Kings/chapters/22-catelyn.md) | Bitterbridge camp contains massive siege engines and numerous banners | Military strength seen, totals not independently counted |
+| C-626 | [ACOK 22](../Source/Main-Series/02-A-Clash-of-Kings/chapters/22-catelyn.md) | Blue armored Brienne forces Ser Loras to yield in melee of 116 | Combat skill witnessed despite public gender derision |
+| C-627 | [ACOK 22](../Source/Main-Series/02-A-Clash-of-Kings/chapters/22-catelyn.md) | Brienne swears her life to Renly as new Rainbow Guard | Oath evidenced, future actions open |
+| C-628 | [ACOK 22](../Source/Main-Series/02-A-Clash-of-Kings/chapters/22-catelyn.md) | Margaery Tyrell marriage visibly underpins Renly coalition | Dynastic rather than hereditary legitimacy |
+| C-629 | [ACOK 22](../Source/Main-Series/02-A-Clash-of-Kings/chapters/22-catelyn.md) | Catelyn withholds Robb troop dispositions and acknowledges Jaime prisoner | Knowledge control in tense envoy talks |
+| C-630 | [ACOK 22](../Source/Main-Series/02-A-Clash-of-Kings/chapters/22-catelyn.md) | Renly hoped dismissed Barristan Selmy would fill Rainbow Guard place | Barristan still missing to Renly and Catelyn |
+| C-631 | [ACOK 22](../Source/Main-Series/02-A-Clash-of-Kings/chapters/22-catelyn.md) | Renly claims eighty thousand present and Dorne soon to join | Boast and forecast, not independent muster or Dornish assent |
+| C-632 | [ACOK 22](../Source/Main-Series/02-A-Clash-of-Kings/chapters/22-catelyn.md) | Renly allows northern king title but explicitly demands homage | Ceremonial freedom versus actual sovereignty conflict |
+| C-633 | [ACOK 22](../Source/Main-Series/02-A-Clash-of-Kings/chapters/22-catelyn.md) | Storm End courier reports Stannis siege while Cortnay Penrose resists | New theater from messenger, not Catelyn eyewitness |
+| C-634 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Seventh evacuated wildling village precedes occupied Craster keep | Widespread organized movement corroborated by Mance report |
+| C-635 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Craster keep only weak earthwork, animal skulls and few sheep | Physical survival defenses unlikely against substantial attack |
+| C-636 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Craster remembers Waymar Royce patrol but says Benjen not seen for three years | Interested last-sighting claim does not resolve Benjen |
+| C-637 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Craster reports Mance demanded he leave and claims to keep messenger tongue nailed | Conspicuous violent rejection of wildling unification |
+| C-638 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Mormont barters axe and wine for Craster lodging and map intelligence | Institutional dependency sustains tolerance of abuses |
+| C-639 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Ghost breaks Gilly rabbit hutch revealing scarcity of livestock | Food constraint and first direct contact |
+| C-640 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Gilly says she is Craster daughter and wife and pregnant | Direct household coercion and future-child danger |
+| C-641 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Sam lends cloak enabling Gilly to find Jon privately | Material protection and subversive initiative |
+| C-642 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Gilly reports sons given to cold gods with blue eyes during white cold | Specific firsthand testimony corroborated by Mormont admission, no on-page sacrifice |
+| C-643 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Gilly says Craster began giving sheep when cold visitors came more often | Proposed reason empty sheepfold, number and mechanism unknown |
+| C-644 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Gilly argues Jon lacks Craster guest-right since never ate at table | Moral and legal counterclaim, unaccepted by Jon |
+| C-645 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Sam hopes they can return to take Gilly; Jon refuses immediate help | Promise of rescue contingent and unsupported |
+| C-646 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Mormont admits rangers long knew Craster gives sons to wood | Institutional knowledge and calculated tolerance confirmed |
+| C-647 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Mormont says Craster important to Watch, cannot right every wrong | Duty-versus-protection trade-off directly discussed |
+| C-648 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Craster locates Mance gathering in Frostfangs, matches Gorge captive account | Destination corroborated, invasion motivation still inferred |
+| C-649 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Mormont concludes Mance plans southward attack through vulnerable Wall | Plausible campaign hypothesis, flight from Others serious alternative |
+| C-650 | [ACOK 23](../Source/Main-Series/02-A-Clash-of-Kings/chapters/23-jon.md) | Sudden frost turns rainsoaked encampment crystal at dawn | Weather observation, magic source unproven |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -655,4 +687,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the ninety-eight first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred first-pass chapters listed in the coverage tracker.
