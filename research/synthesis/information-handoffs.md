@@ -84,3 +84,9 @@ The [Castle Black command/custody dossier](castle-black-command-custody-first-ni
 
 **Information-failure test:** A dispatch saying only “Jon is dead; Marsh commands” could spur different reactions than one truthfully describing the attackers, Patrek's death, surviving hostages and the lack of any election. The *exact letter text* and proof of receipt are prerequisites to selecting a reunion, reprisal or choosing scene. Both possible messages are **invented continuation branches**, not canonical letters.
 
+## Free Folk fathers and the missing hostage-location message
+
+**ADWD 58 (Jon), `VERIFIED / INITIAL-LOCATION PARTIALLY UNKNOWN`:** Tormund's hundred boys include sons of named, separately acting captains: **Soren Shieldbreaker, Morna White Mask, Brogg, Howd Wanderer, Gerrick Kingsblood, Devyn Sealskinner, and the Great Walrus** among others. A Watch steward records names at the gate; sixty are later sent toward Eastwatch and the Shadow Tower, but **no named son's individual destination is verified**. This is not a single “Tormund's hostages” political constituency. Full chief-by-chief evidence: [Free Folk coalition audit](free-folk-alliance-hostage-and-command-gates.md).
+
+**After ADWD 69, `UNSENT / NO RECEPTION`:** Any captain learning that Jon was stabbed still needs separate proof of **the boy's identity, actual place of custody, current safety and which Watch officer can guarantee him** before threats, negotiations or rescue can be attributed to that captain. **Gerrick** is also Selyse's chosen prospective royal client while a father of one hostage; this creates competing incentives, **not** a verified Gerrick defection or a proved execution risk. Boys from separate families could produce different and even contradictory reactions to the **same** future Castle Black report.
+
