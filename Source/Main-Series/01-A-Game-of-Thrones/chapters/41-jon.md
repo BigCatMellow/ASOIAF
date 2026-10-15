@@ -41,4 +41,4 @@
 
 **Not just prophecy:** Aemon's remark, Jon's recruitment success and Sam's literacy are durable causal seeds for future information flow and leadership. **Possible rival:** Jon is arguing out of friendship rather than calibrated labor needs, but his placement suggestion names concrete jobs and real shortages.
 
-**Next:** `AGOT 44/48 (Jon)` for Sam's appointment and vows; later Watch communication failures. Keep practical administrative change separate from mystical identity theories.
+**Next:** `AGOT 48 (Jon)` and `AGOT 52 (Jon)` for the next Watch decisions and their consequences; later Watch communication failures. Keep practical administrative change separate from mystical identity theories.
