@@ -41,7 +41,7 @@ See [master catalog](../../../research/theories/CATALOG.md) for additional `QUEU
 ## Arya and Bran: first-book source anchors (2026-10-15)
 
 - **AGOT 1 (Bran):** Ned brings Bran to witness an execution and confront the responsibility of judgment. Later greenseer power must not erase this early moral training.
-- **AGOT 7 (Arya):** Jon gives her Needle; her closeness to him and difficulties fitting courtly expectations predate her violent experiences.
+- **AGOT 7 (Arya):** Arya's needlework humiliation and exclusion from sword training are explicit; her bond with Jon is shown. **AGOT 10 (Jon)** is the scene where Jon actually gives her Needle. (Corrected locator after direct sequential reading.)
 - **AGOT 17 (Bran):** In a coma Bran dreams the crow and awakens with Summer. His paralysis is established; magical flying does not undo the injury.
 - **AGOT 32 and 65 (Arya):** Syrio's observation lessons and Arya's later flight demonstrate learned rather than miraculous survival skills.
 - **AGOT 24 (Bran):** Robb comforts Bran and imagines a family journey to see Jon at the Wall, a reminder of Bran's continuing wish for kinship.
@@ -50,6 +50,6 @@ Cross-book analyses: [Arya](../../../research/characters/arya-stark.md), [Bran](
 
 ## Sequential chapter reading (new owner-requested pass, 2026-10-15)
 
-See the [coverage tracker](../CLOSE-READING-STATUS.md). **First-pass completed here:** [Prologue](chapters/00-prologue.md), [1 Bran](chapters/01-bran.md), [2 Catelyn](chapters/02-catelyn.md), [3 Daenerys](chapters/03-daenerys.md), [4 Eddard](chapters/04-eddard.md), [5 Jon](chapters/05-jon.md), [6 Catelyn](chapters/06-catelyn.md). **Next:** AGOT 7 (Arya); rest of volume incomplete.
+See the [coverage tracker](../CLOSE-READING-STATUS.md). **First-pass completed here:** [Prologue](chapters/00-prologue.md), [1 Bran](chapters/01-bran.md), [2 Catelyn](chapters/02-catelyn.md), [3 Daenerys](chapters/03-daenerys.md), [4 Eddard](chapters/04-eddard.md), [5 Jon](chapters/05-jon.md), [6 Catelyn](chapters/06-catelyn.md), [7 Arya](chapters/07-arya.md), [8 Bran](chapters/08-bran.md), [9 Tyrion](chapters/09-tyrion.md), [10 Jon](chapters/10-jon.md), [11 Daenerys](chapters/11-daenerys.md), [12 Eddard](chapters/12-eddard.md), [13 Tyrion](chapters/13-tyrion.md), [14 Catelyn](chapters/14-catelyn.md). **Next:** AGOT 15 (Sansa); whole volume still incomplete.
 
 Initial source junctions: lost warnings from Gared, the six direwolves, heart-tree observation, Jon Arryn reports, Daenerys's red door, Lyanna's promise, iron swords in the crypts, Jon's ostracism, and the hidden Lysa warning alongside Winterfell's geothermal system. Each is sourced and challenged in [cross-book clue queue](../../../research/source-clue-index.md).
