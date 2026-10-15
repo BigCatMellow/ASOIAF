@@ -73,3 +73,14 @@ The [first-night command/custody audit](castle-black-command-custody-first-night
 
 A **third unsent message**, Jon's injury or death from **Castle Black → Stannis or the northern clans**, would materially affect Alys/Sigorn's marriage support, Cregan's custody and the standing of Jon's prior warning about Arnolf. Neither a messenger nor a receipt occurs in ADWD 69. **Do not assume the same courier carries earlier wedding testimony, the infant identity and the assassination news.**
 
+## Command recognition and cross-garrison ballots — unsent Castle Black news
+
+The [Castle Black command/custody dossier](castle-black-command-custody-first-night.md) now separately establishes a **historic ballot mechanism** that should not be confused with a **newly sent communication**:
+
+- **ASOS 75 (Samwell), `VERIFIED HISTORIC PROCEDURE`:** voters on duty could use a friend's token; **Denys Mallister and Cotter Pyke cast ballots on behalf of garrisons they had left behind**. Any future 999th Lord Commander choosing must account for the whole Watch's elective body and the two-thirds threshold. A post-stabbing ballot or new proxies have **NOT** been observed.
+- **ASOS 78 (Samwell), `VERIFIED OLD ATTITUDES / NOT PRESENT RESPONSE`:** both Pyke and Mallister call **Bowen Marsh unsuited to overall command** despite agreeing with neither each other nor all of Jon's later decisions. Sam also privately **lies to each that Stannis means to appoint the other** to induce a third-candidate agreement. The Watch's previous successful election used these distorted private beliefs; **Sam is now in Oldtown, Aemon is dead** (AFFC 45).
+- **ADWD 49 (Jon), `ASSIGNED AND REPORTED`:** Pyke leaves **Ser Glendon Hewett** commanding Eastwatch during the rescue mission. **ADWD 58 (Jon)** reports Pyke's shipboard disaster at Hardhome and the relocation of **sixty Free Folk boy hostages** to Eastwatch/Shadow Tower. These are **separate local custody and command chains**, with no evidenced response to Jon's stabbing in **ADWD 69**.
+- **`UNSENT/UNKNOWN`:** a new Castle Black message must specify **author, exact allegation(s), addressed commander(s), dispatch, receipt, and any proxy-vote arrangements**. The moment Hewett learns a report is not necessarily the moment Pyke at Hardhome learns it; Mallister's response cannot be inferred from either man's preferences.
+
+**Information-failure test:** A dispatch saying only “Jon is dead; Marsh commands” could spur different reactions than one truthfully describing the attackers, Patrek's death, surviving hostages and the lack of any election. The *exact letter text* and proof of receipt are prerequisites to selecting a reunion, reprisal or choosing scene. Both possible messages are **invented continuation branches**, not canonical letters.
+
