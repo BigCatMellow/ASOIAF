@@ -25,7 +25,7 @@ The high-probability *pressure*, not a proven outcome, is a three-sided dispute 
 | **ASOS 79 (Jon):** Jon wins the election after a new vote; Yarwyck withdraws his candidacy; Marsh offers to remain Lord Steward under the new commander. | `VERIFIED`. | The Watch can make a disputed choice through election; the losing officers did not inherit an alternate permanent co-command. |
 | **ADWD 3 (Jon):** Stannis threatens Jon's position but Jon says he is commander because his brothers elected him. | `VERIFIED` conflict over sovereignty. | **De facto military threats** and **lawful Watch election** are different things. |
 
-**UNKNOWN:** Neither the inspected election precedent nor ADWD 69 describes a binding automatic-acting-Lord-Commander order after a murder. An acting officer may coordinate defense, but **do not label Marsh the legitimate 999th Lord Commander by default**. A rushed assembly, emergency council, rival declarations or a delayed election all require on-page actors and a plausible quorum. Even Jon's biological death remains **unconfirmed at the chapter boundary**.
+**UNKNOWN:** Neither the inspected election precedent nor ADWD 69 describes a binding automatic-acting-Lord-Commander order after a murder. An acting officer may coordinate defense, but **do not label Marsh the legitimate 999th Lord Commander by default**. A rushed assembly, emergency council, rival declarations or a delayed election all require on-page actors and plausible participation, including proxy arrangements where applicable (ASOS 75); the voting body is not necessarily limited to physical attendees. Even Jon's biological death remains **unconfirmed at the chapter boundary**.
 
 **Serious challenge:** In a siege or riot an experienced Lord Steward might effectively direct men, food and gates **before** a lawful election. The legal two-thirds rule does not prohibit de facto interim control; it forbids mistaking that control for an already completed election.
 
@@ -92,7 +92,7 @@ The high-probability *pressure*, not a proven outcome, is a three-sided dispute 
 | **Stop escalating yard violence** — Leathers mediates; local armed parties control their own | Wun Wun can be separated from avengers; queen’s knights and Watch stewards are challenged to stand down. | Patrek's death prompts retaliation, Free Folk intervene, or assassins rally protection. | **Who speaks first, who obeys, whose guards intervene**; no universal obedience by a horn blast. |
 | **Protect people held under Jon's promises** — assigned guards/Watch authority/queen's men | Val, Cregan, Dryn, Monster and other boys receive clearly recorded safe treatment under named keepers. | Any party may seize, endanger or bargain over one protected person, making news spread unevenly. | **Actual keeper and premises, deliberate action, delivery of information**. |
 | **Secure routine defense** — whichever officers can command builders/stewards/rangers | Gate, stores, rookery and watch rotations stay functional despite leadership dispute. | Officers compete for access, the real northern and supernatural threats go unguarded. | **Keys, named watch leaders, posted orders**, not the assumption that a Lord Steward owns the fortress. |
-| **Provisional officer command vs vote** — Marsh/Yarwyck, other remaining sworn brothers | An officer coordinates an emergency defense **without claiming to be elected Lord Commander**; a later legitimate choosing could proceed. | A faction claims succession without a vote, another brother challenges it, or a royal force tries to intervene. | **Statement of authority, acceptance/resistance, timing and eligible voters**. The required **two-thirds** cannot be presumed in a tiny crisis gathering. |
+| **Provisional officer command vs vote** — Marsh/Yarwyck, other remaining sworn brothers | An officer coordinates an emergency defense **without claiming to be elected Lord Commander**; a later legitimate choosing could proceed. | A faction claims succession without a vote, another brother challenges it, or a royal force tries to intervene. | **Statement of authority, acceptance/resistance, timing and eligible voters**. The required **two-thirds** cannot be presumed in a tiny crisis gathering; prior elections admitted votes on behalf of absent garrisons (**ASOS 75**). |
 | **External warning** — Clydas, identified messenger or separate garrisons | Credible news moves to Eastwatch, Shadow Tower, Long Barrow, Stannis or clan households; recipients decide their own response. | Ravens fail, parties suppress a letter or recipients learn a distorted event sequence. | **Dispatch text, route, sender, recipient and receipt**; weather/time cannot be hand-waved. |
 
 ### Character-led pressure without fixed outcomes
@@ -146,13 +146,61 @@ The **first verifiable division of power** is not “who is next Lord Commander�
 
 **Disposition:** `VERIFIED: scattered posts and differentiated arrangements; Alliser sent ranging, not shown back; Sigorn's grievance-root and witnessed marriage.` `UNKNOWN: post-stabbing command, all garrison reactions, absent Thorne fate, Sigorn's location and next choice.` Independent review remains outstanding.
 
-## 8. Serious counterexamples, source corrections and verification
+## 8. An unexpected election constraint: distant votes, two hostile commanders and the absent broker
+
+**Targeted direct source review (2026-10-15):** **ASOS 75 and 78 (Samwell), 79 (Jon); AFFC 45 (Samwell); ADWD 28, 49, 58 and 69 (Jon).** This strengthens the constitutional analysis without resolving the assassination's aftermath.
+
+### A. The elective body was NOT restricted to brothers physically in Castle Black
+
+- **ASOS 75 (Samwell):** The choosing used privately cast **tokens**, counted by Sam and Clydas with Maester Aemon adjudicating. A brother **on duty could ask another brother to vote on his behalf**. **Denys Mallister and Cotter Pyke voted for garrisons they had left behind**. These are narrated precedents for **proxy voting** and cross-garrison representation.
+- The chapter also states the winning threshold was **two-thirds of the sworn brothers**, not a mere majority of one garrison or whoever survived a particular meeting. An earlier choosing was said by Aemon to have lasted nearly **two years and seven hundred votes**. There is no sourced statutory deadline for an instant successor.
+- **ASOS 78 (Samwell) / 79 (Jon):** Although Stannis threatened to interfere, Mallister and Pyke insisted that only sworn brothers could elect their Lord Commander. Jon was **then chosen through the Night's Watch ballot**, not appointed by Stannis.
+- **Correction to any implied new election mechanics:** A claimant does not necessarily need to assemble everyone at Castle Black; proxy voting has a demonstrated precedent. Conversely the text does **not** provide detailed rules for an emergency election after the current assassination or demonstrate that a fresh vote has been called. Neither “Marsh controls the Castle Black men” nor “the outside garrisons cannot be heard in time” is a proven voting outcome.
+
+### B. Pyke and Mallister previously judged Marsh unfit — but this is not proof of allegiance to Jon
+
+| Witness and period | Directly observed old appraisal | What it bears on the next choosing / serious alternative |
+| --- | --- | --- |
+| **Cotter Pyke, ASOS 78 (Samwell)** | Says Marsh is suited to **counting supplies**, dismisses Yarwyck as an implementer rather than an independent leader, and loathes Slynt; does **not want** the Lord Commander's job for himself. | **Old negative appraisal of Marsh's fitness**, before the stabbing, makes automatic endorsement less plausible. Pyke may nevertheless agree that Jon broke neutrality or believe Marsh's stewarding expertise necessary temporarily. |
+| **Ser Denys Mallister, ASOS 78 (Samwell)** | Explicitly says **neither Marsh nor Yarwyck is equal to the task**; argues a Lord Commander needs courtly and diplomatic skill, not simply the ability to fight. Has commanded the Shadow Tower for **thirty-three years**. | His criteria are independently grounded and may oppose a violent seizure of leadership. But his age, class prejudices and earlier rejection of lower-born Pyke do not guarantee sympathy for Jon's Free Folk program. |
+| **Both commanders, ASOS 78 (Samwell)** | Defend the Watch's right to elect free of royal appointment, yet bitterly oppose one another's candidacy. Each is eventually willing to contemplate **Jon as a third option**. | Precedent supports a **possible compromise candidate**, not an automatic unity bloc of “Jon loyalists.” Their differences make a swift shared response particularly uncertain. |
+| **Glendon Hewett, ADWD 49 (Jon)** | Named acting Eastwatch commander while **Pyke is at sea**; Jon remembers Glendon's earlier violence toward him, friendship with Alliser and association with Slynt. | Hewett's judgment could be distinct from Pyke's. Nothing shows he supports a murder or abuses the transferred hostage boys. Do **not** label “Eastwatch votes Marsh” because a local acting commander knew Slynt. |
+| **Pyke & Mallister on refugees, ADWD 28 (Jon)** | Each complains about receiving Mole's Town Free Folk sent to their castles; both question loyalty and usefulness. | An officer can reject Marsh as Lord Commander **and** oppose Jon's settlement policy. Neither side of that policy determines his vote or safety decisions. |
+
+**A highly consequential information asymmetry within the election's own history:** In **ASOS 78 (Samwell)**, Sam privately tells **Mallister** that Stannis means to appoint **Pyke** and tells **Pyke** that Stannis means to appoint **Mallister** if no agreement occurs. The POV acknowledges these as **Sam's lies**, calculated to produce a compromise. **ASOS 79 (Jon)** then shows the actual ballot choosing Jon. Do not claim Stannis truly made either ultimatum, the two commanders subsequently discovered the deception, or that Sam's persuasion makes the formal vote null.
+
+**Why a second compromise is harder:** The prior choosing benefited from **Sam's individual persuasion**, **Aemon's counted and adjudicated ballot**, and **Clydas's assistance** (ASOS 75/78). By **AFFC 45 (Samwell)**, **Sam is in Oldtown and Aemon has died**. Clydas remains at Castle Black as the message handler (ADWD 69). Those facts mean the **known previous political broker and respected election elder are absent**, not that no one else could convene a choosing or accurately count its votes.
+
+### C. Two different chains of obedience at Eastwatch
+
+**ADWD 49 (Jon):** Pyke's own communication states he commands from **Talon** on the Hardhome mission and **Ser Glendon holds Eastwatch**. **ADWD 58 (Jon)** places Pyke in deep trouble at Hardhome, reporting a wrecked rescue, losses, violence, and dead things on land and water. **ADWD 58** also reports that some of the sixty dispersed boy hostages went to Eastwatch (exact count and ward locations unknown).
+
+Three questions must be kept separate in a future scene:
+1. Would **Hewett**, physically commanding Eastwatch, immediately follow Marsh's disputed decree?
+2. Would **Pyke**, if news reached his ships and he survived to answer, ratify Hewett's choice?
+3. Would the **Eastwatch sworn brothers' represented electoral tokens**, however assembled, support anyone at all?
+
+The source supports **no affirmative answer** to any of these. This is a specific alternative to the false shortcut “Pyke will recognize Marsh because Eastwatch is held by his deputy” or “Pyke will save Jon because he detests Marsh.” In the meantime, **the Hardhome rescue and scattered hostages** generate responsibilities neither rival candidate can wish away.
+
+### D. The actual nearest decision, ranked by evidentiary dependency
+
+1. **At Hardin's Tower:** An identified witness must establish Jon's condition and who can halt the struggle over Patrek and Wun Wun. No long-range garrison response can arrive before this immediate scene.
+2. **Inside Castle Black:** Watchmen must either recognize an interim officer for limited operations, reject his claimed authority, or seek a formal choosing; the 2/3 rule and past proxy arrangement complicate any assertion that a courtyard faction alone represents the Watch.
+3. **At the rookery:** An identified sender must create, authorize and dispatch a precise report. No cited chapter records an after-the-stabbing message to Hewett, Mallister, Pyke, Alys or Stannis.
+4. **On receipt:** Hewett and Mallister may treat **the same report** differently because past confidence in Marsh's capacity, political commitments and separate local custody all differ. Pyke is not available at Eastwatch; a later response requires credible contact.
+5. **Longer term:** A compromise election may become possible, but with **Sam and Aemon absent** the exact earlier method of political persuasion cannot be replayed by fiat. Enforceable child protections, Wall defense and food allocation are distinct tests of any new leader's competence.
+
+**Disposition:** `VERIFIED: historic cross-garrison proxy votes, two-thirds Watch election, Pyke/Mallister's independent old criticisms of Marsh, Sam's double bluff, Pyke's absence and Hewett's local command.` `UNKNOWN: response to assassination, current proxy instructions, every garrison's new vote, Pyke's survival and receipt, post-stabbing expedition fate.` `THEORY: a contested interim administrator, a later compromise election or a separate Eastwatch stance.` None adopted.
+
+## 9. Serious counterexamples, source corrections and verification
 
 **Counterexample A — rapid restoration of Watch order without open civil war:** Marsh's faction might impose temporary control while Leathers or other brothers prevent wider bloodshed. The meeting's numbers do not prove every Free Folk fighter would rush to revenge. This could leave a credible, ugly contested authority without a full battle.
 
 **Counterexample B — rapid Free Folk resistance:** A killing of their chief guarantor amid a wounded giant, hostile marriage claims and endangered hostages might trigger immediate armed reaction. **But** Tormund has promised men for Hardhome and entrusted Dryn to Jon; the Free Folk are not a single unit under Sigorn or Gerrick.
 
 **Counterexample C — royal protective intervention:** Selyse's own guards might focus on keeping her and Shireen safe from escalating violence rather than taking over the Watch or enforcing marriages. Her actual choice after the knives is **UNSHOWN**.
+
+**Proxy election correction:** ASOS 75 (Samwell) explicitly describes delegation of voting tokens for brothers on duty and votes cast by Mallister/Pyke for their distant garrisons. Physical assembly of the full Watch is **not a proven requirement** for a valid choice; neither are new proxy instructions or acceptance of any candidate known after ADWD 69.
 
 **Explicit corrections to overly broad earlier formulations:**
 1. “One hundred hostages at Castle Black” is false after **ADWD 58**; Marsh sends **sixty** toward Eastwatch and Shadow Tower, with later custody unobserved.
