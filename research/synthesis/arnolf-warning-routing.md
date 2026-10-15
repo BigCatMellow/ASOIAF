@@ -12,16 +12,20 @@
 
 ## Bottom line
 
-**Jon's warning is known to have been sent, but Stannis is not shown reading it.** Tycho's route creates a **second plausible human delivery opportunity through Deepwood Motte**; neither that courier path nor a raven forwarding is shown to occur. Asha's scene establishes Arnolf and his independent men are already in Stannis's camp when Tycho arrives, and establishes an internal struggle over whether to march. The *cause* of Arnolf's apparent betrayal is reported by Alys, whose inheritance is directly threatened.
+**Jon's warning is known to have been sent, but Stannis is not shown reading it.** Tycho's route creates a **second plausible human delivery opportunity through Deepwood Motte**; neither that courier path nor a raven forwarding is shown to occur. Asha's scene establishes Arnolf and his independent men are already in Stannis's camp when Tycho arrives, and establishes an internal struggle over whether to march. The *Karhold inheritance motive* is reported by Alys. **The underlying Bolton collaboration is also corroborated by Roose's private remarks in ADWD 32 and Theon's thoughts in ADWD 37**. Neither is information Stannis has been shown receiving. See [claimant audit](winterfell-claimants-stannis-arnolf.md).
 
 **New caution:** Tycho's direct conversation with Jon in ADWD 44 occurs *before* Alys reveals Arnolf's scheme late in the same chapter. Tycho **could not have learned the warning from that initial conversation**. Any claim that “Jon told Tycho the plan” needs an additional later exchange, a message at Deepwood or another explicitly identified contact.
+
+## Source correction: Stannis's preference and Bolton-side corroboration
+
+**ADWD 17:** Stannis explicitly says he favors Arnolf to receive Winterfell, but makes no completed grant. **ADWD 32:** Roose tells Ramsay that Arnolf attempted to bait the Dreadfort trap; **ADWD 37:** Theon expects Arnolf to switch at Bolton's signal. The purpose of this dossier is still the **uncertain delivery to Stannis**, not whether only Alys ever knew the plot. See [competing Winterfell claims](winterfell-claimants-stannis-arnolf.md).
 
 ## I. Source-certified partial-order chain
 
 | Node | Book anchor | Established event | What it does **not** establish |
 | --- | --- | --- | --- |
 | **K1: banker at the Wall** | **ADWD 44 (Jon)** | Tycho asks after Stannis. Jon offers provisions, horses and guides **as far as Deepwood Motte**; from there the banker must find Stannis himself. A loan/ship arrangement with the Watch is discussed. | This meeting does **not** contain Alys's eventual Arnolf accusation. No Stannis warning is handed directly to Tycho here. |
-| **K2: Alys arrives** | **ADWD 44 (Jon), later in chapter** | Alys seeks protection against Cregan and asserts that Arnolf pretended to support Stannis while conspiring with Roose. She says Harrion's life and Karhold succession form part of Arnolf's motives. | Her accusation is first-person testimony by an interested but endangered woman; we have not seen Arnolf's bargain signed or Bolton order to betray. |
+| **K2: Alys arrives** | **ADWD 44 (Jon), later in chapter** | Alys seeks protection against Cregan and asserts that Arnolf pretended to support Stannis while conspiring with Roose. She says Harrion's life and Karhold succession form part of Arnolf's motives. | Her precise succession accusation is motivated testimony, but Roose's ADWD 32 remarks independently corroborate the Bolton connection; the original agreement is not reproduced. |
 | **K3: actual dispatch** | **ADWD 49 (Jon)** | Jon explicitly reflects that **Clydas dispatched a raven to Deepwood Motte** to warn the king of Arnolf. Jon does not know whether the bird reached Stannis in time. Tycho has gone off seeking the king with the guides Jon supplied. | Delivery to Deepwood, reading by its commander, forwarding to camp and kingly acknowledgement are all unshown. |
 | **K4: northern camp before arrivals** | **ADWD 62 (Asha)** | The army remains stranded near the frozen lakes. Arnolf **arrived eight days earlier** with a son, three grandsons, four hundred spears, forty archers, a dozen mounted lances, his **own maester and cage of ravens**. He has provisions only for his own contingent. | A personal communication capability is not proof the maester sends to Bolton or reads any incoming message. His arrival relative to K3 cannot be exactly dated from these local chapter clocks. |
 | **K5: internal access to king** | **ADWD 62 (Asha)** | Stannis emerges from the watchtower for the four cannibals' execution with Richard Horpe and Arnolf trailing. Afterward Arnolf attempts to follow Stannis, but **Horpe turns him toward the longhall**. | Horpe's action may be routine escort/access control; no statement or private Stannis POV identifies Arnolf as a traitor. |
@@ -76,7 +80,7 @@ J -->|No/unknown| L
 
 **ADWD 44:** Alys asserts her older brother Harrion holds the rightful Karhold title if alive; if he dies, **she** precedes her uncles, yet Cregan aims to marry her. She alleges Arnolf's ostensible Stannis allegiance is designed to provoke the Lannisters into killing Harrion. **ADWD 49:** Jon arrests Cregan and marries Alys to Sigorn of Thenn, creating another challenger to Arnolf's preferred succession. Alys's legal/marital survival provides her motive for accuracy and for selective exaggeration; check both.
 
-**ADWD 62:** Asha hears a rumor that Arnolf might gain Winterfell if Stannis prevails. **RUMOR**, not a verified royal grant. The proposed prize would be politically awkward beside Stannis's public use of Ramsay's purported “Arya” marriage grievance and Manderly's separate Rickon ambitions. No need to invent an actual Stannis promise.
+**ADWD 17:** Stannis tells Jon he is more inclined to give Winterfell to Arnolf. This is a stated preference, not a grant. **ADWD 62:** Asha hears a consistent rumor Arnolf would gain Winterfell; it does not prove any appointment was formalized. The proposed prize would be politically awkward beside Stannis's public use of Ramsay's purported “Arya” marriage grievance and Manderly's separate Rickon ambitions. No need to invent an actual Stannis promise.
 
 ### Arnolf carries a faction, not just a dagger
 

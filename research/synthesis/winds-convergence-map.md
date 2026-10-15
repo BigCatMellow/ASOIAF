@@ -85,3 +85,7 @@ The convergence likely becomes more believable by treating scarce reliable commu
 - It does not count as reading every chapter; see the other agent's [coverage tracker](../../Source/Main-Series/CLOSE-READING-STATUS.md).
 
 **Next:** Validate the [information handoffs](information-handoffs.md) and test at most one *immediate* decision in each of three parallel clusters, as proposed in [conditional architecture](winds-conditional-architecture.md).
+
+## Claimant evidence correction (2026-10-15)
+
+[Winterfell claimant audit](winterfell-claimants-stannis-arnolf.md): Stannis **explicitly** considers Arnolf for Winterfell in ADWD 17, but no grant occurs; Roose's conversation (ADWD 32) and Theon's subsequent thoughts (ADWD 37) independently corroborate a Bolton–Arnolf trap. A surviving Robb claimant as **King in the North** does not automatically fit Stannis's subordinate **Lord/Warden** model. Military coalition does not equal constitutional settlement.

@@ -20,6 +20,7 @@
 
 | Book scene | Evidentiary class | What actually happens | Boundary |
 | --- | --- | --- | --- |
+| **ADWD 32/37 (Theon)** | `HEARD/INFERRED BOLTON-SIDE` | Roose tells Ramsay Arnolf tried to lure Stannis into a Dreadfort trap; Theon later thinks Arnolf will turn at a Bolton signal. | Strong corroboration for the reader; no testimony has been supplied to Stannis and no original signed pact is shown. |
 | **ADWD 44 (Jon)** | `REPORTED TO JON` | Alys Karstark says Arnolf allied with Roose and intends to betray Stannis; she names the Karhold inheritance/forced-marriage motive. | Alys is a highly motivated witness, but Jon has not observed a betrayal; neither she nor Jon is present at the crofter's village. |
 | **ADWD 49 (Jon)** | `DISPATCHED` | Jon recalls Clydas sending **a raven to Deepwood Motte** warning Stannis; Jon explicitly does not know if it reached him. | Deepwood is not Stannis's current camp. Forwarding/receipt remains unobserved. |
 | **ADWD 51 (Theon)** | `OBSERVED ORDER` | After Little Walder's death triggers a Frey–Manderly bloodbath, Roose reads a raven report of Stannis's hunger/location and orders **Hosteen's Freys to the main gates** and **Wyman's White Harbor men to the east gate**. | These are *orders*, not confirmed times/arrivals, and Theon has not told Stannis. The sender of Roose's raven is unknown. |
@@ -43,7 +44,7 @@
 | Which enemy troops are moving, and why? | **Theon**: heard Roose's ADWD 51 orders, saw the hall violence and his own escape; possibly can reconstruct gate assignments. | `FIRST-HAND ABOUT ORDERS`, not verified enemy arrival, exact head counts, field routes or continued loyalty. |
 | Who was killing Bolton/Frey men inside Winterfell? | **Theon**: saw effects and some killers' motives, but not all murders; washerwomen **deny** Little Walder's murder (ADWD 51). | Useful leads, not identification of every killer or proof the Manderlys were guilty. |
 | How does Ramsay use the supposed Stark girl? | **Theon and Jeyne**: direct experience of the marriage fraud and abuse. | Explains the symbolic value of Bolton's marriage; the two witnesses may be traumatized and face retaliation if returned. **No rescue automatically implies a legitimate replacement Stark is available**. |
-| Can Arnolf Karstark be trusted? | **Alys/Jon**, far away, have the explicit warning. **Theon/Jeyne** aren't shown witnessing the Karstark pact with Bolton. | The arrival does **not itself** give Stannis proof of Arnolf's treason. He would need Jon's forwarded warning, independent surveillance, contradiction or a separate messenger. |
+| Can Arnolf Karstark be trusted? | **Alys/Jon**, far away, have the explicit warning. **Theon** hears Roose's ADWD 32 account of Arnolf's trap and privately anticipates betrayal in ADWD 37, although he has not witnessed an original formal pact; **Jeyne** has no equivalent established knowledge. | The arrival does **not itself** give Stannis proof of Arnolf's treason. He could hear Theon's Bolton-side account in a **new audience**, or receive Jon's warning; neither is shown reaching Stannis by ADWD 62. |
 | Where are the real Stark children? | **Theon** knows Bran/Rickon were *not* the miller's sons he used as corpses in ACOK, and has relevant Winterfell background; **Manderly/Wex/Davos** separately know a possible Rickon/Skagos lead (ADWD 29). | Do not infer Theon knows Rickon's actual present location or can authenticate Davos's mission. His own crimes complicate his testimony. |
 | Did Mance or his companions survive the escape? | **Theon** knows Abel and spearwives organized the effort and saw Holly's death, but lost the other rescuers in the snow (ADWD 51). | He can describe a singer named Abel; **Mance's true identity and his fate** are not necessarily known to him or Stannis. |
 | Are the lake ice, beacon and blizzard tactically exploitable? | **Scouts/Noseless Ned** describe many fishing holes and uncertain ice (ADWD 62); Asha sees the beacon. | Physical hazards are verified. No source says Stannis designed these conditions as a trap or knows Davos's Sisterton false-light story (ADWD 9). |
@@ -118,7 +119,7 @@ The arrows illustrate **possible consequences of deliberate choices**; no node m
 
 1. **"Stannis interrogates Theon at the end of ADWD."** No: the chapter stops outside the watchtower with Asha and Tycho's party.
 2. **"Stannis's camp knows Jeyne is a fake."** Asha sees a frightened, frostbitten girl; the disclosure to commanders is not narrated.
-3. **"Theon automatically identifies Arnolf as a traitor."** No source ties him to Alys's evidence; the relevant letter goes to Deepwood.
+3. **"Theon could have no evidence of Arnolf's betrayal."** Incorrect: Roose's ADWD 32 comments were made in his presence and ADWD 37 shows Theon expecting Arnolf to turn. **But Stannis has not heard Theon**, and the source does not reproduce Arnolf's signed pledge.
 4. **"Theon has full information on every man murdered in Winterfell."** He does not; he had suspicions and was not a witness to all killings. Rowan denies the group killed Little Walder.
 5. **"Tycho arrives with ready funds sufficient to save the army."** He is a banker with urgent business, but no loan disbursement or immediate new provisions is shown on arrival.
 6. **"Fishing holes prove Night Lamp."** They prove desperate subsistence and unsafe ice; planned cavalry deception needs further evidence.
@@ -138,3 +139,7 @@ The arrows illustrate **possible consequences of deliberate choices**; no node m
 ## Warning-route companion (2026-10-15)
 
 The [Arnolf warning-route audit](arnolf-warning-routing.md) is the canonical synthesis owner for the four possible routes from Castle Black through Deepwood to Stannis. Its strongest new ordering constraint: **Tycho meets Jon before Alys reveals the betrayal in ADWD 44**, but later travels through Deepwood to the king's camp. The novel never depicts a Deepwood receipt or an audience with Stannis. All three first-audience branches above remain open.
+
+## Additional political checkpoint
+
+[Winterfell succession and Stannis's expressed Arnolf preference](winterfell-claimants-stannis-arnolf.md) adds the independent source evidence in **ADWD 17 and 32/37** and separates a Baratheon **Lord/Warden** appointment from Robb's independent **King in the North** inheritance. This supersedes earlier shortcuts treating Asha's camp rumor and Alys's accusations as the sole sources.

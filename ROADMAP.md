@@ -166,3 +166,13 @@ This **separate** workstream does not take over the sequential chapter-reading w
 - [ ] Independent review of the resulting conditional scenes; reject shortcuts that presume shared reader knowledge.
 
 **Ownership:** Cross-theater causal synthesis belongs to `research/synthesis/`. Source chapters and [close-reading coverage](Source/Main-Series/CLOSE-READING-STATUS.md) belong to the other agent and remain untouched here.
+
+## Winterfell authority-source correction — 2026-10-15
+
+- [x] [Direct five-book source audit](research/synthesis/winterfell-claimants-stannis-arnolf.md) of ASOS 45/79; ADWD 3, 17, 19, 29, 32, 35, 37, 44, 49, 62, 69.
+- [x] Correct previous 'Asha rumor only' treatment: Stannis **said he was inclined to bestow Winterfell on Arnolf in ADWD 17**; no completed grant is shown.
+- [x] Correct prior 'Alys accusation only' treatment: **Roose's own ADWD 32 words corroborate Arnolf's attempted trap**, and Theon's ADWD 37 inner thought expects him to turn.
+- [x] Separate competing frameworks: Stannis-appointed **Lord/Warden**, Robb's prospective independent **King in the North**, verified surviving Starks, and Wyman's conditional Rickon plan.
+- [ ] Test whether Theon's Bolton-side testimony reaches Stannis in time and how a genuine warning would change his choice among northern military followers.
+
+**Agent boundary:** These edits affect only `research/synthesis/` and the project roadmap; sequential book chapters and coverage belong to the other agent.

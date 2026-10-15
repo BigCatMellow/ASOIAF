@@ -42,7 +42,7 @@ Most 'convergences' are **asymmetric receipt situations**:
 
 ## Highest-value handoffs to verify next
 
-1. `#1 + #2`: Theon and Jeyne arrive **before Asha**, not within a narrated audience with Stannis. Theon's possible evidence of false Arya and Roose's separate sortie orders **cannot** certify Alys's Karstark warning. See [three-way ledger](stannis-theon-jeyne-decision-ledger.md).
+1. `#1 + #2`: Theon and Jeyne arrive **before Asha**, not within a narrated audience with Stannis. Theon can report Roose's **direct remarks about Arnolf's attempted trap in ADWD 32**, alongside false Arya and the separate sortie orders. This corroborates the alliance but not Alys's detailed Karhold motives. See [three-way ledger](stannis-theon-jeyne-decision-ledger.md).
 2. `#4 + #5`: Can Doran receive Aegon's claim **before** news of Quentyn's fate? The two arrival orders imply different political motivations and scenes.
 3. `#7 + #8`: Does Sam deliver his warning beyond Marwyn, and can Marwyn still travel if the Reach coast deteriorates?
 4. `#9 + #10`: Does Victarion's battle/horn intervention precede Dany's political return, or does she encounter its consequences later?
@@ -51,3 +51,7 @@ Most 'convergences' are **asymmetric receipt situations**:
 **Stop rule:** Do not write messenger receipt into canon merely to make a preferred outline possible. If a receipt is unpublished, branch into “arrives,” “delayed” and “misread” rather than selecting one.
 
 **Local ownership:** Detailed North dates belong in [North chronology](../north-wall-dependencies.md); Dorne letter positions in [Dorne/Vale](../continuity/dorne-vale-information.md); all three status labels here track the *cross-theater use* only.
+
+## Winterfell claimant-specific handoff (2026-10-15)
+
+Stannis's **ADWD 17** willingness to appoint Arnolf is an **expressed preference**, not a completed grant. Theon has potentially valuable Bolton-side testimony (ADWD 32/37), which must reach him through an actual audience; Davos/Manderly possess separate Rickon information unknown to Stannis. See [claimant evidence](winterfell-claimants-stannis-arnolf.md). Robb's **King in the North** will cannot be substituted for Stannis's **Lord/Warden of the North** appointment.

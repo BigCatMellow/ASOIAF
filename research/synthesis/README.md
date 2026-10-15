@@ -17,7 +17,8 @@ This directory belongs to the **cross-book / potential continuation** workstream
 - [Information handoffs](information-handoffs.md) — canonical owner for **cross-theater communication and verification state**. Local chronology detail belongs to the existing specialist files.
 - [Conditional Winds architecture](winds-conditional-architecture.md) — **working experiments** for an organically developing opening, with alternative outcomes and reversal tests.
 - [Stannis/Theon/Jeyne first-audience decision ledger](stannis-theon-jeyne-decision-ledger.md)
-- [Arnolf Karstark warning-route audit](arnolf-warning-routing.md) — chapter-sequenced Castle Black/Deepwood/Tycho courier possibilities, Arnolf's independent ravens and camp support, and Stannis's conditional counterintelligence choices. — three source-constrained paths: private verification, controlled deception or urgent military action. Distinguishes delivery to Asha from direct kingly interrogation.
+- [Arnolf Karstark warning-route audit](arnolf-warning-routing.md) — Deepwood courier paths and the uncertain receipt of the warning.
+- [Winterfell claimant audit: Stannis, Arnolf and the Starks](winterfell-claimants-stannis-arnolf.md) — ADWD 17's actual royal preference, ADWD 32's Bolton corroboration, and competing northern legitimacy.
 
 ### Sources being linked, not reproduced
 
