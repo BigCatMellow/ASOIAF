@@ -31,7 +31,7 @@ Maintain a **living, auditable library** of the strongest, most interesting and 
 - [Bloodraven vs. Three-Eyed Crow](cases/bloodraven-crow.md) — contested magic-agent identity.
 - [Lady Hornwood's fingers](cases/hornwood-fingers.md) — 2025 Old Nan nominee.
 - [Cersei and a Trial of Seven](cases/trial-of-seven.md) — 2025 Beric nominee, requires supplementary source.
-- [R+L=J](cases/r-l-j.md) — foundational high-confidence inference, keep its consequences open.
+- [R+L=J](cases/r-l-j.md) — foundational high-confidence inference, keep its consequences open.\n- [Davos and Rickon](cases/davos-rickon.md) — 2025 Beric nominee, contested moral choice.\n- [Jojen Paste](cases/jojen-paste.md) — influential but unconfirmed dark-cave speculation.
 
 ## Admission and status
 

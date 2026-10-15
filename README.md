@@ -19,14 +19,14 @@ Research the five published *A Song of Ice and Fire* novels; evaluate competing 
 3. [Source library](Source/README.md) — original volumes organized beside their book-specific notes; [SOURCES.md](SOURCES.md) — evidence and chapter locator rules.
 4. [research/canon-baseline.md](research/canon-baseline.md) — last text-supported situations, not a completed exhaustive reading.
 5. [research/chapter-index.md](research/chapter-index.md) — five-book chapter lookup.
-6. [research/decision-seeds.md](research/decision-seeds.md) — THINK hypotheses and next feasible character choices.
-7. [research/characters/jon-snow.md](research/characters/jon-snow.md), [research/characters/davos-seaworth.md](research/characters/davos-seaworth.md), [research/characters/theon-asha-stannis.md](research/characters/theon-asha-stannis.md), and [research/characters/daenerys-barristan-tyrion.md](research/characters/daenerys-barristan-tyrion.md) — character decision analyses.
+6. [Theory research library](research/theories/README.md) — [master catalog](research/theories/CATALOG.md), [2025 awards](research/theories/awards/2025.md), short verified novel passages, counterarguments and review status. [Decision seeds](research/decision-seeds.md) track what might affect our continuation.
+7. [Character analyses](research/characters/README.md) — Jon, Davos, Theon/Asha/Stannis, Daenerys/Barristan/Tyrion, Aegon/Connington, and Jaime/Brienne/Stoneheart.
 8. [research/theories/night-lamp.md](research/theories/night-lamp.md) and [research/theories/pink-letter.md](research/theories/pink-letter.md) — source-backed theory challenges; no outcome adopted.
 9. [research/north-wall-dependencies.md](research/north-wall-dependencies.md) — partial-order timeline and information asymmetry.
 
 ## Current checkpoint
 
-The owner uploaded three EPUBs to this public repository and authorized organizing them into [per-volume source folders](Source/README.md). The bundled five novels remain one unchanged EPUB; redistribution rights are not independently verified. Initial chapter indexing, a targeted closing-state baseline, the North/Wall **partial** chronology, and two theory challenges are available; exhaustive POV histories, complete chronology reconciliation, and two-book drafting remain open.
+The owner uploaded three EPUBs to this public repository and authorized organizing them into [per-volume source folders](Source/README.md). The bundled five novels remain one unchanged EPUB; redistribution rights are not independently verified. Initial chapter indexing, a targeted closing-state baseline, the North/Wall **partial** chronology, POV study files and an expanding **17-case/35-queued theory library** are available. Exhaustive POV histories, complete chronology reconciliation, remaining theory audits and two-book drafting remain open.
 
 **No outline idea is automatically canon.** Mark `VERIFIED`, `INFERRED`, `THEORY`, or `UNKNOWN` locally. Retain live alternatives while evidence is incomplete.
 

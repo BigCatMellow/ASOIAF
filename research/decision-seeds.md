@@ -36,3 +36,7 @@ The table is deliberately **not a list of planned plot beats**. An idea advances
 ## Disposition rule
 
 `REJECT`, `KEEP OPEN`, `NEEDS EXTERNAL SOURCE`, `TEST WITH CHAPTERS`, or `ADOPT AS WORKING BRANCH` are distinct states; a working branch is still reversible. No fan award, television scene, or remembered summary promotes a theory automatically.
+
+## Related library (separate owner)
+
+The [master fan-theory catalog](theories/CATALOG.md) holds unselected research hypotheses and award provenance. This file holds only the candidates whose **decisions/consequences** materially affect the continuation. A theory does not move here because it won an award; it moves when its textual mechanism is challenged and the scene's actor could plausibly choose it.

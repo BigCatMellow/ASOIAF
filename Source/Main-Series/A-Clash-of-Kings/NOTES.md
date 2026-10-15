@@ -25,3 +25,13 @@ Identify available options and what each actor knew **at that point**. Where a c
 ## Counterevidence / unresolved questions
 
 List disputed assumptions and contradictory scenes before adopting a creative continuation. No plot outcome is preapproved in this note.
+
+## Cross-referenced fan-theory research (ACOK)
+
+The following case files quote short fragments and cite chapters in this volume, but may also rely on other books. **Link only; don't duplicate their moving assessment here.**
+
+- [septon utt](../../../research/theories/cases/septon-utt.md)
+- [aegon blackfyre](../../../research/theories/cases/aegon-blackfyre.md)
+- [first men religion](../../../research/theories/cases/first-men-religion.md)
+
+See [master catalog](../../../research/theories/CATALOG.md) for additional `QUEUED` topics involving this volume. Theories are not canon observations.

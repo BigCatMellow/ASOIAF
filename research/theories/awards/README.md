@@ -14,8 +14,8 @@ These **community awards are not peer review and not evidence of canon**. The us
 | Year | Official ballot/nominees | Winners | Intake |
 | --- | --- | --- | --- |
 | **2025** | [Ballot](https://www.reddit.com/r/asoiaf/comments/1qr8if8/) | [Winners](https://www.reddit.com/r/asoiaf/comments/1qyhq1f/) | [Selected nominees with stand-alone explanations](2025.md) |
-| **2024** | [Ballot](https://www.reddit.com/r/asoiaf/comments/1ibazan/) | [Winners](https://www.reddit.com/r/asoiaf/comments/1ihjivn/) | Curated intake pending |
-| **2023** | [Ballot](https://www.reddit.com/r/asoiaf/comments/1aczkph/) | [Winners](https://www.reddit.com/r/asoiaf/comments/1ajhgq9/) | Curated intake pending |
+| **2024** | [Ballot](https://www.reddit.com/r/asoiaf/comments/1ibazan/) | [Winners](https://www.reddit.com/r/asoiaf/comments/1ihjivn/) | [Initial research intake](2024.md) |
+| **2023** | [Ballot](https://www.reddit.com/r/asoiaf/comments/1aczkph/) | [Winners](https://www.reddit.com/r/asoiaf/comments/1ajhgq9/) | [Initial research intake](2023.md) |
 | **2022** | Historical nominations pending verification | [Winners](https://www.reddit.com/r/asoiaf/comments/10v8s2i/) | Curated intake pending |
 | **2021** | Historical nominations pending verification | [Winners](https://www.reddit.com/r/asoiaf/comments/skljnk/) | Curated intake pending |
 | **2020** | Historical nominations pending verification | [Winners](https://www.reddit.com/r/asoiaf/comments/lfg62g/) | Curated intake pending |

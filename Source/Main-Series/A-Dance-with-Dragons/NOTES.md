@@ -57,3 +57,15 @@ For the chapters reviewed above, ask whether Theon discloses Jeyne's identity, w
 ## Counterevidence / unresolved questions
 
 **Unresolved:** identity of Little Walder's killer; survival/command status of Wyman after his wound; the extent of Arnolf's correspondence with Roose; whether Jon's warning reached Stannis; exact tactics or outcome of the battle; how Stannis will react to Theon/Jeyne. No plot outcome is preapproved in this note.
+
+## Cross-referenced fan-theory research (ADWD)
+
+The following case files quote short fragments and cite chapters in this volume, but may also rely on other books. **Link only; don't duplicate their moving assessment here.**
+
+- [aegon blackfyre](../../../research/theories/cases/aegon-blackfyre.md)
+- [southron ambitions](../../../research/theories/cases/southron-ambitions.md)
+- [grand northern conspiracy](../../../research/theories/cases/grand-northern-conspiracy.md)
+- [hornwood fingers](../../../research/theories/cases/hornwood-fingers.md)
+- [bloodraven crow](../../../research/theories/cases/bloodraven-crow.md)
+
+See [master catalog](../../../research/theories/CATALOG.md) for additional `QUEUED` topics involving this volume. Theories are not canon observations.
