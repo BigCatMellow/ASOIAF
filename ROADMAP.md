@@ -132,7 +132,7 @@ The project owner explicitly requested **comprehensive per-book notes**, retaini
 - [x] Verify the project EPUB SHA-256 matches [SOURCES.md](SOURCES.md).
 - [x] Inspect all five section boundaries and 344 narrative-unit locators.
 - [x] Create [close-reading method/coverage tracker](Source/Main-Series/CLOSE-READING-STATUS.md) and [cross-book clue queue](research/source-clue-index.md).
-- [x] First-pass notes for five prologues and all AGOT (Prologue, 1–72), giving 77/344 units.
+- [x] First-pass notes for five prologues and all AGOT (Prologue, 1–72), giving 77/344 units; [AGOT forest-and-trees synthesis](Source/Main-Series/01-A-Game-of-Thrones/BOOK-ONE-SYNTHESIS.md) completed as book-level first pass, independent challenge open.
 - [ ] Continue sequentially with **ACOK 1 (Arya)** after previously read ACOK Prologue, then subsequent units, logging completeness by volume.
 - [ ] Audit subtle clues against later chapters and strong ordinary alternatives; connect to canonical character/theory owners.
 - [ ] Independently challenge consequential literary findings and confirm internal links/source locators before marking whole-book research complete.
