@@ -55,6 +55,10 @@ There is **no house-by-house Green Fork muster and casualty roster** in these pa
 
 The **strongest counterargument** to `GREEN FORK WAS ENTIRELY ROOSE'S TRAP` is Robb's own plan: he intentionally wanted Tywin diverted toward that force. **A flawed or treasonous tactical execution remains possible** but requires Roose's actual subcommand orders, remaining force composition or a reliable witness.
 
+### Qyburn's missing Tallhart document and Tywin's advance counterdeployment
+
+[Documentary/field-intelligence audit](qyburn-duskendale-order-document-delivery-enemy-intelligence-audit.md): **ACOK 39 (Catelyn)** separately records **Edmure's claimed earlier order** bringing Tallhart's Twins men into Roose's force; **ACOK 64 (Arya)** attributes the **Duskendale destination specifically to Roose**, with Qyburn promising to write for Roose's seal. **ASOS 4 (Tyrion)** shows **Tywin knew Tallhart and Glover were moving east and had sent Tarly and Gregor to trap them**, but no narrated intelligence source or Roose–Tywin contact is supplied. **ASOS 19** Varys reports the defeat, while **ASOS 35** Robb is surprised at the destination and **ASOS 49** Roose later blames Glover. This upgrades the **Lannister pre-battle tactical awareness**, **not** the evidence of a coordinated betrayal or intercepted Roose–Qyburn letter. The *draft, seal, courier, Tallhart receipt and copy* remain `UNKNOWN`.
+
 ## 2. Duskendale: one directly seen Roose order, major losses and a new public explanation
 
 - **ACOK 64 (Arya), `DIRECT ORDER:`** At Harrenhal, Roose tells Qyburn to compose a letter to **Helman Tallhart**: punish the Darry Lannisters, link up with **Robett Glover**, then **strike east toward Duskendale**. At least the violent Darry reprisal is presented as a command from the king; Qyburn is to prepare the message for **Roose's seal**. **Arya does not personally follow the courier or see Tallhart acknowledge receipt**.
