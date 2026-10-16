@@ -2613,6 +2613,129 @@
 | C-2548 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Bran enters Summer to scout, senses deer and frightened men | Deliberate wolf POV confirms sensory skinchanging |
 | C-2549 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Wolf sees hooded man with stick among armed party | Identity not established before chapter end |
 
+| C-2550 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Styr's raiders descend south of Wall at partly ruined Greyguard | Confirmed southward infiltration, not still on Wall |
+| C-2551 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Gift towerhouses and orchards abandoned as Watch wanes | Observed depopulation, detailed causes inferred |
+| C-2552 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Ned and Benjen envisioned new lords resettling Gift for Watch rent | Remembered proposal, never carried out |
+| C-2553 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Ygritte claims land cannot be owned like sky or sea | Free-folk political ethic, actual raiding harms remain |
+| C-2554 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Ygritte says captive abused wife can kill husband in sleep | Resistance credo not consent safeguard for all captives |
+| C-2555 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Jon says disciplined troops can beat wildlings' individual valor | Military forecast, result unproven |
+| C-2556 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Jon still privately loyal to Watch despite love for Ygritte | Narrated intention amid genuine conflict |
+| C-2557 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Styr drills Jon on Castle Black defenses each evening | Tactical information leak despite selective lies |
+| C-2558 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Castle Black lacks fortifications facing south | Jon firsthand assessment, actual garrison unknown |
+| C-2559 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Jon fears Bowen Marsh Aemon Noye Hobb and boys face massacre | Named vulnerable defenders not actual casualties |
+| C-2560 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Quort about fourteen has wife and child expected | Specific free-folk civilian ties |
+| C-2561 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Grigg wishes to visit green men on Isle of Faces | Personal wish, does not identify or locate green men |
+| C-2562 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Jon feels no Ghost mind contact after sending him east | Mission outcome unresolved |
+| C-2563 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Lenn foretells storm, woods-witch mother given as explanation | Forecast works, supernatural cause unverified |
+| C-2564 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Grigg directs raiders to lake settlement two-three miles away | Convergence with Bran's Queenscrown |
+| C-2565 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Queenscrown gold merlons recognized by Jon from Old Nan story | Independent Bran 40 location match |
+| C-2566 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Jon recalls Alysanne stayed there on Silverwing voyage | Tradition supported by local landmark |
+| C-2567 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Thenns capture silent unarmed old horseman at ruined inn | Identity and intent unknown |
+| C-2568 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Styr commands Jon kill old man to prove loyalty | Explicit moral loyalty test |
+| C-2569 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Jon refuses to execute nonthreatening captive | Observed refusal, public defection risk |
+| C-2570 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Ygritte slits captive throat rather than Jon | Verified killer, private motive unknown |
+| C-2571 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Grey direwolf attacks Thenns during storm | Summer identification via Bran prior POV |
+| C-2572 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Jon briefly mistakes grey wolf for Ghost then wonders Grey Wind | Erroneous character identification |
+| C-2573 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Jon cuts at Thenns including Bodger while stealing captive mare | Escape amid lethal combat, exact fatalities uncertain |
+| C-2574 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Jon flees without Ygritte, fearing consequences for her | Separate loyalties not resolved |
+| C-2575 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Jon finds arrow embedded in right thigh and pulls it through | Wound and rough first aid verified |
+| C-2576 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Jon cannot tell whether grey-fletched arrow was Ygritte's | Attribution uncertain |
+| C-2577 | [ASOS 41](../Source/Main-Series/03-A-Storm-of-Swords/chapters/41-jon.md) | Jon rides north toward Castle Black but has not arrived | Return intent, no delivered warning yet |
+| C-2578 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Yunkai fields roughly five thousand with mounted sellswords flanks | Prebattle approximate army count |
+| C-2579 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Second Sons and Stormcrows each around five hundred | Estimated hired cavalry strength |
+| C-2580 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Yunkish harpy bears whip and iron collar not Astapor chain | Local iconography of sex slavery |
+| C-2581 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Dany fears victory too costly to take walled Yunkai | Operational prudence, not force incapacity |
+| C-2582 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Grey Worm freely elected commander by Unsullied | Post-liberation military choice |
+| C-2583 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Grey Worm keeps slavery-era name as mark of emancipation day | Self-chosen name not bondage acceptance |
+| C-2584 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Dany orders fleeing or surrendered slave fighters spared | Normative command, battlefield compliance unverified |
+| C-2585 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Astapor council led by healer scholar priest | Post-conquest government exists, later stability unknown |
+| C-2586 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Freedpeople camp five times organized Unsullied camp | Logistical and vulnerability asymmetry |
+| C-2587 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Only one in ten freed people able to fight by Dany's estimate | Rough capacity not census |
+| C-2588 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Dany retains followers rather than forbid freedom to travel | Autonomy priority creates supply risk |
+| C-2589 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Thirty-odd mounted fighters vs earlier eighty-three Dothraki | Active combat cohort versus larger prior count |
+| C-2590 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Dany invites Stormcrows Second Sons and Yunkai envoys separately | Intentional faction isolation and reconnaissance |
+| C-2591 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Three Stormcrow captains Prendahl Sallor and Daario | Shared authority before assassination |
+| C-2592 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Dany upholds Stormcrow safe conduct despite insults | Diplomatic restraint specific to meeting |
+| C-2593 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Mero commands Second Sons despite earlier Qohor retreat legacy | History reported and debated |
+| C-2594 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Dany gives Mero wagon of wine before overnight attack | Intentional intoxication factor |
+| C-2595 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Grazdan mo Eraz offers fifty thousand gold marks to leave | Money refusal and continued abolition demand |
+| C-2596 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Dany demands all Yunkai slaves freed with goods and search | Ultimatum terms, full execution unknown |
+| C-2597 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Drogon singes envoy's tokar despite promised safe conduct | Coercive intimidation, envoy survives |
+| C-2598 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Dany attacks after midnight despite public three-day deadline | Deception yields surprise and trust ambiguity |
+| C-2599 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Grey Worm strikes flanks, mounted wedge attacks center | Explicit night assault plan |
+| C-2600 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Daario delivers severed heads of fellow Stormcrow captains | Defection and killings witnessed via heads |
+| C-2601 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Daario assigned Stormcrow rear assault by Dany despite Jorah objections | Risky trust decision, succeeds once |
+| C-2602 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Dany tells Jorah she respects him but does not desire him | Love and advisory rivalry separated |
+| C-2603 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Dany believes Mirri prophecy prevents living child | Her belief not verified sterility |
+| C-2604 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Arstan calls Rhaegar melancholy and expert but unenthused warrior | Eyewitness-style interpretation from advisor |
+| C-2605 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Arstan recalls Rhaegar won Harrenhal but crowned Lyanna | Historic reports, Lyanna and Rhaegar motives unknown |
+| C-2606 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Arstan describes Rhaegar sleeping alone at Summerhall ruins with harp | Reported personal ritual of grief |
+| C-2607 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Jorah reports Yunkai night rout ~200 enemy dead ≤12 friendly | Commander casualty report, not exhaustive roll |
+| C-2608 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Mero flees battle, remains uncaptured at chapter close | Escape status confirmed by Jorah |
+| C-2609 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Yunkai opens gates third morning and slaves begin leaving | Real liberation, full compliance unverified |
+| C-2610 | [ASOS 42](../Source/Main-Series/03-A-Storm-of-Swords/chapters/42-daenerys.md) | Freed crowd hails Dany Mhysa meaning Mother in old Ghiscari | Popular gratitude not permanent governing consent |
+| C-2611 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | High Heart weirwood stumps and storms reappear in Arya POV | Site atmosphere and old gods material |
+| C-2612 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Thoros says visions are intermittent rather than automatic | Self-report of epistemic limitations |
+| C-2613 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Thoros trained for Aerys fire devotion but pyromancers outperformed | Court religious history via firsthand speaker |
+| C-2614 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Thoros bought burning tourney blades from Tobho Mott | Continuity with Gendry apprenticeship |
+| C-2615 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Thoros recalls startling Kevan horse in tourney with flaming blade | Material fire trick history |
+| C-2616 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Beric says six revivals leave him diminished | Direct personal concern not quantified mechanism |
+| C-2617 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Ghost of High Heart demands Jenny song and wine rather than coin | Distinct witness customs |
+| C-2618 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Ghost says wet kraken king dead and ironborn divided | Balon possible, independently dated death not here |
+| C-2619 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Ghost says Hoster Tully dead | Corroborated by Catelyn 35 |
+| C-2620 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Ghost sees fevered goat in hall of kings and great dog descending | Hoat/Clegane candidates unverified |
+| C-2621 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Ghost sees unheard grieving wolf amid rainfall | Identity and location unresolved |
+| C-2622 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Ghost sees drums horns pipes screams and little bells | Possible wedding catastrophe, future witness needed |
+| C-2623 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Ghost sees maid with purple serpents in hair at feast | Identity poison interpretation unproven |
+| C-2624 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Same maid later slays savage giant in snow castle | Linked vision, literal versus symbolic uncertain |
+| C-2625 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Ghost says Arya smells of death and Summerhall grief | Emotional warning, not proof Ghost caused old tragedy |
+| C-2626 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Ghost claims old gods resist flame sight at High Heart | Spiritual hypothesis, no controlled test |
+| C-2627 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Ghost recommends Twins to find Catelyn for wedding | Matches Frey negotiation, arrival not confirmed |
+| C-2628 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Ghost demands Jenny song and weeps as Tom sings | Emotional Summerhall connection worth audit |
+| C-2629 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Edric Dayne says he is twelve-year-old Lord of Starfall | Direct self-identification |
+| C-2630 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Edric calls Jon his milk brother through wetnurse Wylla | Milk kin not blood relation |
+| C-2631 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Edric claims Wylla is Jon Snow's mother | Secondhand knowledge, birth not witnessed |
+| C-2632 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Edric reports aunt Allyria says Ashara and Ned Stark loved at Harrenhal | Family rumor via two intermediaries |
+| C-2633 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Edric says Ashara leapt from Palestone Sword into sea | Attributed Dayne family history |
+| C-2634 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Harwin doubts Ashara romance and offers grief for Arthur instead | Alternative interpretive testimony |
+| C-2635 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Gendry believes unknown father drunken and perhaps dead | His ignorance, no independent family proof |
+| C-2636 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Notch says Hoster Tully burned Lord Goodbrook village over royal loyalty | Pro-Robert wartime atrocities not Lannister responsibility |
+| C-2637 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Thoros thinks fire shows Lannister sea around future Riverrun siege | Prediction and possible misreading |
+| C-2638 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Beric plans scouts, Sharna and Acorn Hall before Arya reunion | Cautious plan, not final abandonment |
+| C-2639 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Arya flees in rain from frustrating delay | Emotional decision creates vulnerability |
+| C-2640 | [ASOS 43](../Source/Main-Series/03-A-Storm-of-Swords/chapters/43-arya.md) | Sandor forcibly grabs Arya and drags her toward horse | Chapter-end abduction verified |
+| C-2641 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Qyburn says Jaime stump now healing clean although fever persists | Medical improvement distinct from recovery |
+| C-2642 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Bolton sends Qyburn with Walton 200-soldier escort | Actual departure to King's Landing route |
+| C-2643 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Aenys Frey had marched northeast three days before Bolton departs | Harrenhal/Frey force staggering |
+| C-2644 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Trident flooded including ruby ford crossing difficulty | Route planning constraint |
+| C-2645 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Jaime uses extinct Lothston bat shield to disguise loyalties | Practical heraldic precaution |
+| C-2646 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Walton avoids kingsroad and takes Gods Eye small roads | Safer itinerary, not fastest |
+| C-2647 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Jaime recalls Aerys chose Kingsguard heir to spite Tywin | First-person interpretation of original investiture |
+| C-2648 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Qyburn sent Pia to Jaime room, Jaime declined intimacy | Prior Cersei allegiance maintained |
+| C-2649 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Qyburn says Selwyn offers three hundred dragons for Brienne | Ransom offer, no actual payment |
+| C-2650 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Qyburn says Hoat disbelieves Tarth lacks sapphires | Prior protective bluff now dangerous |
+| C-2651 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Qyburn examined Brienne for Hoat and reported still virgin | Intrusion and exploitation risk not safety guarantee |
+| C-2652 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Northern escort carries seven-colored peace banner with star | Recognized practical southron truce signal |
+| C-2653 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Jaime recalls Tywin favored dismembered hostage response to Tarbeck | Historical memory of father's severity |
+| C-2654 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Jaime sees desolated inn whose owners he once met | Civilian loss, fate of descendants unknown |
+| C-2655 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Jaime sleeps on white mossy stump after Qyburn dreamwine | Possible weirwood symbolic cue, magical cause unproven |
+| C-2656 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | In dream right hand restored while ancestral Lannisters abandon him | Psychological image, not physical healing |
+| C-2657 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Tywin gives Jaime dream sword glowing blue-white | No waking enchanted blade given |
+| C-2658 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Dream Brienne freed from chains and gains own blue sword | Oath and protection symbolism |
+| C-2659 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Dream judges include five dead Kingsguard and Rhaegar | Guilt and sworn obligation, not verified ghosts |
+| C-2660 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Jaime dream sword dies while Brienne light remains | Possible moral omen, literal death not guaranteed |
+| C-2661 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Qyburn says Marwyn alone approved soul-remnant theory | Reported Citadel intellectual dissent |
+| C-2662 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Jaime coerces Walton with threat of falsely accusing Bolton and him | Explicit intentional lie as leverage |
+| C-2663 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Jaime and escort return to Hoat-governed Harrenhal | Physical reversal completed |
+| C-2664 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Brienne forced into bear pit in pink satin with tourney sword | Deliberate rigged lethal contest |
+| C-2665 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Hoat says Brienne bit piece of his ear | Reported off-page resistance, wound present |
+| C-2666 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Jaime offers to ransom Brienne but Hoat refuses initially | Financial proposal not payment |
+| C-2667 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Jaime leaps bare-handed into pit and shields Brienne | Direct risk-taking, not killing bear |
+| C-2668 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Walton's crossbowmen kill bear with repeated bolts | Actual means of rescue |
+| C-2669 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Sober northmen outnumber drunk Mummers two to one | Coercive advantage behind Hoat release |
+| C-2670 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Hoat orders both extracted, Jaime promises ransom | Release actual, payment unperformed |
+| C-2671 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Jaime tells Brienne he came back because he dreamed of her | Expressed motive, romance and magic uncertain |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -2620,4 +2743,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and eighty-six first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and ninety first-pass chapters listed in the coverage tracker.
