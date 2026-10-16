@@ -1,0 +1,61 @@
+# ASOS 44 — Jaime: the dream under the Rock, Brienne's bear-pit rescue, and a coerced return to Harrenhal
+
+- Record role: `RESEARCH / SEQUENTIAL CLOSE READING`
+- Status: `FIRST PASS COMPLETE — INDEPENDENT CHALLENGE OPEN`
+- Primary source: complete [ASOS 44 Jaime transcription](../text/045-jaime.md), read 2026-10-16. [Evidence policy](../../../../SOURCES.md).
+
+## Chronological narrative and causal argument
+
+1. **Jaime's stump has improved but his fever remains.** Qyburn says infection no longer puts the arm at risk. Jaime is eager to leave Harrenhal and regain Cersei's company; he has **not yet abandoned his relationship with her** even after the previous bath confession to Brienne.
+2. **Roose sends Qyburn with the escort.** Qyburn hopes Tywin might compel the Citadel to **restore his removed maester's chain**. **Walton Steelshanks** commands **approximately 200 armed men** and is explicitly responsible for getting Jaime to his father. Both Bolton and Jaime depart Harrenhal that morning on different routes, **Aenys Frey having gone northeast three days earlier**; flooding on the Trident makes the ruby ford difficult.
+3. **Jaime conceals his Lannister identity heraldically.** He takes a damaged shield showing the **black bat of House Lothston**, extinct former lords of Harrenhal, instead of the Lannister lion or Kingsguard white. This is an actual travel precaution rather than mystical affiliation with the Lothstons.
+4. **Walton favors minor tracks over the kingsroad.** The escort follows routes near the **Gods Eye** rather than risk encountering a larger hostile force. He cites Bolton's order to deliver Jaime intact. This matters for the route and timing of return to Harrenhal.
+5. **Aerys's Kingsguard appointment is reinterpreted.** Jaime remembers being publicly invested by **Gerold Hightower** at the Harrenhal tournament, immediately forbidden to joust, and ordered to guard Aerys's queen and Viserys back in King's Landing. Jaime concludes **Aerys chose him to humiliate and control Tywin by stripping his heir**, rather than solely for martial merit. This is credible firsthand experience plus Jaime's interpretation of royal motive.
+6. **Qyburn sent Pia to Jaime the previous night.** The former Harrenhal servant recalls idolizing young Jaime and voluntarily visits his bed. Jaime **turns her away**, citing his own existing loyalty to Cersei. The context is a vulnerable servant whose exploitation by the Brave Companions is part of Harrenhal's broader record; 'willingness' is reported through Qyburn and Jaime and should not be treated as independence from power.
+7. **Brienne's supposed sapphires are demonstrably false.** Qyburn says he wrote to **Selwyn Tarth**, who offered **300 gold dragons** for Brienne; he told Vargo no sapphires exist on Tarth. Hoat nevertheless refuses to accept the modest ransom and believes Selwyn is cheating him. This is direct **Qyburn testimony**, important for the risk of violence once the original sapphire lie is exposed.
+8. **Hoat's interest in Brienne's virginity is dangerous.** Qyburn says he inspected her at Hoat's order and that she was still physically unassaulted at the last check. The reader should not mistake a temporary reprieve for guaranteed safety; Jaime initially minimizes rape risk, a morally troubling reaction.
+9. **A peace banner is carried by a northern soldier.** Nage uses **a rainbow-striped Seven-point-star flag**, recognized even by northern men as the proper signal for safe passage in southron lands. Walton says the relevant priority is safe delivery to Tywin, regardless of religion.
+10. **Jaime recalls Tywin's uncompromising hostage policy.** In the **Tarbeck** precedent, Lady Tarbeck captured young Lannisters to bargain for her imprisoned husband; adolescent Tywin proposed returning Tarbeck **in pieces**, while **Tytos** agreed to an exchange. This history is Jaime's recollection, illustrating Tywin's deliberate capacity for extreme retaliation.
+11. **A devastated inn recalls ordinary life before the war.** Jaime recognizes a miller's daughter and an innkeeper from years earlier, but sees abandoned ruins and wonders if family descendants died. He has no corroboration that they did; the moment reveals concern for anonymous collateral casualties and unresolved guilt.
+12. **He sleeps on a moss-covered stump after taking dreamwine.** Qyburn had supplied the drug; the stump is later revealed in moonlight to be **white wood**, prompting association with **Ned's heart tree**. **The dream may reflect fever, medicine, guilt or supernatural influence**. None is proved by the stump's appearance alone.
+13. **The dream starts with restored wholeness and forced descent.** Jaime dreams he has his **right hand again**, is driven deep into imagined **Casterly Rock caves** by anonymous dark figures and comes before Lannister ancestors, Tywin, Cersei, Joffrey and other golden-haired people. The subterranean geography differs from any cave Jaime actually knows. **Do not use this dream as physical evidence of a subterranean city beneath the Rock**.
+14. **Cersei and the family abandon Jaime to darkness.** Cersei carries the sole torch, and the family withdraws. Tywin says he has already given Jaime a sword; it takes on **silvery-blue fire**, allowing him temporary sight. Symbolically his former life and promised family protection are withdrawn while fighting duty remains.
+15. **Brienne joins him in the dream.** Her chains part easily when he offers help, and **her sword also begins to burn silvery blue**. She recalls her oath to keep him safe. The swordlight identifies a potential independent source of protection and moral fidelity; **neither physical sword is actually on fire in the waking world**.
+16. **The dream stages judgment by dead Kingsguard and Rhaegar.** He encounters **Oswell Whent, Jon Darry, Lewyn Martell, Gerold Hightower, Arthur Dayne and Prince Rhaegar** among silent riders. They question his sworn protection of the king and **Rhaegar's wife and children**. This dramatizes guilt over the massacre even though Jaime maintains he prevented the city's destruction.
+17. **Jaime's light goes out while Brienne's remains.** His own blue-burning sword extinguishes amid accusations, but Brienne's stays lit as the ghosts approach. This is **dream symbolism, not a proven prediction of literal death, Others, or an enchanted sword**. His terrified cry wakes the camp.
+18. **Qyburn's ghost theory is specific.** When asked about ghosts he recalls sensing the **recent presence of an absent woman** from a warm chair and scent at the Citadel and speculates that souls may similarly linger. He says **Marwyn** alone among archmaesters liked his thinking. This is a **philosophical analogy and biographical claim**, not a witnessed supernatural manifestation or confirmed cause of Qyburn's expulsion.
+19. **Jaime decides to go back for Brienne.** He says he left something at Harrenhal. Walton resists because he must obey Roose's delivery order. Jaime threatens to **falsely tell Tywin that Bolton ordered his hand cut off and Walton wielded the blade**, making the escort vulnerable to Lannister vengeance. He offers Walton a reward as well. **He is using deliberate coercive misinformation**, not a truthful report.
+20. **Walton yields for self-protection and gold.** The group turns back; at sunrise they are halfway to Harrenhal and reach it midday. Its gates display **Hoat's black goat banner**, and his men still admit the party as ostensible allies.
+21. **The bear pit is a staged execution, not fair combat.** Brienne has been forced into the pit in **pink satin**, with no armor and only a **blunted tourney sword**—a decisive deception Jaime recognizes when she slashes the bear without drawing blood. Hoat's Mummers occupy seats and heckle her.
+22. **Hoat has suffered a separate injury.** His ear is bandaged because, as he says, **Brienne bit off part of it**. The assault and her resistance occurred **off page before Jaime returns**; the injury's present state is shown. It undercuts Hoat's portrayal of her as passive property without establishing she can escape alone.
+23. **Jaime demands the pit be stopped and offers a ransom.** Hoat refuses; Jaime **jumps down unarmed with only one hand and stump** to rescue Brienne, improvises with sand and a discarded jawbone, and physically places himself between her and the advancing bear. His choice is directly risky and costly.
+24. **Walton's archers actually kill the bear.** **Steelshanks's crossbowmen** shoot multiple quarrels into the animal, which dies. Jaime does **not** kill it with a sword or bare hands. Jaime's jump exposes him and Brienne to the bear; the escort supplies lethal force and the leverage over the sellswords.
+25. **The threat of escalation remains.** **Rorge** urges Vargo to kill the two prisoners; Hoat sees his drunk sellswords outnumbered about **two to one** by sober northmen and orders ropes lowered to retrieve them. He claims mercy, but this is plainly survival calculation, not proof of a stable moral reversal.
+26. **Jaime promises ransom for both.** He says a Lannister will pay their debts, without a witnessed payment or agreed sum. Brienne emerges from the pit, and the escort **actually leaves Harrenhal with both captives**, changing the chapter-37 state where she was to be abandoned.
+27. **His motive is expressed without a grand oath.** When Brienne asks why he turned back after having reached safety, he tells her **he dreamed of her**. This is factual about the dream and a deliberately understated explanation, but not proof of romantic love or that supernatural foresight compelled him.
+28. **End state:** Jaime and Brienne ride away together under Walton's protection. Jaime's infection is improving though he is still feverish; **Brienne has been saved from Hoat's bear pit**; no ransom has actually been paid, no King's Landing arrival is shown, and their future protection remains conditional.
+
+## Microdetail and source-claim ledger
+
+| Signal | Evidence and countercase |
+|---|---|
+| Black bat of extinct Lothstons on Jaime's shield | Practical disguise; false affiliation unproven |
+| Selwyn's proposed **300 dragons** | Qyburn report; very different from invented sapphires |
+| Pia offered by Qyburn; Jaime declines | Changing conduct under continuing Cersei attachment |
+| Tytos vs Tywin in Tarbeck hostage affair | Jaime memory; separate generations' responses |
+| Dreamwine, fever and white-wood stump | Multiple plausible dream triggers; supernatural origin unproven |
+| Blue-burning swords, five dead Kingsguard/Rhaegar | Dream images, not an actual spectral encounter |
+| Marwyn reportedly sympathetic to Qyburn's soul theory | Intellectual clue, not certified expelled-for-necromancy story |
+| Brienne's **blunt tourney sword** and pink gown | Intentional deadly disadvantage |
+| Bear killed by **Walton's crossbowmen** | Rescue depended on military cooperation |
+| Both leave pit and Harrenhal | Actual physical change, not merely announced release |
+
+## Serious rival readings / follow-up tests
+
+- **What changed Jaime?** The dream recalls guilt and Brienne's oath, but he also knowingly falsifies possible testimony against Roose to coerce Walton. The rescue is real without proving moral perfection.
+- **Is the weirwood causative?** White wood and Ned's heart-tree association make a magic hypothesis possible. Fever, dreamwine, fears about Cersei and the Kingsguard also predict this nightmare. Look for repeated external confirmations before naming a supernatural agent.
+- **Can Tywin be persuaded about Hoat?** Jaime's ability to threaten a false report reveals leverage over Bolton but says little about the actual plans of Roose and Tywin. Keep future results separate.
+- **Brienne and Tarth wealth:** Her father's small gold offer contradicts the sapphire bluff. This explains escalating brutality and shows how a protective lie becomes unstable over time.
+- **Bear-pit rescue:** Jaime's personal risk is obvious, but his life depends on Walton's trained crossbowmen. Attribution matters as much as motive.
+
+**Review boundary:** Full primary-text first pass; dream, custody and historical evidence challenge remains open.
