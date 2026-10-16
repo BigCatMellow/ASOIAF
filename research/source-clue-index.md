@@ -2866,6 +2866,126 @@
 | C-2799 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Jon recalls grey wolf at Queenscrown seemed to know him | Summer with living Bran via paired POV |
 | C-2800 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Jon dream shows Ned-faced weirwood and skeletal Ygritte | Symbolic fear, no on-page Ygritte death |
 
+| C-2801 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Green Fork half again normal width makes Frey bridge essential | Physical crossing leverage, not choice of alternate ford |
+| C-2802 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Catelyn explicitly requests bread salt wine to secure guest right | Protection ritual priority before any attack |
+| C-2803 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Robb arrives wearing bronze iron crown with Raynald banner | Public role and key Westerling present |
+| C-2804 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Ryman Frey heir accompanied by Edwyn Black Walder Petyr Pimple | Specific Frey greeting party and family ranks |
+| C-2805 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Grey Wind leaps at Frey outriders and causes Petyr fall | Animal mistrust observed, prophetic reason unproved |
+| C-2806 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Black Walder draws sword and accuses Robb wolf attack | Escalatory hospitality rhetoric |
+| C-2807 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Grey Wind balks growls at castle portcullis | Strong warning behavior, motive unknown |
+| C-2808 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Lothar attributes wolf agitation to swollen river sound | Ordinary alternative to danger-sense hypothesis |
+| C-2809 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Raynald ordered to remain with Grey Wind outside hall | King separated from animal guard |
+| C-2810 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Robb soldiers assigned outdoor tents among Frey troops | Physical division of armed guests and commanders |
+| C-2811 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Walder mocks Robb Kings of Winter crown | Public status grievance |
+| C-2812 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Walder lines up daughters and granddaughters for apology | Coerced symbolic humiliation and status hierarchy |
+| C-2813 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Robb publicly apologizes and acknowledges breaking promise | Guest has complied with reconciliation demand |
+| C-2814 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Jinglebell actually Aegon Frey adult disabled grandson with bells | Individual innocence and vulnerability |
+| C-2815 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Walder mistreats bastard descendant young Walda | Intra-house legitimacy distinctions |
+| C-2816 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Roslin small Rosby-descended and tearful before wedding | Tears witnessed, meaning unresolved |
+| C-2817 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Roslin says crying for joy, Edmure clearly delighted | Stated explanation not verified inner state |
+| C-2818 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Walder refers to sweet music red wine and bedding | Potential forewarning, words not explicit massacre plan |
+| C-2819 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Walder serves bread salt butter cheese wine and calls honored guests | Guest right indisputably enacted |
+| C-2820 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Frey lodgings comfortable but Catelyn wants own guards | Material comfort not security |
+| C-2821 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Maester Brenett names Bethany Rosby children Perwyn Benfrey Willamen Olyvar Roslin | Mother/sibling roster for dissent and witness audit |
+| C-2822 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Willamen Frey serves Lord Hunter as maester in Vale | Specific potentially external family member |
+| C-2823 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Perwyn Frey absent with bad-weather explanation | Claimed absence, actual reason unverified |
+| C-2824 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Bolton presents strip allegedly Theon Greyjoy little finger skin | Material trophy, identity via Ramsay account |
+| C-2825 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Roose repeats Ramsay saved Winterfell from ironborn | Interested account conflicts earlier Bran Theon views |
+| C-2826 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Robb accepts Theon should be kept alive at Dreadfort as hostage | Royal decision under false fratricide account |
+| C-2827 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Roose says Aenys Frey crossed ruby ford before own force | Movement chronology claimed not externally seen |
+| C-2828 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Roose says Gregor attacked stranded rear after two thirds ferried | Commander version of river defeat |
+| C-2829 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Norrey Locke Burley and Wylis Manderly men bear reported losses | Selective casualties, deliberate cull unproved |
+| C-2830 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Wylis Manderly reportedly captured while Wendel at Twins | Separate brothers and custody status |
+| C-2831 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Roose reports 600 left at ford under Ronnel Stout and Kyle Condon | Rear guard claim requires independent check |
+| C-2832 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Roose blames Duskendale on Glover grief for Deepwood Motte | Interested explanation, original order gap |
+| C-2833 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Roose brings about 500 horse and 3000 foot | Present force count distinct Robb original |
+| C-2834 | [ASOS 49](../Source/Main-Series/03-A-Storm-of-Swords/chapters/49-catelyn.md) | Robb assigns Bolton rear guard for Moat Cailin march | Continued command trust despite missing troops |
+| C-2835 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Sandor Arya travel on pork wagon pulled by old drays | Disguise for entry at Twins |
+| C-2836 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Four casks salt pork and one pickled pigs feet | Exact transport cargo from stolen farmer |
+| C-2837 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Stranger tied behind wagon threatens farmer cover | Recognizable noble warhorse |
+| C-2838 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Sandor uses rough green clothes and hood over hidden mail | Concealed combat readiness |
+| C-2839 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Farm laborer gave wagon clothes boots unwilling at swordpoint | Predation persists alongside family delivery plan |
+| C-2840 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Arya dressed as peasant boy, hair hacked by Sandor | Gender disguise and recognition anxiety |
+| C-2841 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Donnel Haigh outrider black pitchfork banner challenges wagon | Named guard and heraldic clue |
+| C-2842 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Sandor lies Old Lady Whent sent Stranger wedding gift | Fabricated authority to bypass challenge |
+| C-2843 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Haigh inspects warhorse much more than peasants | Class epistemic blindspot |
+| C-2844 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Arya uncertain unknown arms and withholds Stark identity | Rational reluctance rather than lack of desire |
+| C-2845 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Arya recalls bad but unremembered dream | Affective foreboding, magic unproven |
+| C-2846 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Arya fears Bolton recognizes guard slaying at Harrenhal | Experience-founded concern |
+| C-2847 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Wedding music heard before Twins view | Approach timing |
+| C-2848 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Twin castles playing mismatched melodies initially | Music later synchronizes, auditory chronology |
+| C-2849 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Three massive feast tents with northern soldiers near river | Separate and vulnerable soldier gathering |
+| C-2850 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Robb own camp on higher ground while flood reaches others | Terrain impacts encampment |
+| C-2851 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Bolton flayed-man sergeant stops pork cart at wagon hedge | Attested perimeter staffing |
+| C-2852 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Sedgekins designated for food unloading, castle closed to wagon | Restricted access before assault |
+| C-2853 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Sandor ignores Sedgekins to seek Robb | Private strategic objective |
+| C-2854 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Lord Smallwood six-acorn tent recognized by Arya | Household continuity from Acorn Hall |
+| C-2855 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Four archers seen stringing bows in wedding camp | Weapon preparation, participants not identified as Frey |
+| C-2856 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Drinks and northern toasts to Edmure Roslin and Robb Jeyne | Social celebration about to become trap |
+| C-2857 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Arya does not know Queen Jeyne exists | Cross-POV knowledge lag |
+| C-2858 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Arya recognizes Northmen Umbers Karstarks and mountain men | Actual allied soldiers present |
+| C-2859 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | Dark wet banners prevent accurate identification | Visibility limit |
+| C-2860 | [ASOS 50](../Source/Main-Series/03-A-Storm-of-Swords/chapters/50-arya.md) | End of chapter Arya still outside castle not reunited | Critical geography and outcome limit |
+| C-2861 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Wedding hall loud drums and musical din obstruct perception | Acoustic masking before attack |
+| C-2862 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Food meager and drink abundant throughout feast | Potential deliberate intoxication, no drugging shown |
+| C-2863 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Roslin and Edmure married ceremonially and share plate cup | Actual wedding completed, consummation not seen |
+| C-2864 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Roslin has fixed smile cries in bedding procession | Fear visible, secret knowledge unconfessed |
+| C-2865 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Robb dances all named Frey women per apology terms | Compliance did not secure trust |
+| C-2866 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Smalljon Robin Flint Patrek Dacey assigned sober royal guard | Named defenders not drunken party as whole |
+| C-2867 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Swordbelts hang on walls during feast | Weapon access delayed by custom |
+| C-2868 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Greatjon drinks with Merrett and Whalen until unfit | Feast intoxication affects guard strength |
+| C-2869 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Roose scarcely eats drinks hippocras not abundant ale | Distinct conduct before coordinated attack |
+| C-2870 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Bolton toasts Walder boys held with Ramsay Dreadfort | Implied pressure noticed by Catelyn |
+| C-2871 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Walder bars Grey Wind citing Petyr incident and dangerous wolf | Protective animal removed from hall |
+| C-2872 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Different feast in other castle houses Frey bastards | Selective spatial clustering |
+| C-2873 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Olyvar Perwyn Alesander all absent from wedding gathering | Absences do not prove their dissent or role |
+| C-2874 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Edmure Roslin escorted away for bedding before massacre | Physical removal, their fate not shown |
+| C-2875 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Greatjon carries terrified Roslin to bedding chamber | Intimate procedure creates separation |
+| C-2876 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Dacey touch makes Edwyn Frey jerk away | Behavioral warning immediately before attack |
+| C-2877 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Catelyn feels chainmail under Edwyn silk sleeve | Proof of prearranged hidden protection |
+| C-2878 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Musicians switch to Rains of Castamere | Coordinating song signal inferred, performed on page |
+| C-2879 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Crossbowmen hidden among musicians shoot Robb twice then third bolt | Structured ambush, Robb initially survives wounds |
+| C-2880 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Catelyn struck in small of back by bolt | Injury before negotiation and execution |
+| C-2881 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Smalljon overturns table to shield Robb | Active guard defense not total passivity |
+| C-2882 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Robin Flint repeatedly stabbed by Freys | Witnessed assault, not safe escape |
+| C-2883 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Wendel Manderly shot through mouth while rising with lamb | Observed deadly attack |
+| C-2884 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Hosteen kills Lucas Blackwood and Black Walder hamstrings Vance | Individually named Frey acts |
+| C-2885 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Dacey strikes Benfrey then Ryman axes her stomach at exit | Specific sequence, exact time of death not externally checked |
+| C-2886 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Fur-clad axeman beheads Smalljon despite northern appearance | No automatic friend inference from cloak |
+| C-2887 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Walder remains on throne watching and later controls silence | Direct command participation |
+| C-2888 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Grey Wind heard howling amid distant battle | Alive and audible at this instant, later fate pending |
+| C-2889 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Catelyn seizes Jinglebell as leverage for Robb | Hostage personally uninvolved by evidence |
+| C-2890 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Walder declines trade calling Jinglebell just grandson | Familial expendability as stated |
+| C-2891 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Pink-cloaked armored man stabs wounded Robb through heart | Roose attribution strongly supported, name not uttered |
+| C-2892 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Robb murderer invokes Jaime Lannister regards | Not evidence Jaime issued massacre orders |
+| C-2893 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Catelyn slits Aegon Jinglebell throat | Actual killing of unimplicated vulnerable Frey |
+| C-2894 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Catelyn perceives raven attack while bloodied and distressed | Dying perception not verified literal birds |
+| C-2895 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Catelyn murdered by throat cutting in hall | Direct fatal event |
+| C-2896 | [ASOS 51](../Source/Main-Series/03-A-Storm-of-Swords/chapters/51-catelyn.md) | Edmure Grey Wind Roslin final fates not shown in this POV | Explicit unresolved downstream casualties |
+| C-2897 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Arya Sandor see gate portcullis rising and bridge lowered | Initial opening for Frey sortie not safe welcome |
+| C-2898 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Cart wheel sinks and Sandor retrieves hidden swordbelt | Combat readiness before Arya recognizes attack |
+| C-2899 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Frey mounted column rides four abreast with torches and longaxes | Organized castle sortie |
+| C-2900 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Distant wolf howl felt intensely by Arya | Possible skinchanging perception, source unverified |
+| C-2901 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Middle of three feast tents collapses then other two | Sequenced strike on soldiers |
+| C-2902 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Fire arrows and flammable barrels ignite trapped northmen | Incendiary coordinated mass attack |
+| C-2903 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Both Twins now play same Rains of Castamere tune | Cross-POV synchronization with inside hall |
+| C-2904 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Three Frey-marked knights break column to attack wagon | Unambiguous lethal hostility to outsiders |
+| C-2905 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Sandor unties Stranger and fights three mounted Freys | Immediate combat defense |
+| C-2906 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Arya hesitates with rock between hated Sandor and attacking Freys | Ethical ambivalence, not forgiveness |
+| C-2907 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | One Frey charges Arya with longaxe, ignores her pleas | Direct personal threat |
+| C-2908 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Arya stone glances from helm and breaks charging line | Agency without lethal damage |
+| C-2909 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Sandor kills Arya attacking knight using captured axe | Actual protective lethal action |
+| C-2910 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | One attacker pinned under drowning horse, another sword in throat | Remaining hostile fighters defeated |
+| C-2911 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Sandor retrieves recognizable dog helm from apple sack | Concealment ends once exposed |
+| C-2912 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Arya sees mass murder and fires outside castle | Independent external account of Red Wedding |
+| C-2913 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Sandor says Robb surely dead without witnessing hall | Inference corroborated by Catelyn 51 |
+| C-2914 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Portcullis lowers and drawbridge rises as Arya tries entry | Frey defense closes trap |
+| C-2915 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Arya wants to enter to save Catelyn despite danger | Family reunion impulse remains |
+| C-2916 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Sandor advises retreat and says Catelyn corpse inside | Statement inferred, not personal eyewitness |
+| C-2917 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Arya runs from Sandor with bloodied axe like Mycah once fled | Literary parallel rooted in victim fear |
+| C-2918 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Sandor axe strikes back of Arya head | Direct blow, blade side unspecified |
+| C-2919 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Arya's survival or death not shown at cliffhanger | Critical unresolved next-chapter test |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -2873,4 +2993,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and ninety-four first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and ninety-eight first-pass chapters listed in the coverage tracker.
