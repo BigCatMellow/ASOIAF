@@ -96,6 +96,8 @@ Only the first item, plus some Frey horse movement, is directly depicted. The fo
 
 **Night Lamp conditional overlay:** **[Night Lamp](../theories/night-lamp.md)** suggests damaged lake ice and beacon misdirection might endanger Frey cavalry. The physical ice holes and beacon are `POV-OBSERVED` (ADWD 62), but `STANNIS SET TRAP`, `HOSTEEN REACHED LAKES`, `MANDERLY DEFECTED`, and `VICTORY` are all **THEORY / UNKNOWN**. Treat whether the two Bolton-ordered forces *even arrive in compatible positions* as a separate necessary test.
 
+**Comparative warning against assuming a fourth intentional sacrifice (2026-10-16):** [Roose's four-campaign casualty and order comparison](roose-bolton-green-fork-duskendale-trident-attrition-audit.md) shows that **Robb himself authorized the Green Fork infantry decoy** (AGOT 55/59), **Roose expressly ordered Duskendale** and later blamed Glover (ACOK 64/ASOS 49), and the Trident rear-guard losses arrive via **Roose's own report** (ASOS 49). Dreadfort men chiefly make up his returned army, but **the starting house-by-house denominators are absent**. This warrants testing selective military attrition in ADWD 51; it **does not establish** Roose ordered the Freys and White Harbor men out **solely** to die, or that any contingent even reached Stannis's position.
+
 ## 7. What could Theon actually tell Stannis?
 
 **ADWD 51:** Theon **is in the Great Hall** for Roose's exact orders. He can credibly testify later, if willing, that **Hosteen was told to assemble Frey men at the main gates, Wyman was told to assemble the White Harbor men at the east gate**, that Hosteen attacked Wyman, and that Roose claimed Stannis was close and starving. He saw a grave intramural fight, Frey horses turn to leave and an impaired Manderly commander.
