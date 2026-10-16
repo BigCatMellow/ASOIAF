@@ -2376,6 +2376,119 @@
 | C-2313 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Tywin refuses soldiers and threatens Watch election for Slynt | Conditional political coercion, election unheld |
 | C-2314 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Pycelle ordered to send royal letter praising Janos Slynt | Dispatch ordered, receipt and compliance unverified |
 
+| C-2315 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Bannen suffers fatal illness after Kedge removed infected foot nine days earlier | Medical decline, not a demonstrated Other infection |
+| C-2316 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Fornio and Ser Byam infected while medical herbs lost at Fist | Loss of medicines and trained healers |
+| C-2317 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Watch reaches Keep with forty-four survivors, three die before Bannen | Snapshot count, later mutiny changes total |
+| C-2318 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Nine survivors too wounded to fight and twenty-two garrons remain | Material limits on any Watch retreat |
+| C-2319 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Craster beats young wife with Watch witnesses refusing intervention | Host sovereignty vs Watch protective vows |
+| C-2320 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Craster reportedly keeps nineteen wives and offers male children to gods | Family system report, transfer destination not directly seen |
+| C-2321 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Craster claims piety protects keep from white cold | No attacks during thaw, causality unproved |
+| C-2322 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Gilly gives birth to boy, Craster refuses Sam proposal to take him | Male infant at risk, not yet surrendered |
+| C-2323 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Sam nicknamed Slayer and mocked by several archers | Witness reaction differs from true Other kill |
+| C-2324 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Ulmer boasts White Bull hand wound during Kingswood Brotherhood outlawry | Veteran recollection, details uncorroborated |
+| C-2325 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Grenn argues brave conduct can coexist with fear | Perspective on Sam and Watch morale |
+| C-2326 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Inventory retains two obsidian daggers, spear and nineteen arrows | Distinct from many cached Fist weapons now inaccessible |
+| C-2327 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Ulmer gets four obsidian arrows, five archers each three | Allocation totals nineteen precisely |
+| C-2328 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Sam warns obsidian killing Other does not prove it destroys wights | Explicit enemy-class distinction |
+| C-2329 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Mormont says Watch forgot original reason for huge Wall | Institutional interpretation, historical foundation unverified |
+| C-2330 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Mormont assumes children of forest exterminated | Character belief not omniscient statement |
+| C-2331 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Raven repeats son snow corn ended now and wish | Observable mimicry, agency unknown |
+| C-2332 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Mormont honors and burns Bannen with White Harbor origin report | Corpses cremated to prevent rising |
+| C-2333 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Craster carries gifted axe when food quarrel escalates | Gift becomes threat, Dirk's knife is murder weapon |
+| C-2334 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Craster host farewell feast yields only two bread loaves | Scarcity under mistrust and suspected private stores |
+| C-2335 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Dirk cuts Craster's throat during confrontation | Host killed by Watch mutineer |
+| C-2336 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Ollo Lophand stabs Jeor Mormont after his intervention | Commander slain by own brother |
+| C-2337 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Garth of Greenaway kills Garth of Oldtown amid faction chaos | Mutiny infighting with motive unshown |
+| C-2338 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Rolley of Sisterton breaks neck falling from loft | Specific noncombat death during mutiny |
+| C-2339 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Rebels sexually assault Craster women after host death | Witnessed violence not Watch policy |
+| C-2340 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Grenn Giant Dolorous Edd flee while Sam remains with dying Mormont | Escape destination and survivors unverified |
+| C-2341 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Mormont dying order tells Watch Fist wildlings obsidian and treason | Imperative not completed report |
+| C-2342 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Mormont asks Jorah to take black and requests forgiveness | Personal last wish, no transfer yet |
+| C-2343 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Ferny and Gilly mother urge Sam to flee with baby | Practical aid, escape unperformed |
+| C-2344 | [ASOS 33](../Source/Main-Series/03-A-Storm-of-Swords/chapters/33-samwell.md) | Craster's sons called boy's brothers returning with white cold | Household testimony, relation to Others unverified |
+| C-2345 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Brotherhood hall consists of hollow hill with pale weirwood roots | Underground refuge, larger network unexplored |
+| C-2346 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Mad Huntsman gives Sandor captive after dogs and Anguy bow standoff | Negotiated custody rather than willing assent |
+| C-2347 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Sandor reportedly caught asleep under willow after drinking | Captor account, prisoner identity verified |
+| C-2348 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Thoros now thin grey-haired, says former tourney fire was vanity | Physical alteration, supernatural powers separate |
+| C-2349 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Beric exhibits destroyed eye skull wound rope neck mark and lance scars | Severe repeated trauma, exact historical sequence unknown |
+| C-2350 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Beric claims six score original fighters, over eighty dead | His manpower accounting, later recruitment reported |
+| C-2351 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Brotherhood members include peasants made knights by Beric | Status claim, behavior not universally chivalrous |
+| C-2352 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Sandor asserts family service is not proof every Lannister atrocity | Valid individual-responsibility distinction |
+| C-2353 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Thoros says Aegon and Rhaenys bodies brought before Iron Throne | Historical witness report, Sandor responsibility unproven |
+| C-2354 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Brotherhood lists dead smallfolk individually including Pates and Darrys | Human-scale atrocity archive, perpetrators vary |
+| C-2355 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Arya accuses Sandor of killing Mycah not attacking Joffrey | Specific charge rather than collective guilt |
+| C-2356 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Sandor admits Mycah attack premise came from Joffrey not eyewitness | Chain of hearsay that produced fatal pursuit |
+| C-2357 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Arya says Sansa's original story distorted encounter | POV discrepancy, not new eyewitness proof |
+| C-2358 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Beric chooses combat trial instead of judging factual evidence | Custom and truthfinding distinct |
+| C-2359 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Beric removes armor, Hound receives shield and sword | Combat conditions not one-sided full armor advantage |
+| C-2360 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Archers Anguy Dennet and Kyle guard against escape | Judicial coercive force |
+| C-2361 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Beric cuts palm and sword ignites before duel | Observed exceptional ignition, mechanism unverified |
+| C-2362 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Gendry says Beric fire differs from wildfire tricks | Cross-check Thoros previous tournament method |
+| C-2363 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Flaming shield and sleeve exploit Hound fear of fire | Tactical pressure does not prove categorical cowardice |
+| C-2364 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Sandor breaks Beric burning sword and cuts deeply to chest | Apparently fatal blow witnessed |
+| C-2365 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Thoros and men carry bleeding Beric into tunnel | Revival process itself unseen |
+| C-2366 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Harwin calls Hound innocent by Lord of Light verdict | Belief based on fight not factual exoneration |
+| C-2367 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Sandor burned badly and begs help while Arya seeks justice | Suffering and culpability coexist |
+| C-2368 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Sandor explicitly admits riding down and killing Mycah | On-page confession after combat acquittal |
+| C-2369 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Arya takes Greenbeard dagger but Lem disarms her | Revenge attempt incomplete |
+| C-2370 | [ASOS 34](../Source/Main-Series/03-A-Storm-of-Swords/chapters/34-arya.md) | Beric returns upright holding Thoros shoulder after mortal blow | On-page extraordinary recovery, cause not depicted |
+| C-2371 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Hoster laid in weighted river boat with painted wooden sword | Tully river funeral, actual resting site unknown |
+| C-2372 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Seven bearers include Robb plus Frey envoy Lothar | Public diplomatic recognition during mourning |
+| C-2373 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Lothar arrives with forty men led by Walder Rivers | Armed representation, loyalties distinct |
+| C-2374 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Edmure misses three boat-arrows, Brynden ignites with fourth | Grief episode not career archery test |
+| C-2375 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Hoster last word Tansy hidden by Catelyn from Edmure | Deliberate family lie, referent unresolved |
+| C-2376 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Catelyn lacks Lysa reply or Jaime trade confirmation | Information gap despite other POV events |
+| C-2377 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Rollam and Raynald Westerling partly fill lost companion roles | Catelyn's emotional interpretation |
+| C-2378 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Lothar steward to Walder Frey for twelve years | Experience and administrative standing |
+| C-2379 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Lothar claims Walder sympathetic to Robb's youthful marriage | Likely diplomatic performance, original statement unverified |
+| C-2380 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Randyll Tarly crushes Tallhart and Glover Duskendale force | Battle reported, origin of orders unknown |
+| C-2381 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Robb says a third of his foot lost at Duskendale | Magnitude reported, overall army number unspecified |
+| C-2382 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Robett Glover captured after Duskendale near kingsroad | Possible Martyn Lannister exchange not accomplished |
+| C-2383 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Robb orders tripled protection for Martyn after Willem murder | Specific response to Karstark crime |
+| C-2384 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Sansa Tyrion marriage news reaches Riverrun previous night | Accurate marriage, unconsummation unknown to Robb |
+| C-2385 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Robb sees Sansa as heir while believing Bran Rickon dead | Knowledge state contradicted by reader's Bran POV |
+| C-2386 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Catelyn urges submission invoking Torrhen and Balon | Political alternative rejected by Robb |
+| C-2387 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Robb draws sword after quarrel without explaining purpose | Observed motion, target unknown |
+| C-2388 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Frey envoys cite Big Walder letter signed by Little Walder | Secondhand Winterfell account not independent proof |
+| C-2389 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Frey letter blames Theon for burning Winterfell | Conflicts with earlier Bran/Theon POV chronology |
+| C-2390 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Frey account says Bolton bastard rescued surviving children | Possible Ramsay narrative manipulation |
+| C-2391 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Robb thinks Ramsay died and asks if Bolton has another bastard | Rumor contradictions persist |
+| C-2392 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Lothar flatters Robb Edmure after hospitality | Public warmth not proof private trust |
+| C-2393 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Walder demands Robb face-to-face apology at Twins | Reconciliation conditioned on physical presence |
+| C-2394 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Roslin Frey sixteen, daughter of sixth wife Bethany Rosby | Dynastic specifics through Lothar |
+| C-2395 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Edmure denied right to see bride before acceptance | No informed choice about person |
+| C-2396 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Lothar insists immediate wedding and not betrothal | Timing raises strategic stakes |
+| C-2397 | [ASOS 35](../Source/Main-Series/03-A-Storm-of-Swords/chapters/35-catelyn.md) | Edmure agrees marriage as amends for Red Fork decisions | Verbal consent under pressure, ceremony not yet held |
+| C-2398 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Axell orders Alester left in dungeon without torch | Immediate punishment contrasts Melisandre earlier |
+| C-2399 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Axell threatens Davos with fall from bridge before king meeting | Coercion over choice of Hand |
+| C-2400 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Axell claims Saan and Selyse favor his candidacy | Interested report, others not heard here |
+| C-2401 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Stannis emaciated over two stone from before Blackwater | Direct physical comparison, occult cause unverified |
+| C-2402 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Stannis knows Alester peace and condemns Shireen Tommen offer | Actual royal disapproval, letter delivery unknown |
+| C-2403 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Stannis remembers Robert winning Grandison Cafferen loyalty | Attributed Rebellion history and leadership contrast |
+| C-2404 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Axell proposes raiding weak Claw Isle while Celtigar absent | Target civilians rather than leading defector |
+| C-2405 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Axell lists Valyrian axe and horn summoning sea monsters as treasures | Rumored artifacts, no validated effects |
+| C-2406 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Axell estimates fifteen hundred soldiers on Dragonstone | Current strategic claim, need future headcount |
+| C-2407 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Davos calls attack on Celtigar women and children cowardice | Civilian-protection intervention |
+| C-2408 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Davos challenges Stannis Aerys loyalty during Robert rebellion | Moral/legal exception from king's past |
+| C-2409 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Stannis admits brother-or-king decision was hard | His own divided duty testimony |
+| C-2410 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Stannis says Robert inheritance makes kingship obligation not desire | Claimant moral reasoning, not legal adjudication |
+| C-2411 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Stannis alleges Aerys court rot from Varys per Barristan | Hearsay court history |
+| C-2412 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Stannis alleges Renly shadow death not Melisandre work | Interested account conflicts with broader shadow evidence |
+| C-2413 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Stannis credits Melisandre sparing Davos from Axell punishment | King report, no competing direct account |
+| C-2414 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Edric Storm ill and leeched by Pylos | Medical event reported, ritual use inferred |
+| C-2415 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Varys sent Robert's supposed gifts to Edric behind king's back | Stannis anecdote, paternal perception affected |
+| C-2416 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Stannis names Edric innocent and refuses stone dragon blood sacrifice | Explicit current veto, later stance open |
+| C-2417 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Stannis judges Claw Isle civilian massacre evil and worthless | On-page policy decision |
+| C-2418 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Stannis appoints Davos Lord Rainwood Admiral and Hand | Completed ceremony, social execution ahead |
+| C-2419 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Lightbringer glows visually yet feels ordinary at Davos shoulder | Magical identity unverified |
+| C-2420 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Gilbert Farring keeps Storm's End with two hundred loyal men | Current royal manpower report |
+| C-2421 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Stannis reports flame vision of snow hill black men and moving shapes | Fist battle analogy inferred not independently shown |
+| C-2422 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Melisandre says fire prophecy true but difficult to interpret | Explicit limits on clarity |
+| C-2423 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Three leeches fed on Edric blood presented on silver dish | Davos identification, no occult efficacy proven |
+| C-2424 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Stannis burns leech naming Joffrey Baratheon | Ritual directly seen, fate not yet affected on page |
+| C-2425 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Stannis burns leech naming Balon Greyjoy | Ritual directly seen, future causation untested |
+| C-2426 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Stannis burns leech naming Robb Stark | Ritual directly seen, future causation untested |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -2383,4 +2496,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and seventy-eight first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and eighty-two first-pass chapters listed in the coverage tracker.
