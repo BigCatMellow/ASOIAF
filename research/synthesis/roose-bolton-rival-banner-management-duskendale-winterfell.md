@@ -1,0 +1,140 @@
+# Roose Bolton's control over rival banners: the Duskendale precedent and Winterfell's fragile coalition
+
+- Record role: `RESEARCH / MULTI-CAMPAIGN COMMAND ACCOUNTABILITY + FACTION MANAGEMENT`
+- Evidence classes: `POV-OBSERVED / DIRECT ORDER / DIRECT SPEECH / CHARACTER CLAIM / POV-INFERENCE / THEORY / UNKNOWN`
+- Status: `PRIMARY TEXT AUDITED / DUSKENDALE AUTHORSHIP VERIFIED / PURPOSEFUL NORTHERN ATTRITION NOT PROVEN`
+- Lifecycle: `ACTIVE`
+- Authority: `ADVISORY / NONE`
+- Parent: [Synthesis index](README.md), [Frey–Manderly sortie and command fracture](frey-manderly-sortie-command-fracture.md), [White Harbor officers and absence of a field deputy](white-harbor-officers-and-winterfell-delegation-gates.md), [Northern faction agendas](northern-coalition-manderly-umber-clans-arya-revelation-gates.md), [Winterfell claimant tensions](winterfell-claimants-stannis-arnolf.md).
+- Distinct owner: This file owns **the longitudinal Roose-as-theater-commander comparison** (previous Duskendale orders vs Winterfell tactics), not the detailed Frey fight, false Arya/Abel mission, White Harbor field succession or fixed Battle of Ice theory.
+- Source audit **2026-10-16**: **ACOK 64 (Arya)** `Source/Main-Series/02-A-Clash-of-Kings/text/065-arya.md`; **ASOS 35 (Catelyn)** `Source/Main-Series/03-A-Storm-of-Swords/text/036-catelyn.md`; **ASOS 37 (Jaime)** `038-jaime.md`; **ASOS 45 (Catelyn)** `046-catelyn.md`; **ASOS 49 (Catelyn)** `050-catelyn.md`; **ADWD 32 (Reek)** `Source/Main-Series/05-A-Dance-with-Dragons/text/033-reek.md`; **ADWD 37 (The Prince of Winterfell)** `038-the-prince-of-winterfell.md`; **ADWD 41 (The Turncloak)** `042-the-turncloak.md`; **ADWD 46 (A Ghost in Winterfell)** `047-a-ghost-in-winterfell.md`; **ADWD 51 (Theon)** `052-theon.md`. Book chapter numbers differ from filenames (prologue accounted in filename sequence).
+- Scope: Five published novels only. Paraphrase rather than reproducing novel passages. No *Winds* sample/outcome or TV events promoted to source.
+
+## Executive finding: the past provides a documented misattribution, the future only a plausible repetition
+
+**ACOK 64 (Arya)** is a directly witnessed order, not rumor: **Roose Bolton instructs Qyburn to draft a message for Helman Tallhart** to kill captured Darry Lannisters, burn their castle, then join Robett Glover and move **east toward Duskendale**. He instructs that at least the punishment be represented as **the king's command**, and Qyburn says he will prepare the message for Roose's seal. Whether **all components** are explicitly claimed as King Robb's instructions versus the first clauses is not grammatically closed, but **Roose personally sets the Duskendale destination**.
+
+**ASOS 35 (Catelyn)** sees the military cost: **Randyll Tarly shatters the Glover/Tallhart column at Duskendale**; Robb is stunned that men were sent so far east and deplores losing a third of his foot. **ASOS 37 (Jaime)** hears Roose say he sent **Harrion Karstark and the remaining Karhold men** with Glover; **ASOS 49 (Catelyn)** sees Roose describe the disaster to Robb as **Glover's emotional folly** after the fall of Deepwood, **without mentioning his own order**. The reader has **direct evidence of Roose's initiative and later selective public accounting**. Do not inflate that into a verbatim proven agreement with Tywin at the instant of the original order, a documented intention to sacrifice the Karstarks, or a proof that Robb read the dispatch.
+
+**ADWD 32 (Reek)** then provides a different kind of direct evidence: Roose openly says he needs **Dustin/Ryswell cooperation**, has only **grudging** northern support, fears the political effects of a living Stark son, and **intends the feigned Arya marriage at Winterfell to draw Stannis into a chosen confrontation**. The latter is genuinely **Roose's expressed plan**. In **ADWD 46 (Theon)** the idea that Roose might welcome northerners dying fighting Stannis is **Theon's POV inference**, not Roose's admitted objective. **ADWD 51 (Theon)** later confirms Roose orders hostile Freys and Manderlys toward Stannis through separate muster gates **after actual hall casualties**. No battle outcome, deliberate sacrifice order or Manderly defection is shown.
+
+**Calibrated conclusion:** Roose is **observably adept at selectively accounting for orders, coercing by legitimacy theater, assessing house-level vulnerabilities and shifting danger outward**. His actual capacity to keep rival northern houses loyal through a winter siege is **deteriorating on-page**. Intentional thinning of untrustworthy banners at Winterfell is a **plausible hypothesis with a striking earlier precedent**, not a source-certified second operation.
+
+## 1. The earlier command chain: ACOK 64 → ASOS 35/37/49
+
+| Gate and chapter | Source-backed content | Knowledge/motive limit |
+| --- | --- | --- |
+| **H1 — Harrenhal dispatch, ACOK 64 (Arya)** | Roose personally orders a **letter from Qyburn** addressed to **Ser Helman Tallhart**; punishment of surrendered Darry defenders is phrased as by the king's command; Tallhart is to join **Robett Glover and move east to Duskendale**. Qyburn promises to prepare a document for Roose's **seal**. | `DIRECT ORDER BY ROOSE`, `DRAFTING PROMISED`. Arya observes instruction to send; she does not later witness sealed letter handed to Tallhart or Robb authorizing the move. |
+| **H2 — military outcome, ASOS 35 (Catelyn)** | Catelyn remembers news of **Tarly defeating Glover/Tallhart** at Duskendale, with severe losses; **Robb expresses incomprehension over why they went there**. Galbart says **Robett survived but was captured after the battle**. | `REPORTED RESULT IN CATELYN POV + DIRECTLY REPORTED ROBB REACTION`. The military disaster does not identify every tactical choice or secret political intent. |
+| **H3 — another exposed northern command, ASOS 37 (Jaime)** | Roose tells Jaime he **sent Harrion Karstark and Karhold men to Glover's force**, then voices concern that a bad fate might leave Alys as surviving heir. | `CHARACTER ADMISSION` about a troop decision, **not a witnessed ledger or an independently verified Harrion death**. The rueful manner may be insincere, but irony is not proof of a staged assassination. |
+| **H4 — survivor movement, ASOS 45 (Catelyn)** | Galbart later learns Robett was **placed aboard a ship at Duskendale** in a prisoner exchange arrangement. | `REPORTED TRANSFER`, not an assertion that Robett died there or never could return to Northern affairs; consistent with his later presence at White Harbor (ADWD 29). |
+| **H5 — Roose's narrative to Robb, ASOS 49 (Catelyn)** | Robb says Glover will answer for the disaster; **Roose agrees it was folly and ascribes it to Glover's grief/fear about Deepwood**. Roose also recounts that his own retreat and river crossing cost **Wylis Manderly and many northerners** in a Gregor Clegane attack; Robb praises his precaution and assigns him rear guard. | First story **omits Roose's previously seen Duskendale order**; second is **Roose's retrospective report** of a river battle, not a Catelyn POV battle. Do **not** pretend its casualties are disproved, an intentionally engineered loss, or fully corroborated by other witnesses. |
+
+### Why this is more than a suggestive personality reading
+
+A skeptical reader can reject the idea that Roose ordered Duskendale **to kill particular northern lords**, yet the mismatch remains:
+
+`ARYA OBSERVES ROOSE CHOOSE DUSKENDALE` → `CATELYN RECORDS ROBB SURPRISED BY DUSKENDALE` → `ROOSE SUPPORTS ROBB BLAMING GLOVER, WITHOUT MENTIONING THE ROOSE INSTRUCTION`.
+
+That is a **directly source-supported concealment or material omission of Roose's responsibility in this exchange**. Strictly, the five-book passage does not detail what Robb knew at every earlier instant; what is directly shown is Roose's **statement now**, not an oath that he never informed Robb at any other time. The *coincidence* of the original directed march and later explicit false explanation of why Glover went makes the conduct hard to characterize as innocent transparency.
+
+**Counterargument:** Roose could have given an initially rational raiding instruction and later blamed Glover for tactical failures not spelled out to Robb in this short conversation; some disaster may have resulted from execution rather than the objective. But Robb's shocked *why* question and Roose's earlier specific **eastward destination** make this exculpation harder to maintain without additional facts. The plan's intent to *thin northern forces* still lacks an explicit authorial window or proof of secret coordination with Tarly.
+
+## 2. ADWD 32: Roose tells Ramsay what keeps him in power
+
+**Direct secret conversation, ADWD 32 (Reek):**
+
+- **Barrowton is Lady Barbrey Dustin's**, not Roose's own disposable property, and she detests Ramsay. Roose tells him abusing her could cost **Barrowton, Dustin and associated Ryswell support**. This is a **real alliance constraint**, not just a character who annoys Ramsay.
+- Roose traces Barbrey's connection through his **second wife**, the **Ryswell siblings** and the late **Domeric**, whom Barbrey cherished. She blames Ned Stark for her husband’s death and therefore supports Bolton, while suspecting Ramsay had some part in Domeric's death. **Kinship is not proof of permanent loyalty**.
+- Roose says **most of the North only supports him grudgingly**, while Lannisters and Freys are powerful allies. **One living son of Eddard** could become a superior northern rallying point. **His perception** is source-backed direct dialogue; the appearance of an actual claimant and house-by-house reaction remains future.
+- Roose objects to Ramsay's public cruelty and insists political fear **without uncontrolled notoriety** works better. His stated governance preference is a quiet and peaceful population. **He is morally complicit in atrocity** while objecting to exposure and the costs to their cause.
+- **The false Arya is an instrument**, and Roose himself chooses **Winterfell as the wedding place**, saying Stannis will be drawn there by hill clans' loyalty to Ned's purported daughter and may summon **Arnolf Karstark**. His preference is to **wait for Stannis** rather than take the offensive prematurely.
+- He elects to **invite** the lords to follow him to Winterfell rather than flatly command them, explaining that courtesy is a better way to wield power. **This is a named, directly observed manipulation of independent house status**, but it is not absolute obedience.
+
+**Ramsay as strategic liability:** Ramsay directly proposes mutilating Barbrey, boasts of killing Stark heirs, urges marching on Deepwood, and demands Theon remain his property. Roose **overrules his wedding location, troop timing and Theon's immediate custody**, but cannot demonstrate he can permanently restrain Ramsay. **ADWD 51** later shows Ramsay kill his own injured man Luton and menacingly demand that Freys and Manderlys stop fighting. Roose's strategy depends partly on a son who **repeatedly destabilizes the threatened alliance**.
+
+**Second private fragility:** Roose tells Theon that he suspects Ramsay poisoned **Domeric** (ADWD 32), but offers **personal conviction** rather than an established toxicology/witness. He imagines future sons by Frey wife Walda and fears Ramsay would kill them. **These are Roose's predictions**, not confirmed murders, and give an independent possible future succession crisis beyond the siege.
+
+## 3. Lady Dustin and the Ryswells: valued allies whose grievances are not Roose's property
+
+**ADWD 41 (The Turncloak)** shows **Lady Dustin independently summons Theon with her own armed retainers**, has him dig access to the Stark crypts, and describes specific grievances against the Stark dynasty. She says she lost **Brandon** to a Tully alliance and her young husband to Ned's southern war; she vows to stop **Ned's remains** from being returned through Barrowton and threatens to feed them to dogs.
+
+- `CHARACTER TESTIMONY`: the details of Brandon's relationship, her husband's final wishes, the maester conspiracy theories she voices, and her threatened disposal of bones are **Barbrey's words**. Theon witnesses her conduct and real access to retainers; he cannot verify her entire life history.
+- `VERIFIED / DIRECT SPEECH`: Dustin remains **anti-Ned in her own explicit telling** and independently threatens the family remains. **Do not call her a secretly pro-Stark loyalist** merely because she distrusts Freys or Ramsay.
+- `ADWD 41/37`: she worries that the supposed Arya weeps under Ramsay's treatment, since other northerners *love the Starks*. She notes **Hother's Greatjon hostage**, Hornwood memories of Ramsay's previous marriage, and the importance of other houses' inherited grief. She does **not thereby confess knowledge that Jeyne is an impostor**; Theon suspects she may know, a `POV-INFERENCE`.
+- `ADWD 37`: Dustin claims Roose watches Wyman consume food before he eats and thinks he would find Manderly treachery amusing. These are **her observations/interpretations** rather than a confession of Roose's aims or proof every dish was suspect.
+- `ADWD 46`: **Roger Ryswell** counters Aenys's hunt for a murderer; Dustin names **Hornwood, Tallhart, Cerwyn, Slate and other northern** Red Wedding grievances; Roger notes **Ryswell losses** and Dustin invokes **Dustin losses**. This shows two apparent Bolton allies can resent Freys *while still detesting Starks for other reasons*. Their interactions are **cross-cutting loyalties**, not a single pro-Stannis faction.
+
+**Stress-test:** Roose's assurance that Barrowton's grievance against Ned holds Lady Dustin inside his coalition could be true *against the Starks* and false *against Ramsay's cruelty*. A woman may prefer Bolton to Stark without accepting the bodily abuse of another girl believed to be Stark, or the death of Ryswell/Dustin retainers under her own ally. No source establishes her final allegiance change.
+
+## 4. Manderly, Freys and captive Umbers: a visible loyalty pressure cooker
+
+| Actor | Direct source evidence | Leverage and its limit | Roose's control at five-book cutoff |
+| --- | --- | --- | --- |
+| **Wyman Manderly** | Roose questions his missing-Frey explanation and notes **Wyman brought food but no hostages** (ADWD 32); Dustin attributes to Roose cautious eating habits around Manderly (ADWD 37). Frey/Manderly rivalry escalates (ADWD 46/51). | White Harbor's independent resources; Wyman's secret **Rickon-first condition** and anti-Frey grievance in ADWD 29. Roose **does not hold Wylis** as hostage at this point; Wyman was forced earlier by others. | `ACKNOWLEDGED DISLOYALTY RISK / NOT OPENLY DEFEATED`; wounded Wyman's future and force's allegiance unknown. |
+| **Hosteen and Aenys Frey** | Openly demand account of missing kin, oppose Wyman, Hosteen seriously wounds Wyman in ADWD 51. | Bolton regime depends on Frey/Lannister ties, but Frey kin-safety and retaliatory rage create pressure Roose cannot simply suppress. | Roose and Ramsay eventually silence **current brawl** with Dreadfort soldiers, then dispatch Frey contingent toward Stannis. Actual field control not observed. |
+| **Hother Whoresbane Umber** | Physically attends Bolton court (ADWD 37); **ADWD 41 Dustin** ties his presence to Greatjon's captivity; **ADWD 17 (Jon)** separately describes Mors's no-Umber-against-Umber condition. | Greatjon is captive under **Frey/Lannister power**, not simply in Roose's private dungeon. His release is not under Bolton's direct control. | `HOSTAGE-CONSTRAINED / PERSONAL OATH UNKNOWN`; neither brother's field choice after Stannis's approach narrated. |
+| **Dustin and Ryswell** | Independent Barrowton property/kin network (ADWD 32); openly describe Red Wedding losses (ADWD 46), manage confrontation with Manderly/Frey parties. | Fear of Ramsay, hatred of Ned, control of local supplies and older loyalties are **simultaneous motives**. | `ALLY BY INTEREST, NOT COMMANDED AUTOMATON`. A switch to Stannis or true-Stark cause is not on-page. |
+| **Hornwood, Cerwyn, Tallhart, Locke, Flint, Stout men** | ADWD 41 Dustin names Hornwood's abuse; ADWD 46 old Tallhart/Cerwyn and others show garrison mixed, scouts/trust deteriorate. | House memory and prior losses matter, but lords/rank-and-file are not interchangeable. | `VARIED HOUSE INCENTIVES / SPECIFIC MUTINY UNKNOWN`. |
+| **Arnolf Karstark and company** | In ADWD 32 Roose says Arnolf tried to bait a trap for Stannis; southern and Wall dossiers trace disputed Arnolf allegiance. | A **planned dependency** on an agent attached to Stannis's force, with no verified latest warning received by Stannis. | `SECRET RELATIONSHIP CLAIMED BY ROOSE / SUCCESS UNKNOWN`. |
+
+**Roose's material leverage is also limited:** **ADWD 41 (Theon)** sees winter stores supplied by **Dustin/Barrowton and Manderly/White Harbor**, on top of supply trains; a large host eats these stores under severe winter conditions. A ruler depending on independent lords' food, horses, maesters and armed followers **cannot eliminate the lords without a supply/legitimacy cost**. ADWD 46 reports snowdrifts and lost scouts; ADWD 51 shows lethal factional fighting. These observations reduce the plausibility of a master plan with frictionless control.
+
+## 5. ADWD 46/51: Roose's attempt to redirect the blood feud outward
+
+**Before the Hall fight, ADWD 46 (Theon):**
+
+- Unexplained deaths, missing scouts and snowbound defenses make the Bolton coalition suspect infiltrators and one another. Aenys directly accuses a **Manderly plot** (not individually verified). **Roger Ryswell** and **Barbrey Dustin** challenge the identification of Theon and point to other grievances.
+- Roose says the squabbling does not serve, allows Theon to go and warns him about future danger. He does **not** reveal culprit, order an overt murder purge or display total mastery over security.
+- That same chapter **Theon privately interprets** a possible strategy: send northerners against Stannis so each dead potential turncoat becomes less danger to the Dreadfort. **`THEON POV THEORY`**, not direct Roose speech.
+- Theon's observations of overcrowding, stolen identity, food dependence and political strain provide the **material basis** for that theory, but cannot supply Roose's internal purposes.
+
+**After Little Walder's body appears, ADWD 51 (Theon):**
+
+1. **Big Walder** accuses some White Harbor men of having taught the dead boy dice; **Hosteen** blames Wyman for the killing. Neither accusation has an independently witnessed murder event.
+2. **Hosteen slashes Wyman; Wyman collapses, bleeding**, four White Harbor knights protect him and **Medrick** attempts to stop the bleeding. **Six White Harbor men, two Freys** die, with other victims. A Dreadfort intervention of **forty spearmen** separates them.
+3. **Roose** provides an outside target, saying Stannis's army is close, cold and starving; **orders Hosteen's Freys to main gates**, **Wyman's White Harbor men to east gate**, and directs both against Stannis. **This is a direct command**.
+4. Hosteen promises to kill Stannis and then Wyman; four Manderly knights physically challenge him. **Roose and Ramsay** try to end the fight, using both order and threat.
+5. **Hosteen and Aenys** turn to lead Frey horses from the hall. **Wyman stays under treatment**. Neither the actual eastern force's commander nor departure, approach or combat is shown. See [command-gap dossier](white-harbor-officers-and-winterfell-delegation-gates.md).
+
+**The asymmetry is the evidence:** Roose can make an authoritative order in the hall and immediately separate swords **there**; he cannot thereby be said to have restored trust, cured Wyman, opened frozen gates or ensured that the two contingents obey once outside Winterfell.
+
+**Counterinterpretation to intentional purge:** The immediate tactical context makes dispatch reasonable without secret attrition: **Stannis is approaching**, the garrison is unsustainably crowded, rivals have killed each other, scouts fail, and food/horse losses are severe. Sending fighting men against an external enemy might preserve the coalition's survival as well as risk those men. **No witness reports Roose telling a deputy to sacrifice either house**, nor a later battle where their losses can be compared.
+
+## 6. A longitudinal claim test: order, outcome, blame and possible hidden design
+
+| Claim level | Duskendale evidence | Winterfell evidence | Proper disposition |
+| --- | --- | --- | --- |
+| **A. Roose issues risky orders to other houses** | **ACOK 64:** explicit eastward march order for Tallhart and Glover, represented at least partly as king's authority. | **ADWD 51:** explicit assault/muster order for Freys and Manderlys at separate gates. | `DIRECTLY VERIFIED BOTH`. |
+| **B. Roose can foresee divided/fragile allegiance** | **ASOS 37:** sends Harrion/Karhold with Glover; later talks ruefully of their fate. **No explicit confession he preplanned losses**. | **ADWD 32:** explicitly worries about Frey, Dustin/Ryswell, Stark son, Manderly betrayal, disloyal north; **ADWD 46** actual tension. | `STRONG PREDICTIVE CONTEXT`, not proof an attrition outcome is the end he wants. |
+| **C. Harm happens to northmen after his risky order** | **ASOS 35:** Tarly defeats the Glover/Tallhart troops; Robett later captured. | **ADWD 51:** *before* outward movement Hosteen wounds Wyman; Great Hall casualties occur. **Battle losses not shown**. | `ACTUAL PAST RESULT` vs `UNRESOLVED FUTURE RESULT`. |
+| **D. Roose shifts responsibility or narrative** | **ASOS 49:** attributes Duskendale folly to Glover's emotional response, omits own earlier destination order. | **ADWD 51:** reframes live intramural bloodshed as eagerness for the Stannis fight and sends rivals toward him. | `PAST SELECTIVE ACCOUNTING VERIFIED`; `WINTERFELL REFRAMING OBSERVED`. |
+| **E. Roose intentionally kills rival forces through enemy action** | The order and loss raise **strong suspicion**, but no witnessed private Lannister bargain at the order's moment or confession. | Theon **infers** attrition motive in ADWD 46; no field result exists. | `THEORY / NOT CERTIFIED IN EITHER CASE`. |
+| **F. Roose has completely mastered the house system** | His public account seems to succeed briefly with Robb. | Independent Dustin base, Wyman feud, Frey temper, Ramsay violence, Jeyne deception, storm and Stannis threat all undermine. | `NOT SUPPORTED`; significant observable loss of control. |
+
+## 7. Alternative explanatory models — none adopted as hidden canon
+
+**H1 — Purposeful northern weakening, repeated.** Roose deliberately sends dangerous or disloyal non-Bolton soldiers to be diminished, preserving Dreadfort strength. **Supports:** concrete ACOK/ASOS direct order → disaster → concealed responsibility; ADWD Theon's reading, Roose's openly confessed distrust and later separate risky sorties. **Disconfirmers:** no explicit original intention; losses include Freys whose patronage helps Roose, and sending fighters might preserve the Winterfell garrison if successful.
+
+**H2 — A shrewd commander adapting to constraints, with ethically flexible blame.** Duskendale was meant as a punitive raiding campaign, but suffered unexpectedly and Roose protected reputation by shifting blame; Winterfell sortie is a calculated alternative to mutiny and siege starvation. **Supports:** geographic and supply pressures, castle distress, Roose's desire for political quiet. **Disconfirmers:** Robb's shocked *why Duskendale?* and Roose's omission weigh against exculpating the older episode; so does the deliberate false Arya bait and Arnolf trap.
+
+**H3 — Opportunism rather than one long master plan.** Roose responds to each changing balance: protects Dustin/Ryswell ties, secures Lannister/Frey support, uses marriage to bait Stannis, redirects hostile banners, but cannot prevent Ramsay-driven destabilization. **Supports:** distinct tactics and explicitly changing constraints; no source-certified single operational plan linking the two campaigns. **Disconfirmers:** the repetition of selective communication invites inquiry into long-term intent.
+
+**H4 — House-based security strategy backfires.** Roose's manipulation and reliance on Ramsay create new motives for allies to betray him: Manderly resents Freys, Dustin resents Ramsay, Hornwood men hear Arya cry, Whoresbane is coerced by the Greatjon and Stark heritage persists. **Supports:** direct motive statements and on-page lethal infighting. **Disconfirmers:** no on-page full-scale Bolton collapse, named mass defection or proven Manderly military turn.
+
+**H5 — Theon overestimates Roose's desire for a massacre.** Theon is deeply afraid, thinks in terms of deaths and feels suicidal, and interprets Roose as welcoming slaughter. **Supports:** the attrition plan specifically occurs in Theon's thought, never in Roose's mouth; material need for an actual sortie could be genuine. **Disconfirmers:** Theon's fear does **not erase** the earlier independent Arya/Catelyn/Jaime Duskendale documentary chain and Roose's explicit private political calculations.
+
+**No percentage ranking:** `H1` gains evidence from Duskendale but does not meet a strong proof standard for **Winterfell intent**. `H2–H5` can explain material parts of the evidence; each requires an additional observed order or actor decision to become a source-certified outcome.
+
+## 8. Critical falsifiers and next checks
+
+1. A contemporaneous **actual royal order** or an independent witness that **Robb himself sanctioned Duskendale** would change the reading of Roose's concealment; the published Robb response currently weighs against prior approval.
+2. Evidence Roose **knew** Tarly awaited Glover/Tallhart when he sent them would elevate the Duskendale **intentional sacrifice** hypothesis; no such same-time knowledge is certified.
+3. An **actual Manderly/Frey deployment report** after ADWD 51 is needed to test whether separate musters were a trap, truce or practical division. Gate orders are not field engagements.
+4. A **named officer or instruction** directing Wyman's men after his injury would establish who can implement any secret plan. **Ser Marlon** is named as White Harbor's *home garrison commander*, not the Winterfell field leader.
+5. A reliable account of **Lady Dustin's actual choice** when Bolton succession/fake Arya/Ramsay's cruelty clash would establish whether her anti-Ned motive keeps her aligned or not. Her crypt threats cannot be silently equated to secret Stark loyalty.
+6. Verify whether **Maester Rhodry's wet raven** in ADWD 51 brought new information from a specified sender; its prior flight is not seen, and its full parchment is not read to Theon.
+7. Determine whether **Ramsay actively repudiates his father's constraints** and tries to remove Walda/another heir. Roose's suspicion/prediction is not the crime itself.
+8. Distinguish **Theon witnessed** Bolton's fabricated bride and internal orders from **what Stannis hears later**; Theon has not addressed Stannis on-page at the end of ADWD 62.
+
+**Disposition:** `ACOK 64 DUSKENDALE ORDER SOURCE-VERIFIED / ASOS 35 LOSS AND ROBB SHOCK / ASOS 49 ROOSE MISATTRIBUTES FOLLY / ASOS 37 KARHOLD ADDITION / ADWD 32 STARK-BAIT AND HOUSE LEVERAGE EXPLICIT / ADWD 46 PURGE MOTIVE THEON-INFERRED / ADWD 51 SEPARATE SORTIE ORDER ONLY / NO BATTLE OR FINAL LOYALTY CHOSEN / INDEPENDENT REVIEW OPEN`.
