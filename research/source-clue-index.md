@@ -1177,6 +1177,90 @@
 | C-1133 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Jon lifts Longclaw over kneeling Ygritte then lets her go | Direct decisive disobedience and mercy |
 | C-1134 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Ghost is present with Jon at release, Ygritte report to others unknown | Release consequences and ranger response yet unshown |
 
+| C-1135 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Sansa sees Tyrion waterfront demolition fire and Stannis's kingswood flames | Confirms earlier demolition order executed, civilian cost unknown |
+| C-1136 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Ser Guyard Morrigen leads reported 5000-man burning-heart vanguard south of Blackwater | Estimated advance force, not entire host |
+| C-1137 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Royal galleys patrol deep Blackwater while ferries and merchants removed | Siege movement blocks Sansa's escape by river |
+| C-1138 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Dontos says Varys pays fools for court gossip and Moon Boy serves him | Moon Boy connection is Dontos's uncorroborated allegation |
+| C-1139 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Dontos reports Stannis vowed to burn Great Sept | Known chain from Tyrion's unproven religious propaganda |
+| C-1140 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Dontos identifies an unnamed friend who will hire Sansa escape ship | Important hidden backer, no named identity or hired vessel proved |
+| C-1141 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Maegor drawbridge temporarily unguarded as troops man walls | Interior mobility despite confinement to Red Keep |
+| C-1142 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Sansa sees Three Whores catapults and new hoardings from tower | Tyrion siege work visually corroborated |
+| C-1143 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Sandor catches Sansa at roof edge and reminds her riot rescue | Actual protection not independent benevolence |
+| C-1144 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Sansa remembers Sandor cut off rioter's hand to free her | Direct trauma memory corroborates ACOK41 report |
+| C-1145 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Sandor threatens Sansa by placing sharp longsword on throat | Protector also intimidates hostage |
+| C-1146 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Sandor denounces fire as coward's weapon | His established trauma may affect siege conduct |
+| C-1147 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Sansa nightmares mob mutilation before waking blood | Traumatic dream, not supernatural prophetic attack |
+| C-1148 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Sansa has first menstrual period and fears bedding with Joffrey | Reproductive capability creates immediate coercive stakes |
+| C-1149 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Sansa burns bedding with lamp oil trying to hide blood, servants stop fire | Risky self-protection with no concealment success |
+| C-1150 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Cersei recalls Joffrey painful childbirth and Robert absent hunting | Queen's testimony, not independent obstetric record |
+| C-1151 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Cersei links Joffrey's cruelty to Arya's earlier Trident humiliation | Character account of displaced reprisal |
+| C-1152 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Cersei refers to Arya as dead although reader sees her alive | Severe POV information asymmetry, Cersei knowledge unverified |
+| C-1153 | [ACOK 52](../Source/Main-Series/02-A-Clash-of-Kings/chapters/52-sansa.md) | Cersei warns Sansa love is a sweet poison | Worldview statement not universal narrative law |
+| C-1154 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Qhorin knows Bael ballad and says Mance formerly sang it as ranger | Intertwined wildling and Watch cultural transmission |
+| C-1155 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Qhorin says Mance was freefolk-born Watch ward and returned to wild | History as veteran testimony, not Mance confession |
+| C-1156 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Qhorin denies ordering Ygritte execution and calls scene a test of judgment | Retrospective clarification of ACOK51 apparent command |
+| C-1157 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Jon says no evil in Ygritte, Qhorin notes other two sentries not evil | Moral innocence distinguished from lethal military necessity |
+| C-1158 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Ghost leaves Jon while camp rests under rocks | Wolf physically absent before dream |
+| C-1159 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Jon dreams five direwolves where six formerly lived | Potential Lady absence, no new wolf death proved |
+| C-1160 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Bran-faced weirwood with third eye calls Jon silently | Potential active Bran-to-Jon psychic contact, unconfirmed sender |
+| C-1161 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Dream tree mentions three-eyed crow and opening eyes | Matches Bran's known dream instruction tradition |
+| C-1162 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Jon sees wildling population by great glacier-fed lake in Ghost dream | Dream-based reconnaissance, not conventional eyewitness |
+| C-1163 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Huge camp includes families animals shelters and drillers not only warriors | Migration interpretation gains detailed support |
+| C-1164 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Dream has gigantic shaggy mammoth carrying nonhuman rider | Consistent with wildling captive but not live witness yet |
+| C-1165 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Eagle talons strike dream Ghost and Jon wakes with matching pain | Somatic coupling supports wolf perspective |
+| C-1166 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Qhorin crosschecks glacier and Milkwater with Craster report | Treats dream as testable intelligence |
+| C-1167 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Ebben asks whether Jon is skinchanger | Character suspicion not taxonomy proof |
+| C-1168 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Real eagle watches descending rangers from distant high rock | Possible surveillance, no controlled-by-warg proof |
+| C-1169 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Ghost found with actual bleeding talon wounds on neck | Independent physical validation of one dream event |
+| C-1170 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Qhorin washes Ghost wounds with wine and wraps using Jon cloak | Direct caregiving and material corroboration |
+| C-1171 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Qhorin reverses course due to eagle surveillance suspicion | Operational decision based on high-risk inference |
+| C-1172 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Squire Dalbridge volunteers as lone archer rearguard with spare arrows | Likely sacrifice, death not witnessed |
+| C-1173 | [ACOK 53](../Source/Main-Series/02-A-Clash-of-Kings/chapters/53-jon.md) | Hunting horn sounds behind scouts as eagle circles overhead | Pursuit directly heard at chapter end |
+| C-1174 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Varys delivers report Bran and Rickon murdered at Winterfell | Death unverified despite report; ACOK50 ended before any killing |
+| C-1175 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Cersei says Jaime threw Bran, calling it foolish act from love | Direct sibling account corroborated by later Jaime admission |
+| C-1176 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Tyrion fears Catelyn revenge might threaten Jaime after princes' supposed deaths | Hostage chain consequence even if premise false |
+| C-1177 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Tyrion eats only what Cersei eats at shared banquet | Poison fear but no poisoning detected |
+| C-1178 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Cersei reports Littlefinger no reply from Bitterbridge | Tyrell negotiating outcome remains uncertain |
+| C-1179 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Lady Tanda seeks to return to Stokeworth and offers pig | Court elites consider fleeing siege |
+| C-1180 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Cersei warns Varys provides rivals each tailored intelligence | Experienced insider warns against reliance on spy |
+| C-1181 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Cersei knows Tyrion intends use Sandor for sorties | Possible informer network, exact leak source unknown |
+| C-1182 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Tyrion wants Joffrey seen near battle but ready to withdraw | Regime morale versus king protection tradeoff |
+| C-1183 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Tyrion offers Gyles and Boros release but refuses return of Tommen | Rosby custody continues to divide family |
+| C-1184 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Cersei accuses Tyrion planning Joffrey murder and leveraging Tommen | Accusation not evidence of actual plan |
+| C-1185 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Cersei shows abused Alayaya believing she seized Tyrion lover Shae | Critical mistaken-identity hostage event |
+| C-1186 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Osney and Osfryd Kettleblack participated in Alayaya confinement and beating | Physical harm observed, double-payment not protection |
+| C-1187 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Tyrion conceals Alayaya's identity to protect Shae | His strategic secrecy imposes danger on innocent proxy |
+| C-1188 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Tyrion threatens same torture and rape upon Tommen if Alayaya harmed | Performative intimidation, no actual harm to child |
+| C-1189 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Tyrion promises Cersei future revenge for Alayaya harm | Intent and foreshadowing, event not accomplished |
+| C-1190 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Shae present in Hand's bedroom as Tyrion returns, not captured | Reader certainty contradicts Cersei belief |
+| C-1191 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Shae wears gold linked-hand chain of Hand as erotic ornament | Office object placed in vulnerable private setting |
+| C-1192 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Shae glimpsed red and black possible dragon mosaic beyond iron gate in Varys route | Partial route clue, complete route unknown |
+| C-1193 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Tyrion unable to locate secret access by sconce or wardrobe tests | Varys controls hidden passage even against acting Hand |
+| C-1194 | [ACOK 54](../Source/Main-Series/02-A-Clash-of-Kings/chapters/54-tyrion.md) | Shae says Lollys pregnant and bedridden after riot | Reported consequence of assault, not separately diagnosed |
+| C-1195 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Rodrik raven via Castle Cerwyn claims severed Bran Rickon heads at Winterfell | Secondhand report, no independent identities verified |
+| C-1196 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Catelyn mourns princes as dead though Theon50 ended before mill outcome | Belief vs narrated fate distinction |
+| C-1197 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Catelyn thinks Arya likely also dead despite Arya47 alive at Harrenhal | Cross-POV knowledge mismatch |
+| C-1198 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Brienne remains with Catelyn as she grieves and plots Jaime interview | Service/oath tested by family disaster |
+| C-1199 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Riverrun revels Edmure Red Fork victories and Robb capturing Crag | Military success contrasts family losses |
+| C-1200 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Catelyn recalls Petyr found her and Lysa lost in Seagard fog | Past personal trust does not validate dagger testimony |
+| C-1201 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Catelyn overrules Edmure's sealed-writ-only order to access Jaime cell | Competing family authority while Hoster lives |
+| C-1202 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Catelyn sends Jaime wine as loose-tongue tactic, he later drinks | Alcohol not magic truth serum |
+| C-1203 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Jaime directly admits paternity of Joffrey and Cersei other children | Firsthand incest confirmation |
+| C-1204 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Jaime directly confesses throwing Bran intending to kill him | Distinct from later catspaw commission |
+| C-1205 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Jaime denies paying later Bran assassin, Catelyn believes | Self-report denial, actual culprit still unknown |
+| C-1206 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Jaime says Cersei kept no secrets and could not have sent assassin unseen | Assertion from lover, not independent innocence evidence |
+| C-1207 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Catelyn repeats Littlefinger story Tyrion won Valyrian dagger wagering on Jaime | Her source attributed, contradiction exposed |
+| C-1208 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Jaime recalls Loras unhorsed him and Tyrion lost bet instead | Corroborates Tyrion and undermines Baelish story |
+| C-1209 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Robert displayed dagger to Jaime at tournament feast | Object custody clue not evidence of who commissioned catspaw |
+| C-1210 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Jaime says he killed Karstark sons en route to killing Robb in battle | Participant military motive, not private vendetta |
+| C-1211 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Jaime lists competing Kingsguard vows to king innocence family laws | Oath-conflict thesis, Bran attempted murder remains |
+| C-1212 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Jaime witnessed Rickard Stark hung over controlled fire in perverted duel | Aerys atrocity primary eyewitness testimony |
+| C-1213 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Jaime witnessed Brandon strapped to Tyroshi strangling trap with sword just out of reach | Mechanism of engineered death from attempted rescue |
+| C-1214 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Gerold Hightower told Jaime to guard king rather than judge after murders | Kingsguard moral and institutional failure |
+| C-1215 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Jaime rejects claim he killed Aerys to avenge the Starks | Actual regicide motive unprovided in this chapter |
+| C-1216 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Jaime taunts Catelyn about Petyr and Jon parentage | Hostile words do not establish Petyr intimacy or Jon mother |
+| C-1217 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Catelyn calls Brienne and demands her sword after Jaime insulting Ned and Jon | Potential turning point, no injury or release actually narrated |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1184,4 +1268,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and twenty-eight first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and thirty-two first-pass chapters listed in the coverage tracker.
