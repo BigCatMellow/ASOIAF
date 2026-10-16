@@ -2986,6 +2986,150 @@
 | C-2918 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Sandor axe strikes back of Arya head | Direct blow, blade side unspecified |
 | C-2919 | [ASOS 52](../Source/Main-Series/03-A-Storm-of-Swords/chapters/52-arya.md) | Arya's survival or death not shown at cliffhanger | Critical unresolved next-chapter test |
 
+| C-2920 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tyrion and Sansa suppers tense, joke about peas produces apologies | Marriage remains emotionally coerced, not consummated |
+| C-2921 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Sansa prays at godswood and sept, rejects Tyrion company | Prayer contents unknown, private agency preserved |
+| C-2922 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tyrell-Dornish Flea Bottom clash kills Tyrell guard, scalds Gargalen men | Actual faction violence after Oberyn arrival |
+| C-2923 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Olenna calls Ellaria an insult in yard, escalating quarrel | Observed social insult, not full court war |
+| C-2924 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Oberyn quarters in separate cornerfort yet tension continues | Diplomatic physical separation only partial |
+| C-2925 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Littlefinger crown ledger includes outstanding Antler Men loans | Loan recovery risk, fraud not yet established |
+| C-2926 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Walder Frey sends raven with twin towers seal, trout and wolf pelts | Coded confirmation of Red Wedding transmitted |
+| C-2927 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tyrion decodes trout as Edmure and wolf pelts as dead Starks | Death corroborated by Catelyn 51; Edmure custody Tywin report |
+| C-2928 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Joffrey demands Robb severed head to torment Sansa | Proposed cruelty, no public head spectacle shown |
+| C-2929 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tyrion refuses Joffrey future abuse of Sansa | Boundaries despite marriage coercion |
+| C-2930 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tywin says Riverrun still held by Brynden Blackfish | Riverlands not yet pacified |
+| C-2931 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Jason Mallister and Tytos Blackwood expected to resist | Tywin estimates, actual surrender unshown |
+| C-2932 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Jonos Bracken can allegedly be induced to change sides | Future political inducement, not yet actual deal |
+| C-2933 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tywin commands Gregor to destroy Brave Companions at Harrenhal | Order only, no captured castle on page |
+| C-2934 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tywin lectures Joffrey submissions must be spared | Practical doctrine contrasts his own guest-right betrayal |
+| C-2935 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Joffrey taunts Tywin for hiding under Casterly Rock | Child's learned insult, no firsthand campaign knowledge |
+| C-2936 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tywin orders Joffrey escorted to bed and dreamwine despite resistance | Hand controls monarch's immediate environment |
+| C-2937 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Cersei recounts Robert knocking out Joffrey baby teeth over cat incident | Actual cruelty report, exact cat act unsaid here |
+| C-2938 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tywin calls Joffrey foolish and considers reform | Present intention not demonstrated reform |
+| C-2939 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tywin compartmentalized Red Wedding planning to necessary actors | Direct admission of foreknowledge and strategy |
+| C-2940 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tywin planned arrow against Robb at Edmure wedding | Advance killing scheme, precise arrow mechanism not final blow |
+| C-2941 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tywin says Walder alone carries guest-right blood | Self-exculpatory responsibility claim |
+| C-2942 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tywin trivializes dinner casualties as dozen despite outdoor massacre | Conflict with Arya 52 external witness |
+| C-2943 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Emmon Frey promised Riverrun upon Blackfish surrender | Dynastic reward contingent |
+| C-2944 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Lancel Daven and Joy pledged marriages into Walder line | Proposed alliances, none shown solemnized |
+| C-2945 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Roose promised Warden of North and supposed Arya for Ramsay | Dynastic bargain, identity unverified |
+| C-2946 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tywin says Northern Bolton claim and Sansa Tyrion child would compete | Deliberate rival claimant model |
+| C-2947 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tyrion knows real Arya lost, questions supposed girl capture | Strong substitution hypothesis not named substitute |
+| C-2948 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tywin reports Jon Arryn peace embassy returned Lewyn bones to Sunspear | Historical diplomacy from interested witness |
+| C-2949 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tywin orders Lorch blamed for Elia Aegon and Rhaenys | Scapegoat statement contradicted by separated crime sites |
+| C-2950 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tywin admits Targaryen children killed to demonstrate Lannister loyalty | Strategic political responsibility explicit |
+| C-2951 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tywin denies ordering Elia death or assault while admitting failure to spare | Accused patron self-defense, not exoneration |
+| C-2952 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tywin says Lorch killed Rhaenys with many dagger thrusts | Reported horrific death, independent evidence desired |
+| C-2953 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tywin says protecting Jaime against Aerys also motivated sack timing | Participant explanation, multiple motives |
+| C-2954 | [ASOS 53](../Source/Main-Series/03-A-Storm-of-Swords/chapters/53-tyrion.md) | Tywin presses unconsummated Sansa marriage after Red Wedding | Sexual coercion still central to Northern claim |
+| C-2955 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Salladhor Saan reports Robb wolf-head corpse and Catelyn thrown river | King's Landing rumor, not firsthand by Saan |
+| C-2956 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Stannis credits Frey human agency rather than leech miracle | Doubt voiced by claimant |
+| C-2957 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Axell Selyse Melisandre interpret deaths as R'hllor intervention | Doctrinal attribution without controlled causal proof |
+| C-2958 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Stannis orders faster ships for pardons to White Harbor Iron Islands | Diplomatic plan, no embassies completed |
+| C-2959 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Melisandre expects future false kings after Robb Balon deaths | Prophetic testimony future interpretation open |
+| C-2960 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Melisandre admits conflating warnings and prophecy in flame visions | Explicit reader error possibility |
+| C-2961 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Stannis now reports thirteen hundred Dragonstone soldiers and three hundred Storm End | Military snapshot, reconciliations later |
+| C-2962 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Stannis lacks coin and fleet beyond Salladhor vessels | Campaign constraint directly stated |
+| C-2963 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Historical failed dragon attempts Aegon III Baelor Aegon IV Aerion | King's recital, dates and motives require corroboration |
+| C-2964 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Selyse demands Edric sacrifice due Robert Delena bedroom affair | Personal shame and dynastic anger stated |
+| C-2965 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Melisandre claims innocent royal blood can wake stone dragon | Ritual promise, execution and result absent |
+| C-2966 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Stannis admits attraction to resurrecting dragons despite revulsion | Present temptation not formal assent |
+| C-2967 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Davos insists Edric's name and Shireen friendship be recognized | Ethical individualization of sacrifice target |
+| C-2968 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Davos notes only Robb and Balon dead from three ritual targets | Two deaths, Joffrey alive at this checkpoint |
+| C-2969 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Davos cites Frey murder and bridge fall as competing mechanisms | Ordinary historical agency not magical disproof |
+| C-2970 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Stannis laughs two is not three in leech evidence challenge | Acknowledges gap in ritual prediction |
+| C-2971 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Stannis worries realm-ending darkness may force sacrifice | Duty logic under pressure, no burning yet |
+| C-2972 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Stannis sees crown of fire burn an unnamed king in flames | His reported vision, king identity unverified |
+| C-2973 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Davos replies one boy worth everything | Strong moral objection with no resolution |
+| C-2974 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Dragonstone carved dragons incorporate rooms chimneys and stairs | Physical obstacle to literal stone dragons awakening |
+| C-2975 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Saan recalls rumored Celtigar kraken horn unacquired | Separate from Horn of Winter, magical function untested |
+| C-2976 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Davos assembles discreet king's men Gower Andrew Estermont Bastard of Nightsong | Political base opposing queen zealotry |
+| C-2977 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Saan notes mutes could make reliable confidential crew | Pirate aside not identity proof of Euron connection |
+| C-2978 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Maester Pylos teaches illiterate Davos while teaching Devan Shireen Edric | Literacy permits strategic information access |
+| C-2979 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Pylos praises blacksmith's son Septon Barth as successful Hand | Historical counter to Davos birth insecurity |
+| C-2980 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Shireen survived greyscale leaving hardened facial scar | Disease sequela, current infectivity unassessed |
+| C-2981 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Edric recounts Robert winning three Summerhall battles | Heroized family history corrected by Pylos |
+| C-2982 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Pylos notes Robert's defeat at Ashford by Tyrell | Battle counterexample to myth |
+| C-2983 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Davos reads Watch letter to five kings with Mormont haunted forest warning | Actual Northern intelligence available on Dragonstone |
+| C-2984 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Pylos delivered Watch message to Alester Florent, who dismissed it | Clerical transfer blockage, Stannis uninformed |
+| C-2985 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Pylos says Stannis and Melisandre never shown Watch plea | Direct testimony, no completed royal response |
+| C-2986 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Davos remembers Cobblecat trade obsidian with free folk and Uhoris execution | Direct childhood experience informs nuanced wildling judgment |
+| C-2987 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Davos fears Edric may play Nissa Nissa sacrifice analogue | Private inference, not planned prophecy fulfillment |
+| C-2988 | [ASOS 54](../Source/Main-Series/03-A-Storm-of-Swords/chapters/54-davos.md) | Davos sets aside Watch letter asking another for lesson | No immediate dispatch or strategy change in chapter |
+| C-2989 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Mole Town burns but three quarters residents flee to Castle Black | Refugee response to Jon warning |
+| C-2990 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Jon fights while infected right thigh requires crutch dreamwine willow | Courage not proof healed body |
+| C-2991 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Aemon invents scarecrow sentinels made from surplus clothing | Defensive visual deception |
+| C-2992 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Six scarecrows share King Tower with Jon Satin Deaf Dick | Headcount visual illusion |
+| C-2993 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Satin frightened Watch recruit from Oldtown brothel | Independent defensive contribution despite fear |
+| C-2994 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Deaf Dick Follard reads lips and uses slower crossbow | Distinct sensory and technical capabilities |
+| C-2995 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Benjen says Watch deliberately defenseless south for political neutrality | Historical rationale, not universal Watch founding charter |
+| C-2996 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Benjen names Runcel Hightower Rodrik Flint rogue commanders | Misuse of command historical warning |
+| C-2997 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Snowgate and Nightfort rival commanders allegedly murdered Lord Commander | Historical Watch civil-war precedent |
+| C-2998 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Noye cedes outer castle buildings to defend gate and stairs | Explicit concentration of defense |
+| C-2999 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Barricade built of grain logs salt meat nails broadcloth stakes | Improvised material fortification |
+| C-3000 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Noye prestages lamp oil pitch lard and leaves under staircase | Preplanned fire trap |
+| C-3001 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Women children Mole Town men support battle and medical operations | Refugee military/social roles |
+| C-3002 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Two Mole Town women man crossbows on staircase | Combat agency not only men |
+| C-3003 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Maester Aemon sends warnings to four kings and fifty lords | Large diplomatic warning network, no instant response |
+| C-3004 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Two birds sent to important northern lordly recipients | Redundant appeal technique |
+| C-3005 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Owen still thinks Robert alive to send help | Distant Watch informational lag |
+| C-3006 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Thenn and non-Thenn shield heraldry differs | Visual tactical group identification |
+| C-3007 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Jon recalls Theon remark about goose fletching while aiming grey feather arrows | Material clues to weapon provenance |
+| C-3008 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Jon wounds wildlings including Big Boil in battle | Individual foes known through infiltration |
+| C-3009 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Deaf Dick shot while aiming from exposed crenel at armory raider | Actual death, shooter attribution unverified |
+| C-3010 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Jon glimpses Ygritte nearby but cannot shoot | Emotional hesitation not verified archer identity |
+| C-3011 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Rast run through and Young Henly killed as barricade breaks | Named Watch casualties |
+| C-3012 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Satin saves Kegs from attacking Thenn with crossbow | Specific successful defense |
+| C-3013 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Thenns invade King's Tower through lower trapdoor | Secondary breach after ground rush |
+| C-3014 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Longclaw penetrates bronze helmet to kill Thenn on trap | Valyrian steel superiority over bronze |
+| C-3015 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Jon and Satin pour hot oil into trap on attackers | Deliberate defensive boiling oil use |
+| C-3016 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Mole Town levy routs and low stairs defenses collapse | Tactical turning point despite sentinels |
+| C-3017 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Noye sounds horn at ninth landing to initiate incendiary plan | Coordinated prearranged contingency |
+| C-3018 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Jon launches fire arrows into casks beneath stairs not at Styr | Attack target is structure and fuel |
+| C-3019 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Upper stairs doused oil ignite trapping sixty or seventy Thenns | Strategic deliberate destruction of access |
+| C-3020 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Fire melts ice and lower third of switchback stair collapses | Physical thermodynamic effect, magic not demonstrated |
+| C-3021 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Styr last seen by gate before collapse | Likely killed, body not recovered in chapter |
+| C-3022 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Jon finds Quort dead Stone Thumbs dying Big Boil wounded alive | Specific wildling aftermath ledger |
+| C-3023 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Ygritte dying from black arrow with white duck feather | Direct death, shooter unknown |
+| C-3024 | [ASOS 55](../Source/Main-Series/03-A-Storm-of-Swords/chapters/55-jon.md) | Jon's black arrows with grey feathers distinguish his shot from hers | Source-level evidence against Jon directly firing fatal arrow |
+| C-3025 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Bran fears undisclosed shared Summer dream means Robb Grey Wind dead | Dream content incomplete, emotional evidence |
+| C-3026 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Nightfort ordinary gate filled rubble sealed with chains removed | Normal passage physically impossible |
+| C-3027 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Jojen green dream insists Nightfort correct destination | Dream claim later validated by other gate |
+| C-3028 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Bran recalls Night King Rat Cook sentinels Danny Flint stories | Detailed oral tradition not necessarily history |
+| C-3029 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Summer in Queenscrown skirmish killed three plus raiders | Bran firsthand wolf view, exact total approximate |
+| C-3030 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Wildling arrow hits Summer hind leg and ejects Bran from wolf | Shared pain and loss of control observed |
+| C-3031 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Meera removes broken arrow and treats Summer herbal juice | Wolf survives and slowly recovers |
+| C-3032 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Three Thenns nearly discover hidden Queenscrown causeway | Physical tunnel turns foil their wading |
+| C-3033 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Bran says Deep Lake Queensgate Icemark sealed like Nightfort | Ordinary gates, hidden passage exception |
+| C-3034 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Meera climbs Nightfort unique ice-cut steps to top of Wall | Physical ascent possible but unsafe for Bran group |
+| C-3035 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Meera sees haunted forest lake eagle beyond Wall | Visual survey, eagle identity unknown |
+| C-3036 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | No safe northern descent from top for Bran Hodor Jojen | Logistics force secret gate search |
+| C-3037 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Nightfort oldest largest formerly costly to maintain | Bran learned historical claim |
+| C-3038 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Alysanne gave jewels and Jaeherys workers to build Deep Lake | Royal sponsorship via remembered education |
+| C-3039 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Bran recounts seventy-nine sentinels entombed in north-facing ice | Old Nan legend, archaeology unverified |
+| C-3040 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Ryswell father reportedly joined watch to stand by punished son | Legend of kin loyalty and duty |
+| C-3041 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Night King thirteenth commander ruled thirteen years with corpse queen | Oral history, not independently verified |
+| C-3042 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Old Nan says Night King a Stark brother of his conqueror | Contested genealogical identity |
+| C-3043 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Night King rumored sacrificed to Others during sorcerous reign | Folklore, no direct relic |
+| C-3044 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Nightfort kitchens faceless weirwood grows beside great well | Observed physical plant, no carved face |
+| C-3045 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Well about twelve feet across with spiral stair below | Physical hidden-access geometry |
+| C-3046 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Hodor dropped stone creates enormous echo and water sound | Startles Bran, no monster identified |
+| C-3047 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Rat Cook condemned by gods for murdering guest under roof | Story explicitly elevates hospitality duty |
+| C-3048 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Bran hears footsteps from well and assumes monstrous intruder | Fearful misidentification corrected by Sam |
+| C-3049 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Bran forcibly enters Hodor while Hodor internally pushes against it | Human skinchanging nonconsent confirmed |
+| C-3050 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Bran experiences walking in Hodor body and reaches for sword | Extended control beyond previous half-heartbeat |
+| C-3051 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Bran exits possession from fear, Hodor shouts in distress | Concrete limit and human suffering |
+| C-3052 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Meera nets Sam and lightly jabs his mail not skin | No wound demonstrated despite Sam alarm |
+| C-3053 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Sam Gilly child emerge alive from shaft beneath Nightfort | Cross-POV reunion and escape confirmed |
+| C-3054 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Gilly identifies elk rider as Coldhands nickname not birth identity | Mystery name now attested, origin unknown |
+| C-3055 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Coldhands sent Sam specifically for a different person | Chosen Bran inference supported by Jojen |
+| C-3056 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Coldhands supposedly cannot pass Wall due old strong spells | Reported magical exclusion, scope untested |
+| C-3057 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Sam knows Bran is alive, promises secrecy to protect him | Future Jon succession information channel |
+| C-3058 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Bran tells Sam Jon escaped Queenscrown on horse | Cross-POV transmission, not reunion |
+| C-3059 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Gilly stays at kitchen fire while Sam accompanies Bran below | Temporary parting, return promised |
+| C-3060 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Black Gate is white weirwood with old speaking face | Physical supernatural doorway directly seen |
+| C-3061 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Gate asks sworn identity and opens to Sam reciting Watch vow | Direct access control by Watch oath |
+| C-3062 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Door drops warm salty tear on Bran's forehead | Observed physical oddity, meaning unknown |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -2993,4 +3137,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and ninety-eight first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and two first-pass chapters listed in the coverage tracker.
