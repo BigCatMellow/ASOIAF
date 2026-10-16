@@ -137,6 +137,8 @@ No **field contact, battle, deliberate decoy, Frey defeat, Manderly defection, o
 
 **Prioritization:** The `DUSKENDALE PUBLIC ACCOUNTABILITY CONTRADICTION` is the strongest single piece of Roose-specific evidence. The `TRIDENT DIFFERENTIAL LOSSES` is suggestive but filtered through Roose. The `GREEN FORK ROBB-DECIDED DIVERSION` is a major falsifier of easy treason claims. `WINTERFELL RESULT` remains outside published observation.
 
+**Harrenhal prisoner-to-command refinement (2026-10-16):** [Northern captives at Harrenhal](harrenhal-captive-command-reintegration-audit.md) connects Arya's ACOK 30 **three-dozen highborn Green Fork prisoners** and the **separate Hoat/Glover/Aenys prisoner convoy** of ACOK 47 to **Roose's explicit ASOS 37 account** of finding Harrion Karstark captive when he took Harrenhal and reassigning the remaining Karhold force to him before Duskendale. This supplies a **named** custody-to-command pathway for **Harrion**, not an equivalently documented first release for **Wylis** (initially said to belong to Tywin personally). It strengthens Roose's control over the disposition of some rival-house forces, but does not establish he intended their destruction; retain a distinct command-versus-intent threshold.
+
 ## 7. Practical consequences for the speculative continuation
 
 - A cautious northern lord who knows **Robb's war strategy** may remember Green Fork as a costly authorized diversion, not a uniquely Bolton choice; others may have independently observed dangerous postbattle casualty distributions. **No authenticated roster yet joins these views**.
