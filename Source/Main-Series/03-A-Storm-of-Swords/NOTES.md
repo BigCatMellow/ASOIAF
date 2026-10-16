@@ -60,7 +60,7 @@ Cross-book source owners: [Arya](../../../research/characters/arya-stark.md), [B
 
 ## Sequential chapter reading (new pass, 2026-10-15)
 
-[Prologue / Chett](chapters/00-prologue.md) plus [1 Jaime](chapters/01-jaime.md), [2 Catelyn](chapters/02-catelyn.md) and [3 Arya](chapters/03-arya.md) and [4 Tyrion](chapters/04-tyrion.md) now have first-pass source-grounded notes. See [coverage](../CLOSE-READING-STATUS.md). **77 ASOS narrative units remain**, next `ASOS 5 (Davos)`. Existing focused theory checks are not counted as completed sequential chapters.
+[Prologue / Chett](chapters/00-prologue.md) plus [1 Jaime](chapters/01-jaime.md), [2 Catelyn](chapters/02-catelyn.md) and [3 Arya](chapters/03-arya.md) and [4 Tyrion](chapters/04-tyrion.md), [5 Davos](chapters/05-davos.md), [6 Sansa](chapters/06-sansa.md) and [7 Jon](chapters/07-jon.md) now have first-pass source-grounded notes. See [coverage](../CLOSE-READING-STATUS.md). **74 ASOS narrative units remain**, next `ASOS 8 (Daenerys)`. Existing focused theory checks are not counted as completed sequential chapters.
 
 ## Robb's will: council attendance vs document custody (focused source check, 2026-10-15)
 
@@ -77,3 +77,9 @@ Canonical location/status assessment: [witness ledger](../../../research/continu
 - [3 Arya](chapters/03-arya.md): escape companions move north but navigation and named river identification are uncertain; Arya refuses to abandon Gendry/Hot Pie, recognizes need for rest, and dreams of commanding a wolf pack that kills apparent pursuing Bloody Mummers including belled Iggo. Their real-world deaths **remain unverified** at this chapter endpoint.
 
 - [4 Tyrion](chapters/04-tyrion.md): Alayaya publicly whipped and released, Cersei's agents recover Tommen, Bywater killed during desertions, Marbrand now commands 4,400 gold cloaks; Saan's Lyseni evacuate troops while 'Renly's ghost' remains secondhand. Tywin reveals pincer against Tallhart/Glover at Duskendale, names wedding day, confirms Myrcella in Dorne and rejects Tyrion's rightful-heir claim to Casterly Rock, threatening the next woman found in his bed.
+
+## ASOS 5–7 sequential close reading (2026-10-16)
+
+- [5 Davos](chapters/05-davos.md): survived by swimming beneath the raised Blackwater chain before blackout and waking on a barren bay rock. Starvation, fever, thirst and lost fingerbones lead to near despair, a prayer to the Mother and guilt over Melisandre's earlier religious acts. He signals a Lyseni galley that says it serves Stannis; his sons' individual fates and Stannis's personal location remain unverified.
+- [6 Sansa](chapters/06-sansa.md): Margaery and Olenna invite Sansa; Loras acknowledges killing Robar Royce and assesses Garlan as the better sword. Olenna has Butterbumps loudly sing to block spies while Sansa truthfully describes Joffrey's abuse; the Tyrell wedding remains planned, and Olenna proposes Sansa marry **Willas Tyrell**, heir to Highgarden, potentially acquiring a Stark/Northern claim. No marriage or safe departure has occurred.
+- [7 Jon](chapters/07-jon.md): Jon enters Mance's huge **civilian-and-military** Milkwater camp under Qhorin's espionage order. Mance is the lute player, not Styr or Tormund, tells of secretly attending Robert's Winterfell feast and his desertion over a wildling healer's red-silk repair to his black cloak; Mance invokes guest right. Jon employs real bastard-status exclusion as a cover story while the **Milkwater diggings' object** remains unanswered.

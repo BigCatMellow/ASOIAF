@@ -1636,6 +1636,70 @@
 | C-1583 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Tywin refuses Tyrion the Rock and blames him for Joanna death | Hateful subjective rejection, not proof alternate paternity |
 | C-1584 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Tywin threatens to hang any future sex worker found in Tyrion bed | Concrete risk to Shae, whom he does not name |
 
+| C-1585 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Davos survives underwater Blackwater chain escape and wakes on barren merling king rock | Detailed diving plausible, unconscious transition unexplained |
+| C-1586 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Seamounts known as spears of merling king have submerged hazards | Normal sailing routes avoid rock where Davos stranded |
+| C-1587 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Thirst fever diarrhea salt spray and tiny crabs nearly kill Davos | Physical survival, no miraculous immunity |
+| C-1588 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Chance squall refills rainwater hollows as Davos nearly drinks seawater | Natural life extension; divine intervention unproved |
+| C-1589 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Dale Wraith, Allard Lady Marya, Maric Fury, Matthos Black Betha | Exposure confirmed, individual deaths not seen |
+| C-1590 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Davos fears Devan dead too while remembering older sons | Fear, Devan whereabouts unknown |
+| C-1591 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Davos dives under burning ships and chain without heavy armor | Actual survival strategy before blackout |
+| C-1592 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Davos loses his pouch holding four bones of shortened fingertips | Physical loss, loss of magic luck is his interpretation |
+| C-1593 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Davos hears or imagines Mother accusing him of burning Seven gods | Wind/wave/fever alternatives explicit |
+| C-1594 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Davos recounts Melisandre burning Seven at Dragonstone | Retrospective testimony, distinct from wildfire defense |
+| C-1595 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Davos remembers witnessing Storm End heart-tree burning | Religion and old gods intertwined in Stannis circle |
+| C-1596 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Davos accuses Melisandre of burning his sons at Blackwater | His theological conclusion; wildfire hulk materially causes disaster |
+| C-1597 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Davos recognizes his own complicity in rowing Melisandre to shadow birth | Moral shift grounded in earlier ACOK42 action |
+| C-1598 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Davos changes mind on death, climbs fifteen foot rock to hail passing ship | Observed agency choice after despair |
+| C-1599 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Striped hull and bronze figurehead identify probable Salladhor Saan galley | Davos illiterate, ship name unreadable |
+| C-1600 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Galley launches boat of four rowers and fifth speaker for Davos | Concrete rescue, not yet aboard |
+| C-1601 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Davos openly declares Stannis allegiance, crew replies they serve him | Crew service affirmed, Stannis location not proved |
+| C-1602 | [ASOS 5](../Source/Main-Series/03-A-Storm-of-Swords/chapters/05-davos.md) | Davos remembers wife and surviving sons when deciding to live | Family grief partial, duty survives |
+| C-1603 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Margaery arrives at Kings Landing popular to crowds with green flower cloak | Public welcome contrasts Sansa riot |
+| C-1604 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Sansa keeps Sandor stained white cloak in cedar chest under summer silks | Physical token continuity, kiss not narrated |
+| C-1605 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Sansa remembers Loras red rose as unique while he cannot remember it | Contradiction between interpretation and donor recollection |
+| C-1606 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Loras says he slew Robar Royce after Renly death | Participant admission, Robar guilt not proved |
+| C-1607 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Garlan spars with three to four men to prepare for battle | Observed martial method; Loras calls him superior swordsman |
+| C-1608 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Olenna guarded by matching Erryk Arryk called Left and Right | Identifiable private security, not false identity evidence |
+| C-1609 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Margaery entourage contains Megga Alla Elinor Bulwer Graceford Janna Leonette | Known female network around future queen |
+| C-1610 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Olenna acknowledges Tyrell family origins as Highgarden stewards | Her critique of legitimacy, rival Florents not proven superior |
+| C-1611 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Olenna says she warned Mace against Renly kingship given elder rivals | Retrospective political prudence claim |
+| C-1612 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Olenna says Varys supplied Sansa lemon cake preference | Court intelligence shared with Tyrells |
+| C-1613 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Olenna asks Sansa directly whether Joffrey is gentle and kind | Private risk inquiry, no poisoning plan yet |
+| C-1614 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Olenna invokes attractive Aerion Brightfire as example of cruel royal | Historical comparison not proof Joffrey identical |
+| C-1615 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Sansa initially lies praising Joffrey's beauty because she fears informers | Information coercion evident |
+| C-1616 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Olenna makes Butterbumps loudly sing Bear Maiden Fair to drown out surveillance | Deliberate acoustic countermeasure |
+| C-1617 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Sansa testifies Joffrey falsely blamed Mycah, caused Lady death, beheaded Ned and beat her | Abuse ground truth corroborated by earlier POV |
+| C-1618 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Olenna and Margaery exchange look after Joffrey cruelty exposed | Knowledge of danger acquired, response not yet revealed |
+| C-1619 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Olenna says Mace will proceed with Margaery wedding despite warnings | Alliance goal continues, no cancellation |
+| C-1620 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Margaery invites Sansa to Highgarden while Olenna says Reach can pressure queen | Proposed protective departure, not granted |
+| C-1621 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Olenna proposes Sansa wed Willas Tyrell heir Highgarden | Marriage plan, no signed contract or journey |
+| C-1622 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Sansa assumes Loras proposed then learns Kingsguard cannot marry | Romantic misapprehension; succession rules relevant |
+| C-1623 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Willas has injured leg from tourney horse fall; Olenna blames Oberyn Martell | Family report, deliberate harm unproven |
+| C-1624 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Sansa accepts potential Willas match despite never meeting him | Tentative personal agreement, no marriage executed |
+| C-1625 | [ASOS 6](../Source/Main-Series/03-A-Storm-of-Swords/chapters/06-sansa.md) | Tyrell marriage to Stark heir could create northern territorial influence | Reasonable political inference, no Olenna admission of conquest |
+| C-1626 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Blue grey eagle still circles as Jon escorted by Rattleshirt to Mance | Continuity with potential dead skinchanger, operator unknown |
+| C-1627 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Qhorin garments distributed across wildlings and Ebben severed head carried | Physical spoils confirm losses |
+| C-1628 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Ghost wounds attacking wildling hound, pack keeps distance | Wolf and dog hierarchy, not supernatural proof |
+| C-1629 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Ygritte says free folk can leave freely but others can kill them | Norm of freedom includes personal violence |
+| C-1630 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Jon explicitly intends to report back to Wall under Qhorin instruction | Internal oath loyalty despite public defection |
+| C-1631 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Weeper commands eight mounted outriders and carries curved scythe | Named factional raider and surveillance |
+| C-1632 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Milkwater camp contains babies children women goats sheep carts and tents | Mass civilian migration alongside war effort |
+| C-1633 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Wildling host has few shared trenches palisades or central order | Jon's observed vulnerability, outcome not proved |
+| C-1634 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Mance tent of white snow bear pelts topped giant elk antlers | Leader prestige and concrete rare animals |
+| C-1635 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Jon mistakes earless Styr Magnar of Thenn for Mance | Authority and appearance contrasted by reveal |
+| C-1636 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Mance turns out to be lute player in patched black and red cloak | Singer persona confounds king expectations |
+| C-1637 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Tormund boasts title Horn blower among many other comic titles | Not proof he has supernatural horn |
+| C-1638 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Dalla pregnant, Val her sister and Jarl young companion identified | Future family/political stakes, no custody decisions |
+| C-1639 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Mance personally knew Jon as child at Qorgyle escort Winterfell | Participant recollection, Jon remembers snow prank |
+| C-1640 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Mance claims infiltrated Robert Winterfell feast with lute bag silver as unknown singer | Self-report, human crossing plausible, no corroborating direct POV |
+| C-1641 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Mance says Bael story inspired his stealth visit to Winterfell | Explicit connection to Bael, entire legend not verified |
+| C-1642 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Mance invokes guest right from Ned feast and temporary Jon safety | Custom recognized, not unconditional immunity from entire camp |
+| C-1643 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Mance already knows Craster informed Watch of wildling host, tests Jon | Interrogator tests true/false answers |
+| C-1644 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Mance says shadowcat cut his old black cloak, wildling healer sewed red silk from Asshai | Visible patch, old story and provenance not independently checked |
+| C-1645 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Mance says Denys Mallister insisted unpatched Watch black and so he deserted | Attributed institutional grievance, not necessarily complete motive |
+| C-1646 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Jon offers bastardy humiliation at Robert banquet as plausible reason to defect | Real social exclusion vs false true motive |
+| C-1647 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Mance extends hand as Jon makes story of joining, digs mystery remains | Provisional acceptance not completion of Qhorin mission |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1643,4 +1707,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and fifty first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and fifty-three first-pass chapters listed in the coverage tracker.
