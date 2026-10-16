@@ -46,6 +46,10 @@ That is a **directly source-supported concealment or material omission of Roose'
 
 **Counterargument:** Roose could have given an initially rational raiding instruction and later blamed Glover for tactical failures not spelled out to Robb in this short conversation; some disaster may have resulted from execution rather than the objective. But Robb's shocked *why* question and Roose's earlier specific **eastward destination** make this exculpation harder to maintain without additional facts. The plan's intent to *thin northern forces* still lacks an explicit authorial window or proof of secret coordination with Tarly.
 
+### Countertest of the supposed Duskendale intelligence leak
+
+The [Duskendale tactical-information provenance study](duskendale-tywin-field-intelligence-reconnaissance-provenance-audit.md) finds an independent pre-defeat **war-news conversation** in **ASOS 4 (Tyrion)**: Bronn already describes the northmen burning toward Duskendale and Tarly moving to intercept, before Tywin identifies Tallhart/Glover and Gregor's closing route. **AGOT 62 (Tyrion)** establishes Tywin's use of **Addam Marbrand's outriders** for positional reports at the earlier Green Fork; **Varys** reports the Duskendale defeat at court in **ASOS 19**, without a specified messenger. Roose's order and later Glover blame remain observed, but **an inside leak is not needed to explain Tywin's awareness of a conspicuous marching army**. Conversely, **ASOS 53** establishes Tywin's secret Frey diplomacy in the *separate Red Wedding case*, making concealment feasible without dating any Roose pact at Duskendale. **Tothmure's last birds from Harrenhal are specifically sent the night the castle falls (ACOK 64), before the later Duskendale dictation**. No named Roose/Qyburn spy route or enemy interception is shown. `AUTHORSHIP/MISATTRIBUTION SUPPORTED / PRIOR ENEMY KNOWLEDGE SUPPORTED / LEAK AND PURPOSEFUL SACRIFICE UNPROVEN`.
+
 ## 2. ADWD 32: Roose tells Ramsay what keeps him in power
 
 **Direct secret conversation, ADWD 32 (Reek):**
