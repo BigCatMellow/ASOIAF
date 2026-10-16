@@ -1135,6 +1135,27 @@
 | C-1093 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Varys Antler Men list claims traders will open Old Gate for Stannis | Planned insider betrayal, not executed action |
 | C-1094 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Tyrion orders arrest of Salloreon armorer named among Antler Men | Response is ordered, arrest result still unknown |
 
+| C-1095 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Theon wakes in Ned's former bedroom and notes direwolves no longer howl | Anomalous silence alerts occupier to escape |
+| C-1096 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Wex finds Bran Rickon rooms empty and Urzen reports wolves absent | Direct confirmation hostages and direwolves have fled |
+| C-1097 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Theon acknowledges Septon Chayle thrown into well as Drowned God offering | Final named sea-dream death now confirmed alongside Mikken Alebelly |
+| C-1098 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Drennan rapist guard found dead undressed with throat cut and two wine cups | Woman distraction/knife killing inferred not witnessed |
+| C-1099 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Squint guard disemboweled in moat consistent with direwolf assault | Physical escape mechanism, exact attack unwitnessed |
+| C-1100 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Theon cannot man eighty-foot outer wall and hundred-foot inner wall | Winterfell defense undone by too few loyal troops |
+| C-1101 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Six people missing: Bran Rickon Reeds Hodor Osha, no horses absent | True whereabouts uncertain despite flight from castle |
+| C-1102 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Theon threatens households he knows while assuming they should thank him | Legitimacy failure after punitive occupation |
+| C-1103 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Reek advises flaying to expose secrets, Theon refuses publicly | Bolton coercion lore and competing fear performance |
+| C-1104 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Theon coerces Farlen to hunt by implicit threat toward Palla | Weaponized hostage leverage |
+| C-1105 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Theon leads eleven men two boys dozen dogs north-northwest into wolfswood | Specific search commitment and observed initial tracks |
+| C-1106 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Direwolves have killed elk but no meat was butchered by travelers | Physical discrepancy in supposedly shared trail |
+| C-1107 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Wex heel demonstrates human Hodor footprints missing where wolves entered muddy stream | Strong evidence deliberate separation of wolves and humans |
+| C-1108 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Water destroys animal spoor and Theon search fails through dusk | Tracking uncertainty not proof supernatural concealment |
+| C-1109 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Walder offers stereotyped tales of marsh-dwelling crannogmen magic | Unreliable folklore rather than eyewitness |
+| C-1110 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Luwin recounts children of forest greenseers hammer of waters legend | Historical possibility not tested supernatural assistance |
+| C-1111 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Theon acknowledges escaped Starks can rally northern lords for protection | Political stakes of living heirs vs occupying claim |
+| C-1112 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Reek proposes mill on Acorn Water as hiding place | Self-interested unverified location clue |
+| C-1113 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Reek reveals silver and jet wolf head brooch matching Bran's clasp in ACOK46 | Distinct physical item custody without proven source or owner location |
+| C-1114 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Theon dismisses most hunters and rejects prior mercy promise | High-risk decision with actual victims and outcomes yet unshown |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1142,4 +1163,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and twenty-six first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and twenty-seven first-pass chapters listed in the coverage tracker.
