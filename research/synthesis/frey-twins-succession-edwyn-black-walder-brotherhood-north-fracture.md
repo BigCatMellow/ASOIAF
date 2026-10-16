@@ -1,0 +1,114 @@
+# The Twins after the Red Wedding — inheritance, Edwyn versus Black Walder, outlaw killings, and the separate northern Frey fracture
+
+- Record role: `RESEARCH / FREY DYNASTIC SUCCESSION / MURDERS AND ACCUSATIONS / RIVERLANDS–WINTERFELL CONSEQUENCE GATES`
+- Status: `FIVE-NOVEL PRIMARY SOURCE VERIFIED / FREY SUCCESSION CONTEST ALREADY ACTIVE / OUTLAW HANGINGS REPORTED / NORTH FIGHT OBSERVED / KILLER IDENTITIES NOT INFERRED FROM GUILT`
+- Lifecycle: `ACTIVE`; authority: `ADVISORY / NONE`; independent countercheck open.
+- Source: the owner's five-book EPUB (SHA-256 `cf12ce6d586a9b2717b6cefe373515d454f805b9b6193cde544c8abf028e61b8`), checked against repository text on 2026-10-16. Relevant narrative: **ACOK 4 and 16 (Bran); ASOS 49 and 51 (Catelyn), ASOS Epilogue (Merrett); AFFC 33, 38 and 44 (Jaime); ADWD 32 (Reek), ADWD 51 (Theon)**; ASOS/AFFC house appendices as `PARATEXT` solely for genealogical relationships. No future sample or television endings admitted; no extended source text reproduced.
+- Epistemic labels: `POV-OBSERVED` (act or utterance depicted), `INTERNAL MEMORY` (character thinks of prior event), `CHARACTER CLAIM` (report/accusation), `PARATEXT` (series genealogical appendix), `INFERRED`, `THEORY`, `UNKNOWN`. Reports of killings are **not** identified murderers. House membership is **not** proof of participation at a crime.
+- Owner boundary: this file owns **the Frey inheritance order, individual ambitions, lineage links and post-massacre succession violence**. [Frey Red Wedding roles](frey-red-wedding-participation-absence-knowledge-and-witness-ledger.md) owns culpability for the massacre and who stayed away; [Bolton–Frey–Tywin collusion](bolton-frey-tywin-collusion-first-contact-chronology.md) owns when the secret pact was formed; [Frey–Manderly sortie](frey-manderly-sortie-command-fracture.md) owns the Winterfell gate orders and the unshown Battle of Ice; [Frey Pies](../theories/cases/frey-pies.md) owns Wyman's alleged earlier food conspiracy; [information handoffs](information-handoffs.md) owns who actually receives warning of family deaths or claims.
+
+## Executive result: the Freys are already fighting over Walder's succession before Walder dies
+
+**[ASOS Epilogue (Merrett)](../../Source/Main-Series/03-A-Storm-of-Swords/text/082-epilogue.md):** Merrett's own thoughts explicitly name his dynastic anxiety, **Stevron's prior preparation as heir**, **Ryman as the next heir**, then **Ryman's sons Edwyn and Black Walder**. He is frightened of losing even his dependent access to the Twins when Lord Walder eventually dies. Crucially Merrett recalls **Lame Lothar joking that Edwyn and Black Walder hate one another**, while Merrett judges **Lothar himself potentially more dangerous** than either. Thus the family fracture is already documented inside an insider's mind, not created by retrospective theory.
+
+**[AFFC 44 (Jaime)](../../Source/Main-Series/04-A-Feast-for-Crows/text/045-jaime.md):** At Riverrun **Walder Rivers reports Ser Ryman Frey hanged with his escort** by Riverlands outlaws; **Edwyn accuses Black Walder** of exposing his father's travel route to them. Rivers says **there is no evidence** and observes Black Walder was at **Seagard**. Edwyn invokes possible **spies in the siege camp**; Jaime privately recognizes mutual espionage and hatred and dismisses their feud as a distraction from Riverrun's surrender. `RYMAN DEATH REPORTED / EDWYN'S BLACK-WALDER ALLEGATION DISPUTED / PLOT NOT CERTIFIED`.
+
+**[ADWD 51 (Theon)](../../Source/Main-Series/05-A-Dance-with-Dragons/text/052-theon.md):** Another Frey family death—**Little Walder**, whose father **Merrett** died at Oldstones—immediately causes a **Frey–Manderly public confrontation**. Big Walder, a *different* branch's boy, appears with blood on his clothes and says he found the body near a ruined keep; **the actual murder is not witnessed**. Ser Hosteen accuses Manderly; Manderly insults the dead boy; Hosteen wounds him; men on both sides die. This is **not proof that Manderly, Big Walder, Ramsay, or Abel's women killed the boy**.
+
+**Working implication:** There are at least **two separate active Frey destabilizations**: a succession competition **near Riverrun/Twins/Seagard**, and a blood feud fed by a child murder **inside Bolton-held Winterfell**. These are linked by the family tree and hatred, *not* yet by a verified messenger, coordinated plan, or shared killer.
+
+## 1. Succession sequence — avoid eliding descendants, female claimants and legitimization
+
+```text
+Lord Walder Frey — Lord of the Crossing (alive in the five-book baseline)
+  |
+  +-- eldest son Ser Stevron — former prepared heir (died after Oxcross)
+        |
+        +-- Ser Ryman — senior grandson, treated as heir (hanged by outlaws, reported AFFC 44)
+              |
+              +-- Edwyn — Ryman's elder surviving son
+              |    +-- Walda (Edwyn's daughter; appendices)
+              |
+              +-- Black Walder — younger brother, political challenger
+              |
+              +-- Petyr "Pimple" — younger son (killed at Oldstones, ASOS Epilogue)
+                   +-- Perra (Petyr's daughter; appendices)
+```
+
+- **Narrative priority**: `ASOS Epilogue (Merrett)` expressly says **Ryman stood to inherit after Stevron**, and then turns to **Edwyn and Black Walder**, who hate each other. `AFFC 44 (Jaime)` has **Edwyn** say his father's death leaves **only Edwyn between Black Walder and the Twins**. Jaime considers the brothers competing heirs to their great-grandfather Lord Walder. **No on-page adjudication, investiture, succession suit, sealed testament or actual inheritance follows** in the five books.
+- **Genealogical complication**: the [ASOS House Frey appendix](../../Source/Main-Series/03-A-Storm-of-Swords/text/999-back-matter.md) and [AFFC House Frey appendix](../../Source/Main-Series/04-A-Feast-for-Crows/text/999-back-matter.md) list **Edwyn's daughter Walda** and **Petyr Pimple's daughter Perra**. Female descendants exist inside this senior line. The narrative's men speak as if **Edwyn → Black Walder** is the live practical political contest, but **it does not definitively decide** whether daughters could precede uncles under a disputed Westerosi inheritance custom, whom the lords would actually recognize, or whether the crown would intervene. Do **not** erase Walda/Perra from a legal study just because hostile men do.
+- **Bastard Walder ≠ Black Walder**: **Walder Rivers** is Lord Walder's acknowledged bastard and an operational actor at the Red Wedding and Riverrun siege. In **ACOK 4 (Bran)**, *Big Walder* says a bastard called Walder Rivers is not in the succession; do not promote Walder Rivers into an ordinary lawful heir without **legitimation or special settlement**. He is likewise **not** the Black Walder whom Edwyn blames for Ryman's death.
+- **Lame Lothar's power ≠ senior inheritance rank**: the appendix makes **Lothar** a **younger son by Walder's fourth wife**, not part of the Stevron–Ryman senior line. **ASOS Epilogue** attributes the Red Wedding's logistical design to Lothar and Roose; the scope of his administrative influence could outrun his inheritance priority. **There is no on-page Lothar coup or lawful designation as next lord.**
+
+**The anchor error to avoid:** Treating the brothers as a two-person legal ballot. The **senior line includes living daughters**; powerful junior Freys, royal overlords, and castle-control realities may intervene. Conversely, reconstructing an exact automatic queen-style succession from general feudal custom would exceed the series' observed Frey decisions.
+
+## 2. Oldstones to Fairmarket to Riverrun: who really died, and who only accuses?
+
+| Locator and episode | Direct evidence | What cannot be promoted to fact |
+| --- | --- | --- |
+| [ASOS Epilogue (Merrett)](../../Source/Main-Series/03-A-Storm-of-Swords/text/082-epilogue.md) | **Petyr Pimple** is dead at Oldstones when Merrett arrives to pay his ransom. Merrett is questioned and then hanged before **Lady Stoneheart** and Brotherhood members. Both belonged to the **Ryman branch and Merrett's close family**, respectively. | No proof every member of the Ryman line was attacked for *succession* rather than being a Red Wedding target; no later living Merrett testimony can be invented. |
+| [AFFC 38 (Jaime)](../../Source/Main-Series/04-A-Feast-for-Crows/text/039-jaime.md) | Ryman uses the captive **Edmure Tully** on Riverrun's gallows in a threatening theatrical display; Jaime judges the strategy counterproductive. Jaime tells him to leave command / return to the Twins. | Proof Ryman was already being targeted by Black Walder or tracked by a specific Brotherhood informer. Jaime's dismissive impression of Ryman is not evidence of an assassin's identity. |
+| [AFFC 44 (Jaime)](../../Source/Main-Series/04-A-Feast-for-Crows/text/045-jaime.md) | **Walder Rivers reports** Ryman and **three knights plus a dozen men-at-arms** killed while returning toward the Twins **two leagues south of Fairmarket**; Rivers says the outlaws hanged them. Jaime wonders if it was Dondarrion, Thoros or Stoneheart. | **Exact killers not witnessed.** A label such as “Stoneheart personally hanged Ryman” upgrades the report beyond evidence. |
+| AFFC 44, Edwyn response | Edwyn says Black Walder **must have** warned the outlaws, cites prior Petyr/Merrett deaths, and suggests spies in Riverrun's camp. **Walder Rivers directly challenges the proof and cites Black Walder's presence at Seagard.** | Alleged fratricidal involvement, actual informer, contact route, timing and motive all **UNKNOWN**. Seagard could permit remote contact but does not prove it. |
+| AFFC 44, Jaime POV | Jaime sees **Edwyn's unconvincing grief**, privately recognizes **mutual espionage** and resentment between brothers; attends to practical demands for the Red Wedding captives. | Jaime's private estimation of who has spies is an **interpretation**, not intercepted messages or proof Black Walder cooperates with Brotherhood. |
+| [AFFC 33 (Jaime)](../../Source/Main-Series/04-A-Feast-for-Crows/text/034-jaime.md) | Daven Lannister openly disparages **Ryman and Edwyn** and **Walder Rivers** as allies, though Daven thinks **Perwyn** relatively decent. He reports Freys withholding food/fodder in siege camp. | Personal hostility by a Lannister commander is not permission to assume Lannisters plotted Ryman's death or endorsed Edwyn's accession. |
+
+### Two rival explanations for Ryman's death
+
+**A. Outlaw retaliation alone (`PLAUSIBLE`):** Freys and their escorts travel through a region where the Brotherhood is hunting Red Wedding perpetrators. His small escort is easier to overwhelm, with no need for a Black Walder informer. Merrett and Petyr have already been killed by Stoneheart's faction. **A witness to the exact Fairmarket ambush is missing.**
+
+**B. Family informer + outlaws (`PLAUSIBLE`):** Edwyn's accusation has a coherent *beneficiary*: after Ryman dies, Black Walder moves closer to power if Edwyn can also be removed. A precise warning could explain the timing and small escort. **But no witness of a warning, message, payment, or Black Walder contact with outlaws appears; Edwyn speaks out of recognized animosity.**
+
+A third possibility is **another Frey rival or local informant**, or the outlaws identifying the party themselves. A false binary between “Black Walder sent a spy” and “pure chance” is unjustified. **No decisive model chosen.**
+
+## 3. The younger Walders: kinship, competing inheritance claims and the Winterfell trigger
+
+**[ACOK 4 (Bran)](../../Source/Main-Series/02-A-Clash-of-Kings/text/005-bran.md)** is unusually explicit: the cousins play a **lord of the crossing** game and argue about succession. **Big Walder** says he is **Jammos Frey's son, from Walder's fourth wife's line**; **Little Walder** is **Merrett Frey's son, from Walder's third wife's line**. Big says that Little is **ahead of him in the succession despite Big being 52 days older**, because the older paternal branch comes first; Big nonetheless announces that **he will one day hold the Twins**. The statement establishes **childhood dynastic ambition**, not a future murder plan or actual eventual lordship.
+
+**[ACOK 16 (Bran)](../../Source/Main-Series/02-A-Clash-of-Kings/text/017-bran.md)** gives a visual genealogical cross-check: Little's shield quarters **Crakehall and Darry** (grandmother and mother), whereas Big quarters **Blackwood and Paege**. These distinctive maternal branches reinforce that they are **cousins, not brothers**. The [AFFC House Frey appendix](../../Source/Main-Series/04-A-Feast-for-Crows/text/999-back-matter.md) independently lists **Merrett as Fat Walda's and Little Walder's father**, making **Little Walder the brother of Roose Bolton's wife**, while **Jammos is a full brother of Lame Lothar** under the fourth wife Alyssa Blackwood. Big is therefore **Lothar's nephew**. None of these kinships proves a shared murder plan.
+
+**[ADWD 32 (Reek)](../../Source/Main-Series/05-A-Dance-with-Dragons/text/033-reek.md)** distinguishes the boys at the Dreadfort: **Little Walder** has become **Ramsay's eager young companion in cruelty**, while **Big Walder** is less comfortable with it. Big tells Theon of a villager killed after addressing Ramsay as a bastard. `THEON POV ASSESSMENT / DIRECT BOY SPEECH`, not proof Big is necessarily gentle or incapable of killing.
+
+**[ADWD 51 (Theon)](../../Source/Main-Series/05-A-Dance-with-Dragons/text/052-theon.md)**:
+1. **Ser Hosteen Frey carries Little Walder's corpse into Winterfell's great hall**, accusing an enemy of killing his nephew. **Big Walder**, with **blood on his chest, arms, cloak and gloves**, says he found Little's body under a ruined keep with old gargoyles. This is `POV-OBSERVED BLOOD AND CHARACTER LOCATION CLAIM`. Blood can come from *finding, moving or trying to help a corpse*; it is a clue demanding explanation, **not proof he killed him**.
+2. **Big says Little went out alone to collect a dice debt** and that White Harbor men had taught the game. This is **Big's uncorroborated account**; Theon does not independently witness the supposed gambling opponent or the trip.
+3. **Hosteen specifically accuses Wyman Manderly of ordering the murder**, and **Wyman taunts him** with Frey hatred instead of confessing. Hosteen strikes Wyman's face/neck with his sword; a deadly hall brawl follows: **six White Harbor men, two Freys and Ramsay's man Luton** die, and others are wounded. The **attacks are shown**; the underlying accusation is not validated.
+4. **Theon speculates** that Abel's six women could have done it; **Rowan directly denies their responsibility**. That is `THEON CONJECTURE VERSUS CHARACTER DENIAL`. The novel does not supply another verified killer; treating the singers' party as responsible would be invention.
+5. **Roose Bolton orders peace and later dispatches competing Frey and Manderly forces out against Stannis** (later in **ADWD 51**). This is a **documented political/military consequence** of the internecine brawl, while the later battle outcome remains **unshown** in the five books. See [sortie command dossier](frey-manderly-sortie-command-fracture.md).
+
+### Can Big Walder's childhood boast explain the murder?
+
+The combination of `ACOK 4` **inheritance awareness + Big's ambition**, `ADWD 32` **different moral dispositions**, and `ADWD 51` **Big finding his cousin bloody and providing an incomplete dice story** supports a **serious THEORY that Big Walder killed Little Walder**. It is stronger than a completely invented suspect because it has **motive opportunity and a possible immediate benefit**: Little occupied a senior paternal branch relative to Big.
+
+**But the countercase is substantial:** Big is only a young child, his small advance in a very long line is modest and distant, Theon does not see the killing, Big gives a report rather than confessing, and many hostile armed adults and factions occupy Winterfell. Little's growing cruelty under Ramsay also creates enemies outside the line of succession. A **Manderly assassin, Ramsay subordinate, other Bolton/Frey actor or a failed debt dispute** remain possibilities. The episode needs a *body-location witness, credible last-sighting, blood explanation, weapon and reason* before selecting Big as killer.
+
+**A second theoretical trap:** even if Big were responsible, that **does not prove Lothar directed him**, despite being his father's brother, nor that Big intended the Manderly–Frey brawl. The political effect can be **unintended**. Branch ambition, crime and external manipulation are three distinct hypotheses.
+
+## 4. How Riverlands and Winterfell destabilizations might converge
+
+| Factor | Riverlands / Twins | Bolton-held Winterfell | Proven connective information |
+| --- | --- | --- | --- |
+| **Inheritance pressure** | `ASOS Epilogue`: Merrett fears Ryman's senior line and Lothar's ruthless competence. `AFFC 44`: Edwyn accuses Black Walder after Ryman is hanged. | `ACOK 4`: Big says Little outranks him despite age and boasts he will inherit; `ADWD 51`: Little is dead. | **Genealogy is verified**, direct cooperation/letters **not shown**. |
+| **Outlaws and vendetta** | `ASOS Epilogue`: Stoneheart's band kills Petyr and Merrett; `AFFC 44`: outlaws reportedly kill Ryman's party. | Anti-Frey sentiment in Winterfell and Manderly mistrust are explicit; multiple unexplained deaths in castle. | Brotherhood **not shown inside Winterfell** or communicating with Big. |
+| **Hostage and child leverage** | Edwyn's daughter **Walda**; Petyr's daughter **Perra**; prior captives from massacre remain contested. | Big Walder is Lothar's nephew; Little Walder **Fat Walda's brother**, and Fat Walda is married to Roose. | Familial access to Bolton power, not proof a message or testimony reached either theater. |
+| **House Frey's own violence** | Edwyn–Black Walder mutual suspicion, rumor of infidelity and spies, Lothar's planning of Red Wedding. | Little grows cruel as a Ramsay squire; accusation sparks hall deaths and field-order response. | Shared incentives may generate parallel instability without one orchestrator. |
+| **Royal authority** | Jaime and crown demand Red Wedding captives, while Freys worry about compensation; Twins physically under Lord Walder so far. | Roose attempts to order hostile bannermen into separate sorties, not a reliable united army. | No on-page accepted heir proclamation, succession crisis verdict or completed northern battle. |
+
+**Potential literary pressure point:** Merrett's retrospective `the next Lord will expel half the family` fear describes **economic precarity among younger children** of an oversized household; the house's own wartime slaughter of guest families makes the lands around the Twins hostile, increasing travel and legitimacy risk. The **physical toll** of outlaw ambushes can change formal seniority without delivering a stable political administration to anyone. This is grounded structural analysis, not a prophecy that House Frey will inevitably go extinct.
+
+## 5. Theory tests and continuation gates, each reversible
+
+1. **Edwyn succeeds peacefully** (`POSSIBLE`): requires confirmation Lord Walder has died/abdicated, the relevant succession custom, acceptance of Edwyn by garrison, royal overlordship and surviving senior-line descendants, plus Black Walder's acquiescence or inability to intervene. No such ceremony has occurred in the books.
+2. **Black Walder engineers Edwyn's death** (`THEORY`): strong animosity and succession incentive; **no assassination attempt** narrated by Black on Edwyn. It must not be written into project canon because Edwyn believes it will happen.
+3. **Lothar captures practical castle control** (`THEORY`): a Red Wedding operational planner with followers might exploit the feud; but he is a younger son with **no shown decree or troops securing the gates from Edwyn**. A plan to seize the Twins needs named supporters and control of one or both castles.
+4. **Brotherhood kills Freys opportunistically** (`SUPPORTED RISK`): Stoneheart's band kills **Merrett and Petyr** in `ASOS Epilogue`; Ryman's hanging by outlaws is **reported** in `AFFC 44`. A named Brotherhood plan to erase the Frey succession list is **not shown**.
+5. **Big Walder killed Little Walder for succession** (`THEORY / PARTIALLY MOTIVATED`): childhood ambition, branch ordering, and blood-stained appearance are clues; no fatal act or confessor is shown. **Missing evidence** must decide before it becomes an asserted future beat.
+6. **Manderly–Frey clash breaks Bolton's northern coalition** (`DIRECT POLITICAL FRACTURE / FUTURE CONDITIONAL`): ADWD 51 hall deaths and Roose's responsive orders are narrated; **Frey/Manderly field defeat, defection or reunion is not**. A future POV must show actual sortie, route and battle outcome.
+7. **A child claimant changes settlement** (`LEGAL POSSIBILITY`): Walda and Perra are listed in appendices, so an absolute male-only summary misstates the family. **No five-book participant adjudicates their rights** or offers them as proxies; requires a claimant, custom, regency and recognized authority.
+8. **Edmure and Roslin's child redefines Frey allegiance** (`POSSIBLE`): a politically sensitive future Tully descendant could make Roslin/Perwyn protect a different interest, but **the child is not born by the end of the known texts**, and no external plot may pre-decide their safety or sex.
+
+## 6. Next priority test
+
+The best single next audit is **the North–Riverlands Frey information route**: who, if anyone, learns of Merrett/Petyr/Ryman deaths in Winterfell, and who at the Twins learns that **Little Walder** has died under Bolton protection. Distinguish messages actually dispatched to Walder/Fat Walda/Edwyn/Lothar from what the reader alone sees. Such a message could plausibly alter northern field loyalty and southern inheritance strategy, **but is not shown merely because family members are present in two theaters**.
+
+**Disposition:** `STEVRON DEAD / RYMAN INHERITANCE CLAIM REPORTED`; `RYMAN HANGED WHILE RETURNING FROM RIVERRUN`; `EDWYN–BLACK WALDER REAL RIVALRY, BLACK-WALDER MURDER ACCUSATION UNPROVEN`; `EDWYN WALDA AND PETYR PERRA APPENDIX CLAIMANTS PRESENT`; `BASTARD WALDER DISTINCT FROM BLACK WALDER`; `LOTHAR LOGISTICAL POWER ≠ VERIFIED LEGAL HEIR`; `BIG WALDER JAMMOS SON / LITTLE WALDER MERRETT SON`; `BIG WALDER CHILDHOOD SUCCESSION AMBITION`; `LITTLE WALDER MURDER OBSERVED ONLY AS BODY, KILLER UNKNOWN`; `FREY–MANDERLY VIOLENCE CONFIRMED / POST-SORTIE BATTLE UNKNOWN`; `BROTHERHOOD'S VERIFIED/REPORTED HANGINGS DO NOT AUTOMATICALLY NAME OTHER CO-PLOTTERS`.
