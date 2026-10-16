@@ -1725,6 +1725,74 @@
 | C-1670 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Jorah kisses Dany uninvited, she pulls away and demands Your Grace | Boundary violation, not evidence of consent |
 | C-1671 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Jorah suggests three heads are Dany with two husband riders including himself | Self-serving interpretation, not prophecy fulfillment |
 
+| C-1672 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Bran inhabits Summer and savors heightened scent and hearing while running | Direct warg perception, not future prophecy |
+| C-1673 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Summer remembers litter by smell, closest Shaggydog drifting farther | Possible nonlocal kin sense, no location known |
+| C-1674 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Summer recalls lost sister entering man halls and white silent brother | Lady likely dead, no revived wolf inferred |
+| C-1675 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Summer meets pack eight ordinary wolves organized by dominant male female and tail | Observed wolf hierarchy and prey competition |
+| C-1676 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Summer kills a challenger and dominates head wolf after long fight | Actual wolf violence, not human hunting tally |
+| C-1677 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Summer spares defeated dominant male after exposed-throat submission | Dominance without killing every rival |
+| C-1678 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Hodor wakes Bran from wolf body, he angrily resists ending hunt | Physical reawakening and psychological pull |
+| C-1679 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Bran shelters with Reeds and Hodor in ruined Tumbledown Tower | Actual location, not Wall or Greywater Watch |
+| C-1680 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Jojen asks Bran claw marked tree, deliver rabbit uneaten, arrange rocks | Behavioral control tests repeatedly forgotten |
+| C-1681 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Bran says he and Summer are two and one; Jojen warns wolf can consume him | Explicit danger to self-identity, permanent loss not yet shown |
+| C-1682 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Jojen says wolf eating cannot nourish Bran's human body | Hard warging metabolic constraint |
+| C-1683 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Meera nets trout and six frogs, cooked in her helm with wild onions | Group survival through mundane foraging |
+| C-1684 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Jojen admits no new green dream behind leaving safe tower | Decision based on strategic/metaphysical concern not new prophecy |
+| C-1685 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Jojen says living Stark boy exposed becomes prey in ongoing north war | Secrecy protection as political security |
+| C-1686 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Bran imagines Last Hearth Umber Karhold Karstark White Harbor Manderly alternatives | Unconfirmed sanctuary options not actual itinerary |
+| C-1687 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Bran hears wolf howl and identifies it as not Summer | Personal recognition claim, wolf not separately seen |
+| C-1688 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Group carries Winterfell crypt tomb swords, Hodor wields very old rusty blade | Material continuity, Hodor sword owner unspecified |
+| C-1689 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Jojen distinguishes green-dreamer from greenseer who could see through weirwoods | Knowledgeable lore, not firsthand tree-seeing by Bran |
+| C-1690 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Jojen recalls winged wolf dream freed from chains but not yet flown | Potential power framed as symbolic training |
+| C-1691 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Meera cites Reed oath earth water bronze iron ice fire and gives Bran decision | Liege's agency explicitly acknowledged |
+| C-1692 | [ASOS 9](../Source/Main-Series/03-A-Storm-of-Swords/chapters/09-bran.md) | Bran chooses risk of journey beyond Wall to three-eyed crow over hiding | Actual decision, no departure or crow identification yet |
+| C-1693 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Khorane Sathmantes Shayala Dance returns Davos via Gullet to Dragonstone | Actual Lyseni rescue vessel and captain |
+| C-1694 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Davos coughs blood remains weak despite receiving ship's cabin and boots | Medical fragility following survival |
+| C-1695 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Khorane gifts long Lyseni dirk which Davos intends for Melisandre | Weapon identified and direct attempted plan |
+| C-1696 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Khorane reports Green Renly figure at relief and Florent troops rescued | Reported apparition, wearer still unnamed |
+| C-1697 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Dragonstone harbor empty royal warships, mostly remaining Lyseni fleet | Concrete loss of Stannis naval capacity |
+| C-1698 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Salladhor Saan counts spice jars from Pentoshi cog Bountiful Harvest | Seizure and meticulous goods tally |
+| C-1699 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Saan holds Alester Florent seal naming him Lord of Blackwater Bay | Nominal privateering legality, de facto sovereignty contested |
+| C-1700 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Saan connects wide chairs of seized cog to Illyrio Mopatis | Merchant provenance claim, alliance not proven |
+| C-1701 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Some royal ships scuttled upstream after chain trapped them says Saan | Reports differ from uniform destroyed by wildfire |
+| C-1702 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Saan says Devan Seaworth saved and near Stannis | Specific son survival confirmed by ally report |
+| C-1703 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Saan cannot report survivors Wraith or Lady Marya, assumes Dale and Allard dead | Individual deaths not directly witnessed |
+| C-1704 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Saan offers Davos a ship for commerce but Davos insists duty to Stannis | Alternative livelihood declined |
+| C-1705 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Saan reports Selyse and Alester govern with royal seal while Stannis secluded | Political delegation, direct royal interview unavailable |
+| C-1706 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Rumors of Stannis and Melisandre watching deep Dragonmont fires | Secret shafts and magical heat immunity unconfirmed |
+| C-1707 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Saan says Sunglass and Rambton sons were burned by queen's men | Execution report, no direct pyre scene |
+| C-1708 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Davos insists Mother arranged rescue ship, Saan credits misdirecting wind | Competing supernatural vs ordinary explanations |
+| C-1709 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Dragonstone city shutters and many mourning homes show Blackwater civilian cost | Widely visible aftermath |
+| C-1710 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Patchface sings fool blood king blood maiden and chained guests bridegroom | Ominous utterance, concrete referent not identified |
+| C-1711 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Edric Storm names himself acknowledged son Robert with Baratheon appearance | Royal bastard at Dragonstone, future use unknown |
+| C-1712 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Edric condemns Stannis shortening Davos fingers despite rescue | Contrast of princely justice philosophies |
+| C-1713 | [ASOS 10](../Source/Main-Series/03-A-Storm-of-Swords/chapters/10-davos.md) | Axell Florent arrests Davos for intended knife attack on Melisandre | Plot exposed before actual violence, informer unknown |
+| C-1714 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Inn of Kneeling Man commemorates Torrhen Stark submission to Aegon | Local history and kneeling-king sign, accuracy of site unverified |
+| C-1715 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Inn occupied by man and crossbow boy after deaths of original innkeepers | Self-reported dispossession, prior killers unknown |
+| C-1716 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Boy demands traveler lion fish or wolf before opening | Factional threat assessment in riverlands |
+| C-1717 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Horse steaks and three found horses offered for steep price | War profiteering and survival, origins partially self-reported |
+| C-1718 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Dapple grey horse saddlecloth pink-and-black checked with dried blood | Physical former owner clue, identity not given |
+| C-1719 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Innkeeper warns Skipping Stones Red Deer Island and Ruby Ford unsafe | Route claims possible outlaws, not verified firsthand |
+| C-1720 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Host says Beric Lightning Lord cannot die, Thoros has strange powers | Uncorroborated resurrection rumor at this viewpoint |
+| C-1721 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Brienne pays three gold dragons and leaves skiff for three horses | Permanent transport shift from river to road |
+| C-1722 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Brienne breaks only Jaime ankle link, leaves wrists shackled | He can ride but remains captive |
+| C-1723 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Brienne refuses inn overnight and chooses southern road opposite host recommendation | Cautious strategic agency, conspiracy not proven |
+| C-1724 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Brienne avoids inhabited Ser Warren towerhouse after seeing distant light | Detour, controlling faction unknown |
+| C-1725 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Jaime offers brief apology to Brienne then resumes insults | Early ambiguous shift in interpersonal recognition |
+| C-1726 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Jaime recalls Tywin proposed marriage between Jaime and Lysa Tully | Dynastic alliance plan corroborated by his memory |
+| C-1727 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Cersei suggests Kingsguard vacancy after Harlan Grandison death to keep Jaime near her | Deliberate sibling intimacy and institutional manipulation |
+| C-1728 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Jaime and Cersei meet in Eel Alley inn before Harrenhal Kingsguard appointment | Timeline of appointment, king communication not shown |
+| C-1729 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Tywin resigns Handship and removes Cersei after Jaime invests in Kingsguard | Cersei plan backfires and Rock heir lost |
+| C-1730 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Jaime recounts Ilyn Payne tongue removal by Aerys for praising Tywin | Aerys paranoia, earlier court detail |
+| C-1731 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Jaime says Arthur Dayne knighted him at fifteen after fighting Kingswood Brotherhood | Knight status earned before taking white cloak |
+| C-1732 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Brienne recounts cold shadow at Renly death, Jaime dismisses | Reader independently sees shadow magic in ACOK |
+| C-1733 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Jaime recalls killing pyromancer Rossart before confronting Aerys | Major pre-regicide act documented in first person |
+| C-1734 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Aerys orders Tywin's head and threatens Jaime will burn with other traitors | Evidence of anticipated widespread fiery murder; caches unspecified |
+| C-1735 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Jaime pulls Aerys from Iron Throne and slashes his throat | Direct private reconstruction, witnesses enter immediately afterward |
+| C-1736 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Jaime briefly considers Viserys and infant Aegon as successors then declines to choose | No completed claim to crown despite sitting on throne |
+| C-1737 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Jaime sits Iron Throne sword across knees when Ned arrives | Physical act remembered, purpose to see claimant |
+| C-1738 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Jaime dreams dead multiply in green wildfire flame | Trauma image, not literal present-day burning |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1732,4 +1800,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and fifty-four first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and fifty-seven first-pass chapters listed in the coverage tracker.
