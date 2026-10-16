@@ -3259,6 +3259,143 @@
 | C-3189 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Sansa missing from Tyrion view during death scene | Absence not proof fled or poisoned |
 | C-3190 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Margaery widowed before any consummation shown | Royal marriage and succession altered |
 
+| C-3191 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Sansa leaves while Joffrey still choking, hears death bells in godswood | Departure before confirmed death, not witnessed murder |
+| C-3192 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Sansa weeps for Robb and Margaery despite wishing Joffrey dead | Motive and grief complex, no self-confession |
+| C-3193 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Sansa hides dark escape clothes in hollow oak two nights previously | Preparatory action, not knowledge of poison |
+| C-3194 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Escape outfit brown wool green hood freshwater pearls square-toed shoes | Distinct clothing and disguise cues |
+| C-3195 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Silver hairnet called black Asshai amethysts has one missing stone | Direct missing element, unknown chemical composition |
+| C-3196 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Sansa sees dark smudge in empty silver setting | Material clue; stain not chemically tested |
+| C-3197 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Sansa reasons stone was poison and asks Dontos | Credible inference, not witnessed administration |
+| C-3198 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Dontos denies murder and attributes death to pigeon pie | Interested denial, no autopsy access |
+| C-3199 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Dontos tells Sansa Tyrion arrested during her absence | Received information, independently court record |
+| C-3200 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Dontos wears three-crown House Hollard surcoat despite prior ban | Risk and identity clue |
+| C-3201 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Route passes serpentine stairs sunk yard armor gallery secret outer door | Concrete Red Keep exit map |
+| C-3202 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Hollard and Sansa descend cliff by carved stone handholds | Real descent, not magical escape |
+| C-3203 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Sansa fears fall while remembering Bran's climbing | Personal psychological link |
+| C-3204 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Old hooked-nose white-haired rower addressed Oswell awaits skiff | First name only, surname unconfirmed |
+| C-3205 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Skiff hidden by burnt galley remains fifty yards downriver | Battle ruins aid concealment |
+| C-3206 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Muffled oarlocks and lowered great chain permit Blackwater exit | Naval route feasible despite old battle defenses |
+| C-3207 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Merchant galley has crowned merman blowing shell horn figurehead | Appearance not verified flag or port |
+| C-3208 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Littlefinger and Lothor Brune await Sansa on ship at dawn | Actual proximity to capital, no Vale presence then |
+| C-3209 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Dontos expects ten thousand gold dragons on ship | Contract claimed, no payment delivered |
+| C-3210 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Petyr's men shoot Dontos three times with crossbows | Direct ordered execution |
+| C-3211 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Lothor torches Dontos boat and corpse | Physical cleanup of witness |
+| C-3212 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Petyr says he recruited Dontos because Sansa saved him at tourney | Self-reported recruitment strategy |
+| C-3213 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Petyr admits authored godswood note for Sansa | Planned extraction, not necessarily detailed poison plan |
+| C-3214 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Petyr explains godswood harder for Varys little birds to surveil | Operational rationale from experienced actor |
+| C-3215 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Petyr says dwarf jousters arranged by him from Braavos | Direct admission of wedding spectacle manipulation |
+| C-3216 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Petyr concealed jousters in brothel and primed Joffrey to humiliate Tyrion | Provocation beyond incidental comedy |
+| C-3217 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Petyr brought cabin furs clothes and cedar chest for Sansa | Ship prepared for intended passenger |
+| C-3218 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Petyr predicts Sansa widowhood despite Tyrion only arrested | Expectation of outcome, not actual verdict |
+| C-3219 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Petyr claims no motive for Joffrey death while boasting confusion tactic | Self-interested denial, not innocence proof |
+| C-3220 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Petyr claims Catelyn gave him intimacy before Ned marriage | Character allegation conflicts alternative testimony |
+| C-3221 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Petyr frames Sansa as hypothetical daughter and promises absolute safety | Control and paternal posturing, safety unverified |
+| C-3222 | [ASOS 61](../Source/Main-Series/03-A-Storm-of-Swords/chapters/61-sansa.md) | Sansa trapped by sole benefactor who killed prior helper | Rescue and coercive vulnerability coexist |
+| C-3223 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Inn travelers tell conflicting Joffrey death stories poison throat cutting ghosts | Rumor inflation independent of real event |
+| C-3224 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Jaime acknowledges Joffrey his firstborn son with Cersei | Biological identity in private thought |
+| C-3225 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Jaime admits hardly feeling grief and never held Joffrey as infant | Disturbing paternal detachment |
+| C-3226 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Jaime imagines choosing restored hand over resurrected son | Personal preference not external act |
+| C-3227 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Walton Steelshanks leads Bolton northmen Jaime Brienne Qyburn to Gate of Gods | Completed return to capital |
+| C-3228 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Seven-colored star peace banner carried by Nage | Safe-conduct visual amid transport |
+| C-3229 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Jaime bat heraldry altered appearance prevents recognition | Incognito travel without magic |
+| C-3230 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Gold cloaks charge wagon sellers gate fee ordered by Hand master of coin | Postwar trade taxation |
+| C-3231 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Bertram Beesbury says Lord Piper submitted due captive son at Twins | Hostage coerced submission, reported |
+| C-3232 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Brienne insists duty to retrieve Sansa survives Catelyn death | Unfulfilled second half of vow |
+| C-3233 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Loras names Brienne as Renly killer based on Emmon Cuy statement | Accusation contradicted earlier POV, actual sorcery separate |
+| C-3234 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Brienne recounts shadow and blown candles during Renly death | Witness report, supernatural mechanism undetermined |
+| C-3235 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Jaime as Lord Commander commands Loras to sheath sword | Actual command authority at court |
+| C-3236 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Jaime has Balon Swann confine Brienne in guarded tower | Protective custody not innocence verdict |
+| C-3237 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Osmund Kettleblack fails to recognize one-handed Lord Commander | New Kingsguard personnel knowledge gap |
+| C-3238 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Joffrey laid in golden armor beneath Stranger for mourning | Funerary arrangement with iconography |
+| C-3239 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Cersei claims Joffrey pointed to Tyrion before dying | Interested visual interpretation not proof |
+| C-3240 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Cersei urges Jaime to murder imprisoned Tyrion | Direct requested extrajudicial killing |
+| C-3241 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Jaime refuses and seeks evidence, Tyrion remains brother | Choice not full independent inquiry completed |
+| C-3242 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Jaime continues physical intimacy in sept despite Cersei initial objections | Consent boundary and later participation both present |
+| C-3243 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Jaime proposes public sibling marriage and another son | Desire vs Baratheon legitimate claim |
+| C-3244 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Cersei says Tommen throne depends on being believed Robert son | Concrete dynastic vulnerability |
+| C-3245 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Cersei reports Sansa maids held in tower for questions | Household intelligence crackdown |
+| C-3246 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Tywin knew Jaime escape through Varys days afterward | Communication chain confirmed by Tywin account |
+| C-3247 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Tywin sent Gregor Samwell Spicer and Plumm brothers in search | Reported search agents, motives limited |
+| C-3248 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Tywin says Gregor captured Harrenhal through postern opened by Whent retainers | Reported takeover after earlier order |
+| C-3249 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Vargo Hoat dismembered by Gregor but reportedly still living | Torture, death not verified |
+| C-3250 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Tywin reports maesters opened Joffrey throat and found no lodged morsel | Autopsy secondhand, supports poisoning over obstruction |
+| C-3251 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Tywin calls wine poisoned but provides no toxin or killer assay | Strong claim not independent forensic proof |
+| C-3252 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Podrick and Sansa maids detained, Sansa hunted with Varys reward | Search and coercion escalation |
+| C-3253 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Tywin proposes Tommen at Rock as Jaime ward and new Cersei marriage | Unexecuted family rearrangement |
+| C-3254 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Tywin suggests Oberyn for Cersei and Jaime for Margaery | Betrothal scenarios not binding |
+| C-3255 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Jaime insists vows lifelong despite Barristan dismissal precedent | Institutional principle and personal identity |
+| C-3256 | [ASOS 62](../Source/Main-Series/03-A-Storm-of-Swords/chapters/62-jaime.md) | Tywin rejects Jaime as son verbally after refusal of Casterly Rock | Familial rupture, legal inheritance unchanged on page |
+| C-3257 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Davos uses R'hllor sunset nightfire to distract garrison | Timed covert child evacuation |
+| C-3258 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Stannis stands at rite but does not join responses | Observed nonparticipation, motive inferred |
+| C-3259 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Melisandre told Davos visions require sorting was may be and will be | Explicit prophecy uncertainty |
+| C-3260 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Melisandre dismisses Axell supposed quick vision skill | Does not endorse his accuracy |
+| C-3261 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Davos rejects Lewys suggestion to ambush Melisandre | Avoids immediate violence and prophecy risk |
+| C-3262 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Andrew Estermont Gerald Gower Rolland Storm aid extraction | Named coordinated rescuers |
+| C-3263 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Lewys Fishwife Omer Blackberry guard postern | Named tactical posts |
+| C-3264 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Pylos teaching Edric sums and deliberately releases him to Davos | Maester knowingly risks office |
+| C-3265 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Edric resists prayers of R'hllor, follows Warrior | Boy religious preference |
+| C-3266 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Edric wants to say goodbye to Shireen before leaving | Personal friendship, boy unaware of sacrifice |
+| C-3267 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Davos lies king furious to make Edric obey and displays clipped fingers | Protective deception contradicts his own historical account |
+| C-3268 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Edric hooded in undyed wool for exit disguise | Plain travel clothes, not identity concealment magic |
+| C-3269 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Two bound guards at postern instructed freed after sailing | Nonlethal suppression |
+| C-3270 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Four-oared launch conveys boy to Lyseni Mad Prendos | Specific vessel and extraction logistics |
+| C-3271 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Cousin Ser Andrew escorts Edric aboard escape ship | Protective chaperone, final refuge unknown |
+| C-3272 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Davos chooses stay behind and face Stannis | Risk chosen, does not flee to sea |
+| C-3273 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Davos waits at Painted Table and scans bay for departing ship | Hopes departure, not personally sees eventual landfall |
+| C-3274 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Stannis and Melisandre enter debating number of king deaths | Continued leech interpretation disagreement |
+| C-3275 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Melisandre claims fire showed dying Joffrey and Cersei wail | Reported vision after fact, causal origin unproved |
+| C-3276 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Davos independently reports Joffrey dead, killer Tyrion only rumor | Convergence of news, not trial judgment |
+| C-3277 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Stannis recounts Joffrey dissected pregnant kitchen cat as child | Direct named detail beyond Cersei prior vague account |
+| C-3278 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Stannis says Tommen will claim throne and rejects easy succession | Dynastic consequence, not crown ceremony seen |
+| C-3279 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Melisandre names Stannis ancient promised prince and asks Edric sacrifice | Religious identification, not independently confirmed |
+| C-3280 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Stannis demands prophetic assurance that no alternate way exists | Active hesitation, not firm order |
+| C-3281 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Davos reports Edric escaped on galley and admits organizing it | Sacrifice physically prevented for now |
+| C-3282 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Melisandre visibly dismayed after missing operation | Prediction limits, inner thoughts unknown |
+| C-3283 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Stannis calls rescue treason and asks why Davos disobeyed | Command loyalty dispute |
+| C-3284 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Davos argues king oath requires defense of innocent subject Edric | Moral oath reasoning anchored in actual words |
+| C-3285 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Melisandre compares Edric to Nissa Nissa sacrifice for Lightbringer | Typological analogy, no ritual executed |
+| C-3286 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Stannis draws glowing Lightbringer and threatens Davos | Immediate personal danger, no beheading shown |
+| C-3287 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Davos unfolds suppressed Watch letter from Maester Pylos lesson | Physical message now enters royal meeting |
+| C-3288 | [ASOS 63](../Source/Main-Series/03-A-Storm-of-Swords/chapters/63-davos.md) | Davos starts to read Watch plea to Stannis by Lightbringer | First actual delivery underway, response not in chapter |
+| C-3289 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Jon dreams stone Winterfell kings reject him as non Stark | Nightmare of illegitimacy, not actual ancestral pronouncement |
+| C-3290 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Jon has burned Ygritte after her witnessed death | Funeral action, shooter unresolved |
+| C-3291 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Two horns signal wildlings, Jon momentarily mistakes Horn of Winter | Standard Watch alarm, legendary horn not found |
+| C-3292 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Destroyed stair leaves winch cage about ten person capacity | Access choke point after previous fire |
+| C-3293 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Horse Hareth Zei and three orphan moles stay after refugee departures | Named non-Watch reinforcements and dependents |
+| C-3294 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Orphan boys ages nine eight five fetch supply arrows | Child labor under wartime scarcity |
+| C-3295 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Scarecrow sentinels still line the upper parapets | Visual deterrent, not fighting manpower |
+| C-3296 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Bowen supplied oil arrows scorpion bolts and two trebuchets | Stockpile available, personnel scarce |
+| C-3297 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Trebuchet pitch barrels provide illumination in pitch darkness | Operational probing not fire magic |
+| C-3298 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Jon revises mammoths from dozen to roughly hundred | Darkness distorts first estimate |
+| C-3299 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Mance group includes ice river cannibals wargs Hornfoot Frozen Shore chariots | Multiethnic mass coalition |
+| C-3300 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Giant pushed sharpened tree on wheels as ram | Material gate attack mechanism |
+| C-3301 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Castle Black gate nine inch oak plus three chained grates and murder holes | Multi-layered narrow tunnel defense |
+| C-3302 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Watch drops burning lamp oil and pitch down on gate forces | Direct anti-siege attack |
+| C-3303 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Noye selects two archers and two spearmen to defend tunnel | Small deliberate gate garrison |
+| C-3304 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Noye leaves Jon in charge of Wall top | Temporary command, not Lord Commander election |
+| C-3305 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Night bombardment lasts hours and right trebuchet shatters | Attrition of limited siege engines |
+| C-3306 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Dawn reveals giant host and actual full assault | Previous night a probe, force number still uncertain |
+| C-3307 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Satin estimates hundred thousand fighters out of fear | Not audited army count |
+| C-3308 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Jon uses 700 foot elevation to outrange short wildling bows | Physical range advantage |
+| C-3309 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Jon rallies troops declaring attackers cannot climb sheer Wall | Leadership rhetoric and actual barrier |
+| C-3310 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Jon focuses longbow fire and steel caltrops on ram giant pushers | Disciplined target prioritization |
+| C-3311 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Ram stopped when pushers incapacitated and engine lit | No completed gate breach by daylight host |
+| C-3312 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Flaming barrels ignite giant and panic mammoth assault center | Animal stampede spreads rout |
+| C-3313 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Chariots and cavalry reach Wall but retreat unbloodied | Flank formations ineffective due height |
+| C-3314 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Spare Boot struck in artificial leg not flesh | Minor human casualty despite arrow impact |
+| C-3315 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Zei kisses Owen, Jon refuses due Ygritte grief | Personal repercussions after defense |
+| C-3316 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Jon delegates upper wall to Grenn and descends with Pyp | Leadership chain after Noye absence |
+| C-3317 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Aemon Clydas and Jon inspect icy tunnel behind chained gates | Actual forensic site evidence |
+| C-3318 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Outer oak gate pulled off hinges with third bars twisted | Tunnel penetrated by one giant |
+| C-3319 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Spotted Pate beheaded by giant during inner defense | Specific dead builder |
+| C-3320 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Mag Mighty giant king dies from Donal sword in throat | Direct body evidence and identity |
+| C-3321 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Donal Noye spine crushed by Mag, both bodies intertwined | Mutual lethal fight, death order unknown |
+| C-3322 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Dead mammoth partly blocks outer gate, three giants nearby | Field casualties, not entire battle census |
+| C-3323 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Jon proposes rubble to second gate and outer gate repair | Future work not already completed |
+| C-3324 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Aemon says Wynton Stout now too forgetful to command | Seniority insufficient for emergency leadership |
+| C-3325 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Aemon refuses leadership citing maester serves not commands | Institutional limit |
+| C-3326 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Aemon urges Jon take temporary command because Noye Qhorin Mormont trusted him | Emergency succession, no election yet |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -3266,4 +3403,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and six first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and ten first-pass chapters listed in the coverage tracker.
