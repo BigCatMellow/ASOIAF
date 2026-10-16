@@ -104,6 +104,8 @@
 
 **Prioritization:** **H1** has the strongest *direct observations of grievances and decisions*. It is **not a verdict of motive** or an endorsed final-book plot. Every model still needs an independently narrated decision and actor to become an actual story.
 
+**Winterfell counterpart audit (2026-10-16):** [Abel's six-woman mission, Jeyne's withheld name, and the independent raven routes](winterfell-abel-six-women-knowledge-and-raven-gates.md) now checks **ADWD 37, 41, 46, 51 (Theon)** and **ADWD 62 (Asha)** against the prior public/secret knowledge split. **Theon consciously declines to tell Abel that the bride is Jeyne**, and when the captive girl begins remembering her name among the washerwomen, he stops her. **Rowan calls her Arya and promises to bring her to Jon Snow**; a later unshown Mance identification is still possible but not source-proven. **At the escape, Rowan, Willow and Myrtle turn back toward Abel, Squirrel remains in the bedroom, Frenya holds the gate, and Holly is hit by two quarrels**; the book does not show all six captured/flayed. **Roose's Maester Rhodry has a wet incoming raven *before* this attempted escape**, not a verified outgoing Pink Letter. **Asha meets Theon** when the Tycho/Mors party delivers him and the girl to Stannis's camp. Neither the full fate of the rescue team nor a letter author/delivery route is thereby settled.
+
 ## 7. Specific future falsifiers, not a preselected answer
 
 1. **Letter hand comparison**: a later source must **actually describe and compare handwriting/seals** from the earlier signed wedding announcement and the final threat; no described absence of extra signatures is sufficient.
