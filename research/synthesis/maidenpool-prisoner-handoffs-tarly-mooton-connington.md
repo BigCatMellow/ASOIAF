@@ -37,6 +37,8 @@ At least **three distinct prisoner routes** converge on or are *reported* at Mai
 
 `INFERRED`: the marriage offers a plausible way to sustain Tarly family leverage in a riverlands lordship when his field army departs. `UNKNOWN`: whether Dickon, Eleanor, William Mooton or a subordinate inherits *any* responsibility for Harrion, an established dungeon registry, or communications with Karhold. A dynastic link does not itself turn a supposed prisoner into a known witness.
 
+**Harrenhal source-followup:** [Bonifer Hasty and the unnamed Northern prisoners](harrenhal-hasty-unreleased-trident-prisoners-raven-audit.md) separates the **several other living highborn Trident captives** whom Jaime inspects (AFFC 27) from the **named Wylis–Ronnet transfer**. Their subsequent custody **is not recorded**, even though Jaime changes castle command and Hasty plans Maester Gulian's continued raven service. Nothing in Maidenpool's Wylis/Ronnet receipt justifies adding any of those unnamed men to that convoy.
+
 ## 2. The Lannister command pipeline: Jaime → Red Ronnet → Maidenpool → King's Landing
 
 **AFFC 27 (Jaime), `POV-OBSERVED / DIRECT ORDER`:** At Harrenhal Jaime sees Wylis physically held with **unnamed highborn Northern men** captured by the Mountain at the Trident. These men are alive but ill-treated. Jaime tells Wylis of a coming transfer through **Maidenpool** to a **ship for White Harbor**. Jaime also assigns **Ser Bonifer Hasty** to hold Harrenhal for the crown and takes Gregor's surviving rough men away because Bonifer refuses to employ them. This establishes an **administrative turnover at Harrenhal**, not a confirmed fresh custody decision for every Northern prisoner.
