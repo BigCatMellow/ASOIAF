@@ -1261,6 +1261,49 @@
 | C-1216 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Jaime taunts Catelyn about Petyr and Jon parentage | Hostile words do not establish Petyr intimacy or Jon mother |
 | C-1217 | [ACOK 55](../Source/Main-Series/02-A-Clash-of-Kings/chapters/55-catelyn.md) | Catelyn calls Brienne and demands her sword after Jaime insulting Ned and Jon | Potential turning point, no injury or release actually narrated |
 
+| C-1218 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Theon nightmares wolves with child faces after mill murders | Guilt dream, not literal supernatural pursuers |
+| C-1219 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Theon remembers dressing dead children in small finery at mill | Direct internal knowledge of substitution |
+| C-1220 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Gelmarr killed miller's wife who had slept with Theon earlier | Murder confirmed by participant memory, no boys' father proven |
+| C-1221 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Gelmarr breaks back, Aggar throat slit, Rednose drowned after mill | Secret witness deaths; exact execution mechanics partly off page |
+| C-1222 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Theon reflects his Ironborn helpers had to die to keep secret | Strong cover-up motive from knowing perpetrator |
+| C-1223 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Theon thinks Reek did the others and fears Reek can leave written account | Specific accomplice fear, identity and documents unproven |
+| C-1224 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Theon judges kennelmaster Farlen guilty without proof to placate occupation | Wrongful scapegoat in secrecy cover-up |
+| C-1225 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Farlen calls for Ned Stark-style personal execution, Theon bungles four axe blows | Corrupt borrowed principle of lordly justice |
+| C-1226 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Theon displays tarrred heads and burns headless bodies in Stark-like clothes | Deliberate physical evidence substitution |
+| C-1227 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Theon saves melted silver and jet from Bran's brooch after body burning | Object planted/retained as authenticity prop |
+| C-1228 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Theon identifies displayed victims as miller's sons not Stark heirs | **Confirms death reports misidentify bodies** |
+| C-1229 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Reek flays miller's boys' faces before tar to prevent recognition | Deliberate concealment by skilled accomplice |
+| C-1230 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Asha arrives with twenty but promises only ten staying to garrison Winterfell | Reinforcement request failed |
+| C-1231 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Asha reports Dagmer defeated by Rodrik's armored northmen at Torrhen Square | Military reversal by reported defense |
+| C-1232 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Asha says Deepwood near seaborne logistics, Winterfell too far inland | Strong practical strategic critique |
+| C-1233 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Asha urges Theon burn Winterfell and flee with her toward Deepwood | Offered counterplan, not executed |
+| C-1234 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Theon claims child murders revenge Rodrik Maron Greyjoy deaths | Self-serving revenge pretext over false identities |
+| C-1235 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Asha warns Rodrik may repay children deaths with similar vengeance | Political brutality spirals |
+| C-1236 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Reek offers recruit 100 to 200 northern fighters with Stark silver | Promise not verified by recruits |
+| C-1237 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Theon promises assaulted Palla to Reek if 200 fighters produced | Dehumanizing coercive bargain, not confirmed fulfillment |
+| C-1238 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Theon dream shows Lyanna crowned with pale blue roses and bloodied white gown | Specific Lyanna-blue-rose link from nightmare, not independently prophecy |
+| C-1239 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Theon dream shows slain Robb Grey Wind entering corpse feast | Possible foreshadowing but no actual Robb death established |
+| C-1240 | [ACOK 56](../Source/Main-Series/02-A-Clash-of-Kings/chapters/56-theon.md) | Theon regrets refusing Asha while knowing Winterfell remains spiritually Stark | Private realization coexists with ongoing deception |
+| C-1241 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Enemy ship sails reported as sept begins continuous prayers | Battle approaching, source via castle watch |
+| C-1242 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Joffrey demands Sansa kiss newly named sword Hearteater | Forced symbolic approval of warlike king |
+| C-1243 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Hearteater replaces Lion Tooth cast in river by Arya earlier | Crossover object memory from Trident |
+| C-1244 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Joffrey claims command of Three Whores siege engines and limited forward role | Declared role not verified combat accomplishment |
+| C-1245 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Tyrion regrets not placing Sansa at Rosby with Tommen | Hostage preservation as strategic contingency |
+| C-1246 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Sansa prays for both living and dead including Tyrion Hound Jon Arya | Individual compassionate ethics despite captive status |
+| C-1247 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Sansa refuses septon prayer for Joffrey victory and leaves service | Conscience distinct from ceremonial public obedience |
+| C-1248 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Sansa hears warhorns trebuchets scorpions flames and dying men | Blackwater fighting truly underway, details unseen |
+| C-1249 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Falyse arrives from Stokeworth with small guard escort | Limited additional royal refuge reinforcement |
+| C-1250 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Lollys cries and resists entering holdfast after riot sexual assault | Trauma persists beyond episode |
+| C-1251 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Sansa recognizes Shae as Lollys maid in company of Falyse and Tanda | Independent cross POV confirmation, Cersei captured Alayaya not Shae |
+| C-1252 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Lollys pregnancy called common gossip by Sansa | Corroborates Shae report, not physician testimony |
+| C-1253 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Noblewomen children gather in curtained Queens Ballroom as siege begins | Protected chamber with limited outside intelligence |
+| C-1254 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Sansa seated in honor as Joffrey betrothed | Tyrell marriage plan yet unconsummated or formally changed |
+| C-1255 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Ser Ilyn Payne stands holding Ned greatsword Ice in queen refuge | Physical proof sword remains in royal custody |
+| C-1256 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Osfryd reports Cersei expects Ilyn service before battle ends | Unspecified coercive task, not explicit execution order |
+| C-1257 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Cersei says Ilyn can deal with treason and defend ladies | Character stated function, actual target unknown |
+| C-1258 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Cersei doubts loyal sellswords and predicts flight if walls fall | Watch/guard desertion forecast, not yet observed |
+| C-1259 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Sansa trusts Sandor more than Ilyn or sellswords despite his threats | Conditional protection dilemma with real intimidation |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1268,4 +1311,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and thirty-two first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and thirty-four first-pass chapters listed in the coverage tracker.
