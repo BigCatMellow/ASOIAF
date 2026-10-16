@@ -1700,6 +1700,31 @@
 | C-1646 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Jon offers bastardy humiliation at Robert banquet as plausible reason to defect | Real social exclusion vs false true motive |
 | C-1647 | [ASOS 7](../Source/Main-Series/03-A-Storm-of-Swords/chapters/07-jon.md) | Mance extends hand as Jon makes story of joining, digs mystery remains | Provisional acceptance not completion of Qhorin mission |
 
+| C-1648 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Balerion former Saduleon towed by Vhagar and Meraxes after week becalmed | Actual Illyrio ships at sea, not yet Pentos |
+| C-1649 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Dothraki and horses frightened of poison water while Dany enjoys sea | Adaptation and personal freedom contrast |
+| C-1650 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Captain Groleo carries fifty seawater buckets against dragon fire | Material safety precaution |
+| C-1651 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Dany frees cramped dragons from cages and crew begins to admire them | Changes husbandry after suffering noticed |
+| C-1652 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Balerion loses ship rats as flying dragons hunt | Observation not elimination guarantee |
+| C-1653 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Drogon hunts flying fish with fire while other dragons spar above water | Aerial predation and individual boldness |
+| C-1654 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Rhaegal green bronze and Viserion cream gold are light dog-size dragons | Direct early growth scale not imminent giant mounts |
+| C-1655 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Arstan says Black Dread lived two hundred years and kept growing | Historical claim, age and rules unverified independently |
+| C-1656 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Arstan cites small Dragonpit generations as evidence captivity hinders growth | Maester theory with possible confounders |
+| C-1657 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Arstan admits Aerys court service and cautiously mentions king's harshness | Firsthand proximity clue, full identity hidden |
+| C-1658 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Arstan names Rhaegar's squires Myles Mooton and Richard Lonmouth | Specific historical network test |
+| C-1659 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Arstan names Jon Connington and Arthur Dayne as Rhaegar close companions | Participant testimony, wider implications open |
+| C-1660 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Arstan says boy Rhaegar found unknown writing then demanded arms from Willem Darry | Precise scroll-trigger mystery, passage not given |
+| C-1661 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Arstan rejects myth unbeatable tourney champion via weather food slippery ground | Contextual warning not denial Rhaegar was skilled |
+| C-1662 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Jorah suspects Arstan's identity because skilled staff speaker older than squire | Hypothesis, no name or deceit proven |
+| C-1663 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Dany assumes warlocks hired Qarth manticore Sorrowful Man | Character attribution without assassin confession |
+| C-1664 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Dany commands dracarys for meat flame and Viserion reacts when Jorah says it | Acoustic fire command not perfectly individual |
+| C-1665 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Jorah maps Undying betrayal-for-gold suspicion onto Illyrio and servants | Interested prophecy reading not verified |
+| C-1666 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Jorah suggests divert to Astapor to buy Unsullied before reaching Illyrio | Concrete military independence proposal |
+| C-1667 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Jorah recounts Three Thousand Unsullied at Qohor resisting Dothraki Temmo | Detailed historical military story, no eyewitness verification |
+| C-1668 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Jorah proposes spending Illyrio-owned tiger skins silk jade spices on slaves | Patron property issue and slavery ethics |
+| C-1669 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Dany agrees to attempt changing ship course to Astapor | Decision, captain order not yet executed |
+| C-1670 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Jorah kisses Dany uninvited, she pulls away and demands Your Grace | Boundary violation, not evidence of consent |
+| C-1671 | [ASOS 8](../Source/Main-Series/03-A-Storm-of-Swords/chapters/08-daenerys.md) | Jorah suggests three heads are Dany with two husband riders including himself | Self-serving interpretation, not prophecy fulfillment |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1707,4 +1732,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and fifty-three first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and fifty-four first-pass chapters listed in the coverage tracker.
