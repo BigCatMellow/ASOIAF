@@ -16,7 +16,7 @@ Three forces are too often conflated as “the North”:
 
 1. **Wyman Manderly/White Harbor** — a **Rickon-first Stark restoration** under a **conditional** willingness to take Stannis as king, covertly hostile to Bolton/Frey rule (**ADWD 29, Davos**).
 2. **The mountain-clan and allied northmen already marching with Stannis** — explicit **Ned Stark family loyalty**, hostility to the Boltons, and a willingness to fight despite deaths and impossible winter conditions (**ADWD 42, Asha**). They believe the girl in Bolton custody is Ned's daughter; their reaction if she is *not* is **unknown**.
-3. **The two Umber household commands** — **Mors Crowfood** negotiates partial, conditional support to Stannis, while **Hother Whoresbane** is with Bolton; kinship, Greatjon's captivity and the **refusal to fight Umber against Umber** constrain action independently of the girl's identity (**ADWD 17, Jon**). **Mors actually receives Theon and Jeyne after their jump, according to Tycho** (**ADWD 62, Asha**), but his own explanation and any discovery of the fake bride are not shown.
+3. **The two Umber household commands** — **Mors Crowfood** negotiates partial, conditional support to Stannis, while **Hother Whoresbane** is with Bolton; kinship, Greatjon's captivity and the **refusal to fight Umber against Umber** constrain action independently of the girl's identity (**ADWD 17, Jon**). **Mors holds or receives Theon and Jeyne after their jump, according to Tycho** (**ADWD 62, Asha**), but his own explanation and any discovery of the fake bride are not shown.
 
 **Potential convergent interest:** a provable false Arya would damage **Roose's presentation of his son's Stark marriage** (ADWD 37) and may strengthen **Wyman's priority to find a real Stark** (ADWD 29). **Potential divergence:** it removes one publicly stated incentive for the mountain clans to continue a disastrously costly march (ADWD 42) and cannot on its own reconcile the Umber brothers or cause the Freys and Manderlys to switch allegiance. The reader's knowledge is greater than any one northern commander’s on-page knowledge.
 
@@ -124,7 +124,7 @@ Three forces are too often conflated as “the North”:
 ## 7. Hard counterexamples, falsification needs and status
 
 - `REJECT:` “Northern loyalty is synonymous with loyalty to Stannis.” **Robett Glover explicitly distinguishes the two** (ADWD 29); Wyman offers conditional recognition, not a completed oath to Stannis.
-- `REJECT:` “Manderly has already recovered Rickon.” Wex's Skagos indication and Davos's departure are a **plan** and possible route, not a demonstrated extraction.
+- `REJECT:` “Manderly has already recovered Rickon.” Wex's Skagos indication and Davos's assignment are a **plan** and possible route, not a demonstrated extraction.
 - `REJECT:` “Theon can make the clans instantly abandon Stannis.” Identity proof may alter one justification while **anti-Bolton grievance persists**, and the effect is unobserved.
 - `REJECT:` “Hother and Mors must fight.” **Stannis reports Mors's Umber-against-Umber refusal** and Jon discusses physical separation.
 - `REJECT:` “All northmen in the Stannis camp are loyal.” **Arnolf's pro-Ned speeches** coexist with Roose's evidence of a Bolton relationship.
@@ -144,4 +144,4 @@ Three forces are too often conflated as “the North”:
 6. **What Wyman/White Harbor men actually do upon leaving Winterfell**, not merely which gate Roose assigned.
 7. **Who can send verified identity, military and hostage news** before false northern claims reach Castle Black.
 
-**Disposition:** `FACTIONS DIFFERENTIATED / MANDERLY RICKON PRICE NOT MET / UM B ER SPLIT AND MANCE-SKULL CONDITION VERIFIED / CLAN TWO-PRONG MOTIVE VERIFIED / JEYNE REVELATION REACTIONS UNKNOWN / INDEPENDENT CRITICAL REVIEW OPEN`.
+**Disposition:** `FACTIONS DIFFERENTIATED / MANDERLY RICKON PRICE NOT MET / UMBER SPLIT AND MANCE-SKULL CONDITION VERIFIED / CLAN TWO-PRONG MOTIVE VERIFIED / JEYNE REVELATION REACTIONS UNKNOWN / INDEPENDENT CRITICAL REVIEW OPEN`.
