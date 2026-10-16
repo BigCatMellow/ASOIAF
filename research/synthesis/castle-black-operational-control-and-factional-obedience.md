@@ -63,6 +63,8 @@
 
 **Counterexample E: no conspiracy-scale inference from the hall.** Marsh has known followers; Wick and Marsh are known stabbing participants. Yarwyck and Left Hand Lew are **not named stabbing participants**, Horse and Rory are not shown reacting, and the third/fourth knife wielders remain unidentified. The source does not support declaring an exact number of mutineers or any “half the Watch joined the assassination” count.
 
+**Additional allegiance label (ADWD 31, Melisandre; ADWD 69, Jon):** [Public knowledge and mutiny timeline audit](pink-letter-public-knowledge-and-watch-mutiny-causality.md) notes that **Melisandre refers to Alf of Runnymudd as a queen's man devoted to R'hllor**, grieving the loss of Watch rangers, while Jon later sees him **beside Bowen Marsh, Wick and Left Hand Lew** in Shieldhall. Affinity with the queen's religion and physical proximity to Marsh **do not prove** a royal-directed assassination or Alf's presence at the knives. The status of his exact Watch/royal command relationship should be established before categorizing him as the mutiny's sworn soldier, queen's guard or assassin.
+
 ## 5. Minimal first-night decision ledger for a hypothetical continuation
 
 | Bounded question | Best existing source constraint | New observation necessary |
