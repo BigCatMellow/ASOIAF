@@ -102,7 +102,65 @@ Also: Jaime suspects the prisoners were fed something appalling by Gregor's men,
 - `Harrenhal → Darry / Maidenpool`: **Lancel / Tarly** are Hasty's named nearby partners; presence and authority are supported, **hostage exchange or prisoner-to-prisoner contact is not**. [Maidenpool audit](maidenpool-prisoner-handoffs-tarly-mooton-connington.md) tracks verified escorts.
 - `Harrenhal → Baelish's political orbit`: Baelish is titled lord; **no arrival, named deputy, transfer, raven recipient or involvement with these prisoners**. Any Vale consequence needs a path rather than an omniscient jump.
 
-## 6. Most consequential outstanding primary-source gap
+## 6. Five-book post-departure follow-up: the support network fragments, but Harrenhal's fate is *not* depicted
+
+**Method and limit:** Rechecked the entire owner's bundled EPUB for subsequent narrative occurrences of `Bonifer`, `Hasty` and `Gulian`; checked later mentions of Harrenhal, Darry/Lancel, Merryweather, Baelish and Riverlands overlordship through the **ADWD epilogue**. `Bonifer` and `Maester Gulian` have **no new narrated Harrenhal scene after AFFC 27** (other occurrences are older narrative or appendices; `Gulian` is also used by unrelated names such as Gulian Swann). This verifies a **named-character narrative gap**, not the nonexistence of off-page letters or records.
+
+### A. Lancel at Darry is not the stable alliance Hasty envisioned
+
+1. In [AFFC 27 (Jaime)](../../Source/Main-Series/04-A-Feast-for-Crows/text/028-jaime.md), `DIRECT SPEECH`, Hasty announces a prospective anti-outlaw combination of **his Harrenhal force**, **Lancel at Darry**, and **Randyll Tarly at Maidenpool**, with **Maester Gulian and ravens** available at Harrenhal. No treaty, combined sortie or actual received warning is narrated.
+2. In [AFFC 30 (Jaime)](../../Source/Main-Series/04-A-Feast-for-Crows/text/031-jaime.md), `POV-OBSERVED / HOUSEHOLD REPORT`, Darry still has newly repaired fortifications, **Maester Ottomore**, a garrison, and officers including **Ser Harwyn Plumm** (reported to be hunting outlaws beyond the Trident). The castle thus does not consist only of the personally devout Lancel. Lancel is spending much of his time praying; his family hoped a **Darry-descended wife** would strengthen a disputed new title.
+3. In [AFFC 33 (Jaime)](../../Source/Main-Series/04-A-Feast-for-Crows/text/034-jaime.md), `DIRECT JAIME REPORT`, Lancel intends to **renounce wife, lands and lordship** and travel to King's Landing to join the High Septon's **Warrior's Sons**. His conversation with Jaime and Jaime's subsequent explanation to his aunt show this is more than gossip, but the exact legal disposition of Darry is not narrated.
+4. In [ADWD 65 (Cersei)](../../Source/Main-Series/05-A-Dance-with-Dragons/text/066-cersei.md), `POV-OBSERVED`, **Lancel is physically present among the Warrior's Sons** escorting Cersei through King's Landing. The original named Darry partner in Hasty's plan has demonstrably departed and attached himself to a **different command structure**. In [ADWD Epilogue (Kevan)](../../Source/Main-Series/05-A-Dance-with-Dragons/text/073-epilogue.md), Kevan considers ways to redirect his son from the Faith to the Kingsguard; that is an aspiration, **not a completed reassignment**.
+
+**Implication:** The **Hasty–Lancel–Tarly** proposed policing combination is not shown operating as planned through the end of the five books. One of its named lords renounces his seat and joins a force entangled in the crown's own disputes. **Do not infer** that Darry's *remaining garrison* abandoned the site, that Lancel's renunciation immediately cancelled all legal holdings, or that Hasty lost access to Maester Ottomore or every potential Darry messenger.
+
+### B. Tarly is demonstrably at the capital, not continuously at Maidenpool
+
+- In [AFFC 43 (Cersei)](../../Source/Main-Series/04-A-Feast-for-Crows/text/044-cersei.md), a court report says **Tarly is coming from Maidenpool** as the queen's crisis escalates. `REPORTED MOVEMENT`.
+- In [ADWD Epilogue (Kevan)](../../Source/Main-Series/05-A-Dance-with-Dragons/text/073-epilogue.md), `POV-OBSERVED`, Tarly sits with the royal government and gives a detailed account of **Red Ronnet's former Mountain soldiers passing through Maidenpool**, including misconduct and punishment. This confirms Tarly was there to exercise authority over another *specific* group, **not** that he took control of the unnamed highborn Northern hostages at Harrenhal.
+- Tarly's absence from Maidenpool by the epilogue removes the *person* Hasty named as his ready neighbor. There is **no evidence Tarly's whole army departs**, that an alternate Maidenpool governor cannot cooperate, or that Hasty learned about Tarly's movement in time.
+
+### C. The potential Merryweather influence is weakened, but was never proven in the first place
+
+- In [AFFC 27 (Jaime)](../../Source/Main-Series/04-A-Feast-for-Crows/text/028-jaime.md), Jaime says he **does not know** who convinced Cersei to appoint Hasty. He **suspects Orton Merryweather**, recalling Hasty may have served Merryweather's grandfather. His further assumption that an apparently “good” and outsider knight might appeal to Merryweather is `JAIME'S INFERENCE`, **not an admission or a documented appointment chain**.
+- In [AFFC 43 (Cersei)](../../Source/Main-Series/04-A-Feast-for-Crows/text/044-cersei.md), Cersei learns Merryweather **has resigned from the small council and fled with his wife to Longtable**. That is an independently recorded loss of the *suspected* capital patron's position, not an explicit change in Hasty's royal commission.
+- **No demonstrated consequence for Harrenhal:** nothing states Hasty received notice, lost his own appointment, changed policy towards prisoners, or appealed to Orton for reinforcement. If Merryweather was never the person who proposed Hasty, this line has no patronage effect at all.
+
+### D. Baelish's lord paramount authority is still recognized *after* the turnover
+
+- In [ACOK 65 (Sansa)](../../Source/Main-Series/02-A-Clash-of-Kings/text/066-sansa.md), Baelish is formally granted **Harrenhal** and lord paramount authority. In [AFFC 27 (Jaime)](../../Source/Main-Series/04-A-Feast-for-Crows/text/028-jaime.md), Jaime makes Hasty **crown castellan pending Baelish's arrival**. The two positions are not identical.
+- In [AFFC 33 (Jaime)](../../Source/Main-Series/04-A-Feast-for-Crows/text/034-jaime.md), Jaime makes clear to Riverrun's new lord that Riverrun will owe allegiance to **Harrenhal under Baelish's lord paramount status**.
+- **Important later corroboration:** in [ADWD 48 (Jaime)](../../Source/Main-Series/05-A-Dance-with-Dragons/text/049-jaime.md), Jaime dictates that **Lord Tytos Blackwood** must renounce his Stark/Tully fealty and become a loyal vassal of **Harrenhal and the Iron Throne** as part of the Raventree Hall surrender terms. This demonstrates the Harrenhal overlordship is being **enforced as an active legal hierarchy** well after Bonifer's appointment; it does **not** show Petyr personally commanded the surrender or obtained access to the Trident captives.
+- Jaime also **takes a Blackwood hostage**, ultimately accepting the son **Hoster** rather than the young daughter first suggested by Lord Jonos Bracken. `POV-OBSERVED SEPARATE HOSTAGE TRANSACTION`. **Hoster is not a Northern Trident prisoner or an identified resident of Harrenhal.** A decision in the name of Harrenhal's overlordship does not send this hostage there automatically.
+
+**Institutional finding:** Harrenhal can acquire or retain *de jure* claims over regional vassals even while a crown castellan (rather than the titular lord) is its last observed military commander. One must still prove access to **this particular castle, its prisoner lists, and physical captives** before making Baelish a witness, prisoner broker or conspirator. The late Blackwood submission supplies *stronger evidence for legal power* and **no independent evidence for prisoner administration**.
+
+### E. Named local witnesses of castle operations are distinct from river eyewitnesses
+
+**AFFC 27 (Jaime), `POV-OBSERVED`:** the three surviving people from Lady Whent's old castle household are described as **the cook** who had opened a postern to Gregor, **Ben Blackthumb**, the bent-backed armorer, and **Pia**, the abused servant. Jaime takes Pia with him after Hasty objects to her. The book does not give comparable on-page departures or later interviews for the cook and Ben.
+
+The cook and Ben might provide **continuity of local observation** across changes of occupant, access to **kitchen and household practices**, or knowledge of *which officers were kept at the castle*; **no source says either heard the Trident battle orders**. Pia has firsthand experience of brutality at Harrenhal but is **removed with Jaime** and has **no verified ford command knowledge**. A general claim that “three surviving staff testified” would therefore be invented. The Mountain's former followers, also transferred into Jaime's escort, can speak about their own acts and may be adversarial sources; no one is recorded questioning them on the fords.
+
+### F. Five-book network checkpoint
+
+| Route | Hard latest event | What changes after the turnover? | Missing verification |
+| --- | --- | --- | --- |
+| **Hasty/Gulian → crown by raven** | Gulian's ravens are to remain; earlier Gregor garrison ignored royal letters (AFFC 27). | Named officer and technical capacity replace an unresponsive garrison. | Any **later** Gulian dispatch, recipient, reply or document concerning the captives. |
+| **Hasty → Lancel at Darry** | Hasty promises cooperation (AFFC 27). | Lancel vows to the Faith (AFFC 33), physically at King's Landing (ADWD 65). | Replacement Darry officer, actual military assistance, message receipt. |
+| **Hasty → Tarly at Maidenpool** | Hasty names Tarly; Tarly's jurisdiction documented (AFFC 14/25). | Tarly reaches King's Landing (ADWD Epilogue). | Whether Tarly left a functioning allied garrison, and whether Hasty received notice. |
+| **Hasty → Merryweather council access** | Jaime suspects Merryweather sponsored him; **not proved** (AFFC 27). | Orton later resigns and flees (AFFC 43). | Original sponsor, any subsequent instructions or loss of appointment. |
+| **Hasty → Baelish as lord of Harrenhal** | Title recognized; Hasty interim commander (ACOK 65; AFFC 27). | ADWD 48 Blackwood surrender names Harrenhal as overlord. | Baelish's physical arrival, order to Hasty, custody receipt, knowledge of prisoner roster. |
+| **Hasty → northern river survivors** | Several unnamed highborn Trident prisoners alive under Gregor before Jaime's command turnover (AFFC 27). | No individually documented disposition after that visit. | Identities, status, movement, testimony, delivery to a Northern listener. |
+
+### Critical challenge to the “imminent second Harrenhal fall” scenario
+
+The shifting personnel make Hasty's **anticipated support less dependable**, and his 86-rider core is modest for Harrenhal. However, **the five books do not narrate an attack that removes him**. Nor do they prove he receives no replacements, uses none of the castle's remaining servants, fails to exchange prisoners, or never writes a raven. A planned joint action might occur off-page, be modified, or be abandoned. Mark any collapse or rescue `THEORY` until a further source supplies an event.
+
+**Most useful original-continuation branch:** information about northern captives can be **separated into three competing administrative channels**—crown/maester, nominal lord paramount, and local garrisons—which might each receive different news at different times. To put a witness into a later political scene, show **who knows which person was held, who can reach the current keeper, and how the message gets to a Northern recipient**. A map of titles cannot substitute for an itinerary.
+
+
+## 7. Most consequential outstanding primary-source gap
 
 **What happened to the other several highborn Northern Trident captives after Jaime inspected them?**
 
