@@ -1032,6 +1032,27 @@
 | C-992 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Varys expresses hatred of sorcery since childhood assault | Potential motive to oppose Stannis and Melisandre |
 | C-993 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Tarly reportedly kills Florent men after seizing Bitterbridge stores | Reach-Stannis coalition violence report, Littlefinger negotiations still unverified |
 
+| C-994 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Edmure leads all fit soldiers from Riverrun leaving elders sick and boys in garrison | Fords protected but castle temporarily vulnerable |
+| C-995 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Catelyn recalls Brandon betrothal and Ned marriage as acts of Hoster duty | Family expectations shape her political choices |
+| C-996 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Brienne says no songs commemorate mothers dying in childbirth | Gendered sacrifice omitted from wartime fame narratives |
+| C-997 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Lord Meadows sends Riverrun notice Penrose dead Storm End surrendered to Stannis | Independent written confirmation beyond Varys report |
+| C-998 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Lord Meadows's letter omits whereabouts of Edric Storm | Child custody unresolved despite surrender |
+| C-999 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Brienne describes Edric as Robert-like black-haired blue-eyed child | Possible visible evidence for Stannis paternity claims |
+| C-1000 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Catelyn infers Stannis wants Edric displayed to highlight Joffrey's mismatch | Character hypothesis, not Stannis's stated flame-driven purpose |
+| C-1001 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Catelyn recalls unverified rumor Ashara Dayne was Jon Snow mother | Parentage theory remains hearsay even inside Stark family |
+| C-1002 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Roose Bolton letter disparages Ramsay as dead and touts future trueborn sons | Self-interested political statement, reports of death not independently verified |
+| C-1003 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Roose confirms crossing Trident and his Harrenhal offensive orders | Bolton army approaching contested central stronghold |
+| C-1004 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Purple-unicorn Brax riders repelled at Mallister Red Fork crossing | Live example of strategic ford defenses |
+| C-1005 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Night thrust into Red Fork fails through underwater caltrops and arrow fire | Direct observation of tactical defensive effectiveness |
+| C-1006 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Flement Brax and Karyl Vance crossing news reports additional Lannister failures | Secondhand field messages, not Catelyn eyewitness for every ford |
+| C-1007 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Cleos states Tyrion offered Arya and Sansa for Jaime publicly at court | Proposed hostage exchange feasible only if both girls held |
+| C-1008 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Cleos personally saw Sansa wan at court but did not see Arya | Key cross-POV secret to Catelyn vs reader knowledge |
+| C-1009 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Catelyn distrusts Tyrion over dagger attributed to him despite unresolved ownership | Emotional certainty, original sponsor not proven here |
+| C-1010 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Brienne recalls unknown foreign singer with plum colored eyes at Evenfall | Distinct childhood detail, identity and importance unknown |
+| C-1011 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Edmure letter says Gregor pushed through Stone Mill but was driven back wounded | Reported decisive local tactical victory |
+| C-1012 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Edmure reports Lord Lefford drowned Strongboar captured Marbrand repeatedly repelled | Precise claimed Red Fork losses, separate from verified long-term fates |
+| C-1013 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Tywin reportedly withdraws southeast, Catelyn maps toward Blackwater headwaters | Strategic danger inferred, actual Tywin plan and Blackwater effect still open |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1039,4 +1060,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and twenty-one first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and twenty-two first-pass chapters listed in the coverage tracker.
