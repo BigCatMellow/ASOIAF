@@ -1612,6 +1612,30 @@
 | C-1560 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Dothraki pursuer named Iggo with bells and arakh has arm ripped off in dream | Specific testable casualty detail, not observed corpse |
 | C-1561 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Dream pack loses wolves to horse hooves and blade | Wolf agency plus real possible injuries, external confirmation pending |
 
+| C-1562 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Bronn knighted as Ser Bronn Blackwater and adopts green chain heraldry | Political credit for Tyrion engineering carried by subordinate |
+| C-1563 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Bronn confirms Hound vanished after three costly sorties, not dead | Gold cloak cowardice story ignores trauma |
+| C-1564 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Bywater killed by gold cloaks after arrow through neck while opposing desertion | Shot source unconfirmed, kill reported |
+| C-1565 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Cersei recaptured Tommen from Rosby after Bywater death using Kettleblacks | Tyrion hostage leverage reversed |
+| C-1566 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Osney and Osfryd knighted despite no observed combat by Bronn | Rewarded agents shift toward Cersei |
+| C-1567 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Alayaya whipped stripped and expelled after hostage detention | Completed abuse of substitute lover |
+| C-1568 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Tyrion recoils from retaliatory harm to eight year old Tommen | Prior torture threat remains morally consequential |
+| C-1569 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Timett left city, Shagga holds kingswood, Chella repelled from gates | Mountain clan alliance fractured postwar |
+| C-1570 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Salladhor Saan Lyseni ships outside chain rescue Stannis troops during defeat | Operational survival route, king's exact boarding not witnessed |
+| C-1571 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Renly green armor apparition credited with defections by civilians | Secondhand narrative, actual disguised wearer not named |
+| C-1572 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Tywin says Tarly advancing and Gregor blocking retreat for Tallhart Glover near Duskendale | Military pincer independently matches Bolton's previous order |
+| C-1573 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Tywin judges Duskendale Northerners near one third Robb force | Commander estimate, actual headcount not directly audited |
+| C-1574 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Kevan pays and dismisses Tyrion's hired guard | Concrete removal of independent security |
+| C-1575 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Highgarden distributes hundreds food wagons to smallfolk in Margaery name | Supply as legitimacy campaign before bride arrives |
+| C-1576 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Addam Marbrand given City Watch with about 4400 men after losses | Replacement of Tyrion's Gold Cloak control |
+| C-1577 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Missing Tyrek Lannister married infant Ermesande Hayford before riot | Hidden claimant theory; disappearance not resolved |
+| C-1578 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Joffrey wedding scheduled first day new year and century by Tywin | Planned date, no wedding yet held |
+| C-1579 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Ballabar arrived with Redwyne according Tywin and treated injured Tyrion | Competing medicine story, attempted murder not proved |
+| C-1580 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Myrcella arrived at Sunspear, likes Arianne; Trystane likes her | Arys Oakheart letter reported by Tywin |
+| C-1581 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Tywin says Martell demands go beyond seat to Elia blood, Gregor useful | Tension between Dornish justice and use of violent commander |
+| C-1582 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Tyrion demands Casterly Rock under Kingsguard inheritance renunciation | Explicit legal succession contest |
+| C-1583 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Tywin refuses Tyrion the Rock and blames him for Joanna death | Hateful subjective rejection, not proof alternate paternity |
+| C-1584 | [ASOS 4](../Source/Main-Series/03-A-Storm-of-Swords/chapters/04-tyrion.md) | Tywin threatens to hang any future sex worker found in Tyrion bed | Concrete risk to Shae, whom he does not name |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1619,4 +1643,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and forty-nine first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and fifty first-pass chapters listed in the coverage tracker.

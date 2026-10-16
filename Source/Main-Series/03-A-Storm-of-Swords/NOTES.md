@@ -60,7 +60,7 @@ Cross-book source owners: [Arya](../../../research/characters/arya-stark.md), [B
 
 ## Sequential chapter reading (new pass, 2026-10-15)
 
-[Prologue / Chett](chapters/00-prologue.md) plus [1 Jaime](chapters/01-jaime.md), [2 Catelyn](chapters/02-catelyn.md) and [3 Arya](chapters/03-arya.md) now have first-pass source-grounded notes. See [coverage](../CLOSE-READING-STATUS.md). **78 ASOS narrative units remain**, next `ASOS 4 (Tyrion)`. Existing focused theory checks are not counted as completed sequential chapters.
+[Prologue / Chett](chapters/00-prologue.md) plus [1 Jaime](chapters/01-jaime.md), [2 Catelyn](chapters/02-catelyn.md) and [3 Arya](chapters/03-arya.md) and [4 Tyrion](chapters/04-tyrion.md) now have first-pass source-grounded notes. See [coverage](../CLOSE-READING-STATUS.md). **77 ASOS narrative units remain**, next `ASOS 5 (Davos)`. Existing focused theory checks are not counted as completed sequential chapters.
 
 ## Robb's will: council attendance vs document custody (focused source check, 2026-10-15)
 
@@ -75,3 +75,5 @@ Canonical location/status assessment: [witness ledger](../../../research/continu
 - [1 Jaime](chapters/01-jaime.md): firsthand account of Catelyn's sword-enforced vow to recover both Stark girls, Brienne's allegiance to Catelyn and seamanship, Jaime's haircut, murdered riverland women, Robin Ryger pursuit and Brienne's cliff-rock ambush. Jaime helps Brienne back into the skiff despite an escape temptation. Jaime's thoughts about Cersei commissioning the Bran catspaw remain speculation.
 - [2 Catelyn](chapters/02-catelyn.md): Catelyn admits her conscious unauthorized exchange, is confined to Hoster's rooms; his dying Tansy/blood/trueborn remarks suggest hidden wrong against Lysa but the identity and medical outcome are still unresolved. Robb reportedly wounded at Crag; Edmure sends **three ravens to Bolton** falsely calling the exchange an escape and offering **1,000 dragons** for capture.
 - [3 Arya](chapters/03-arya.md): escape companions move north but navigation and named river identification are uncertain; Arya refuses to abandon Gendry/Hot Pie, recognizes need for rest, and dreams of commanding a wolf pack that kills apparent pursuing Bloody Mummers including belled Iggo. Their real-world deaths **remain unverified** at this chapter endpoint.
+
+- [4 Tyrion](chapters/04-tyrion.md): Alayaya publicly whipped and released, Cersei's agents recover Tommen, Bywater killed during desertions, Marbrand now commands 4,400 gold cloaks; Saan's Lyseni evacuate troops while 'Renly's ghost' remains secondhand. Tywin reveals pincer against Tallhart/Glover at Duskendale, names wedding day, confirms Myrcella in Dorne and rejects Tyrion's rightful-heir claim to Casterly Rock, threatening the next woman found in his bed.
