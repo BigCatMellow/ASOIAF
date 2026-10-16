@@ -2264,6 +2264,118 @@
 | C-2202 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Sansa asks what if she never wants him and Tyrion reacts bitterly | No tacit future consent |
 | C-2203 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Marriage completed without heir or consummation | Possible political/legal vulnerability unadjudicated |
 
+| C-2204 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Harwin recounts Ned and Hoster defeat Jon Connington at Battle of Bells | Rebellion-era character history, secondhand to Arya |
+| C-2205 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Robert slew Myles Mooton and missed direct duel with Connington | Harwin's report, no firsthand corroboration here |
+| C-2206 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Connington reportedly wounded Hoster Tully and killed Denys Arryn | Historical battle losses attributed to Harwin |
+| C-2207 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Stoney Sept raw wood gates replace charred old gates | Physical recent destruction and repair |
+| C-2208 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Gate captain reports sheep and trade south of Blackwater | Local supply network, scope uncertain |
+| C-2209 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Huntsman searching Jaime motivated by rape and slaughter of his family farm | Captain testimony of direct losses, motives attributed |
+| C-2210 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Townsfolk say absent lord's sons joined Robb while Ser Wilbert died | Vacuum in justice and local security |
+| C-2211 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | A dozen crow cages stand near leaping-trout fountain | Observed punishment apparatus |
+| C-2212 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Caged men called wolves accused of eight murders at Tumbler's Falls | Local witness report rather than judicial finding |
+| C-2213 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Living northmen beg Arya for water despite reported atrocities | Human vulnerability of supposed allies |
+| C-2214 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Arya feeds water to three dying captives through cage bars | Separate personal mercy from later executions |
+| C-2215 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Anguy shoots the three caged men on the spot | Lethal acts witnessed, intended to end agony |
+| C-2216 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Arya thinks Braavosi death phrase at cages | Connection to death ritual, not Faceless Men intervention |
+| C-2217 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Brothel Peach patronized by Brotherhood, run by Tansy | Sexwork and hospitality amid siege aftermath |
+| C-2218 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Tom Sevenstrings said to have son riding with Huntsman | Tansy teasing, biological father unproven |
+| C-2219 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Bella claims mother slept with Robert in Battle of Bells hiding | Possible royal paternity, not acknowledgement |
+| C-2220 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Bella's dark Baratheon-like hair reminds Arya of Gendry | Possible shared father hypothesis |
+| C-2221 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Gendry rebuffs Bella's solicitation at Peach | Potential unknowing sibling proximity; interpretation open |
+| C-2222 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Tansy reports Catelyn freed Jaime for love after night in cell | Release true, motive rumor unsupported |
+| C-2223 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Gendry calls Arya his sister to shield from lecherous guest | Fictional kinship used tactically |
+| C-2224 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Gendry hears Arya's objection as class rejection | Misunderstanding, not confirmation of romance |
+| C-2225 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Arya considers running but gates and pursuit make escape unviable | Conscious practical choice |
+| C-2226 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Arya repeats vengeance list including Hound and Gregor | Individual private targeting, present statuses unknown |
+| C-2227 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Arya wolf dreams a pack killing horse in rain-wet forest | Warging candidate, identity/date unconfirmed |
+| C-2228 | [ASOS 29](../Source/Main-Series/03-A-Storm-of-Swords/chapters/29-arya.md) | Mad Huntsman arrives with dogs, captive called Lannister not Jaime | Identity of captured man unestablished |
+| C-2229 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Jon finds Ghost absent after prior Castle Black instruction | Departure likely, target arrival unknown |
+| C-2230 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Styr sends two dozen Thenn scouts east and west with warhorns | Lookout network and early warning capacity |
+| C-2231 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Wall elevation locally appears eight or nine hundred feet from forest | Ridge contributes one third; estimates not precision |
+| C-2232 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Jon recalls Wall snakes over western hills unlike straighter east | Topographical defense differences |
+| C-2233 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Wall tree-clearing ceased and sentinel leans against ice | Maintenance lapse enables climber head start |
+| C-2234 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Styr's Thenns fearful and inexperienced at Wall while Jarl practiced | Different free folk exposure and skill |
+| C-2235 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Jon struggles with alternatives of leaving or taking Ygritte | Unresolved divided allegiance, no executed desertion |
+| C-2236 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Jarl organizes twelve specialists in three roped teams of four | Known climbing strength and team design |
+| C-2237 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Iron bronze bone boot spikes, horn axes and hemp equipment | Mundane material climbing techniques |
+| C-2238 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Mance promises forged swords and song for first team up | Practical and reputational incentives |
+| C-2239 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Sea Bay of Seals and western Gorge identified as alternative crossings | Jon's geographic account, risk levels vary |
+| C-2240 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Patrols occasionally find climbers and bodies at Wall | Historical watch practice, current gaps possible |
+| C-2241 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Jarl reaches leaning tree and transitions to Wall around three hundred feet | Concrete tree-assisted crossing vulnerability |
+| C-2242 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Jarl narrowly survives first collapsed ice pinnacle via rope | Earlier natural ice instability observed |
+| C-2243 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | No Watch patrol appears or Thenn warning sounds during ascent | Local defender absence, not total Watch extinction |
+| C-2244 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Massive one-foot-thick fifty-foot-square ice slab detaches | Physical collapse destroys Jarl climbing party |
+| C-2245 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Jon shields Ygritte from falling ice and Thenn injured on ground | Immediate rescue plus incidental injury |
+| C-2246 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Jarl impaled in tree, three companions fall, one asks mercy | Specific fatalities and dying fourth climber |
+| C-2247 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Thenn kills mortally wounded climber with stone mace | Witnessed mercy killing |
+| C-2248 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Jon thinks Wall defending itself against climbers | Supernatural inference vs unstable ice alternative |
+| C-2249 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Grigg Errok teams reach top, pull five huge rope ladders | Actual group ascent mechanism |
+| C-2250 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Two more Thenns fall off ladders and die | Total shown deaths at least six |
+| C-2251 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Jon and Ygritte arrive top near midnight | Not yet descended south of Wall |
+| C-2252 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Ygritte says fifty graves opened searching for Horn of Joramun | Reported failed search not identification of any horn |
+| C-2253 | [ASOS 30](../Source/Main-Series/03-A-Storm-of-Swords/chapters/30-jon.md) | Ygritte says Wall made of blood, cries over horn failure | Cultural/magic suggestion not observed construction |
+| C-2254 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Zollo severed Jaime's right sword hand with arakh | Result of prior chapter attack now confirmed |
+| C-2255 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Captors cauterize stump and Jaime senses phantom fingers | Injury and pain persist after amputation |
+| C-2256 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Severed hand tied around Jaime's neck | Physical humiliation and hostage leverage |
+| C-2257 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Rorge tricks Jaime into drinking horse urine | Captivity cruelty, not ordinary provision |
+| C-2258 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Jaime's desperate left-handed attack fails against Shagwell | Current impairment not proof permanent inability |
+| C-2259 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Vargo threatens to amputate remaining limbs after attempt | Continued bodily threat |
+| C-2260 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Brienne urges Jaime to live by confronting fear of cowardice | Psychological turning point, followed by eating |
+| C-2261 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Jaime plans prosthetic golden hand and revenge | Future intention, no object forged yet |
+| C-2262 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Jaime thinks Tyrion loves him for an undisclosed lie | Important familial deception, specifics not revealed |
+| C-2263 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Jaime remembers being named Kingsguard at Harrenhal at fifteen | Historical oath connected to tourney |
+| C-2264 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Aerys prevented Jaime jousting, sent him away from tourney | Direct memory, royal motive not established |
+| C-2265 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Jaime sees privy where he took vows at old Whent tourney | Spatial reversal, deliberate insult unproven |
+| C-2266 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Rorge Zollo Shagwell prepare to sexually assault Brienne | Assault plan interrupted before execution |
+| C-2267 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Jaime shouts about sapphire value to attract Hoat's attention | Ransom misinformation protects Brienne |
+| C-2268 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Hoat orders guards to protect Brienne from own sellswords | Immediate safeguarding conditional on expected wealth |
+| C-2269 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Brienne later thanks Jaime for avoiding assault | Emergent mutual obligation despite prior violence |
+| C-2270 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Harrenhal flies flayed man twin towers direwolf together | Nominal northern allegiance and faction tension |
+| C-2271 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Danwell Aenys Hosteen Frey confront Jaime at Harrenhal | Named rival interests and firsthand encounter |
+| C-2272 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Frey lords debate ransom killing and Catelyn daughters' value | Disunity and marriage-rupture resentment |
+| C-2273 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Vargo demands one hundred thousand dragons plus Karstark daughter | Proposed double extraction, not accomplished |
+| C-2274 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Roose says Rickard Karstark already executed | Information reached Bolton, transmission not shown |
+| C-2275 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Roose says Joffrey to marry Highgarden bride, Brienne ignorant | Political news uneven by captive POV |
+| C-2276 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Bolton hesitates calling Joffrey Jaime's nephew | Jaime reads incest awareness into pause |
+| C-2277 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Bolton throws Jaime's severed hand to Hoat and forbids further abuse | Command backed by Frey northern numerical advantage |
+| C-2278 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Brienne unbound and separated from Jaime under Bolton protection | Formal promises, future security unverified |
+| C-2279 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Qyburn advises further amputation to contain spreading infection | Medical danger and contested consent |
+| C-2280 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Jaime rejects milk of poppy to avoid waking minus arm | Agency amid treatment, not analgesic availability |
+| C-2281 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Qyburn uses boiling wine nettle mustard seed bread mold and stitches | Documented treatment, outcome uncertain |
+| C-2282 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Qyburn says Citadel removed his chain | Institutional expulsion, underlying cause undisclosed |
+| C-2283 | [ASOS 31](../Source/Main-Series/03-A-Storm-of-Swords/chapters/31-jaime.md) | Qyburn says Roose Bolton fond of leeches | Personal health practice report, possible later motif |
+| C-2284 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | King's Landing riverfront remains burnt yet settlers and fish traders return | Postbattle reconstruction pressures |
+| C-2285 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Bronn suggests mass killing of returning squatters, Tyrion refuses | Choices distinct from frustration with poor |
+| C-2286 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Kevan grieves murdered Willem, captive Martyn and injured Lancel | Political duty shifts to Tyrion |
+| C-2287 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Littlefinger reportedly sailed north a fortnight earlier | Departure now reported, Vale marriage unverified |
+| C-2288 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Children climb idle Three Whores and throw dung at Tyrion | Siege weapon safety and contempt |
+| C-2289 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Tyrion observes six coppers melon silver stag corn dragon beef | Local food price snapshot, not full series |
+| C-2290 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Sansa still unconsummated; servants or Varys possibly leaked fact | Tyrion suspects surveillance, source unknown |
+| C-2291 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Shae knew Tyrion betrothal from page and servant rumor chain | Information moved before Sansa told |
+| C-2292 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Shae expects Sansa child and return to her | Shae's statements not proof of private feelings |
+| C-2293 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Tyrion brings thirty golden dragons to offer Symon relocation | Initial peaceful offer, later superseded |
+| C-2294 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Symon sings about hidden woman, chain and keep, golden hands | Blackmail of Shae relationship |
+| C-2295 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Seven scheduled royal wedding singers compete for ornate lute | Explicit cultural/ceremonial roster |
+| C-2296 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Symon threatens to perform song unless included in wedding | Coercive demand and danger to Tyrion |
+| C-2297 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Tyrion orders Bronn falsely promise singer Hamish injury | Lure after three days |
+| C-2298 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Tyrion orders Symon's body never found | Murder conspiracy ordered, execution unverified |
+| C-2299 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Bronn jokes pot-shop bowls of brown can hide corpse | Cannibal-disposal conjecture not depicted |
+| C-2300 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Tobho Mott presents two black-red Valyrian swords | Physical blades for Joffrey and Jaime |
+| C-2301 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Joffrey's sword smaller two fullers and Jaime's larger three | Material construction details |
+| C-2302 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Valyrian steel red color resists Mott's repeated dye spells | Artisan statement and visible strange pattern |
+| C-2303 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Parent blade for two swords unmentioned in this chapter | Ice hypothesis to confirm separately |
+| C-2304 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Lannister Brightroar lost on King Tommen's Valyria voyage | Dynastic history recounted |
+| C-2305 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Gerion Lannister also lost searching for Brightroar | Separate missing family member |
+| C-2306 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Tywin refuses treasury debt cancellation to Lannister house | Conflicting royal and house finance interests |
+| C-2307 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Littlefinger crown revenue ten times under Aerys, debt consumes flow | Account claims, not independent audit |
+| C-2308 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Blackwater dredging gates quays fish market need repair | Concrete infrastructure cost |
+| C-2309 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Tywin demands thousand-guest seventy-seven-course wedding | Political display over fiscal restraint |
+| C-2310 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Tywin says unconsummated Sansa marriage can be set aside | Explicit legal vulnerability recognized |
+| C-2311 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Tywin reports Olenna derailed proposed Cersei Willas marriage | Indirect report, Cersei not told |
+| C-2312 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Bowen Marsh reports Mormont attack raven and later empty birds | Two initial Sam warnings consistent |
+| C-2313 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Tywin refuses soldiers and threatens Watch election for Slynt | Conditional political coercion, election unheld |
+| C-2314 | [ASOS 32](../Source/Main-Series/03-A-Storm-of-Swords/chapters/32-tyrion.md) | Pycelle ordered to send royal letter praising Janos Slynt | Dispatch ordered, receipt and compliance unverified |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -2271,4 +2383,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and seventy-four first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and seventy-eight first-pass chapters listed in the coverage tracker.
