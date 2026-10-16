@@ -1,0 +1,62 @@
+# ASOS 49 — Catelyn: the Twins' guest right, Grey Wind's warning, Roose's attrition report, and Theon as hostage
+
+- Record role: `RESEARCH / SEQUENTIAL CLOSE READING`
+- Status: `FIRST PASS COMPLETE — INDEPENDENT CHALLENGE OPEN`
+- Primary source: complete [ASOS 49 Catelyn transcription](../text/050-catelyn.md), read 2026-10-16. [Evidence policy](../../../../SOURCES.md).
+
+## Chronological record, causal consequences and evidence limits
+
+1. **Flooding makes the Frey bridge indispensable.** The Green Fork is swollen to roughly half again its previous width. Catelyn sees no realistic ford or swim option and expects river levels could remain dangerous for weeks. The Twins' architecture—two fortified bank castles, arched bridge, central Water Tower and moats—is a **material monopoly over safe movement**, not just political symbolism.
+2. **Catelyn explicitly seeks the protection of guest right.** Before arrival she instructs Robb to **accept or demand bread, salt and wine** and eat publicly. Robb relies more on an army than the old custom, but agrees. Her demand is made **before any violence occurs**, showing she recognizes potential danger without knowing the precise plan.
+3. **Robb's arrival party remains identifiable.** He wears his bronze-and-iron crown, with Catelyn and Edmure beside him; **Ser Raynald Westerling** carries the Stark banner. The massed camps across the river include thousands of Frey-aligned soldiers, but the rain obscures heraldry and identity.
+4. **The welcoming Freys do not offer fealty.** **Ser Ryman Frey**, son of deceased Stevron and present heir, comes with sons **Edwyn, Black Walder and Petyr Pimple**. They emphasize lateness and Queen Jeyne's absence. Edwyn courteously offers accommodations; Black Walder speaks aggressively and reaches for his sword. **Distinct family temperaments matter**; the chapter does not require treating every Frey as a single voice.
+5. **Grey Wind shows unusually strong resistance.** He growls at the approaching Freys, lunges and startles mounts, throwing Petyr; later he **howls, resists and bares his teeth under the portcullis**. Catelyn steps between wolf and horses; Robb persuades him to pass with difficulty. Lothar and Walder Rivers offer **the flooded river's noise** as an ordinary explanation. **Wolf danger-sense is strongly suggested by his behavior, not demonstrated telepathic foreknowledge.**
+6. **Grey Wind is deliberately separated from the king.** Robb orders **Raynald** to remain with his wolf and refuses to bring the agitated animal into Walder's hall. Catelyn additionally sees a diplomatic reason: keeping the Westerling out of Walder's sight. The king's active defense is displaced from his side **before a trap is shown**.
+7. **Freys control space, lodging and soldiers' access.** Edwyn says the castle's upper rooms will house Robb, Edmure, Catelyn and lords, while Robb's common soldiers must **cross and camp near Frey levies**, receiving drink and shelter in **three large feast tents** outside. The arrangements **physically divide the royal party and army**, framed by Freys as a reasonable provisioning limit.
+8. **Walder makes royal humiliation explicit.** In his high seat beneath carved twin towers, aged Lord Walder mocks Robb's plain metal crown, his broken marriage promise, the difference between Westerling and Frey girls, and the need for public pardon. Robb apologizes **to a lineup of named daughters and granddaughters**, affirming his broken oath and that they were not to blame. His apology is completed; no future reconciliation can be inferred from its polite reception.
+9. **Family structure is exposed as political resource.** Walder names **Arwyn, Shirei, Ami, Marianne, Little Bee, Merry, Tyta, Alyx, Marissa, Serra, Sarra**, multiple Waldas and others. He rebukes a young **Walda descended from Aemon Rivers** as not trueborn. This is on-page **intra-Frey status hierarchy**, not proof each young relative has foreknowledge of events.
+10. **Aegon 'Jinglebell' Frey is a distinct vulnerable person.** Walder introduces the adult grandson **Aegon**, Stevron's son, wearing bell-decorated crown and collar, apparently intellectually disabled and mocked as useless. He is **not** Aegon Targaryen or an armed plotter; the bell motif acquires terrible significance in the next chapter.
+11. **Roslin's actual appearance pleases Edmure.** Her brother **Benfrey Frey** brings her in; she is young, small, brown-eyed and chestnut-haired. Edmure is visibly delighted. **She cries and attributes it to happiness**; Catelyn thinks bridal anxiety plausible. **The tears are observed, inner motive unconfirmed**—a conspicuous candidate for later reevaluation.
+12. **Walder's language about music, flowing red and bedding is ambiguous beforehand.** He promises a joyous marriage and 'red' running with wine, while repeatedly highlighting the bedding. Read retrospectively these sound threatening, but **Catelyn has not been told a massacre is planned**.
+13. **Guest right is formally and publicly established.** After Catelyn requests refreshment, **Walder himself offers bread, cheese, butter, wine and salt** and verbally welcomes Robb's party beneath his roof. Robb, Edmure and Catelyn eat and drink. **The ritual clearly occurs.** Its later breach cannot be excused as a failure to share host food.
+14. **Private rooms are well furnished.** Edmure's bridal room has Tully-colored drapes; Catelyn's accommodations are comfortable. She nonetheless requests **Stark/Tully guards** at sleeping quarters. Comfortable provisions are not evidence a castle is safe.
+15. **Edmure asks about Roslin's fertility.** Catelyn considers Rosby's reported frailty and fears childbirth risks but cautions Edmure against assuming barrenness. No examination by her is performed; **Roslin's individual future reproductive outcome is UNKNOWN**.
+16. **Maester Brenett supplies significant Frey genealogy.** He identifies Roslin's mother as **Bethany Rosby**, who bore **Perwyn, Benfrey, Willamen, Olyvar and Roslin**, all surviving infancy. **Willamen** took a maester's vows and serves Lord Hunter in the Vale; **Olyvar** previously squired for Robb; **Perwyn** helped escort Catelyn to Storm's End. This precise same-mother sibling grouping deserves tracking because their later whereabouts differ.
+17. **Perwyn's absence is concealed under plausible travel language.** When Catelyn asks, Lothar says **Perwyn is away**, perhaps unable to return due to rain. His absence alone is **not proof he protested or knew of conspiracy**, but it is a precise later disconfirmation target.
+18. **Roose arrives and controls the interpretation of Winterfell.** Before Robb and Catelyn, he reiterates that ironborn burned Winterfell and that **Ramsay** rescued survivors, while admitting accusations of murder and rape against Ramsay. The reader has prior Bran/Theon POV reasons to doubt that assignment of blame. Bolton uses **Ramsay's alleged service** as potential offset against atrocities.
+19. **A material token proves brutality, not every accompanying claim.** Roose produces a **strip of skin reportedly from Theon Greyjoy's left little finger**, attributing its removal to Ramsay. The token establishes a physical trophy and Bolton's knowledge; its precise provenance relies on Ramsay's account, not an independent witness of mutilation.
+20. **Bolton persuades Robb to preserve Theon as a political prisoner.** Since Balon is dead, Roose says Theon's rival claim makes him a valuable bargaining asset against another claimant to the Seastone Chair. Robb agrees to **keep Theon alive for now at the Dreadfort**. This is a **royal order based on Bolton's custodial claim**, not on-page confirmation of Theon's entire current condition or future exchange.
+21. **Bolton explains severe attrition at the Trident.** He says **Aenys Frey crossed the ruby ford earlier**, whereas his own army reached a swollen Trident, forced to use too few boats. With **two-thirds allegedly across**, **Gregor Clegane's heavy cavalry** attacked the remaining men, chiefly **Norrey, Locke, Burley and Wylis Manderly's White Harbor troops**. Many died, drowned, fled or were captured. The fight and sequence are **Bolton's report**, not a Catelyn eyewitness battle.
+22. **The distribution of casualties deserves independent scrutiny.** Bolton says he himself was already north of the river and helpless, and the men stranded south were from several **non-Dreadfort houses**. These selective losses fit a potential sabotage hypothesis, but the chapter **does not produce his original deployment orders, dispatches or proof of intentional delay**.
+23. **Wylis Manderly is reported captured.** **Ser Wendel** already hears his brother is taken again. Bolton names Wylis among those protecting the rearguard; **captivity rather than death** is the current report. Distinguish Wylis from **Wendel**, who is physically at the Twins.
+24. **Bolton leaves a claimed blocking force south of the crossing.** He asserts **600 men** guard the ruby ford, including **100 Hornwood longbows**, **Stout/Cerwyn** strength and local spears, commanded by **Ronnel Stout and Ser Kyle Condon**. This is a coherent claimed defense; **do not silently treat it as independently verified operational success**.
+25. **He blames Duskendale on Robett's grief.** Bolton suggests **Robett Glover** acted rashly after news of Deepwood Motte, confirming losses at Duskendale without clarifying the **source of original movement orders**. This explanation is politically useful to a commander whose own responsibility remains a live issue.
+26. **The actual reinforcement figure is only about 3,500.** Bolton says he brings **500 mounted and 3,000 foot**, mainly Dreadfort and Karstark troops, much less than might be expected from his earlier host. Robb nevertheless awards him command of the **rear guard** for the coming march north. Formal confidence contrasts with unresolved intelligence about his losses and intentions.
+27. **End state:** All principals are at the Twins under formally established guest right, Robb's men dispersed into Frey-provisioned external camps, Grey Wind separated from Robb, Edmure pleased with Roslin though she has cried, and Roose incorporated into Robb's future command despite serious unresolved military accounting.
+
+## Microdetail and cross-POV ledger
+
+| Anchor | Evidence / boundary |
+|---|---|
+| Green Fork impassable except Frey bridge | Physical strategic leverage |
+| Wolf charges greeting party, balks at gate | Direct unusual behavior; reason unknown |
+| Raynald appointed to guard Wolf | Protective choice also separates king/wolf |
+| Robb's men sent to three Frey feast tents | Outsider logistical control, civilians and fighters separated |
+| Bread **and salt** personally supplied after demand | Guest right genuinely enacted |
+| Aegon with tiny bells | Vulnerable unarmed grandson, not a conspirator by default |
+| Roslin weeps | Tears real; motive unproved |
+| Perwyn absent; Olyvar is Bethany's son | Family granularity worth tracking |
+| Theon skin trophy | Ramsay report of source, Bolton possession clear |
+| Wylis captured; Wendel at feast | Distinct Manderlys and locations |
+| Ronnel Stout/Kyle Condon 600-man rear line | Reported position, not surveyed force |
+| Duskendale 'rash Glover' account | Bolton interested narrative, missing order source |
+
+## Competing readings / next verification
+
+- **Did Freys plan betrayal already?** The splitting of king, direwolf and common soldiers, conspicuous crying, absent siblings and intrusive hospitality rituals form a strong pattern, but the decisive source will be actual acts and accomplices in subsequent chapters. No retroactive 'all Freys knew' generalization.
+- **Was the ruby ford a planned cull of rivals?** The casualty allocation and self-serving explanation merit scrutiny. Seek alternate witnesses and command letters, not merely Bolton's controlled account.
+- **Can guest right protect the party?** The ritual explicitly occurs; whether the Freys honor it is a test, not something assured by food.
+- **Jinglebell and Roslin:** Their vulnerability and discomfort should not be erased by later knowledge. Distinguish being a Frey from directing a plot.
+- **Ramsay and Theon:** A horrifying physical token and Bolton's gloss coexist with the reader's deeper but still incomplete knowledge from Winterfell.
+
+**Review boundary:** Full primary-text first pass; independent family roster, logistics and court-evidence audit remains open.
