@@ -38,6 +38,8 @@ This gives at least **three independent-looking channels** to test, each with li
 - Arnolf's soldiers' belief system cannot be simply inferred from **Asha's** statement that the Karstarks worship the Old Gods: she frames that as her own understanding (**ADWD 62**), not interviews with 452 soldiers.
 - The men stamping at Arnolf's speech are described by Asha as **mostly northmen**; she does not identify them all as members of Arnolf's regiment. Their applause proves widespread impatience with delay, **not knowledge of treachery**.
 
+**Harrion custody cross-check:** [Harrion's Maidenpool hostage and proof-of-death dossier](harrion-karstark-maidenpool-hostage-succession-verification.md) distinguishes Alys's **nearly year-old report** of his Maidenpool captivity (ADWD 44) from Cregan's unsupported statement he died (ADWD 49). It compares the independently narrated Arnolf–Bolton military trap (ADWD 32) with Alys's **additional, not independently proved accusation** that the deal included Harrion's death. The succession claims below remain contingent on authenticated status, not appendix entries.
+
 ## The political alternative is real but harder than “Alys is rightful lord”
 
 **ADWD 44:** Alys describes Harrion as the rightful lord; Arnolf is his castellan. Her claim arises **after** Harrion, if his death is established. Cregan wants to marry her to consolidate his father's line. **ADWD 49:** Cregan **asserts** Harrion is dead; Jon's response treats that as unverified. Therefore a scene cannot lawfully and conclusively call Alys “the current Lady of Karhold” **on this evidence alone**.
