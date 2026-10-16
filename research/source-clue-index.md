@@ -1819,6 +1819,85 @@
 | C-1762 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Tyrion sent Alayaya silver jade necklace and bracelets after her whipping | Reported apology gift not reversal of harm |
 | C-1763 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Tyrion asks Bronn find Symon Silver Tongue, considers but does not order murder | Action threshold exactly bounded |
 
+| C-1764 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Arya reaches Trident and scavenges dead Pate garden after six days without provisions | Geographic advance now confirmed but Riverrun still distant |
+| C-1765 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Adult borrowed longsword too big heavy for Arya, Needle still missing | Material cost of losing signature weapon |
+| C-1766 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Tom Sevenstrings woodharp singer, Lem yellow cloak, Anguy goose feather arrows | Specific Brotherhood contact identifiers |
+| C-1767 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Bolton doublet exposes Arya as former cupbearer despite concealed name | Visible sigil defeats disguise |
+| C-1768 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Lem Anguy Tom claim serve dead King Robert | Historical commission plausible; current lawful authority not demonstrated |
+| C-1769 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Anguy intentionally fires arrow brushing Arya ear then draws second | Direct extraordinary accuracy and coercion |
+| C-1770 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Hot Pie sings Bear Maiden Fair well while walking with Tom | Skill contradicts Arya dismissive appraisal |
+| C-1771 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Anguy shoots duck at small stream, Lem retrieves | Foraging and weapon skill |
+| C-1772 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Sharna runs inn, Husband pockmarked man and crossbow boy present | Same physical tavern and cast as ASOS 11 Jaime |
+| C-1773 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Kneeling king inn sign and slate roof by river confirms ASOS11 site | Direct cross viewpoint geographic continuity |
+| C-1774 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Gendry remains with horses as Arya Hot Pie enter tavern | Cooperative caution |
+| C-1775 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Arya proposes taking docked boat upriver but Gendry notes current risk | Never attempts boat seizure |
+| C-1776 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Husband confirms Brienne bought three horses with three dragons plus skiff | Independent corroboration of ASOS11 exchange |
+| C-1777 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Husband says Tom Lem Anguy instructed to intercept Brienne's party and reclaim horses | Confirms earlier inferred woodland trap plan, not actual assault |
+| C-1778 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Husband says Sharna absent at Lambswold helping Fern give birth | Explains prior innkeeper claim his wife away |
+| C-1779 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Hot Pie identifies bread too much kneaded, knows baking | Concrete craft competence |
+| C-1780 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Tom offers IOU of three gold dragons for children's horses | Forced requisition under claim to king, no coin paid |
+| C-1781 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Arya counters requesting boat and instructions for horses | Uncompleted offer laughed off |
+| C-1782 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | New dozen mounted associates approach and Lem physically restrains Arya | Brotherhood pressure and party division |
+| C-1783 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Arya breaks Lem nose with tankard but cannot escape | Child directly resists coercion |
+| C-1784 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Green bearded Tyroshi, one eyed man, wounded escort enter inn | Wide and organized armed network, names partially unknown |
+| C-1785 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Harwin son of Hullen recognizes Arya Underfoot and kneels before her | Independent childhood witness confirms Stark identity |
+| C-1786 | [ASOS 13](../Source/Main-Series/03-A-Storm-of-Swords/chapters/13-arya.md) | Arya's recovered real name does not restore freedom or reach Riverrun | Identity revelation vs political outcome |
+| C-1787 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Ryger returns Riverrun on foot after failed pursuit of Jaime | Confirms ASOS 1 Brienne rockfall beyond Jaime viewpoint |
+| C-1788 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Near forty riders including possible Perwyn Frey Martyn Rivers trample Stark banner leaving Riverrun | Firsthand evidence Frey alliance rupture, identities somewhat uncertain |
+| C-1789 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Robb praises Edmure Red Fork defense publicly then condemns privately | Public performance for Riverlords vs strategic judgment |
+| C-1790 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Robb shows healed arrow wound at Crag while wearing bronze iron crown | Report and visible return, not grave wound |
+| C-1791 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Karstark accuses Catelyn of stealing vengeance for Torrhen Eddard Jaime deaths | Threatens northern unity |
+| C-1792 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Robb forgives Catelyn unauthorized Jaime release but Karstark refuses | Personal pardon does not end factional division |
+| C-1793 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Maege supports Catelyn Galbart/Jason cooler, Jonos near icy | Coalition responses diverse |
+| C-1794 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Robb introduces Sybell Westerling, Rolph Spicer, Raynald, Elenya, Rollam | Specific Crag family retinue and direct identities |
+| C-1795 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Rolph Spicer heraldry three black pepperpots on saffron bend | Testable minor house marker, not traitor proof |
+| C-1796 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Robb presents Jeyne Westerling as already married queen | Actual wedding, not tentative betrothal |
+| C-1797 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Jeyne father Gawen Westerling captive at Seagard and never consented | House divided across captive head and Crag supporters |
+| C-1798 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Jeyne Westerling brings fifty fighters and dozen knights versus Frey thousands | Major manpower cost of violated Frey pact |
+| C-1799 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Robb describes Crag scaling Black Walder Smalljon and own infected arrow wound | Participant battle history |
+| C-1800 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Jeyne nursed Robb through fever and comforted him after false Bran Rickon death news | Marriage timing established, poisoning or deliberate manipulation unproven |
+| C-1801 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Robb wed Jeyne day after intimacy from sense of honor | Stated motive vs breached earlier betrothal |
+| C-1802 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Ryman Frey recalls Olyvar against his will, Black Walder mentions future widow marriage | Retaliatory grievance, no concrete planned massacre shown |
+| C-1803 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Robb suggests Wendel Manderly and Umber elders replace Frey royal match | Proposed amends politically inadequate according Catelyn |
+| C-1804 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Robb rejects idea Theon may invade even retained hostage? admits error, Cat says Balon might regardless | Counterfactual dispute and false Stark prince deaths |
+| C-1805 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Grey Wind absent hall because Jeyne fearful Sybell terrified | Loss of constant direwolf proximity |
+| C-1806 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Grey Wind growls and bares teeth at Rolph Spicer repeatedly | Potential suspicious wolf warning, human guilt unproven |
+| C-1807 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Robb agrees send Rolph on distant duty to soothe Catelyn | Planned precaution not actual proven betrayal |
+| C-1808 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Robb corrects Catelyn five wolf count: sixth Ghost belonged to Jon | Numerical clue for bastard family inclusion |
+| C-1809 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Blackfish says Edmure ordered only hold Riverrun not fight entire Red Fork | Secret command misunderstanding |
+| C-1810 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Robb/Brynden planned draw Tywin west and fight on favorable gold road cavalry ground | Detailed reported strategy, alternate outcome counterfactual |
+| C-1811 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Edmure explicitly says he was never told purpose of west-lure plan | Commanders share responsibility for information gap |
+| C-1812 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Messengers from Bitterbridge reach Tywin after ford battles, Tywin meets Tyrell barges at Tumblers Falls | Specific sequence of Blackwater relief logistics |
+| C-1813 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Moat Cailin ironborn make northern return arduous with Freys potentially at back | Geopolitical bottleneck |
+| C-1814 | [ASOS 14](../Source/Main-Series/03-A-Storm-of-Swords/chapters/14-catelyn.md) | Catelyn proposes person not gifts to make Frey amends | Replacement marriage strategy implied, party unspecified |
+| C-1815 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Jon counts more than fifty giant mammoth riders and estimates hundreds | Direct lower bound, total unverified |
+| C-1816 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Giants hairy 10-14 foot estimated, black broad feet, wooden clubs | Stories of armored castle giants contradicted by eyewitness |
+| C-1817 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Mag Mar Tun Doh Weg giant laughs and exchanges Old Tongue with Tormund | Named giant and linguistic evidence |
+| C-1818 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Tormund says giants have no kings, just like whales and mammoths | Wildling political claim, not independent census |
+| C-1819 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Jon recalls Joramun Horn of Winter legend and considers Tormund title Horn-Blower | Hypothesis not discovery of actual horn |
+| C-1820 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Tormund explains Giantsbabe and bear stories through tall tales | Self performance not factual account of supernatural breeding |
+| C-1821 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Jon wears Mance sheepskin but retains black Watch cloak in saddle | Dual allegiances physically symbolized |
+| C-1822 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Ygritte follows Jon from Rattleshirt to Tormund's band | Free folk self-selection and social support |
+| C-1823 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Jon uses Ghost to keep Ygritte from sleeping physically beside him | Watch chastity boundary under infiltration |
+| C-1824 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Tormund says moon tea belongs to woman's choice and bastards equal | Reported different kinship norms not universal |
+| C-1825 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Jon observes Varamyr accompanied by snow bear three wolves and shadowcat | Multiple beast association, direct warging shift unseen |
+| C-1826 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Harma Dogshead, Styr Thenn, Hornfoots and Ice River groups have distinct customs | Host culturally fragmented, some firsthand and some hearsay |
+| C-1827 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Mance united rival clans with songs bargains force; families and food carts included | Migration logistics and diplomatic ability |
+| C-1828 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Jon estimates only one wildling in hundred mounted and Watch could break host | Prospective tactical guess overturned by Fist situation |
+| C-1829 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Jon imagines killing Mance may scatter coalition | Personal hypothesis not attempted |
+| C-1830 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Last of Giants elegy draws tears from Ygritte while giants still live | Decline/displacement lament not literal extinction |
+| C-1831 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Orell eagle claws Jon face and narrowly misses eye | Direct targeted animal attack |
+| C-1832 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Ygritte names bird Orell, man Jon killed at mountain pass | Specific skinchanger second-life evidence |
+| C-1833 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Rattleshirt eagle perches on his giant skull helmet | Association with bearer, exact bird controller unclear |
+| C-1834 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Fist shows gutted horses and horse impaled on exit-oriented spikes | Physical sign Watch fled defending position |
+| C-1835 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Mance says moving dead overwhelmed Fist without wildling storming | Informed testimony corroborated by ASOS prologue, Jon no battle witness |
+| C-1836 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Jon gives Mance three hundred watchmen and Mormont leadership under threat | Military intelligence leaks through cover identity |
+| C-1837 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Mance knows Bowen Marsh commands Castle Black and deems him militarily weak | Commander opinion, defensive readiness not independently audited |
+| C-1838 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Mance orders Varamyr wolves scout wights and all patrols have torch and flint | Free folk also threatened by undead |
+| C-1839 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Ygritte claims closeness beneath cloak, later explains she omitted timing | Successful deception about intimacy, not completed consummation here |
+| C-1840 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Mance orders Jon Ygritte join Styr Jarl crossing Wall next morning | Operational advance action not yet completed |
+| C-1841 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Ghost appears at Fist ringwall and deters Rattleshirt attacking Jon | Direct direwolf protective intervention |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1826,4 +1905,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and fifty-eight first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and sixty-one first-pass chapters listed in the coverage tracker.
