@@ -114,6 +114,10 @@ Roose/Ramsay control the ruin and use 'Arya' as a Stark legitimacy asset (**ADWD
 - [Stannis/Theon/Jeyne ledger](stannis-theon-jeyne-decision-ledger.md): Theon possesses corroborating knowledge of Bolton expecting Arnolf's turn (ADWD 37) — distinguish that from direct witness to Arnolf personally making a pledge.
 - [Synthesis index](README.md) and [Roadmap](../../ROADMAP.md): add this as the cross-plot political/legitimacy checkpoint; do not touch another agent's `Source/Main-Series` notes or tracker.
 
+## Northern alignment cannot be bought with one marriage revelation (2026-10-16)
+
+The [Manderly–Umber–clan motive comparison](northern-coalition-manderly-umber-clans-arya-revelation-gates.md) adds a critical check on succession scenarios: **ADWD 29 (Davos)** explicitly makes Wyman's acceptance of **Stannis** conditional on **Rickon and his direwolf being recovered**, and **Robett Glover** tells Davos Stannis is *his*, not necessarily the North's, king. Meanwhile **ADWD 42 (Asha)** shows the hill clans fighting for Ned's apparent girl and **against the Boltons** even amid starvation; **ADWD 17 (Jon)** describes **Mors Umber's partial pledge**, his condition against fighting Hother and his demand for Mance's skull. This creates multiple unresolved obstacles to a simple `expose Jeyne → all northern houses unite under Stannis/Arnolf` sequence. **Wyman's Rickon bargain, Mors's terms, Stannis's own Arnolf preference and the clans' varied war aims are independent decisions**, none completed at the five-book cutoff.
+
 ## Next bounded research
 
 1. **Interrogation detail:** Revisit ADWD 32/37/51 to identify which part of Bolton's trap Theon could actually describe to Stannis, and what he personally witnessed versus overheard.
