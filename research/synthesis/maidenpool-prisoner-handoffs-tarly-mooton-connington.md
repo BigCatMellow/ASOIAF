@@ -1,7 +1,7 @@
 # Maidenpool prisoner handoffs — Tarly's jurisdiction, Mooton's household, and the missing Harrion record
 
 - Record role: `RESEARCH / SOUTHERN CUSTODY AND MESSAGE-GATES / CROSS-POV AUDIT`
-- Status: `FIVE-PUBLISHED-NOVEL DIRECT SOURCE PASS / WYlIS ROUTE PARTIALLY CORROBORATED / HARRION AT MAIDENPOOL STILL SECONDHAND`
+- Status: `FIVE-PUBLISHED-NOVEL DIRECT SOURCE PASS / WYLIS ROUTE PARTIALLY CORROBORATED / HARRION AT MAIDENPOOL STILL SECONDHAND`
 - Lifecycle: `ACTIVE`; authority: `ADVISORY / NONE`
 - Owner boundary: owns **who exercises practical power at Maidenpool and how distinguishable prisoner escorts pass through it**. [Harrion's custody and inheritance file](harrion-karstark-maidenpool-hostage-succession-verification.md) owns Karhold legal consequences and death claims; [Harrenhal prisoner reactivation](harrenhal-captive-command-reintegration-audit.md) owns Harrion's earlier change of custody; [Wylis/Trident witnesses](trident-crossing-wylis-manderly-captivity-witness-audit.md) owns both Wylis captivities; [Karstark messages](karstark-message-coalition-gates.md) owns northern recipient and forwarding gates.
 - Primary text: original user-provided five-book EPUB plus checked GitHub chapter Markdown, 2026-10-16. Chapter numbers in citations are **EPUB-local narrative** labels (source-text files have a one-higher prefix). Five published novels only: appendix listings are labeled paratext, not new eyewitness scenes. Short paraphrase only.
@@ -43,7 +43,7 @@ At least **three distinct prisoner routes** converge on or are *reported* at Mai
 
 **AFFC 30 (Jaime), `DIRECT APPOINTMENT / DISPATCHED`:** Jaime expressly assigns **Red Ronnet Connington** the duty to deliver **Wylis** to Maidenpool, allowing Jaime not to see Ronnet again. No scene depicts Ronnet handing over a prisoner to Tarly or naming a ship.
 
-**ADWD Epilogue (Kevan), `DIRECT TArLY SPEECH`:** Tarly reports that **Ronnet and about twenty men, predominantly Gregor's former followers, arrived at Maidenpool**, where he personally dealt with at least two violent misconduct cases among the escort, hanging one man and mutilating another. Ronnet is now in King's Landing, being questioned about the rival **Jon Connington** and Aegon claim. This is **independent downstream evidence that Ronnet's escort company really passed through Maidenpool**. It is **not** a witnessed Wylis handover or an account of Harrion.
+**ADWD Epilogue (Kevan), `DIRECT TARLY SPEECH`:** Tarly reports that **Ronnet's party, including former followers of Gregor Clegane, passed through Maidenpool; Tarly separately counts **twenty men accompanying Ronnet onward to the city****, where he personally dealt with at least two violent misconduct cases among the escort, hanging one man and mutilating another. Ronnet is now in King's Landing, being questioned about the rival **Jon Connington** and Aegon claim. This is **independent downstream evidence that Ronnet's escort company really passed through Maidenpool**. It is **not** a witnessed Wylis handover or an account of Harrion.
 
 **ADWD 29 (Davos), `SEPARATE ENDPOINT`:** Wyman says Wylis has returned home, so this specific release ultimately led to the homecoming. The precise transfer sequence `Ronnet → named Maidenpool recipient → named ship captain → White Harbor` is **still partly unshown**. The new Kevan evidence bridges **the escort's presence** at Maidenpool, not every custody document.
 
@@ -53,7 +53,7 @@ At least **three distinct prisoner routes** converge on or are *reported* at Mai
 
 **AFFC 44 (Jaime):** two Riverrun officers, **Ser Desmond Grell** (old master-at-arms) and **Ser Robin Ryger** (captain of guards), refuse ordinary discharge and instead request entry to the **Night's Watch**. Jaime allows them their arms and appoints **Rafford (“Raff the Sweetling”)**, with a dozen Gregor soldiers, to bring them to Maidenpool. He threatens severe punishment if the prisoners suffer harm.
 
-**ACOK 19 (Arya)** and related Arya chapters already connect Raff to killing the wounded **Lommy Greenhands** and to Gregor's abuse of captives. `POV-OBSERVED/ARYA TESTIMONY` gives the escort's leader a troubling history, even if it does not prove he disobeyed this particular Jaime order. The explicit `DELIVER UNHARMED` command reflects Jaime's recognition of the danger and illustrates the gap `ORDER GIVEN ≠ DESTINATION REACHED`.
+**[ACOK 26 (Arya)](../../Source/Main-Series/02-A-Clash-of-Kings/text/027-arya.md)** explicitly recalls Raff killing the wounded **Lommy Greenhands** and portrays his participation in Gregor's abuse of captives. `POV-OBSERVED/ARYA TESTIMONY` gives the escort's leader a troubling history, even if it does not prove he disobeyed this particular Jaime order. The explicit `DELIVER UNHARMED` command reflects Jaime's recognition of the danger and illustrates the gap `ORDER GIVEN ≠ DESTINATION REACHED`.
 
 **Do not conflate with the post-ADWD “Mercy” sample or TV**: no five-book narrated scene follows Grell/Ryger from Maidenpool to the Wall. Later published sample material is outside the project's present evidence boundary.
 
