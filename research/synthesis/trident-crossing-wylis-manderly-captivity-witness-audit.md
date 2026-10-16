@@ -40,6 +40,14 @@ It **does not** establish that Wylis received a particular crossing order, that 
 
 **Potential release window, with a decisive prisoner-group distinction:** in **ACOK 47 (Arya)** Arya helps free **Robett Glover** and a large group of northmen confined in the **Widow's Tower dungeon** during the fall of Harrenhal. In **ACOK 30**, the trident-clasp hostage is among the earlier **Tower of Dread** highborn prisoners, some of whom are given parole privileges. The text never identifies **Wylis** as part of the Widow's Tower rescue. Harrenhal's change of control is a plausible *opportunity* to end his first captivity, not a witnessed release. **ACOK 30** also has Arya overhear unverified camp talk that Tywin sent Gregor and Vargo against Roose. This is **REPORTED RUMOR**, not a direct order or proof of coordination between Roose and Gregor.
 
+### ACOK 30's mini-roster: three Green Fork captives and unequal ransom
+
+**ACOK 30 (Arya) is more than a resemblance clue**. In the same Harrenhal sequence, she describes: (1) the extremely fat hostage with a bushy moustache and a silver-and-sapphire **trident** clasp (strongly consistent with **Wylis Manderly**, see **AGOT 55**); (2) a young bearded hostage in a black cloak patterned with **white suns** (strongly consistent with **Harrion Karstark**, identified as captured in **AGOT 62**); and (3) **Lord Cerwyn**, whom Arya already knows from Winterfell and who **dies in Harrenhal captivity** after his wounds. These descriptions align with **three commanders Addam Marbrand lists as captured at the Green Fork** in AGOT 62. The inferred identifications of the first two men remain **not explicitly named in Arya's scene**, but the convergent roster, heraldry and individual descriptions considerably narrow the alternatives.
+
+This also changes how to read **ASOS 49**'s description of **Ser Kyle Condon as the late Lord Cerwyn's right hand**: the relevant Lord Cerwyn's **death in captivity is actually depicted through Arya's discovery**, not merely an unspecified earlier death. It does **not** mean Kyle knew what happened to Lord Cerwyn or shared all his politics.
+
+Arya **sees Frey hostages ransomed** while noting that no comparable ransom is paid for the northern captives. That is an observed **contrast in custody treatment at this time**, not proof no northern captive would ever be released, or proof Bolton later freed them all. In the same passage Arya glimpses Tywin walking with maesters and the fat prisoner; this is **observed proximity**, not an independently authenticated interrogation, bargain or confession.
+
 **Do not import an apparent contrary state from an appendix as a later event:** the **ADWD appendix** still describes Wylis as a prisoner at Harrenhal, despite **ADWD 29**'s direct account of his return. Appendix listings are not a second witness or a chronology override.
 
 ### The hostage transaction and the release agency are separate
