@@ -1898,6 +1898,29 @@
 | C-1840 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Mance orders Jon Ygritte join Styr Jarl crossing Wall next morning | Operational advance action not yet completed |
 | C-1841 | [ASOS 15](../Source/Main-Series/03-A-Storm-of-Swords/chapters/15-jon.md) | Ghost appears at Fist ringwall and deters Rattleshirt attacking Jon | Direct direwolf protective intervention |
 
+| C-1842 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Cersei commissions elaborate silk Myrish lace gown and garments for Sansa | Purpose undisclosed despite Sansa assuming royal wedding |
+| C-1843 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Seamstress has six seamstresses and twelve apprentices working urgently before Joffrey wedding | Deadline is unusually early, concrete preparation clue |
+| C-1844 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Sansa grown three inches and is publicly treated as adult maiden | Change in marriage status and attention |
+| C-1845 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Sansa has companionship with Tyrell cousins Elinor Alla Megga | Real friendship amid political courtship |
+| C-1846 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Lady Leonette teaches high harp, Janna gossip, Merry Crane entertains | Named female information and friendship network |
+| C-1847 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Elinor promised squire Alyn who wore her favor in Blackwater | Romantic battle stories, reports not direct Sansa view |
+| C-1848 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Sansa remembers Sandor kissed her on Blackwater night | Uncorroborated by earlier directly narrated encounter, UnKiss clue |
+| C-1849 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Sandor frightened Sansa with threat even in her fond remembered kiss | Trauma and romance recollections mixed |
+| C-1850 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Margaery hawking trip shows Mud Gate battered ships wrecked kingswood burned | Physical Blackwater aftermath despite celebrations |
+| C-1851 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Sansa merlin catches ducks and Margaery peregrine a heron | Firsthand hunting detail |
+| C-1852 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Margaery says Willas flies eagles and trains excellent hawks | Family portrayal, intended husband not met |
+| C-1853 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Sansa directly warns Margaery Joffrey will hurt her | Truthful protective testimony repeated |
+| C-1854 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Margaery says Mace required Loras appointed Kingsguard to protect her | Negotiated Tyrell leverage, according to bride |
+| C-1855 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Sansa fears Loras-Joffrey confrontation could pit rose guards against lion guards | Plausible future civil conflict, not witnessed |
+| C-1856 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Dontos reacts in panic to Willas engagement plan, insists original wedding-night escape | His incentives and true patron unresolved |
+| C-1857 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Dontos specifies boat meeting escape ship and command to wear silver hairnet | Physical logistics claimed, gemstone function untested |
+| C-1858 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Dontos explicitly alleges Tyrells want Sansa claim to Winterfell | Interested character testimony not Tyrell admission |
+| C-1859 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Sansa thinks Bran/Rickon dead though reader knows alive | False public knowledge shapes inheritance assumptions |
+| C-1860 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Sansa thinks Robb will wed though he has already wed Jeyne | Cross POV dramatic irony of incomplete information |
+| C-1861 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Sansa dreams Joffrey becomes Ilyn Payne at wedding | Traumatic fear, no supernatural event |
+| C-1862 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Sansa intends early-made gown for Joffrey wedding and Highgarden | Her hypothesis not an actual explanation from Cersei |
+| C-1863 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Willas proposal remains future, no meeting or marriage yet | Dynastic plan vs completed court act |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1905,4 +1928,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and sixty-one first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and sixty-two first-pass chapters listed in the coverage tracker.
