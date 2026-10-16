@@ -56,6 +56,10 @@ The question is therefore not simply **"Where is Harry?"**. It is **"Who can aut
 
 **Military counterpart:** Robett Glover survived Duskendale and is shown later supporting Wyman Manderly. He may be a natural witness to Harrion's field service but **has no on-page testimony confirming Harrion's capture or a shared Maidenpool custody route**. See [White Harbor/Northern faction motives](northern-coalition-manderly-umber-clans-arya-revelation-gates.md).
 
+### Custody-chain follow-up: local authority is verified, Harrion's gaoler is not
+
+The [Maidenpool prisoner and command-transfer audit](maidenpool-prisoner-handoffs-tarly-mooton-connington.md) cross-checks **AFFC 14 (Brienne)**: **Randyll Tarly** actually adjudicates cases and orders accused men back into custody while **Lord Mooton** is present and Mooton guards still serve. His son Dickon's proposed marriage to Mooton's daughter strengthens an inferred political tie but **does not certify which official held Harrion**. A separate **ADWD Epilogue (Kevan)** scene has Tarly report that **Red Ronnet's party of Gregor's former men passed through Maidenpool** before coming to King's Landing; it supplies an independently attested transit for **Wylis's named escort**, not a current Harrion sighting, an execution decree, or a prisoner ledger. Meanwhile **AFFC 44 (Jaime)** appoints *a different* escort, Rafford, to bring Grell/Ryger toward the same port; no arrival of those men is independently shown. Tarly's movements to the capital cannot silently carry Harrion with him.
+
 ## 4. Knowledge and receipt matrix
 
 | Actor | Supported knowledge and timing | Does not thereby know |
