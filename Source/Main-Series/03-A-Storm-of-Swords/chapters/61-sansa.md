@@ -1,0 +1,54 @@
+# ASOS 61 — Sansa: the missing hairnet stone, Littlefinger's extraction, and Dontos murdered
+
+- Record role: `RESEARCH / SEQUENTIAL CLOSE READING`
+- Status: `FIRST PASS COMPLETE — INDEPENDENT CHALLENGE OPEN`
+- Primary source: complete [ASOS 61 Sansa transcription](../text/062-sansa.md), read 2026-10-16. [Evidence policy](../../../../SOURCES.md).
+
+## Chronology, witnessed evidence and narrative consequences
+
+1. **Sansa escapes the feast while Joffrey is dying, before his death is certain to her.** In the godswood she hears bells tolling and tells the trees Joffrey is dead, recalling him on his knees, struggling to breathe. **Lady Tanda** is another fleeing attendee and interprets Sansa's tears as compassion; Sansa herself associates them with grief for **Robb** and pity for **Margaery**, now twice widowed. Her wish for freedom does not make her a confessed killer.
+2. **Sansa's escape clothes were prepared *two nights previously*.** She retrieves thick **brown wool**, a **dark-green hooded cloak**, and sturdy square-toed shoes from a **hollow oak**; the dress has **freshwater pearls** on the bodice despite Dontos's instruction to wear plain dark clothes. This is **documented advance planning**, not proof she knew the precise wedding-day means of Joffrey's death.
+3. **She removes the silver hairnet and notices a stone missing.** The net's gemstones appear **black in moonlight**. One of the so-called **black amethysts from Asshai** is gone, leaving a **dark smudge in the empty silver setting**. This is **direct material evidence of a change** since the net was prepared—not direct observation of the loss occurring, its substance, or its destination.
+4. **Sansa draws the murder inference independently.** She wonders about Dontos's promised 'magic', then challenges his description of the stones, announcing she fears they contained the murder weapon. This is **a sharp and credible firsthand deduction**, especially alongside **Olenna rearranging the net** in [ASOS 60 Tyrion](60-tyrion.md), but Sansa has **not witnessed stone removal, chemical preparation, or poison placed in Joffrey's food or cup**.
+5. **Dontos deflects and denies direct participation.** Drunk and unstable, he insists the stones were ordinary amethysts plus 'magic', and repeats the story that Joffrey **choked on pigeon pie**. His denial is **interested testimony**, not exculpation. He urges Sansa to leave at once and says **Tyrion has been arrested**.
+6. **Sansa recognizes the political danger of being blamed as Tyrion's wife.** She realizes her own grievances against Joffrey and marriage to the arrested man may cause her to be labeled a conspirator. **Arrest suspicion is foreseeable even if she did not commit murder**.
+7. **Dontos is wearing the Hollard heraldry despite a mortal prohibition.** Beneath his dark cloak he wears the **pink-and-red striped surcoat with black chief and three golden crowns** of **House Hollard**. He says he wishes to be a knight just this once. His intoxication and conspicuous identity increase exposure risk; he is not operating as an invisible magical escort.
+8. **The precise land escape route is architectural, not teleportation.** They cross the godswood, the **serpentine steps**, a sunken courtyard, an **armor-lined gallery with scaled helmets**, and an iron-banded door into a **twelve-foot-thick outer wall**. The taper-lit armor evokes dragons to Sansa, but the gallery's 'transforming' shadows are an optical impression.
+9. **A secret descending cliff ladder is deliberately used.** A precarious sequence of **handholds and footholds carved in the cliff** leads to the river. Dontos descends first; Sansa makes the descent in fear, reminding herself to be brave and thinking of **Bran's fall**. This is sustained independent physical action by Sansa rather than a rescuer simply carrying her away.
+10. **A skiff waits near a burned, grounded galley.** Approximately **fifty yards downstream**, the rower is a tall, hook-nosed, white-haired, cowled older man whom Dontos calls **'Oswell'**. He repeatedly forbids names and conversation. **His surname and allegiances are not stated in this chapter**.
+11. **The river escape uses Blackwater battle damage and a lowered chain.** The muffled oarlocks pass sunken and burned vessels and one of Tyrion's **Blackwater winch towers**. The **great chain is down**, allowing passage into Blackwater Bay. This confirms a specific, physically possible route rather than an unspecified miraculous flight.
+12. **A waiting trading galley provides the next stage.** Before dawn they board a merchant-looking ship with a **crowned merman blowing a seashell horn as figurehead**. Sansa climbs a rope ladder; **Dontos stays in the skiff**. The crew's actual port of registry and the figurehead's symbolic significance are **not independently established** by the image alone.
+13. **Littlefinger is physically present aboard the galley.** **Petyr Baelish** welcomes Sansa with **Ser Lothor Brune** and a torch, despite her assumption he is already in the Vale. His assertion of geographic distance as an alibi must be measured against **his actual presence at sea just outside King's Landing**.
+14. **Dontos demands the promised 10,000 dragons.** Littlefinger acknowledges the exact payment, then signals armed men who **fire three crossbow bolts into Dontos's chest, throat and belly**. Lothor drops a torch on the skiff, setting it and the body alight. **Dontos's murder at Littlefinger's command is directly witnessed**, not rumor or an uncertain accident.
+15. **Littlefinger admits exploiting Dontos.** He says Dontos agreed to **sell Sansa's rescue for 10,000 dragons**, might betray her later for more money, and was recruited because Sansa once saved his life. This explanation is **Littlefinger's self-justification for murder and recruitment**, not independent proof Dontos would actually have betrayed her.
+16. **Littlefinger reveals he authored the godswood invitation.** He identifies the note instructing Sansa to meet there as his own plan, explaining that outdoor trees leave fewer hiding places for **Varys's 'little birds'**. His understanding of surveillance constraints strongly supports **premeditation of Sansa's removal**, although not by itself every element of the poisoning.
+17. **He expressly claims responsibility for the offensive dwarf jousters.** Petyr says he imported them from **Braavos**, concealed them in a **brothel**, and persuaded a reluctant Joffrey to stage them because Tyrion would be humiliated. This is a direct **confession of manipulating the feast's entertainment and Joffrey's behavior**. It supplies a potential diversion/provocation mechanism, **not direct proof Petyr introduced poison**.
+18. **The escape craft was prepared specifically for Sansa.** Petyr shows her a cabin with a featherbed, warm furs and a cedar chest containing plain replacement clothes. Her immediate realization that preparations were tailored to her is grounded in visible material provision.
+19. **Petyr predicts the widowhood of Sansa.** He tells her that **widowhood will suit her**, although Tyrion is **only under arrest** at this point. This implies his expectation of a successful prosecution/execution, not an adjudicated result.
+20. **Petyr explicitly articulates strategic misdirection.** He says confusing adversaries about his motives, including actions apparently harmful to himself, protects him. His claimed lack of motive for Joffrey's death is presented **alongside demonstrated manipulation of Dontos and the jousting spectacle**. The statement 'no motive' is not reliable independent evidence of innocence.
+21. **His old Catelyn story is self-serving testimony.** Littlefinger recounts his frustrated desire to marry Catelyn and asserts an earlier intimate relationship with her. **Past POV evidence conflicts with his certainty about the relationship; his version must remain CHARACTER CLAIM**. He encourages Sansa to treat him as the father she might have had—an intimacy claim that also gives him personal leverage.
+22. **He offers safety while exercising unilateral lethal control.** Petyr promises Sansa protection and transit 'home', but has just killed the only person who negotiated her extraction, offers no independent safeguard, and controls her ship, escorts, money and destination. Sansa's question whether she has fallen into worse danger is **rational on witnessed facts**.
+23. **End state:** Sansa has escaped the Red Keep and boards Petyr's galley; **one hairnet stone is missing**, Dontos is murdered, and Petyr's complicity in organizing her flight and mocking performance is established. **Exact poison source, person removing the stone, person adulterating Joffrey's consumables, and ultimate destination are still unverified in this chapter**.
+
+## Forensic chain and restrictions
+
+| Link | Evidence status |
+|---|---|
+| Purple/black gems in silver net before feast | Direct [ASOS 60 Tyrion](60-tyrion.md) observation |
+| Olenna adjusts hairnet before feast | Direct opportunity in Tyrion POV; **no removal seen** |
+| Sansa later notices **one missing stone** and dark smudge | Direct independent physical finding |
+| Dontos calls stones Asshai amethysts, says 'magic' | Suspicious interested testimony, no assay |
+| Joffrey's fatal ingestion, cup and pigeon pie | Direct but ambiguous [ASOS 60](60-tyrion.md) sequence |
+| Petyr directed Sansa's extraction, supplied ship and killed Dontos | **Verified action and disclosure** |
+| Petyr arranged dwarf jousters | **Self-admitted action** matching observed feast |
+| Petyr personally poisoned Joffrey or ordered Olenna to do so | **Not expressly confessed/proven here** |
+
+## Rival readings and research tests
+
+- **Hairnet poisoning hypothesis:** Stronger now that a stone is demonstrably missing, and Olenna had contact. But absence alone does not prove it was poison or identify who removed it, whether it fell, and where it went. Preserve alternative **poisoned cup versus pie** routes until later testimony or independent material proof.
+- **Dontos's role:** He helped Sansa escape, accepted money as described by Petyr, and then was murdered. **His direct role in administering poison remains unknown** despite Sansa's suspicion.
+- **Petyr's alibi:** Real physical presence offshore contradicts any literal assertion he had gone to the Vale already; it **does not place him in the throne room** at the fatal moment.
+- **Sansa's agency:** She prepared clothes, navigated a dangerous ladder and deduced evidence. Petyr's command of escape resources still gives her little independent freedom.
+- **Littlefinger and Catelyn:** Keep self-aggrandizing sexual history separate from the POV record of the woman herself.
+
+**Review boundary:** Complete whole-source first pass; independent poisoning reconstruction and ship/handler identity audit open.
