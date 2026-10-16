@@ -20,6 +20,8 @@
 
 **Calibrated conclusion:** Roose is **observably adept at selectively accounting for orders, coercing by legitimacy theater, assessing house-level vulnerabilities and shifting danger outward**. His actual capacity to keep rival northern houses loyal through a winter siege is **deteriorating on-page**. Intentional thinning of untrustworthy banners at Winterfell is a **plausible hypothesis with a striking earlier precedent**, not a source-certified second operation.
 
+**Further witness localization (2026-10-16):** The [Harrenhal household and living-command-witness audit](harrenhal-old-household-cook-blackthumb-tothmure-qyburn-walton-audit.md) establishes that **Qyburn, Steelshanks Walton and Arya** remain in Roose's chamber after the Freys withdraw in **ACOK 64**. **Qyburn** personally agrees to **prepare** the Tallhart→Glover→Duskendale instruction for Roose's seal; **Walton** is present in the room with no exit narrated, but not shown reading the order; **Arya** hears it as POV. **Qyburn is later at King's Landing advising Cersei (AFFC 3/24)**; **Walton later operates at Winterfell under Roose (ADWD 46/51)**. **Neither delivers recorded testimony to Robb, Stannis or a Northern council, and Qyburn's intended draft is not proven dispatched or preserved.** These identities provide better real-world traceability of *order authorship* than a generic missing letter, while not proving an advance scheme to destroy Glover/Tallhart or any separate Trident conspiracy.
+
 ## 1. The earlier command chain: ACOK 64 → ASOS 35/37/49
 
 | Gate and chapter | Source-backed content | Knowledge/motive limit |
