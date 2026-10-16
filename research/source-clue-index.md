@@ -1156,6 +1156,27 @@
 | C-1113 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Reek reveals silver and jet wolf head brooch matching Bran's clasp in ACOK46 | Distinct physical item custody without proven source or owner location |
 | C-1114 | [ACOK 50](../Source/Main-Series/02-A-Clash-of-Kings/chapters/50-theon.md) | Theon dismisses most hunters and rejects prior mercy promise | High-risk decision with actual victims and outcomes yet unshown |
 
+| C-1115 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Qhorin five-man group finds wildling lookout fire high above Skirling Pass | Watch sentry threat and enemy awareness not precise |
+| C-1116 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Qhorin forbids campfires and orders watch horn silenced | Stealth sacrifices warmth and ease of travel |
+| C-1117 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Stonesnake and Jon climb unarmored with felt hammer spikes and rope | Practical severe mountain hazards |
+| C-1118 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Jon remembers Bran's climbing courage and jokes unknown mother mountain | Family and parentage concerns under mortal risk |
+| C-1119 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Three wildling sentries at fire rather than expected two | Immediate reconnaissance uncertainty |
+| C-1120 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Stonesnake prevents horn warning while Jon kills fire-keeper with Longclaw | Local tactical success, not defeat of main wildling host |
+| C-1121 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Jon captures red-haired spearwife Ygritte after she yields | Deliberate mercy creates prisoner dilemma |
+| C-1122 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Ygritte says burn corpses and Jon remembers wights | Shared threat perception, no on-page corpse reanimation |
+| C-1123 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Watch pushes corpses from cliff, shadowcats feed on them | Substitute for burning, safety against wights unknown |
+| C-1124 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Ygritte knows other things watched but refuses why Mance in mountains | Captured sentry information limits |
+| C-1125 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Ygritte calls everything below Wall the south | Geographic label and political moral relativity |
+| C-1126 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Ygritte recounts Bael disguised as Sygerrik deceiver entering Winterfell as bard | Specific wildling legend, historicity unverified |
+| C-1127 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Bael supposedly leaves pale blue winter rose on Stark daughter's empty bed | Cross-book echo of blue flower in Undying Wall vision |
+| C-1128 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Song claims Stark daughter and baby hid in Winterfell crypts for nearly a year | Strong symbolic hiding-place clue after Bran and Rickon disappearance |
+| C-1129 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Story says alleged Stark son slew Bael and unnamed lord flayed young Stark | Kin-slaying and Bolton-flaying themes, not verified genealogy |
+| C-1130 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Ygritte acknowledges song may not have happened | Explicit in-text confidence limit |
+| C-1131 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Qhorin says a yielded captive jeopardizes scouting and orders Jon to kill Ygritte | Duty and operations vs prisoner ethics |
+| C-1132 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Jon declines Ygritte offer to join Mance, remains Watch man | Protecting captive distinct from desertion |
+| C-1133 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Jon lifts Longclaw over kneeling Ygritte then lets her go | Direct decisive disobedience and mercy |
+| C-1134 | [ACOK 51](../Source/Main-Series/02-A-Clash-of-Kings/chapters/51-jon.md) | Ghost is present with Jon at release, Ygritte report to others unknown | Release consequences and ranger response yet unshown |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1163,4 +1184,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and twenty-seven first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and twenty-eight first-pass chapters listed in the coverage tracker.

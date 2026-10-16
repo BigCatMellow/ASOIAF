@@ -1,0 +1,61 @@
+# ACOK 51 — Jon: Ygritte spared, Bael's winter rose and the Stark crypt hiding story
+
+- Record role: `RESEARCH / SEQUENTIAL CLOSE READING`
+- Status: `FIRST PASS COMPLETE — INDEPENDENT CHALLENGE OPEN`
+- Source: complete [ACOK 51 (Jon) chapter transcription](../text/052-jon.md), read 2026-10-16. [Evidence rules](../../../../SOURCES.md).
+
+## Main narrative sequence and decisions
+
+1. **VERIFIED / THE INFILTRATION OBJECTIVE:** **Qhorin Halfhand's five-man scouting party**—Qhorin, Jon, **Stonesnake**, **Ebben**, and **Squire Dalbridge**—is moving through the **Frostfangs** by **Skirling Pass** following assignment in `ACOK 43`. A **single stationary night fire** sits perhaps half a mile forward and **2,000 feet above** their position, watching the pass. Qhorin believes such sentries must be prevented from **sounding a warning horn**. He has kept his own group from building fires, accepting cold and risk for concealment.
+2. **SCOUTS' DISAGREEMENT:** Squire Dalbridge wonders what **Mance Rayder** fears enough to station high-altitude watchers; **Ebben** expects Mance would forbid their conspicuous fire. Such watchers might detect the Night's Watch **or other mountain threats**; no message here proves their sole intended target is Qhorin's band.
+3. **VERIFIED / CLIMB:** **Stonesnake**, the skilled climber, and **Jon** undertake a dangerous, quiet night ascent above the sentries, leaving **Ghost, horses and heavy armor** with the rest. They carry rope, felt-headed hammer and climbing spikes, and Jon follows Stonesnake through narrow freezing ledges while his **old burned hand stiffens and bleeds**. The cold, steep terrain and visibility limitations are detailed operational obstacles, not magical landscape changes.
+4. **VERIFIED / PERSONAL MEMORY:** Jon jokes privately that **Stonesnake's mountain-as-mother metaphor** has special resonance for a bastard uncertain of his mother. During the climb he remembers **Bran loved climbing** and wishes he had a fraction of the boy's courage. These are actual Jon memories; they do not show he knows Theon has taken Winterfell (`ACOK 46/50`) or that his younger brothers have escaped.
+5. **DIRECT THREE SENTRIES:** Stonesnake and Jon find **three wildlings**, not the two Qhorin expected: one asleep wrapped in furs, one tending fire and one overlooking the pass with a **horn**. Stonesnake attacks the horn-bearer and **prevents the alarm**; Jon **kills the fire-keeper** with **Longclaw**, whose Valyrian steel cuts through clothing and body. The stealth assault neutralizes the post; it is not a battle with Mance's main army.
+6. **VERIFIED / YGRITTE'S SURRENDER:** Jon grabs the waking third sentry from her furs and puts a **dirk under her chin**, then sees she is **a young woman**. He pauses partly because she reminds him of **Arya**, despite differing appearance, and **offers her a chance to yield** rather than killing her. She agrees and gives her name as **Ygritte**, a red-haired **spearwife** who had reached for an axe. **Stonesnake criticizes the captive decision** because she is a dangerous fighter and will need guarding; there is no Watch order explicitly forbidding taking her at the time Jon first asks.
+7. **VERIFIED / BODY DISPOSAL:** Ygritte urges them to **burn the two dead men**, warning they might be needed later against the same corpses. Jon remembers **Othor's rising** at Castle Black, so this has weight beyond folklore. But open fires could betray the position. **Stonesnake strips the dead men of useful gear, and he and Jon throw both bodies over the cliff**, where **shadowcats** soon feed on them. Disposal by scavengers is not proof a wight cannot rise from remains, only a practical alternate response to risk.
+8. **YGRITTE'S INTELLIGENCE LIMITS:** She admits the sentries were watching for the Night's Watch and **others** but gives no useful precise number of Mance's followers, saying loosely **hundreds and thousands**. She refuses direct answers about the purpose of the **Frostfangs**, Mance's planned march and **Benjen Stark**. Her defiance does not prove those answers are in her possession. Jon learns the costs of live prisoner intelligence versus simple killing.
+9. **THE SONG'S OPENING / CULTURAL POSITION:** During the night wait, Ygritte asks whether Jon's unknown mother ever taught him **Bael the Bard's song of the winter rose**; he has never heard it. She says all the free folk know the song and that **everything below the Wall is 'south' to them**. Their dispute about who is raider or robber demonstrates **viewpoint-dependent moral vocabulary**; the story is **oral historical legend**, not an authenticated genealogical record.
+10. **YGRITTE'S BAEL STORY — THE ROSE:** She tells of **Bael**, a King-beyond-the-Wall and bard who supposedly infiltrated Winterfell in disguise as **Sygerrik of Skagos**, 'deceiver' in the Old Tongue, in response to a Stark lord's insult. A Stark called **Brandon the Daughterless** offered the singer a reward. Bael requested the **fairest flower** from Winterfell; a **winter rose** was given, and next morning both Bael and **the lord's only daughter** were gone. Her bed supposedly held a **pale blue rose**. Jon questions the chronology and Brandon identification rather than accepting the tale outright.
+11. **YGRITTE'S BAEL STORY — CRYPT HIDING:** According to the song, despite a large manhunt the daughter and Bael actually remained **hidden in Winterfell among the dead, beneath the castle, for almost a year**. The daughter returned to her bed with a baby who became the next **Stark lord**, linking alleged **wildling ancestry** to Winterfell's ruling line. This is an extraordinarily precise **crypt-as-hiding-place motif** placed immediately after `ACOK 50 Theon`, which ends with Theon unable to find the escaped Bran and Rickon. **Do not declare the children inside the crypt based solely on a folkloric parallel.**
+12. **YGRITTE'S DARKER ENDING:** Later the grown Stark child allegedly fought **his unrecognized father Bael**, who would not harm him, and killed Bael. The mother leapt from a tower after seeing his head on a spear, and **one of the young lord's own lords flayed him**. The last act could invite Bolton-pattern comparisons, but **Ygritte does not name which lord**, and the history is not independently established. The story offers themes of **accidental kinslaying, hidden lineage, a blue flower, and a northern lord's betrayal**; none should be converted into literal proof of Jon's or another character's genealogy.
+13. **HIGH-VALUE CROSS-BOOK IMAGE MATCH:** Ygritte's **pale blue winter rose** directly resembles the **blue flower in a wall of ice** seen by Daenerys in `ACOK 48`, in a work deeply focused on Stark inheritance and the Wall. This is a **strong color/object/location thematic cross-link**, worth testing for parentage and relationships, yet **neither vision explicitly names Lyanna Stark or Jon Snow**, and one occurs in a song while the other is a drug-associated Undying vision. Rank as **theory evidence**, not fact.
+14. **QHORIN ARRIVES / THE MORAL ORDER:** At dawn Qhorin and others find Jon holding Ygritte captive. She tells Qhorin that if he surrendered to her people he would get **a slower death**, not reprieve. Qhorin observes their **food and manpower shortage**, and **Dalbridge and Ebben** argue she could expose them with a shout. Qhorin orders **Jon himself** to execute her as the man who captured her, invoking his duties to the Watch and his **Stark blood**. This echoes Ned's injunction that a judge carry out his own death sentence, but here the target has **already yielded**.
+15. **DIRECT FINAL CHOICE:** Qhorin leads the others away, leaving Jon, **Ghost** and Ygritte. She offers Jon an alternative: follow her through secret ways to **Mance** and leave the Watch, but Jon declines to abandon his oaths. Ygritte kneels, bares her neck and tells him to strike; Jon positions **Longclaw** for a clean execution yet **cannot bring himself to kill her**. He lowers the sword, orders her to **flee**, and she escapes into the mountains. **Jon spares a yielded enemy by openly disobeying a command**, not through failure to capture her.
+16. **END BOUNDARY:** Jon is alive, Ghost remains with him, and Ygritte has escaped; **her report to Mance, any betrayal or later alliance, and Qhorin's reaction are not shown**. Neither Jon nor Qhorin is depicted as already embedded in the wildling army.
+
+## Microdetails and attribution limits
+
+| Detail | Evidence and rival |
+|---|---|
+| Wildling watch fire 2,000 feet above pass | Tactical observation and risk of alarm |
+| Qhorin keeps Watch fires dark in freezing conditions | Stealth at material human cost |
+| Stonesnake almost 50 and an exceptional climber | Experienced competence, not supernatural mountaineering |
+| Ghost left below because white fur visible in moonlight | Tactical limitation of direwolf companion |
+| Jon fears death and thinks of Arya and Bran | Prior family identity actively shapes decisions |
+| Three wildlings rather than two | Recon uncertainty at lethal moment |
+| Horn-bearer prevented from sounding a warning | Immediate local mission accomplished |
+| Jon kills armed male sentry with Longclaw | First fully narrated close-range killing here |
+| Ygritte yields after threat with dirk | Actual prisoner under Jon's responsibility |
+| Ygritte advises burning corpses | Specific recognition of reanimation danger |
+| Shadowcats eat bodies after disposal over cliff | Scavenging, wight safety unproven |
+| Ygritte has no precise host headcount and withholds plans | Intelligence value limited |
+| 'Everything below Wall is south' | Cultural frame rather than neutral geography |
+| Bael's alias Sygerrik means deceiver, claims Ygritte | Oral Old Tongue meaning, not independently validated |
+| Pale blue winter rose on Stark daughter's pillow | High-priority symbol with Dany's ice-wall flower |
+| Daughter and child allegedly hidden among Winterfell dead | Strong crypt motif after Bran/Rickon vanish |
+| Son supposedly slew father, unnamed lord flayed son | Kinship and Bolton-like betrayal themes, unverified history |
+| Ygritte challenges Jon's known mother question | No actual maternal identity learned |
+| Qhorin orders Jon to kill yielded captive | Conflict between immediate command and mercy |
+| Jon releases her, refuses desertion offer | Deliberate choice, downstream safety uncertain |
+
+## Hypothesis tests and research implications
+
+- **Crypt hiding as a narrative clue:** The folklore's hiding place **inside Winterfell beneath the castle** is a meaningful clue when Theon has just failed to locate Bran/Rickon (`ACOK 50`). The direct physical traces in Theon's chapter point to a **human–wolf trail separation** but do not themselves tell us where the people went. Test subsequent Bran/Theon testimony; preserve alternate refuges.
+- **Blue winter roses and parentage:** The **blue rose** in Ygritte's tale and **blue flower at the Wall** in `ACOK 48 Daenerys` are a distinct symbol pairing. It supports exploring Stark/Wildling inheritance, **Lyanna and Jon theories** with later textual evidence. Neither passage alone identifies the blue flower's referent or proves R+L=J.
+- **Mercy vs Watch orders:** Qhorin considers a live captive operationally unacceptable; Jon accepts real danger to spare someone who yielded. The choice resembles Ned's ethic of personal execution responsibility but revises it: Jon takes responsibility for **not killing**. Distinguish later consequences from foregone duty here.
+- **Bael genealogy:** The supposed infiltrator bard, a Stark daughter and ensuing son may be real, embroidered or fictional. Ygritte explicitly acknowledges the story could be untrue. Test Westerosi chronicles/other tellings before treating a named **Brandon Daughterless** as confirmed genealogy.
+- **Next:** the next Jon POVs for Qhorin's command, Ygritte's possible warning, and the Frostfangs mission; `ACOK 50/56 Theon` for fate of fleeing children; later Undying/winter rose passages for symbolism.
+
+## Review boundary
+
+Entire provided chapter read sequentially. Direct killing/sparing, a character's oral tradition, and cross-book symbolic matches are classified separately. Original EPUB-byte verification and independent challenge pending.
