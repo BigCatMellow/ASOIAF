@@ -17,6 +17,7 @@ This directory belongs to the **cross-book / potential continuation** workstream
 - [Information handoffs](information-handoffs.md) — canonical owner for **cross-theater communication and verification state**. Local chronology detail belongs to the existing specialist files.
 - [Conditional Winds architecture](winds-conditional-architecture.md) — **working experiments** for an organically developing opening, with alternative outcomes and reversal tests.
 - [Stannis/Theon/Jeyne first-audience decision ledger](stannis-theon-jeyne-decision-ledger.md)
+- [Stannis first-hearing evidence and safe reporting: Theon's Arya recantation](stannis-theon-jeyne-testimony-and-safe-reporting.md) — the coerced public wedding witness could expose the Poole impersonation, but needs corroboration and protected testimony; distinguish Arnolf's own ravens, Tycho's route, and unidentified black-clad riders.
 - [Arnolf Karstark warning-route audit](arnolf-warning-routing.md) — Deepwood courier paths and the uncertain receipt of the warning.
 - [Winterfell claimant audit: Stannis, Arnolf and the Starks](winterfell-claimants-stannis-arnolf.md) — ADWD 17's actual royal preference, ADWD 32's Bolton corroboration, and competing northern legitimacy.
 - [Karstark command fracture: what if Theon testifies?](karstark-command-fracture.md) — firsthand versus inferred Theon evidence, leader versus rank-and-file culpability, 452-soldier security problem and three conditional Stannis decisions.
