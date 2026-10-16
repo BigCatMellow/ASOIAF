@@ -1793,6 +1793,32 @@
 | C-1737 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Jaime sits Iron Throne sword across knees when Ned arrives | Physical act remembered, purpose to see claimant |
 | C-1738 | [ASOS 11](../Source/Main-Series/03-A-Storm-of-Swords/chapters/11-jaime.md) | Jaime dreams dead multiply in green wildfire flame | Trauma image, not literal present-day burning |
 
+| C-1739 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Varys windowless three north-wall rooms appear devoid of papers and passages | Tyrion's failed search, not actual lack of hidden exit |
+| C-1740 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Varys says Conclave alone may make Grand Maester, Pycelle restored at Tywin behest | Institutional turf negotiation not exoneration of Pycelle |
+| C-1741 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Citadel candidates include Gormon Tyrell before Tywin intervenes | Strategic check against Tyrell court influence |
+| C-1742 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Varys knew Conclave secret deliberations early enough to alert Tywin | Citadel intelligence channel strongly implied, agent unknown |
+| C-1743 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Boros Blount reinstated into Kingsguard by lifetime service custom | Political office restoration not proven competence |
+| C-1744 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Varys says Mandon Moore came from Vale with Jon Arryn and Robert named him Kingsguard | Known background, attempted murder patron still open |
+| C-1745 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Barristan reputed Moore loved only sword and duty | Personality report, not motive or payer |
+| C-1746 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Varys publicly narrates Moore honorable defense of king's blood despite Tyrion eyewitness attack | Official story conflicts with direct fact |
+| C-1747 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Shae now bedmaid to pregnant Lollys, Tyrion sees her on castle steps | Physical proximity under dangerous surveillance |
+| C-1748 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Kettleblacks report to Cersei and are rewarded with knighthoods | Reversal of Tyrion's double-agent scheme |
+| C-1749 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Varys says Osmund hopes for sex with Cersei but denies actual affair knowledge | Political flirtation, sex not verified |
+| C-1750 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Varys names Slynt sons and Petyr brothel informers among Tyrion watchers | Surveillance networks reported, specific spy not identified |
+| C-1751 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Varys openly identifies himself as Tywin's spy on Tyrion | Participant admission, trust limitations |
+| C-1752 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Varys asserts Maegor secret egress doesn't connect Tyrion's room | Interested architectural claim, other routes may exist |
+| C-1753 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Loras at seventeen says elder Tyrell brothers secure lineage without his marriage | Kingsguard career social rationale |
+| C-1754 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Loras says after sun sets candle cannot replace it | Grief for Renly suggested, intimacy not confessed |
+| C-1755 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Varys appears disguised as matronly woman, then vanishes from his rooms | Observed impersonation and hidden exit |
+| C-1756 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Shae reveals moving stone bed conceals secret steps in Varys chambers | Specific hidden architecture, lifting mechanism inferred |
+| C-1757 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Tyrion says counterweight rather than magic makes stone bed rise | Engineering inference, actual operation not shown |
+| C-1758 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Symon Silver Tongue hired by Lady Tanda to play for Lollys | New access route to Shae and Tyrion secret |
+| C-1759 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Shae reports seventy seven courses and dove pie for royal wedding | Singer hearsay future planning, wedding yet to happen |
+| C-1760 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Tyrion promises Shae safety despite deciding he must send her away | Direct contradiction between intention and act |
+| C-1761 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Bronn says he slept with Alayaya and Marei at Chataya brothel | His account and increasing wealth |
+| C-1762 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Tyrion sent Alayaya silver jade necklace and bracelets after her whipping | Reported apology gift not reversal of harm |
+| C-1763 | [ASOS 12](../Source/Main-Series/03-A-Storm-of-Swords/chapters/12-tyrion.md) | Tyrion asks Bronn find Symon Silver Tongue, considers but does not order murder | Action threshold exactly bounded |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1800,4 +1826,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and fifty-seven first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and fifty-eight first-pass chapters listed in the coverage tracker.
