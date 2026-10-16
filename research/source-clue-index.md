@@ -1408,6 +1408,32 @@
 | C-1360 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Dontos says 'Renly' killed Guyard Morrigen, repeated by multiple royal parties | Hearsay combat claim not witnessed by Sansa |
 | C-1361 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Dontos says Stannis dead or fled, explicitly unsure | Defeated army not proof king killed |
 
+| C-1362 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Dany wears Dothraki clothes and adds bell after Drogon destroyed Undying | Public victory branding vs dragon's actual role |
+| C-1363 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Rakharo guards dragons while Jorah Aggo Jhogo escort Dany to waterfront | Different protection assignments for vulnerable parties |
+| C-1364 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Xaro warns surviving Pyat warlocks plan retaliation | Interested threat testimony, plot details undisclosed |
+| C-1365 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Xaro says glass candles now burn in Urrathon Night-Walker house | High priority magic revival rumor, not witnessed |
+| C-1366 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Xaro mentions ghost grass phantom tortoises and newly sighted Blind Sybassion | Marvel cluster reported by merchant, various confidence |
+| C-1367 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Tourmaline Brotherhood demands Dany expulsion and Spicers death | Reported overt hostility of Qarth guilds |
+| C-1368 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Xaro directly offers ten then twenty then thirty ships for one dragon | Strong corroboration of Jorah's suspected marriage motive |
+| C-1369 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Xaro says his 83 ships, Thirteen about thousand, Spicers 1200–1300, Brotherhood 800 | Self-interested estimates, not verified trade census |
+| C-1370 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Dany says dragon's price should equal third of world's ships | Rhetorical priceless asset, no exchange made |
+| C-1371 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Dany tentatively maps Mirri Maz Duur to blood treason | Interpreter's hypothesis, oracle still unsolved |
+| C-1372 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Jorah explains dragon's three heads as Aegon Visenya Rhaenys | Historical metaphor alternative to three future riders |
+| C-1373 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Jorah confirms Rhaegar played silver-stringed harp | Independent contextual support for Undying vision identity |
+| C-1374 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Jorah says infant Aegon of Elia died in King's Landing sack | Participant's history account, any hidden survival unproven |
+| C-1375 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Dany clarifies cloth dragon carried on poles is mummers stage prop | Detailed in-world meaning of slayer-of-lies image |
+| C-1376 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Astapor slaver galley Sunblaze sells captive people at Qarth quay | Direct economic slavery corridor |
+| C-1377 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Ship captains deny passage due dragon fire Dothraki distrust cost or route | Concrete logistics barrier despite dragon fame |
+| C-1378 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Jorah uses brass platter reflection to detect two followers | Improvised reconnaissance, followers motive initially uncertain |
+| C-1379 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Qartheen stranger apologizes before releasing manticore from jeweled box | Assassin pattern matches Sorrowful Men, actual patron unknown |
+| C-1380 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Arstan uses wooden staff to knock manticore away and save Dany | Direct protective action, hidden identity still open |
+| C-1381 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Arstan gives name Whitebeard and claims Swann household Dornish Marches roots | Testable personal history, no proof full identity |
+| C-1382 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Arstan recognizes Jorah from Lannisport and Pyke while Jorah uncertain | Familiarity signals obscured past relationship |
+| C-1383 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Strong Belwas boasts scar per pit kill and insults Dothraki | Self-reported fighting record, many scars observed |
+| C-1384 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Arstan and Belwas say Illyrio sent them to Pentos for Dany and dragons | Pledged service, patron's intended leverage unresolved |
+| C-1385 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Three hired ships Saduleon Summer Sun Joso Prank ready for Dany | Concrete vessels named, actual voyage not yet undertaken |
+| C-1386 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Dany renames ships Vhagar Meraxes Balerion with golden letters | Three dragons of conquest symbol, not proven prophecy fulfillment |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1415,4 +1441,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and thirty-nine first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and forty first-pass chapters listed in the coverage tracker.
