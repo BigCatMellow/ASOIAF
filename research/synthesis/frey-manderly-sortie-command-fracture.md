@@ -41,6 +41,10 @@ The **[Frey Pies theory](../theories/cases/frey-pies.md)** assembles the missing
 
 **Careful distinction:** Hosts and guests can publicly exchange gifts and promises while privately plotting harm; **ADWD 29 directly demonstrates Wyman staging one deception about Davos**. It does **not establish that every later suspicion about him is proven**.
 
+### Distinguishing Little Walder's murder from its battlefield consequences
+
+The [Twins succession and northern Frey-family audit](frey-twins-succession-edwyn-black-walder-brotherhood-north-fracture.md) checks the specific genealogical and evidentiary traps behind this sortie. **ACOK 4 (Bran)** says **Big Walder** (Jammos's son, from Lord Walder's fourth wife's branch) knows **Little Walder** (Merrett's son, third wife's branch) precedes him in the succession, and Big boasts that he will one day hold the Twins. **ADWD 51 (Theon)** observes Big **bloodied while accompanying Little's corpse**, offering a **dice-debt** account; this does **not identify the killer**. **Little is Fat Walda's full brother and therefore tied to Roose's wife**, so the incident is not an anonymous Frey casualty. **Hosteen accuses Manderly**, the immediate hall brawl kills Frey and White Harbor soldiers, and Roose gives separate march orders; **none proves Big, Wyman, Ramsay, or Abel's women planned the killing**, nor that the later field battle has happened in five-book canon. This file remains the owner of the distinct field/custody outcome gates.
+
 ## 3. Three escalating pre-sortie scenes — accusation, violence, attempted diversion
 
 | Scene | Direct evidence | Causal consequence | Not thereby verified |
