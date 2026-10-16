@@ -2147,6 +2147,123 @@
 | C-2086 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Meera says wolf maiden eventually crowned by dragon prince, sadder story follows | Future told event, motive and consequence not revealed |
 | C-2087 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Jojen twice asks whether Ned ever narrated tourney to Bran | Family silence significant but multiple ordinary reasons |
 
+| C-2088 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Davos's deep Dragonstone cell unusually warm against stone | Observed heat, geological or magical cause unknown |
+| C-2089 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Maester Pylos treats Davos with broth poppy and likely leeches | Leeching inferred from punctures, care evident |
+| C-2090 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Gaoler Porridge feeds rats or speaks to them per Davos suspicion | No verified communication or true name |
+| C-2091 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Gaoler Lamprey wears ill-fitting star-embroidered noble doublet | Clothing ownership/provenance unknown |
+| C-2092 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Davos measures prison time by changing meals and torches | Calendar dates uncertain |
+| C-2093 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | He fears Sunglass and Rambton men's fate of burning | Previous precedent, not current sentence |
+| C-2094 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Melisandre threatens to extinguish Davos's torch but spares it | Experiential argument does not establish theology |
+| C-2095 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Melisandre says Stannis's diminished fire cannot safely spawn shadow | Practitioner claim, magical cost unmeasured |
+| C-2096 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Melisandre offers to draw shadow power from Davos via intimacy | Offer refused; no new shadow produced |
+| C-2097 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Melisandre identifies Great Other as cosmic enemy of R'hllor | Religious worldview, not omniscient cosmology |
+| C-2098 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Davos's heart full of doubts despite Melisandre touch | Truthful confession, objective mindreading unverified |
+| C-2099 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Melisandre claims flames exposed Davos assassination intent | Self-report, independent betrayal not ruled out |
+| C-2100 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Melisandre blames Blackwater defeat on absence and Stannis pride | Interested counterfactual, not certain outcome |
+| C-2101 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Melisandre names Stannis Azor Ahai via smoke salt and bleeding star | Identity claim not independently proved |
+| C-2102 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | She says Davos already served and will again serve R'hllor | Forecast, future mechanism unknown |
+| C-2103 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Davos stares at torch seeking vision but sees only fire | No direct fire-sight for Davos |
+| C-2104 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Axell Florent has Alester imprisoned as traitor | Arrest witnessed, legal order not shown |
+| C-2105 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Alester still wears rings but complains of missing fine clothes | Class/status contrast to Davos's losses |
+| C-2106 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Alester confirms Imry Florent and Fury sank and Maric lost | Character report on exact casualties |
+| C-2107 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Alester reports Celtigar submitted and Monford Velaryon died | Strategic account not independent casualty audit |
+| C-2108 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Alester admits peace letter to Tywin carried by Saan contact | Actual delivery and reception unconfirmed |
+| C-2109 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Proposed peace relinquishes Stannis claim and Joffrey incest charge | Alester's terms, not authorized royal settlement |
+| C-2110 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Alester offers Shireen and Tommen dynastic marriage | Hostage/succession implication inferred |
+| C-2111 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Alester invokes Hand's seal as authority to sue for peace | Delegation's scope contested, Stannis decision unseen |
+| C-2112 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Alester fears stone-dragon scheme citing Aerion and Summerhall | Historical warning analogy, efficacy unresolved |
+| C-2113 | [ASOS 25](../Source/Main-Series/03-A-Storm-of-Swords/chapters/25-davos.md) | Davos refuses to negotiate without Stannis royal consent | Personal loyalty under severe strategic pressure |
+| C-2114 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Jon and Ygritte use alternative star names Thief and Moonmaid | Cultural interpretation, astronomical identity shared |
+| C-2115 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Ghost is marked by Orell-linked eagle on same encounter as Jon | Shared wound observation, further meaning unknown |
+| C-2116 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Jon instructs Ghost to move east along Wall to Castle Black | Message attempt, no verified arrival |
+| C-2117 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Jon lacks parchment quill and ink to attach warning to Ghost | Operational information constraint |
+| C-2118 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Jon estimates party near Shadow Tower by landscape | Navigational inference not confirmed exact site |
+| C-2119 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Jon continues with over hundred raiders under Styr/Jarl | Vulnerability to guard surveillance |
+| C-2120 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Jon believes killing Mance earlier might have helped | Personal counterfactual not tested |
+| C-2121 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Jon's relationship with Ygritte proceeds beyond cover requirements | Real affection and vow conflict |
+| C-2122 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Jon compares his vow lapse to Ned's supposed infidelity | Jon's belief not proof of parentage or Ned conduct |
+| C-2123 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Entrance faces north and conceals fire from Wall watchers | Practical infiltration preparation |
+| C-2124 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Mance appoints joint command Styr and Jarl despite resentment | Disparate political and climbing competencies |
+| C-2125 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Styr has about hundred Thenns and Jarl about fifth as many | Relative force strength and rivalry |
+| C-2126 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Jarl crossed Wall about twelve times in raids | Experienced crossing leader reported by Jon |
+| C-2127 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Thenns demand patrol composition, timings and positions | Watch intelligence extraction |
+| C-2128 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Watch patrol four men with two builders and two rangers | Jon's description not guarantee current roster |
+| C-2129 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | One in four wall patrols examines base for breaches | Reported operating pattern |
+| C-2130 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Special mule breeding/training at Eastwatch for icy patrol | Logistical minor detail |
+| C-2131 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Mormont varies patrol schedules and abandoned-castle occupations | Disinformation against enemy predictable timing |
+| C-2132 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Arson Iceaxe wall-tunnel tale describes sealed digger | Night Watch story, literal survival not verified |
+| C-2133 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Only three forts manned on Jon departure by his knowledge | Changes since infiltration unknown |
+| C-2134 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Jon inflates troop counts by about three hundred | Deliberate lie alongside true tactical leak |
+| C-2135 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Jarl flags potential false counts from Fist casualties | Opponent detects deception risk |
+| C-2136 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Styr threatens Jon and potentially Ygritte for disloyalty | Cover produces real coercive danger |
+| C-2137 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Jon describes Thenn hereditary-style discipline and bronze helmets | Specific clan hierarchy not entire free folk culture |
+| C-2138 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Ygritte locates further downward passage from waterfall grotto | Cave continuation not proven under-Wall exit |
+| C-2139 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Ygritte describes Gorne and Gendel lost passage under Wall | Competing folklore and Jon's differing fate |
+| C-2140 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Gendel's hungry descendants reportedly wander under hills | Local legend not independent living population evidence |
+| C-2141 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Ygritte says Craster fathered by Watchman who returned to Wall | Reported parentage not separately established |
+| C-2142 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Ygritte says nineteen and forbids local kin unions | Her account not universal wildling law |
+| C-2143 | [ASOS 26](../Source/Main-Series/03-A-Storm-of-Swords/chapters/26-jon.md) | Ygritte proposes staying forever in grotto | Emotional choice proposal never acted upon |
+| C-2144 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Eight Astapori brokers control Unsullied market jointly | Trade cartel while competing other slave classes |
+| C-2145 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Astapori tokar fringe silver gold pearls marks hierarchy | Status signals observed, not universal fashion law |
+| C-2146 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Dany demands eight thousand fully trained plus six hundred nearing graduation | Cohort counts and sale scope |
+| C-2147 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Dany also demands roughly five thousand trainees at premium prices | Boys not fully trained, downstream strength differs |
+| C-2148 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Masters debate selling future trainees due to long training period | Supply pipeline conflict and greed |
+| C-2149 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Merchant appraises Dany goods at roughly thousand Unsullied | Interested bargaining report not independent valuation |
+| C-2150 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Dany refuses to sell mother's crown or enslave her people | Declared ownership boundary |
+| C-2151 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Dany offers three named ships Balerion Vhagar Meraxes | Groleo protested, logistics potentially lost |
+| C-2152 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Masters offer two thousand in exchange for ship and goods | Interim bid, not final deal |
+| C-2153 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Dany offers Drogon for full contingent and masters demand black dragon | Dragon intended as costly decisive bait |
+| C-2154 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Eight brokers agree to dragon ships and goods exchange | Negotiation actual and transactional consent, future control absent |
+| C-2155 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Kraznys includes enslaved Naathi interpreter in purchase | Missandei treated as movable property |
+| C-2156 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Arstan protests selling dragon and is expelled from bargaining hall | Advisor conflict, full plot not disclosed to him |
+| C-2157 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Dany speaks Valyrian privately to Missandei revealing prior comprehension | Tactical language knowledge later relevant |
+| C-2158 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Missandei freed immediately and offered choice to depart | Voluntary service stated, safety not guaranteed |
+| C-2159 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Missandei reports three Unsullied brothers | Personal bonds persist beneath slave ideology |
+| C-2160 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Missandei says Unsullied would obey order to kill selves | Character belief, freedom of soldiers not assessed |
+| C-2161 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Dany recalls Eroeh murdered after failed protection | Moral catalyst for royal duty to vulnerable |
+| C-2162 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Dany dreams Rhaegar on dragon melting ice-armored foes at Trident | Dream not verified history of supernatural battle |
+| C-2163 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Dark cabin voice repeats Quaithe paradoxical routes | Physical presence unverified, Dany calls it dream |
+| C-2164 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Dany brings eighty-three Dothraki into Astapor | Specific diminished human force count |
+| C-2165 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Five thousand uncapped boys assembled behind eight thousand six hundred capped | Training stages and approximate inventory |
+| C-2166 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Plaza of Punishment has flayed slave for striking owner | Punishment directly visible, reason relayed by Missandei |
+| C-2167 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Material goods include books amethysts ivory eyes and ornate gong | Cargo inventory, no automatic magic interpretation |
+| C-2168 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Drogon chain exchanged for dragonbone harpy fingers whip | Command-symbol transaction physically observed |
+| C-2169 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Dany speaks Valyrian to formations, pearl-fringed Grazdan notices | Secrecy revealed at decisive instant |
+| C-2170 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Drogon resists Kraznys chain command and burns him on Dany order | Observed independent dragon response |
+| C-2171 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Unsullied remain unmoved by former owner's command | Control transfer and competing orders on page |
+| C-2172 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Dany commands killing masters tokar wearers whip holders soldiers | Broad punitive order with collateral-risk ambiguity |
+| C-2173 | [ASOS 27](../Source/Main-Series/03-A-Storm-of-Swords/chapters/27-daenerys.md) | Dany orders children under twelve spared and all slaves freed | Emancipation underway, full enforcement and outcome unknown |
+| C-2174 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | White-and-silver Myrish-lace gown prepared before Joffrey wedding | Earlier wardrobe mystery resolved as Sansa's wedding |
+| C-2175 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Sansa wears Joffrey-gifted moonstones with maiden dress | Ceremonial object under royal choice |
+| C-2176 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | White cloak carries silver Stark direwolf and pearls | Family claim emblem, removal becomes ritual |
+| C-2177 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Cersei announces forced marriage to Tyrion as royal ward | Dynastic decision overrides Sansa's wishes |
+| C-2178 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Sansa attempts flight but maid stops her and Kingsguard flank her | Coercion not consent |
+| C-2179 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Joffrey claims father's authority and threatens Ilyn Payne | Royal role and explicit intimidation |
+| C-2180 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Tyrion apologizes and offers Lancel alternative if rejected | Choice of Lannister husband not freedom |
+| C-2181 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Tyrells are absent at sept before surprise marriage | Preemption tactic, prior notice unknown |
+| C-2182 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Dontos Varys Addam Bronn among observable wedding witnesses | Public record and potential later corroborators |
+| C-2183 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Joffrey removes Stark maiden cloak and touches Sansa without leave | Humiliation layered over legal transfer |
+| C-2184 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Tyrion cannot reach Sansa with lion cloak standing normally | Physical disparity makes ceremony spectacle |
+| C-2185 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Sansa refuses to kneel, Dontos forced as footstool | Brief resistance amid court humiliation |
+| C-2186 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Sansa kneels for kiss and feels shame over Tyrion's treatment | Empathy coexists with unwanted marriage |
+| C-2187 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Septon publicly pronounces Sansa Tyrion wife and husband | Completed ceremony, consummation separate |
+| C-2188 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Approximately fifty guests attend private Small Hall feast | Scale distinct from Joffrey wedding |
+| C-2189 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Margaery grieves and Olenna/young cousins avoid Sansa | Behavior directly shown, motives unresolved |
+| C-2190 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Garlan tells Sansa Willas invented Gallant nickname to protect him | Kindness and protective fraternal history |
+| C-2191 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Garlan counsels that Tyrion may be better husband than Loras | His assessment not fact |
+| C-2192 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Joffrey threatens to force Sansa to his bed despite marriage | Specific royal sexual coercion threat |
+| C-2193 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Joffrey demands public bedding, Tyrion opposes with dagger threat | Ritual prevented, immediate conflict |
+| C-2194 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Tywin forces Tyrion to recast his threat as drunken jest | Royal family damage control |
+| C-2195 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Tyrion publicly appears drunk but says privately he means to become so | Intentional performance |
+| C-2196 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Tyrion references earlier Tysha marriage using House Silverfist joke | Trauma and limited disclosure to Sansa |
+| C-2197 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Sansa states she turns thirteen next moon | Precise age contradicts court's grown-woman premise |
+| C-2198 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Tyrion says Tywin commanded consummation | Political reproductive pressure explicit |
+| C-2199 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Sansa uses courtesy as armor under sexual coercion | Language of compliance not desired intimacy |
+| C-2200 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Tyrion recognizes Sansa as child and stops before intercourse | Physical limit reached, nonconsummation verified |
+| C-2201 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Tyrion promises no further touching until Sansa wishes it | Promise real, future observance unproven |
+| C-2202 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Sansa asks what if she never wants him and Tyrion reacts bitterly | No tacit future consent |
+| C-2203 | [ASOS 28](../Source/Main-Series/03-A-Storm-of-Swords/chapters/28-sansa.md) | Marriage completed without heir or consummation | Possible political/legal vulnerability unadjudicated |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -2154,4 +2271,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and seventy first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and seventy-four first-pass chapters listed in the coverage tracker.
