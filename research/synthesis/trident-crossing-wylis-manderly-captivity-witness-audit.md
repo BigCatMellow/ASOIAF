@@ -60,6 +60,10 @@ Arya **sees Frey hostages ransomed** while noting that no comparable ransom is p
 
 **Potentially consequential:** AFFC 27 depicts Wylis as a badly shaken prisoner, reduced to sobbing when Jaime announces release. Jaime also wonders about the food Gregor's captives had been given. The scene demonstrates **distress and coercive conditions**; it does **not** authenticate the exact contents of the food, a permanent mental incapacity, or any statement by Wylis accusing Roose.
 
+### Separate Harrenhal custody/command investigation (2026-10-16)
+
+[Harrenhal's Northern prisoners and the prisoner-to-command transfer](harrenhal-captive-command-reintegration-audit.md) establishes that **Roose specifically tells Jaime in ASOS 37** that **Harrion Karstark remained a prisoner when Bolton took Harrenhal**, and that Roose gave him the remaining Karhold soldiers and dispatched him with Robett Glover. The black-with-white-suns captive in **ACOK 30 (Arya)** is strongly consistent with Harrion. **That is not a Wylis release record**: the fat trident-clasp hostage was said to belong to **Tywin**, whereas Harrion was claimed by a ransom-seeking hedge knight. It also separates the earlier **Tower of Dread** highborn Green Fork captives from Vargo Hoat's later **Widow's Tower** prisoner convoy used during the castle takeover (**ACOK 47**). Thus a **specific Harrion command handoff is attributed**, while Wylis's first exit from captivity remains `UNKNOWN`.
+
 ## 2. What is supported independently of Roose's version?
 
 | Claim | Source/evidence | Status and limit |
