@@ -129,6 +129,8 @@ Jon says he has received **“a raven in a storm”** when he reflects on the ne
 
 **No probability percentages:** These are **unproven mechanisms**. Strongest novel-backed conclusions remain the **separate escape and delivery observations**, local command decisions, and the huge number of unverified post-escape claims.
 
+**New post-arrival constraint (2026-10-16):** [Stannis/Theon/Jeyne testimony and possible outward reports](stannis-theon-jeyne-testimony-and-safe-reporting.md) explains that **Theon was a coerced public witness authenticating the false Arya marriage** (ADWD 37), and **ADWD 62 never narrates his recantation to Stannis**. Thus a theory requiring an informed Stannis-camp writer to know **Jeyne's precise identity or the Frey/Manderly sortie orders** needs a *new hearing*, not merely the arrival of her shivering body or a black-clad rider. An actual **Stannis→Castle Black outgoing dispatch** remains unshown and may require avoiding **Arnolf Karstark's own maester and raven cage**. The actual Pink Letter does not claim its author knows the pair reached Stannis's village, so even this theoretical channel is **not a required element of every authorship model**.
+
 ## 7. Disposition and cross-check requests
 
 - `VERIFIED READER-SIDE`: Mance operated under glamour before going north; Abel and six women inserted at Winterfell; Theon/Jeyne's attempted escape and subsequent delivery to Stannis vicinity; Stannis alive in Asha's ADWD 62 chapter; final letter received and used by Jon; public Shieldhall reaction and stabbing.
