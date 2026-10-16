@@ -1053,6 +1053,88 @@
 | C-1012 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Edmure reports Lord Lefford drowned Strongboar captured Marbrand repeatedly repelled | Precise claimed Red Fork losses, separate from verified long-term fates |
 | C-1013 | [ACOK 45](../Source/Main-Series/02-A-Clash-of-Kings/chapters/45-catelyn.md) | Tywin reportedly withdraws southeast, Catelyn maps toward Blackwater headwaters | Strategic danger inferred, actual Tywin plan and Blackwater effect still open |
 
+| C-1014 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Summer and Shaggydog sense unfamiliar men and try warning Winterfell | Wolf senses directly narrated before Bran waking |
+| C-1015 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Summer recalls Bran climbing a slanted sentinel and tries climb himself | Shared climbing memory supports Bran/Summer mind overlap |
+| C-1016 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Bran wakes with echo of wolf shoulder pain after fall | Somatic dream spillover observed, mechanism unproven |
+| C-1017 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Rodrik left Winterfell eight days earlier with 600, Cley Cerwyn bringing 300 | Theon Torrhen's Square diversion demonstrably succeeds |
+| C-1018 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Theon infiltrates with four men over walls and opens postern | Detailed small-team infiltration, not larger siege |
+| C-1019 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Theon explicitly calls Bran and Rickon his wards and compels Bran surrender | Role reversal of Ned's earlier Greyjoy hostage arrangement |
+| C-1020 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Luwin's White Harbor raven escapes, second message bird shot | Warning transmission partially successful, receipt unproven |
+| C-1021 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Alebelly killed at gate and Hayhead wounded during capture | Specific first casualty matching Jojen sea dream |
+| C-1022 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Theon commands perhaps thirty ironmen total inside enormous Winterfell | Tiny striking force succeeds amid garrison depletion |
+| C-1023 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Palla brought wounded with dress torn, Chayle knocked down helping | Serious civilian mistreatment, exact offender/act unshown |
+| C-1024 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Mikken refuses coerced pledge and Stygg spears him through neck | Second foretold sea-dream death directly witnessed |
+| C-1025 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Two Ironborn beat Hodor after he cries out | Overt harm to noncombatant despite Bran public compliance |
+| C-1026 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Bran formally yields as Stark lord to spare hostages | Coercion, not legitimate willing sovereignty transfer |
+| C-1027 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Reek prisoner says name Heke and Ramsay murdered in Hornwood affair | Claimed identity and death need independent verification |
+| C-1028 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Theon accepts Reek's oath after he argues northern lords need opposing | Self-interested alliance and Reek dream partial echo |
+| C-1029 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Osha disarms Stygg, swears loyalty to Theon, Bran feels betrayed | Overt pledge vs hidden motive uncertain |
+| C-1030 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Theon announces projected Deepwood Motte and Torrhen wins and Moat invasion | Boasts and intentions rather than accomplished conquests |
+| C-1031 | [ACOK 46](../Source/Main-Series/02-A-Clash-of-Kings/chapters/46-bran.md) | Bran and Rickon survive chapter despite flaying death images in green dream | Pending prediction cannot be counted literal fulfillment |
+| C-1032 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Hoat arrives with 100 plus bound northern captives and caged black bear | Arrival appearance later reevaluated as planned switch |
+| C-1033 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Robett Glover and Aenys Frey among convoy captives | Specific northern and Frey prisoners ready for liberation |
+| C-1034 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Hoat claims beaten Bolton scouting van while Lorch distrusts him | False-or-staged victory claim before Bolton takeover |
+| C-1035 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Harrenhal remaining garrison around 100 men over thousand doors | Physical security and interior access weakness |
+| C-1036 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Gendry refuses prisoner break due to mutilation risk and status as smith | Class-aware self-preservation, not anti-Stark sympathy |
+| C-1037 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Arya trains with broken broom sword barefoot in godswood trees | Reclaimed technique despite lost Needle |
+| C-1038 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Arya fears being powerless after third Jaqen death used | Key motive shaping last named bargain |
+| C-1039 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Jaqen claims any named person including king will die eventually | Speaker oath, reach and supernatural method untested |
+| C-1040 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Arya names Jaqen Hghar himself and conditions retraction on rescue | Contract loophole transforms single killing into mass release |
+| C-1041 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Jaqen employs Rorge Biter and Arya in boiling soup deception | Ordinary logistical infiltration with violent outcome |
+| C-1042 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | At least eight guards in Widow Tower dungeon scalded and killed | Physical deaths are direct, not mere supernatural curse |
+| C-1043 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Jaqen kills armed guard with sword while Biter breaks necks | Distinct practical combat skills eyewitness |
+| C-1044 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Freed Glover asks if Hoat planned rescue, says killers weren't at Bolton camp | Indicates multi-party engineered switch, negotiations hidden |
+| C-1045 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Jaqen counts slain guards as satisfaction of third-name debt | Debt no longer pending despite Arya wanting more |
+| C-1046 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Jaqen changes cheeks nose eye spacing hair and gains scar on page | Firsthand face transformation, mechanism unknown |
+| C-1047 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Jaqen gives Arya iron coin and valar morghulis Braavos contact phrase | Nonmonetary access token, meaning not given in chapter |
+| C-1048 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Roose Bolton takes Harrenhal through Hoat's betrayal, Stark and flayed banners raised | Material transfer of fortress verified |
+| C-1049 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Arya takes false name Nymeria or Nan as Roose Bolton cupbearer | Stark secret concealed from northern commander |
+| C-1050 | [ACOK 47](../Source/Main-Series/02-A-Clash-of-Kings/chapters/47-arya.md) | Amory Lorch forced naked into caged bear pit | Fatal peril observed, on-page last breath not described |
+| C-1051 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Undying House resembles decaying grey serpent with black blue-leaf shade trees | Real location physically shabby, not lavish advertised power |
+| C-1052 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Pyat says visions include past future and days that never were | Source-internal warning against literalizing all visions |
+| C-1053 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Dany ingests shade of evening before seeing labyrinth and visions | Psychoactive epistemic confound |
+| C-1054 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | First open chamber naked woman attacked by four rat-faced small men | Visional symbol unidentified, not independently real |
+| C-1055 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Second chamber butchered feast with wolf-headed crowned king | Specific violent feast image, no names or dates provided |
+| C-1056 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Vision of Braavos red door lemon tree and Ser Willem tempts Dany | Memory and possible illusion, true childhood location unverified |
+| C-1057 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Aged silver-haired king throne with dragon skulls wants king of ashes | Possible Aerys historical echo, unnamed by Dany |
+| C-1058 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Silver-haired harpist calls newborn Aegon prince promised, song ice and fire | Likely Rhaegar, identities and prophecy meaning not confirmed |
+| C-1059 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Harpist says dragon has three heads and one more needed | Threefold prophecy, referent of extra head unspecified |
+| C-1060 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Dany escapes dark hall by treating last left door as first right | Logic bypasses warlock maze rather than blind trust |
+| C-1061 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | False Pyat at outside opening face collapses after Dany disobeys | Vision/trap mimics trusted host |
+| C-1062 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Luxurious fake Undying audience claims it sent comet and offers weapons | Potential deliberate deception, not confirmed comet origin |
+| C-1063 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Drogon discovers hidden doorway of ebony and weirwood hall | Dragon independently counters apparent invitation |
+| C-1064 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Actual Undying hall has floating blue rotting heart and motionless blue figures | Physical-seeming shared POV but no external mechanism confirmed |
+| C-1065 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Oracle says three fires for life death love | Three open prophetic slots, no named referents |
+| C-1066 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Oracle says three mounts for bed dread love | Three open prophetic slots, imagery literal or figurative unknown |
+| C-1067 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Oracle says three treasons for blood gold love | Direction of treason and participants not specified |
+| C-1068 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Daughter of death visions include Viserys gold and prince dying with rubies in water | Partial earlier match and probable Trident Rhaegar echo |
+| C-1069 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Slayer of lies shows blue-eyed shadowless king with red sword | Possible Stannis Lightbringer symbol, not actual encountered king |
+| C-1070 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Slayer of lies shows cheering crowd bearing cloth dragon on poles | Possible simulated legitimacy, identity unknown |
+| C-1071 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Slayer of lies shows stone beast rising from smoky tower breathing shadow fire | Unresolved creature and fire symbolism |
+| C-1072 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Bride of fire includes corpse on ship and blue flower in wall of ice | High-priority Wall/parentage candidate, no identity named |
+| C-1073 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Later visions include slaves crying mother and Mirri flames | Potential future liberation vs already experienced events |
+| C-1074 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Undying physically attack Dany and Drogon burns heart and bodies | Guide's credibility overturned by predatory act |
+| C-1075 | [ACOK 48](../Source/Main-Series/02-A-Clash-of-Kings/chapters/48-daenerys.md) | Pyat lunges with knife on exit and Jhogo disarms him | Externally witnessed hostility confirms sorcerers' trap |
+| C-1076 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Mountain clans infiltrate kingswood to raid Stannis baggage and scouts | Asymmetric harassment ordered, results yet unconfirmed |
+| C-1077 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Bronn has near 800 mercenaries promised knighthood, but says they won't die for reward | Reliability distinction between killing and self-sacrifice |
+| C-1078 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Six thousand City Watch with only quarter judged dependable | Under-trained force may collapse in siege |
+| C-1079 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Fish costs tenfold and children fight over spoiled fish thrown at Tyrion | Observable famine after King's Landing riots |
+| C-1080 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Bronn ordered burn waterfront buildings attached to Mud Gate walls | Defensive demolition causes displacement, implementation unshown |
+| C-1081 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Three oak-and-iron trebuchets named Three Whores stand at Mud Gate | Physical siege hardware, outcome pending |
+| C-1082 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Tyrion receives Winterfell and Harrenhal changes from Varys | Cross POV intelligence transmission confirmed |
+| C-1083 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Balon Swann and Osmund Kettleblack installed Kingsguard | Two vacancies filled after Greenfield death and Boros removal |
+| C-1084 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Boros Blount yielded custody Tommen to Bywater and is locked in Rosby | Earlier secret interception completed |
+| C-1085 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Tommen secured at Rosby with pet fawn, misses Myrcella not Joffrey | Child remains alive and protected, heir succession contingency |
+| C-1086 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Shae established in Lollys Stokeworth household as bedmaid | Earlier Varys infiltration cover carried out |
+| C-1087 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Tyrion's chosen High Septon told to spread speculative Sept burning threat as factual | Deliberate sectarian misinformation, no Stannis plan proven |
+| C-1088 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Balon letter proposes Greyjoy-Lannister alliance after border negotiation | Diplomatic offer not accepted, Ironborn fleets geographically distant |
+| C-1089 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Hallyne reports near thirteen thousand total wildfire jars | Reported high inventory with both new manufacture and old caches |
+| C-1090 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Three hundred Rossart wildfire jars found beneath abandoned Dragonpit | Separate old stockpile, dangerous discovery |
+| C-1091 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Hallyne says alchemist spells newly more effective, asks whether dragons exist | Independent magic resurgence clue matching Quaithe ACOK40 |
+| C-1092 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Jacelyn returns after Rosby custody with additional spearmen | Concrete preparation and secrecy chain |
+| C-1093 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Varys Antler Men list claims traders will open Old Gate for Stannis | Planned insider betrayal, not executed action |
+| C-1094 | [ACOK 49](../Source/Main-Series/02-A-Clash-of-Kings/chapters/49-tyrion.md) | Tyrion orders arrest of Salloreon armorer named among Antler Men | Response is ordered, arrest result still unknown |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1060,4 +1142,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and twenty-two first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and twenty-six first-pass chapters listed in the coverage tracker.
