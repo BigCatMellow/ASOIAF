@@ -43,7 +43,7 @@
 | Robett Glover captured after Duskendale defeat | Loss of foot and custody risk; true order source unknown |
 | Sansa's real marriage reported in Riverrun | Accurate news; consummation still unknown to Catelyn |
 | Walder boys' Dreadfort letter | Attributed testimony with conflict against witnessed North scenes |
-| Ramsey death report vs 'Bolton bastard' savior | Contradiction demands source reconciliation |
+| Ramsay death report vs 'Bolton bastard' savior | Contradiction demands source reconciliation |
 | Robb personally must apologize at Twins | A public control condition beyond marriage |
 | Roslin's 16 years, maternal Rosby line, no bride viewing | Dynastic and asymmetric-knowledge detail |
 | Urgent actual wedding, not future betrothal | Frey terms shape strategic movements |
