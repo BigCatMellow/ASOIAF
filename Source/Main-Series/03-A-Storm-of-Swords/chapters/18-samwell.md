@@ -41,7 +41,7 @@
 
 | Signal | Grounded reading / limitation |
 |---|---|
-| Two iron/steel knives? | Sam has **one steel meat knife and one obsidian dagger**, plus obsidian arrowheads and spearhead in his pack; his sword is lost |
+| Steel meat knife and obsidian dagger | Sam has **one steel meat knife and one obsidian dagger**, plus obsidian arrowheads and spearhead in his pack; his sword is lost |
 | Old horn in Sam's pack | He deliberately packed an older horn **alongside** stones, maps, writing tools and food; function unknown; do not confuse with Watch signals |
 | Raven reports to Castle Black and Shadow Tower | **Two early messages dispatched** before rout |
 | Many later conflicting raven notices | Prepared on parchment but **not sent** when other birds released |
