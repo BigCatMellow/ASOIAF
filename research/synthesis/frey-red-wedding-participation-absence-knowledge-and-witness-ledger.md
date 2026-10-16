@@ -79,6 +79,10 @@ In the **ASOS Epilogue**, the Brotherhood lures Merrett with **Petyr Pimple's ra
 
 **Important genealogical caution:** Walder's many sons, half siblings, cousins, and great-grandsons each have different inheritances, obligations, and alliances. The blanket expression “the Freys were traitors” describes the House's leadership and coordinated massacre but **cannot replace a person-by-person account** of who was absent, coerced, unwarned, resistant, or an active killer.
 
+### Separate family succession owner — Ryman, Edwyn and the northern Walders
+
+The [Frey succession, outlaw killings and Winterfell cousin audit](frey-twins-succession-edwyn-black-walder-brotherhood-north-fracture.md) owns **ASOS Epilogue Merrett's senior-line ranking**, **AFFC 44 Edwyn's uncorroborated accusation against Black Walder after Ryman's hanging**, and the family-tree consequences of **ACOK 4 Big/Little Walder's cousin rivalry → ADWD 51 Little Walder's murder and Hosteen's Manderly accusation**. Merrett/Petyr are actually killed at Oldstones under Stoneheart, but a link from that to the separate ambush of Ryman remains **unproven**, just as Big Walder's bloody clothes do not prove he killed Little. Keep those uncertain individual murders distinct from the **source-established Red Wedding perpetrators** in the present participation ledger.
+
 ## 5. Conditional future testimony / political consequences
 
 | Path | Necessary evidence and steps | Reason it could matter |
