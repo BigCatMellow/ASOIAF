@@ -145,6 +145,8 @@ The presence of a **named real courier path** through Deepwood raises the plausi
 
 **Recommended working scene test:** Stannis begins by questioning Tycho privately about his route and his business, then separately hears Theon/Jeyne with Asha present or under protection. If Tycho has a warning, Stannis must authenticate it and weigh risks; if not, he can still interrogate battlefield information and contest Arnolf's impractical counsel. Both outcomes generate strong political consequences. This is `SPECULATIVE / REVISABLE`, not a selected canonical continuation.
 
+**Reverse outbound correspondence risk (2026-10-16):** [Stannis first-hearing and safe reporting](stannis-theon-jeyne-testimony-and-safe-reporting.md) underlines an unexamined confidentiality issue: **ADWD 62 (Asha)** describes **a maester and cage of ravens belonging to Arnolf's own retinue**. The only clearly itemized raven equipment physically at the crofter-village force therefore belongs to a suspected Bolton collaborator; this does **not** establish that Stannis lacks other maesters, has assigned that maester his letters, or that Arnolf intercepted anything. A future Theon disclosure of Roose's ADWD 32 discussion of Arnolf could be spoiled if conveyed openly through Arnolf's people. **Theon has not yet testified** and the existing **Castle Black→Deepwood warning** remains a separately **DISPATCHED / receipt UNKNOWN** message.
+
 ## Next research gate
 
 - **Priority 1:** Investigate whether any text outside ADWD 44/49/62 **within the five published novels** independently records Deepwood receiving a raven from Jon. Current checked passages do not.
