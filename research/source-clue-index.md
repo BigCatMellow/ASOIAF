@@ -1304,6 +1304,65 @@
 | C-1258 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Cersei doubts loyal sellswords and predicts flight if walls fall | Watch/guard desertion forecast, not yet observed |
 | C-1259 | [ACOK 57](../Source/Main-Series/02-A-Clash-of-Kings/chapters/57-sansa.md) | Sansa trusts Sandor more than Ilyn or sellswords despite his threats | Conditional protection dilemma with real intimidation |
 
+| C-1260 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Davos Black Betha sails alongside sons' ships Wraith and Lady Marya | Family vessels in peril, individual sons' deaths not confirmed |
+| C-1261 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Imry Florent rather than Stannis commands fleet on Fury | Highborn admiral decision chain distinct from army command |
+| C-1262 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Fury is 300-oar war galley overloaded with knights | Transport load reduces flagship sailing advantage |
+| C-1263 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Davos urged fast scout ships into Blackwater but Imry rejected advice | Unnecessary reconnaissance gap before ambush |
+| C-1264 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Stannis has about four times royal fleet, Imry forms ten rows of twenty | Numerical advantage weakened by narrow river frontage |
+| C-1265 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Salladhor Saan kept in rear outside bay due to Imry distrust | Expert seamen excluded from immediate reconnaissance |
+| C-1266 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Fleet storms wreck two cogs and Myrish galley, scatter twelve vessels | Delay explains haste but not refusal to scout |
+| C-1267 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Captured fishermen report Tyrion river boom under construction | Warning obtained but completion disputed |
+| C-1268 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Davos argues crowned stag more welcoming than flaming heart | Character political inference, no populace referendum |
+| C-1269 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Davos sees two new river-mouth towers and low submerged chain links | Physical trap present and intentionally lowered |
+| C-1270 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Davos notes royal Hammer Lyanna Lionstar absent | Myrcella convoy ACOK41 explains omission |
+| C-1271 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Davos predicts backing royal war galleys seek to jam attackers upriver | Tactical inference corroborated by subsequent chain |
+| C-1272 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Sandor leads mounted shoreline sortie aboard Prayer against landing archers | Observed combat service before later breakdown |
+| C-1273 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Black Betha and Lady Marya ram and sink Lady Shame | Specific attack success distinct overall outcome |
+| C-1274 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Davos boards White Hart and kills armed foe despite helm axe blow | Experienced seaman demonstrates personal courage |
+| C-1275 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Imry believed limited wildfire supplies | Hallyne near 13000 jars shows major intelligence failure |
+| C-1276 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Swordfish's oversized ram breaks leaking wildfire-laden hulk | Direct catastrophic ignition point after Davos warning |
+| C-1277 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Mass fire spreads to both factions' galleys including Fury and Betha | Damage not verified all sinks or captain deaths |
+| C-1278 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Another wildfire hulk explodes while Davos clings to wreckage | Multiple prepared explosive traps |
+| C-1279 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Chain rises above river mouth and ships crash burning against it | Tyrion planned boom closes escape |
+| C-1280 | [ACOK 58](../Source/Main-Series/02-A-Clash-of-Kings/chapters/58-davos.md) | Saan's striped ships visible beyond chain, Davos cannot reach them | Adrift survival at cliffhanger, rescue unshown |
+| C-1281 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | Tyrion watches both royal and Stannis fleets burn in wildfire | Weapon designed for attacker destroys royal defense ships too |
+| C-1282 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | He compares green inferno to dragonfire and Field of Fire | Metaphor, not observed dragon |
+| C-1283 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | Tyrion judges wildfire victory only half done | Enemy landings and galleys still threaten King's Landing |
+| C-1284 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | Tyrion confirms Bronn pulled boom winches by oxen after flagship passed | Deliberately timed chain mechanism independently matches Davos |
+| C-1285 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | Tyrion says Joffrey ships had to engage to conceal trap | Royal fleet accepted tactical sacrifice |
+| C-1286 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | Wildfire current spreads unevenly leaving south-bank survivors | No uniform annihilation of fleet |
+| C-1287 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | Tyrion estimates thirty or forty surviving Stannis galleys | Battlefield count provisional |
+| C-1288 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | At least eight enemy vessels landed or wrecked near city walls | Actual assault foothold despite fire |
+| C-1289 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | Tyrion orders Three Whores turned west toward shore attackers | Responsive siege-engine deployment |
+| C-1290 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | Captured Antler Men stripped, nailed with antlers and used as trebuchet projectiles | Cruel punishment, underlying treason partly Varys assertion |
+| C-1291 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | Joffrey stays with Kettleblack and Trant to throw prisoners into river | Young king in symbolic/punitive role not front line |
+| C-1292 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | Stannis troops batter King's Gate after landing at tourney grounds | New immediate threat to city gate |
+| C-1293 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | Sandor refuses fourth sortie after three costly attacks | Trauma and exhaustion after actual service |
+| C-1294 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | Hound's helm scorched, half soldiers wounded or dead, horse lost | Physical evidence fire-related breakdown |
+| C-1295 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | Hound recommends opening gate and fighting intruders inside | Alternative untested tactic |
+| C-1296 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | Mandon's formal authority cannot restore men willingness to follow | Command legitimacy differs from unit leadership |
+| C-1297 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | Tyrion volunteers to lead sortie instead of Sandor | Takes personal battle risk despite physical limitations |
+| C-1298 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | Tyrion recruits with own-city defense rather than Joffrey or Casterly Rock | Local civic survival rhetoric |
+| C-1299 | [ACOK 59](../Source/Main-Series/02-A-Clash-of-Kings/chapters/59-tyrion.md) | Chapter ends as Tyrion enters sally port, victory not shown | Do not preempt later sortie outcome |
+| C-1300 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Osney reports chain being raised and sea battle at Blackwater | Secondhand ballroom report corroborated by Davos Tyrion |
+| C-1301 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Kettleblacks report civilian looting and Bywater policing Flea Bottom | Civil disorder concurrent battle |
+| C-1302 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Cersei hosts powerful families' wives to secure postbattle gratitude | Protective role combined with manipulation |
+| C-1303 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Cersei predicts castle surrender or violent sack of protected women | Forecast, no assault yet |
+| C-1304 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Cersei tells Sansa women's sexual desirability is another political weapon | Explicit coercive education after Sansa menarche |
+| C-1305 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Sansa questions unfamiliar Kettleblack brothers rapid status rise | Cross-viewpoint sign of paid court infiltration |
+| C-1306 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Osney claims around hundred burning ships and Joffrey brave on walls | Approximate interested field report |
+| C-1307 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Cersei orders three horse-stealing servants beheaded and displayed by Ilyn | Explicit execution order, blows not directly narrated |
+| C-1308 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Cersei turns rich refuge seekers away, orders shootings if they resist | Direct coercive command, compliance yet unshown |
+| C-1309 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Cersei remembers Jaime childhood clothes swaps and divergent sword training | Gender constraints from her autobiographical account |
+| C-1310 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Osney reports Stannis ram at King's Gate and Tyrion leading sortie | Cross-checks Tyrion59 without confirming outcome |
+| C-1311 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Cersei commands Joffrey withdrawn from trebuchets to castle | Operational conflict with Tyrion's explicit stay order |
+| C-1312 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Cersei says she knows Sansa visits godswood and calls prayers treason | No proof she discovered Dontos's escape sponsor |
+| C-1313 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Cersei forces Sansa to drink potent plum wine | Hostage intoxication and diminished autonomy |
+| C-1314 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Ilyn returns carrying bloody Ice in queen's ballroom | Sword remains in hands of Ned's executioner |
+| C-1315 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Cersei admits prior Ilyn explanation false and intends Sansa/Cersei killed before Stannis capture | Explicit royal execution contingency, no attempt yet |
+| C-1316 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Cersei touches Sansa throat as she speaks of no living surrender | Physical threat, not mere abstract policy |
+| C-1317 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Queen orders Joffrey removed while Tyrion fights outside | Consequence to morale still to be verified |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1311,4 +1370,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and thirty-four first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and thirty-seven first-pass chapters listed in the coverage tracker.

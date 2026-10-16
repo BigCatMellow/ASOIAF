@@ -50,6 +50,10 @@
 - **Lollys/Shae:** Their current location is independently witnessed, but Shae's secret ties to Tyrion and Alayaya's suffering remain unknown to Sansa.
 - **Next:** following Sansa and Tyrion/Davos Blackwater chapters for Ilyn contingency, forced court propaganda, wildfire and chain outcomes.
 
+## Retrospective verification from ACOK 60 (Sansa)
+
+The uncertainty about Ilyn's precise mission is resolved **later**, not within this chapter: in [ACOK 60](60-sansa.md), Cersei explicitly tells Sansa she **lied** in describing Ilyn as merely a defense against treason. She explains that if Stannis captures the castle she means for **Ilyn to deny him both Cersei and Sansa alive**. This retroactively strengthens the chapter's warning but should **not** be projected into Sansa's knowledge at the earlier ballroom entrance. Also, [ACOK 59](59-tyrion.md) confirms the battle has begun and both sides' ships burn in wildfire.
+
 ## Review boundary
 
 Entire source chapter read. Separate actual heard battle, visible security arrangements, Cersei's threats/forecasts, rumor of pregnancy and speculative execution plans. Independent EPUB-byte collation remains open.
