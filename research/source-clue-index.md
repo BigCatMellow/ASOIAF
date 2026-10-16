@@ -2489,6 +2489,130 @@
 | C-2425 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Stannis burns leech naming Balon Greyjoy | Ritual directly seen, future causation untested |
 | C-2426 | [ASOS 36](../Source/Main-Series/03-A-Storm-of-Swords/chapters/36-davos.md) | Stannis burns leech naming Robb Stark | Ritual directly seen, future causation untested |
 
+| C-2427 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Jaime dismisses bath attendants and enters Brienne tub uninvited | Intrusive behavior despite growing trust |
+| C-2428 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Qyburn leeches Jaime eye while stump must be kept dry | Partial physical recovery and vulnerable wounds |
+| C-2429 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Jaime taunts Brienne over Renly then apologizes for cruelty | Contradictory conduct in emerging truce |
+| C-2430 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Jaime names killing Aerys and pushing Bran with missing right hand | Same physical hand held shame and identity |
+| C-2431 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Jaime compares Robert pardoned rebellion to his own broken oath | Rival judgments of legitimacy, not factual innocence |
+| C-2432 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Jaime says Aerys removed Jon Connington after Battle of Bells | First-person court recollection |
+| C-2433 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Aerys threatened Lewyn Martell's Elia to compel Dornish service | Jaime testimony, independent court witness useful |
+| C-2434 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Rhaegar returned from south and urged summoning Tywin | Jaime recollection, private Rhaegar intentions unknown |
+| C-2435 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Rossart Belis Garigus secretly placed wildfire caches throughout capital | Detailed insider testimony, no independent excavation here |
+| C-2436 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Wildfire locations include Baelor Sept Flea Bottom seven gates Red Keep | Citywide potential future hazard, removal unconfirmed |
+| C-2437 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Lord Chelsted confronted Aerys, surrendered Hand chain, was burned | Jaime report of principled refusal and royal murder |
+| C-2438 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Rossart promoted to Hand and had burned Rickard Stark | Same named pyromancer and future plot |
+| C-2439 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Aerys kept Elia and Aegon hostage, sent queen and Viserys to Dragonstone | Selective court evacuation Jaime report |
+| C-2440 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Jaime says Aerys anticipated dragon rebirth through city's destruction | Character inference about king's supernatural aims |
+| C-2441 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Pycelle advised opening gates to Tywin, Varys opposed | Jaime report of pivotal misleading counsel |
+| C-2442 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Aerys requested Jaime bring Tywin head, rejected surrender | Immediate context for assassination |
+| C-2443 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Jaime killed disguised Rossart before Aerys | Sequence in Jaime eyewitness confession |
+| C-2444 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Jaime hunted down Belis Garigus in days after sack | Jaime claims kills, not confirmed every cache destroyed |
+| C-2445 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Jaime argues secrecy oaths prevented public explanation | Self-account of long silence, independent motives possible |
+| C-2446 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Jaime faints in bath; Brienne catches and dresses him | Care and vulnerability witnessed |
+| C-2447 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Qyburn administers licorice vinegar honey cloves concoction | Recovery treatment, results untested |
+| C-2448 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Brienne given ill-fitting pink satin gown at Harrenhal | Material humiliation and captive wardrobe |
+| C-2449 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Roose dines with Jaime Brienne attended by Elmar Frey | Controlled hospitality and intelligence setting |
+| C-2450 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Bolton reports Harrion Karstark released with Karhold men to Glover | Custody claim, Duskendale fate unresolved |
+| C-2451 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Bolton says Walda Frey chosen for weight-based silver dowry | Dynastic economic motive in his own account |
+| C-2452 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Elmar Frey lost Arya Stark betrothal after Robb's marriage | Frey grievance and marriage politics |
+| C-2453 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Roose says Arya found despite real Arya with Brotherhood | Possible false intelligence or deliberate stand-in |
+| C-2454 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Roose knows Sansa Tyrion marriage, Brienne did not | Information asymmetry and custody mission disruption |
+| C-2455 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Riverrun raven framed Jaime as escaped not officially traded | Contradictory accounts of Catelyn authorization |
+| C-2456 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Roose attributes Harrenhal curse to Tywin vengeance against defectors | Nonmagical explanation and political warning |
+| C-2457 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Roose says Vargo maimed Jaime to weaken hostage, implicate Bolton | Self-exculpatory motive theory, not Vargo confession |
+| C-2458 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Bolton seeks Jaime promise to exonerate him to Lannisters | Testimonial bargain under detention pressure |
+| C-2459 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Walton Steelshanks offered as future Jaime escort after Qyburn clearance | Travel promised, no departure on page |
+| C-2460 | [ASOS 37](../Source/Main-Series/03-A-Storm-of-Swords/chapters/37-jaime.md) | Roose leaves Brienne for Hoat and warns about sapphires | Conscious exposure to ransom and assault risk |
+| C-2461 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Pod identifies nine major Dornish house banners on arrival | Detailed heraldry and delegation strength |
+| C-2462 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Pod notices missing gouty Doran's litter before Tyrion | Acute observational skill despite stammer |
+| C-2463 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Oberyn substitutes Doran as delegate and council representative | Political agency not direct proof of Doran's inner plan |
+| C-2464 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Dornish retinue includes Dalt Blackmont Manwoody Qorgyle Uller | Named house alignments as delegation testimony |
+| C-2465 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Daemon Sand travels as Ryon Allyrion bastard son | Distinguish parentage from Oberyn own Sand Snakes |
+| C-2466 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Ellaria Sand publicly introduced as Oberyn paramour | Potential high-table etiquette conflict |
+| C-2467 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Tyrion recalls Oberyn Yronwood duel and rumored poisoned blade | Reputation hearsay, poison not demonstrated |
+| C-2468 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Tyrion recalls Oberyn forged six Citadel links and served Second Sons | Public biography from Tyrion memory |
+| C-2469 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Willas Tyrell injured when jousting against Oberyn | Known event, blame and intent disputed |
+| C-2470 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Oberyn says Willas still sends horse letters without ill will | Reported ongoing cordial contact, Tyrell wider feelings unknown |
+| C-2471 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Oberyn blames Mace for pressing underage Willas into contests | Interested retrospective allocation of blame |
+| C-2472 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Oberyn recalls visit to Casterly Rock after Joanna childbirth death | Long-past eyewitness account |
+| C-2473 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Rumors about Tyrion baby claws teeth tail dual sex contradicted | Monstrous gossip not physiology |
+| C-2474 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Cersei allegedly twisted infant Tyrion genitals in nursery | Oberyn witness story, Tyrion too young to recall |
+| C-2475 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Jaime reportedly intervened to stop Cersei harming baby Tyrion | Sibling contrast in Oberyn account |
+| C-2476 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Elia reportedly reacted tenderly to infant Tyrion | Oberyn memory, no later motive proof |
+| C-2477 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Tywin instituted brothel penny taxed as Tyrion's measure | Policy blame separated from decision maker |
+| C-2478 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Oberyn openly discusses Ellaria sexual interests | Cultural contrast, not primary mission |
+| C-2479 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Oberyn demands accountability for Elia and murdered children | Explicit investigative objective |
+| C-2480 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Oberyn claims Jon Arryn questioned in Sunspear post-rebellion | Reported prior Dornish investigation |
+| C-2481 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Oberyn targets Gregor Clegane as killer and seeks original order | Sponsor remains unidentified on page |
+| C-2482 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Oberyn differentiates Doran's patience from own violent readiness | Character self-presentation, coordinated strategy unresolved |
+| C-2483 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Tyrion estimates three hundred Dornish vs five thousand gold cloaks | Approximate coercive force comparison |
+| C-2484 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Tyrion estimates twenty thousand Tywin men and huge Tyrell forces | Unverified garrison numbers |
+| C-2485 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Tyrion warns Oberyn about Tyrell conflict over Willas | Political risk rather than battle |
+| C-2486 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Oberyn insists jousting victory differs from battlefield kills | Martial value judgments |
+| C-2487 | [ASOS 38](../Source/Main-Series/03-A-Storm-of-Swords/chapters/38-tyrion.md) | Tyrell tale of Renly ghost on Blackwater met Oberyn skepticism | Reported battle spectacle not verified ghost |
+| C-2488 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Anguy kills septry roof sentry in dawn assault | Observed coordinated Brotherhood action |
+| C-2489 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Kyle and Notch fire on door guards before flames spread | Opening stealth and transition |
+| C-2490 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Arya held back from septry battle with Gendry | Agency restricted for children |
+| C-2491 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Arrow bodkins pierce mail; Arya wants archery training | Observed weapon effect, no training yet |
+| C-2492 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Brave Companions at septry include Ibbenese Dothraki Volantenes Myrish | Multinational mercenary garrison |
+| C-2493 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Watty falls and Kyle pierced by spear during assault | Brotherhood casualty record, survival unclear |
+| C-2494 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Beric permits two fleeing Dothraki to warn Hoat and Bolton | Intentional intimidation through survivors |
+| C-2495 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Eight imprisoned brown brothers rescued from burning septry | Survivor count distinct from Utt |
+| C-2496 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Septon Utt hid under cellar steps wearing chainmail | Clergy title and killer role |
+| C-2497 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Utt guilty admissions and accounts of assaulted murdered boys | Confessional testimony, no exhaustive victim list |
+| C-2498 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Beric orders Utt and captured Mummers hanged after brief trials | Lethal procedural choice rather than battle deaths |
+| C-2499 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Septry collapsed after fire, leaving eight from original forty-four | Civilian religious institution decimated |
+| C-2500 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Elder brown brother disclosed gold under threat of killings | Trauma and property sacrifice, not moral guilt |
+| C-2501 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Beric respects hosts forbidding Thoros prayers | Hospitality contrasted with Craster episode |
+| C-2502 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Beric seldom eats sleeps, conceals grave wounds | Resurrection altered physiology as witnessed |
+| C-2503 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Thoros says Beric revived six times with growing difficulty | Reported count, next fate uncertain |
+| C-2504 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Burton Crakehall mace smashed Beric head in earlier death | Beric recollection not re-enacted |
+| C-2505 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Manticore hanged Beric despite hostage surrender at Rushing Falls | Beric firsthand account, collateral victims |
+| C-2506 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Mountain thrust dagger through Beric visor and eye | Beric attribution of grievous wound |
+| C-2507 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Beric cannot recall pledged bride hair or old favorite foods | Memory erosion admitted explicitly |
+| C-2508 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Thoros last kiss breathed fire into dead Beric first time | Priest's account, divine source inferred |
+| C-2509 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Arya asks if Thoros can revive a headless man | Grief for Ned, no resurrection performed |
+| C-2510 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Beric uses seized Hound gold to buy grain seed horses weapons | Declared resource policy, actual stores not inventoried |
+| C-2511 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Arya fears Robb Catelyn reject changed appearance and killings | Private fear, no actual family verdict |
+| C-2512 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Gendry asks to serve outlaw Brotherhood as smith for food shelter | Voluntary recruitment and identity choice |
+| C-2513 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Beric dubs Gendry Ser Gendry knight of hollow hill | Completed oath and ceremony |
+| C-2514 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Sandor returns demanding gold, rejects Beric promissory paper | Competing definitions of debt and theft |
+| C-2515 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Beric forbids killing Sandor after trial battle spared him | Consistency on sentence despite dislike |
+| C-2516 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Puddingfoot sleeping guard let Hound approach unchallenged | Security failure not proof killed guards |
+| C-2517 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Anguy mentions spending tourney winnings on Dancy Jayde Alayaya | Ordinary continuity of King's Landing side figures |
+| C-2518 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Arya hears many wolves near brewhouse but scouts find none | Nymeria-pack hypothesis, identity unconfirmed |
+| C-2519 | [ASOS 39](../Source/Main-Series/03-A-Storm-of-Swords/chapters/39-arya.md) | Gendry apology fails to repair Arya feeling abandoned | Friendship strain, reunion still planned for Arya |
+| C-2520 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Bran party travels from foothills into depopulated Gift | Open ground increases exposure risk |
+| C-2521 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Bran recalls Watch first land grant twenty-five leagues by Brandon | Founder identity disputed by maesters |
+| C-2522 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Queen Alysanne on Silverwing doubled Watch Gift to fifty leagues | Learned history not witnessed proof |
+| C-2523 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Inn apple orchard tree grows inside abandoned common room | Duration of depopulation indicated |
+| C-2524 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Bran attributes Gift abandonment to raiding and Watch weakness | Plausible causal account, no local testimony |
+| C-2525 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Golden crowned merlons mark Alysanne holdfast according Old Nan | Observed paint, oral history visit |
+| C-2526 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Jojen predicts storm before full clouds appear | Weather sense versus green magic unknown |
+| C-2527 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Old Nan story of submerged causeway proves accurate | Specific legendary/local geographic knowledge corroborated |
+| C-2528 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Causeway three feet wide bends around island then returns | Security path and drowning hazard |
+| C-2529 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Hodor nearly slips crossing submerged slimy stones with Bran | Physical vulnerability in travel |
+| C-2530 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Locked gates and ceiling murder grate defend old tower | Physical access architecture |
+| C-2531 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Bran pulls loose rusted murder grate accidentally | Corrosion not supernatural strength demonstrated |
+| C-2532 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Hodor stacks rocks to join party through murder hole | Practical workaround and caretaker dependence |
+| C-2533 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Tower five levels balcony privy drains lake | Minor fortification details |
+| C-2534 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Bran recalls nineteen Wall forts with at most seventeen occupied once | Trained historical detail, current count distinct |
+| C-2535 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Jojen seeks crossing via abandoned Wall castle | Proposed route, sealed gates problem unsolved |
+| C-2536 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Bran wishes to see Jon and Benjen at Castle Black | Outdated assumptions of family positions |
+| C-2537 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Jojen fears Watch may sell Bran to ironmen or Bolton bastard | Risk model, no named Watch betrayer |
+| C-2538 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Lone rider shelters in ruined inn and lights fire | Identity unconfirmed at this chapter |
+| C-2539 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Jojen forbids tower fire to avoid revealing smoke | Concrete stealth tactic |
+| C-2540 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Meera caught duck by net, party shares cold remainder | Food scarcity but continuing provision |
+| C-2541 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Bran recounts Brandon Shipwright sailing west | Dynastic lore, expedition conclusion unknown |
+| C-2542 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | New group with spears and axe appears at inn in lightning | Affiliation numbers and identity unknown |
+| C-2543 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Hodor fears thunder, grabs sword then gives it away | Visible distress, no diagnosis asserted |
+| C-2544 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Bran unexpectedly enters Hodor's mind for half heartbeat | First human skinchange expressly recognized |
+| C-2545 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Hodor instantly quiets and sits when Bran reaches for him | Effect visible, informed consent absent |
+| C-2546 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Meera asks what Bran did, he denies then inwardly admits | Knowledge split and shame/fear |
+| C-2547 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Bran believes hidden path shields tower overnight | Morning exposure remains possible |
+| C-2548 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Bran enters Summer to scout, senses deer and frightened men | Deliberate wolf POV confirms sensory skinchanging |
+| C-2549 | [ASOS 40](../Source/Main-Series/03-A-Storm-of-Swords/chapters/40-bran.md) | Wolf sees hooded man with stick among armed party | Identity not established before chapter end |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -2496,4 +2620,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and eighty-two first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and eighty-six first-pass chapters listed in the coverage tracker.
