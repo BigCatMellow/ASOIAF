@@ -64,6 +64,10 @@ Arya **sees Frey hostages ransomed** while noting that no comparable ransom is p
 
 [Harrenhal's Northern prisoners and the prisoner-to-command transfer](harrenhal-captive-command-reintegration-audit.md) establishes that **Roose specifically tells Jaime in ASOS 37** that **Harrion Karstark remained a prisoner when Bolton took Harrenhal**, and that Roose gave him the remaining Karhold soldiers and dispatched him with Robett Glover. The black-with-white-suns captive in **ACOK 30 (Arya)** is strongly consistent with Harrion. **That is not a Wylis release record**: the fat trident-clasp hostage was said to belong to **Tywin**, whereas Harrion was claimed by a ransom-seeking hedge knight. It also separates the earlier **Tower of Dread** highborn Green Fork captives from Vargo Hoat's later **Widow's Tower** prisoner convoy used during the castle takeover (**ACOK 47**). Thus a **specific Harrion command handoff is attributed**, while Wylis's first exit from captivity remains `UNKNOWN`.
 
+### Maidenpool transit check and contrast with other northern prisoners
+
+[Maidenpool escort/custody audit](maidenpool-prisoner-handoffs-tarly-mooton-connington.md) adds **ADWD Epilogue (Kevan)**: **Tarly speaks of Red Ronnet's escort passing through Maidenpool and the crimes of its Mountain men there**. Combined with Jaime's **AFFC 27/30** explicit Wylis→Ronnet→Maidenpool order and **ADWD 29** Wylis's reported homecoming, this **corroborates the escort's presence at the transit town**, **not** the exact Wylis-to-ship handover. **AFFC 27 also leaves several other unnamed highborn Trident captives present at Harrenhal** without individually narrated release orders when Bonifer Hasty takes over the castle. These possible witnesses must not be silently presumed to have joined Wylis in White Harbor or to have been moved to Maidenpool.
+
 ## 2. What is supported independently of Roose's version?
 
 | Claim | Source/evidence | Status and limit |
