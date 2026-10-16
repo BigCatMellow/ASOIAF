@@ -1496,6 +1496,67 @@
 | C-1446 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Ramsay orders Frey boys saved while Winterfell buildings burned | Selective political protection and deliberate destruction |
 | C-1447 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Theon's last view Smiler escapes burning stable with mane aflame | Theon's ultimate fate remains unobserved |
 
+| C-1448 | [ACOK 67](../Source/Main-Series/02-A-Clash-of-Kings/chapters/67-tyrion.md) | Tyrion dreams grisly colorless Blackwater dead and face without mouth | Survivor trauma, not miraculous mutilation dream proof |
+| C-1449 | [ACOK 67](../Source/Main-Series/02-A-Clash-of-Kings/chapters/67-tyrion.md) | Tyrion wakes alive heavily bandaged in unfamiliar castle chamber | Confirms Lancel death report premature |
+| C-1450 | [ACOK 67](../Source/Main-Series/02-A-Clash-of-Kings/chapters/67-tyrion.md) | Podrick summons maester who administers milk poppy through copper funnel | Medical care on page, poisoning not supported |
+| C-1451 | [ACOK 67](../Source/Main-Series/02-A-Clash-of-Kings/chapters/67-tyrion.md) | Tyrion dream knighted by Jaime at triumphant feast | Wish fulfilment not actual postwar honor |
+| C-1452 | [ACOK 67](../Source/Main-Series/02-A-Clash-of-Kings/chapters/67-tyrion.md) | Tyrion remembers marriage cottage tenderness with Tysha | Memory, claim she lied for payment not independently corroborated |
+| C-1453 | [ACOK 67](../Source/Main-Series/02-A-Clash-of-Kings/chapters/67-tyrion.md) | Tyrion chokes Maester Ballabar with maester chain to stop sedating him | Direct violence under fear, medic not proven enemy |
+| C-1454 | [ACOK 67](../Source/Main-Series/02-A-Clash-of-Kings/chapters/67-tyrion.md) | Ballabar reports broken rib arrow infection treated by maggots | Specific combat injuries and medical treatment |
+| C-1455 | [ACOK 67](../Source/Main-Series/02-A-Clash-of-Kings/chapters/67-tyrion.md) | Mirror shows diagonal face gash three quarters of nose absent and lip injury | Real disfigurement after Moore's strike |
+| C-1456 | [ACOK 67](../Source/Main-Series/02-A-Clash-of-Kings/chapters/67-tyrion.md) | Tyrion suspects Cersei paid Moore to kill him | Unverified patron hypothesis despite real attack |
+| C-1457 | [ACOK 67](../Source/Main-Series/02-A-Clash-of-Kings/chapters/67-tyrion.md) | Ballabar says Tyrion in chamber above Queens Ballroom of Maegors Holdfast | Court control of wounded ex Hand |
+| C-1458 | [ACOK 67](../Source/Main-Series/02-A-Clash-of-Kings/chapters/67-tyrion.md) | Tywin takes Tower of Hand and acts as Hand after battle | Postwar political dispossession confirmed |
+| C-1459 | [ACOK 67](../Source/Main-Series/02-A-Clash-of-Kings/chapters/67-tyrion.md) | Ballabar reports Tyrell Tywin Loras and Baelish relieved city | Corroborated victory yet credit allocation interested |
+| C-1460 | [ACOK 67](../Source/Main-Series/02-A-Clash-of-Kings/chapters/67-tyrion.md) | Pod reports Bronn was made a knight after Blackwater | Change in social rank, loyalty not tested |
+| C-1461 | [ACOK 67](../Source/Main-Series/02-A-Clash-of-Kings/chapters/67-tyrion.md) | Tyrion asks Pod fetch Frenken watched dreamwine rather than poppy | Countermeasures to regain control over own care |
+| C-1462 | [ACOK 67](../Source/Main-Series/02-A-Clash-of-Kings/chapters/67-tyrion.md) | Pod flinches and says Mandon Moore drowned after he intervened | Strong further evidence Pod saved Tyrion |
+| C-1463 | [ACOK 67](../Source/Main-Series/02-A-Clash-of-Kings/chapters/67-tyrion.md) | Tyrion orders Pod silence about Moore and rescue | No public investigative record guaranteed |
+| C-1464 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Dalbridge left in pass, distant horn suggests doom but corpse not observed | Probable fatal rearguard, not direct death |
+| C-1465 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Ebben sent toward Mormont with Dalbridge garron to report | Courier route planned, actual failure later |
+| C-1466 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Stonesnake loses garron after shadowcat spooks animal and walks toward Fist | Potential surviving independent witness, end unknown |
+| C-1467 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Qhorin instructs Stonesnake report old powers waking and giants wargs | Commander interpretation of Jon dream intelligence |
+| C-1468 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Blue grey eagle repeatedly watches rangers across high mountains | Sustained surveillance compatible skinchanger |
+| C-1469 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Rangers subsist on horse flesh and blood oats after mount loss | Physical survival cost of scouting |
+| C-1470 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Qhorin and Jon recite Night Watch oath beside conspicuous fire | Reaffirmation before deep cover assignment |
+| C-1471 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Qhorin warns all fires go out if Wall falls | Strategic prophetic warning, no literal Wall collapse yet |
+| C-1472 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Qhorin explicitly orders Jon yield and pretend switch to free folk while remaining loyal | Undercover authorization for future conduct |
+| C-1473 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Qhorin asks what Mance's people are digging for in Milkwater valley | High-priority unresolved strategic objective |
+| C-1474 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Qhorin makes decoy fire and crosses secret mountain passage behind waterfall | Physical evasion tactic defeated by eagle |
+| C-1475 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Eagle waits beyond passage suggesting persistent tracking | Unusual pursuit mechanism, external watcher unknown |
+| C-1476 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Fourteen wildling hunters and eight dogs meet two rangers | Precise small interception force |
+| C-1477 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Rattleshirt or Lord of Bones wears giant-skull helmet and rattling bone armor | Physical giant remains claimed by gear |
+| C-1478 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Spearwife shows actual severed head of Ebben | Courier definitively dead, no delivered report by him |
+| C-1479 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Ygritte recognizes Jon as person who spared her and asks wildlings to let him live | Earlier mercy yields practical future opportunity |
+| C-1480 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Ygritte says eagle was a man before Jon killed him in pass | Named witness suggests dead skinchanger inhabiting bird |
+| C-1481 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Wildlings demand Jon kill Qhorin as condition of defection | Coercive loyalty test within infiltration |
+| C-1482 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Ghost bites Qhorin calf allowing Jon Longclaw throat slash | Direct fatal blow and material animal intervention |
+| C-1483 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Qhorin dies as Jon kneels; wildlings cremate body | Witnessed final death, resurrection not depicted |
+| C-1484 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Ygritte wins Qhorin cloak in games over remains | Physical object transfer |
+| C-1485 | [ACOK 68](../Source/Main-Series/02-A-Clash-of-Kings/chapters/68-jon.md) | Ygritte says Mance already marched down Milkwater toward Wall | Witness testimony of advance, arrival not yet shown |
+| C-1486 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Summer and Shaggydog watch Winterfell burn and roam outside | Two direwolves survived occupation collapse |
+| C-1487 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Summer thinks smoke flame resembles winged snake | Wolf image, no dragon established |
+| C-1488 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Bran remains skinchanged into Summer for three days while body drinks drops water honey | Major starvation risk of prolonged warging |
+| C-1489 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Bran says he once touched Ghost and spoke to Jon | Independent cross POV match for ACOK53 weirwood dream |
+| C-1490 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Fugitives in Winterfell crypt beside Ned's empty tomb | Definitive Bael crypt hiding parallel |
+| C-1491 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Bran and Rickon never left castle vicinity after doubling back from woods edge | Earlier search narrative confirmed false destination |
+| C-1492 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Bran sent both direwolves onward to draw hunters after humans hid | Explains human footprints missing at stream |
+| C-1493 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Osha wields Mikken-forged sword from Ned funerary tomb | Crypt objects repurposed as protection |
+| C-1494 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Hodor opens rubble obstructed ironwood crypt door with back and legs | Strong mundane mechanism to escape hiding |
+| C-1495 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | First Keep collapsed Great Hall rafters burned glass gardens shattered | Specific scale of Ramsay devastation |
+| C-1496 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Granite outer walls and damp godswood survive inferno | Material structures still intact despite sack |
+| C-1497 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Hot water pours near damaged Library Tower and steaming puddle remains | Geothermal engineering clue from Winterfell |
+| C-1498 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Osha finds dead ironborn and flayed man banner among corpses | Ramsay fire responsibility corroborated by ACOK66 |
+| C-1499 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Luwin found dying under heart tree after spear wound, alive when discovered | Death initially unwitnessed after attack now mortal injury |
+| C-1500 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Luwin recognized fake princes due wrong muscles in legs despite clothes | Independent forensic check of body switch |
+| C-1501 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Bran tells Luwin wolves ran decoy while they hid in father tomb | Direct confession of route explains all tracking |
+| C-1502 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Luwin urges surviving Stark heirs separate for protection | Dynastic dispersal strategy not abandonment |
+| C-1503 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Luwin lists White Harbor Umbers as possible refuge options | Locations suggested, no safe arrival confirmed |
+| C-1504 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Luwin requests water and unspecified boon of Osha before others leave | Mercy death possibility, act not witnessed |
+| C-1505 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Osha takes Rickon and Shaggydog toward East Gate and possible kingsroad | Distinct departure route, ultimate destination open |
+| C-1506 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Bran with Hodor Reeds and Summer leave Hunter Gate going north | Other heir route, not yet reached destination |
+| C-1507 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Bran thinks Winterfell broken not dead because stones roots and crypt kings remain | Hope and future symbol, not guaranteed restoration |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1503,4 +1564,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and forty-three first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and forty-six first-pass chapters listed in the coverage tracker.
