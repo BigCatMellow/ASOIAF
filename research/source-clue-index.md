@@ -2032,6 +2032,121 @@
 | C-1972 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Sybell gives Jeyne daily herbs milk ale fertility posset | Direct testimony, chemical effect not established |
 | C-1973 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Catelyn judges Jeyne sincere while Sybell's motives remain untested | Mother and daughter must not be conflated |
 
+| C-1974 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Scorched corridor extends miles around kingsroad, flooded crossings | Observed war destruction, no single culprit identified |
+| C-1975 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Mooton banner still flies above corpse-choked Maidenpool | Formal lordship persists amid destroyed urban safety |
+| C-1976 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Florian and Jonquil pool polluted with dead | Romance legend counterposed to civilian devastation |
+| C-1977 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Brienne takes Duskendale route; Cleos wanted coastal road | Route tradeoff, no confirmed safer alternative |
+| C-1978 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Jaime recalls Joanna intervened in childhood Cersei intimacy | His private recollection, not Cersei testimony |
+| C-1979 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Jaime imagines public marriage to Cersei and pairing their children | Private fantasy not implemented dynastic policy |
+| C-1980 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Jaime intends to return Sansa and Arya if found | Actual private oath intention, neither rescue accomplished |
+| C-1981 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Unidentified roadside archers wound Brienne and Jaime's horse | These bowmen not identified as later Bloody Mummers |
+| C-1982 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Jaime orders charge despite chains; Brienne routs archers | Experienced tactical response, not capture prevention |
+| C-1983 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Cleos Frey fatally dragged by fleeing horse after arrows | Loss of escort and material witness |
+| C-1984 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Jaime attacks Brienne after taking dead cousin's sword | Initiation of nonconsensual lethal duel |
+| C-1985 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Brienne parries skilled Jaime despite arrow wounds | Skill and endurance observed under unequal conditions |
+| C-1986 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Jaime realizes Brienne stronger as imprisonment wears on him | Specific contest, does not settle ideal-condition matchup |
+| C-1987 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Jaime wounds Brienne thigh, Brienne cuts his brow | Mutual combat injuries preceding capture |
+| C-1988 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Brienne forces Jaime under brook while demanding yield | Captor oath and dangerous coercion collide |
+| C-1989 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Different force of Bloody Mummers discovers fighters beside brook | No evidence road ambush and mercenary arrival coordinated |
+| C-1990 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Urswyck reports Vargo promised Harrenhal and serves Bolton | Mercenary claim, full transfer terms unknown |
+| C-1991 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Brienne invokes Catelyn's exchange orders but both assaulted | Protection fails outside reliable authority |
+| C-1992 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Rorge receives stripped Cleos quartered Lannister Frey surcoat | Visible property and identity transfer |
+| C-1993 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Jaime offers Urswyck gold pardon and knighthood | Failed negotiation constrained by reputation and retaliation risk |
+| C-1994 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Urswyck calls Jaime oathbreaker and refuses redemption bargain | Kingslayer public stigma has operational effect |
+| C-1995 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Sapphire Isle blue-water name turned into gem-ransom bluff | Jaime deliberately raises Brienne's price for protection |
+| C-1996 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Vargo's company destroys sept ornaments and abuses septon corpse | Wartime atrocities by supposed Stark-aligned soldiers |
+| C-1997 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Vargo wears linked coin necklace from many lands | Greed and mercenary life; supernatural symbolism unproven |
+| C-1998 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Vargo says ransom later, message to Tywin first | Intent stated, message's nature not yet revealed |
+| C-1999 | [ASOS 21](../Source/Main-Series/03-A-Storm-of-Swords/chapters/21-jaime.md) | Dothraki arakh descends over chained Jaime at chapter end | Attack and scream observed, anatomical result deferred |
+| C-2000 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Lychester repeats Ser Maynard bridge victory without orientation | Trauma and fading witness memory, exact event unknown |
+| C-2001 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Lychester sons died on rival sides in Robert rebellion | Family cost of earlier civil war by Lem report |
+| C-2002 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Maester hears Beric hanged near Gods Eye from six-month-old raven | Stale report; survival and death threshold uncertain |
+| C-2003 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Lady of Leaves village suspended in trees by rope ladders | Concealed architecture, not magical disappearance |
+| C-2004 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Different horn signal accesses Lady of Leaves settlement | Multi-cell signaling system distinct from earlier refuge |
+| C-2005 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Lady of Leaves reports wolves hunting Hayford road nine days earlier | Northerner group identity not directly established |
+| C-2006 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Beric allegedly eye-stabbed by Gregor via two intermediaries | Rumor not direct evidence of resurrection |
+| C-2007 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Northmen hunting Jaime desecrated sept at Sallydance | Septon witness, identifies faction not each perpetrator |
+| C-2008 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | One hidden outlaw wears false crude lightning badge | Distributed symbol, not actual Beric identity |
+| C-2009 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Harwin cites weapons horses armor and planting seed for ransom | Finance goals include civilian winter survival |
+| C-2010 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Tom implies prior satirical song about Edmure | Potential faction friction, truth of story unverified |
+| C-2011 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Arya and Gendry count 31 felled weirwood stumps at High Heart | Physical landscape record, old historical cause reported |
+| C-2012 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Tom ascribes High Heart grove destruction to Erreg Kinslayer | Legend attribution not contemporaneous witness |
+| C-2013 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | High Heart overlooks flat approaches, defensible without magic | Mundane alternative to Tom's safe-sleep claim |
+| C-2014 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Old pale woman at High Heart seems red-eyed to Arya | Nighttime impression not fully reliable eye description |
+| C-2015 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Ghost dreams burning heart shadow killing golden stag | Dream testimony, referent and timing open |
+| C-2016 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Ghost dreams faceless bridge figure and drowned crow | Composite vision, no fixed identity assigned |
+| C-2017 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Ghost dreams red-teared dead fish woman opening eyes | Reported image, event not narrated in this chapter |
+| C-2018 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Ghost demands same sad song from Tom in exchange | Ritualized trade and possible cultural memory |
+| C-2019 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Beric's cells hide plans even from allies to resist torture | Operational compartmentalization, manpower only estimated |
+| C-2020 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Arya recalls Tickler's repeated interrogation questions | Specific trauma account, Tickler fate not yet known |
+| C-2021 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Lady Smallwood warns Arya's Bolton emblem invites hanging | Clothing can misidentify wearer as enemy |
+| C-2022 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Carellen Smallwood lives at Oldtown motherhouse | Daughter's location reported, future role undetermined |
+| C-2023 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Smallwood boy died aged seven, clothes given to Arya | Bereavement and practical generosity |
+| C-2024 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Thoros reportedly brings three sheep to Smallwood as thanks | Compensation claim; one sheep eaten at dinner |
+| C-2025 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Karstark white-sun searchers say Catelyn freed Jaime | Actual cross-POV truth Arya rejects |
+| C-2026 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Gendry reports wildfire-dipped disposable blades used by Thoros | Ordinary pyrotechnic swords, magic questions distinct |
+| C-2027 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Gendry recalls Tobho Mott ordered first longsword before Yoren took him | Interrupted apprenticeship and practical trade skill |
+| C-2028 | [ASOS 22](../Source/Main-Series/03-A-Storm-of-Swords/chapters/22-arya.md) | Arya tears acorn dress wrestling Gendry then apologizes to Smallwood | Agency and enduring capacity for remorse |
+| C-2029 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Astapori bronze harpy holds chains instead of ancient thunderbolt | Visible ideological symbol, remembered history less secure |
+| C-2030 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Dany secretly understands Kraznys's Ghiscari High Valyrian | Asymmetric knowledge in negotiation |
+| C-2031 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Naathi ten-year-old slave translates while softening owner's insults | Coercive intermediary, possible mistranslation |
+| C-2032 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | One thousand Unsullied displayed ten ranks of hundred | Inspection group distinct from total eight thousand stock |
+| C-2033 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Kraznys reports training at five and one third survive | Sales testimony, not independent census |
+| C-2034 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Unsullied display ethnically diverse enslaved populations | Includes people resembling Ghiscari slavers |
+| C-2035 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Kraznys publicly flogs soldier and amputates another's nipple | Visible forced compliance under violence |
+| C-2036 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Pain-reducing potion allegedly includes nightshade and lotus | Merchant description, extent of analgesia not tested |
+| C-2037 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Kraznys describes full genital mutilation vs other slave cities | Violence institutionalized, not voluntary sworn celibacy |
+| C-2038 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Reassigned Ghiscari name disks change daily | Structured identity suppression, not proof personhood absent |
+| C-2039 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Training allegedly requires killing puppy and enslaved infant | Cruel training claim, moral urgency |
+| C-2040 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Kraznys says Unsullied would refuse offered freedom | Slaver's claim, soldiers' independent preferences unknown |
+| C-2041 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Eight thousand trained available, sold by hundred or thousand | Total military purchase scale and unit restriction |
+| C-2042 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Equipment included but extra armor and commanders buyer's cost | Concrete force logistics and hidden expense |
+| C-2043 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Kraznys exaggerates corsair intent; translator says only hundred | Direct evidence negotiating dishonesty |
+| C-2044 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Arstan rejects slave army as affront to Westerosi abolition | Ethical and strategic objection, future reception unknown |
+| C-2045 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Arstan proposes Illyrio support and diplomatic envoys | Feasible alternative, safety and efficacy unproven |
+| C-2046 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Dany recalls Viserys begging and her own forced marriage sale | Agency and refusal to depend on pledges |
+| C-2047 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Kraznys offers violent child-bear pit entertainment | Atrocity scheduled according to slaver, not witnessed performance |
+| C-2048 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Astapor red brick dust and broken walls reveal urban decay | Seen firsthand, military vulnerability not total incapacity |
+| C-2049 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Dany forbids Jhogo whip use amid slave city | Immediate conduct choice, no liberation yet |
+| C-2050 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Dany notes slave coffle and paid overseers beyond Unsullied | Economy extends beyond military castration |
+| C-2051 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Jorah and Dany have unresolved consent conflict after his kiss | Her avoidance and boundaries are explicit |
+| C-2052 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Irri offers personal service, Dany clarifies she is freed not bed slave | Power and consent unresolved despite declarations |
+| C-2053 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Three slavers and scribes inspected Dany ships holds | Trade appraisal, no exchange completed |
+| C-2054 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Drogon bites Irri and attempts escape from ship confinement | Growth and safety risk witnessed |
+| C-2055 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Dany initially calls Astapor vile but refuses departure before army | Goal persists while ethical method unsettled |
+| C-2056 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Jorah explains Unsullied defense and Dothraki trade gifts prevent sack | Economic and military deterrence model |
+| C-2057 | [ASOS 23](../Source/Main-Series/03-A-Storm-of-Swords/chapters/23-daenerys.md) | Dany invokes Rhaegar's free followers; Jorah says honor lost battle | Normative war strategy unresolved |
+| C-2058 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Ice Dragon blue star points north per Osha | Navigation lore not literal sky creature |
+| C-2059 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Bran imagines Rickon safe at White Harbor or Last Hearth | Wish not verified location |
+| C-2060 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Jojen avoids roads even as highland hunting becomes scarce | Secrecy prioritized over speed and calories |
+| C-2061 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Bran lists mountain Wull Harclay Knott Liddle Norrey Flint and Umber geography | Concrete northern social terrain |
+| C-2062 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Bran reports Flint ancestry through paternal female line | Family history no automatic clan allegiance |
+| C-2063 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Wull bucket sigil and chief nonlord honorific | Court label differs from local titles |
+| C-2064 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Theo Wull called Buckets reportedly rode with Reed father | Historical personal network, current fate unverified |
+| C-2065 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Bran senses hidden mountain observers through Summer | Direwolf-assisted perception not omniscience |
+| C-2066 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Pinecone-clasp stranger provides food and shelter without names | Likely Liddle, identity inferred |
+| C-2067 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Stranger recalls roads safer when Starks ruled Winterfell | Character view with idealized past alternative |
+| C-2068 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Stranger reports Bastard's flayed-men seeking travelers and wolfskins | Local hearsay, actor's live orders unverified |
+| C-2069 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Stranger looks at Bran and Summer when discussing walking dead | Possible recognition of believed-dead heir |
+| C-2070 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Stranger says Watch ravens returned largely without messages | Partial intelligence compatible with two early sent Sam letters |
+| C-2071 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Jojen predicts wolves returning from dream; Liddle replies dream of dead mother | Text supplies disconfirming skeptic |
+| C-2072 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Stranger leaves sausage and twelve fruit or pine-nut cakes | Material kindness, Bran future repayment only intended |
+| C-2073 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Bran tries and fails to skinchange soaring grey eagle | No proof eagle same as Orell's |
+| C-2074 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Hodor true name Walder according to Old Nan | Name continuity, repeated word cause unverified |
+| C-2075 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Old Nan's fate not shown among Winterfell corpses | Absence of body neither proof of life nor death |
+| C-2076 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Reeds tell of invading armored knights sinking in Neck bogs | Regional defense account and Greenwater Watch concealment |
+| C-2077 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Young crannogman goes Isle of Faces after sailing past Twins | Meera historical report, actual encounter unshown |
+| C-2078 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Meera declines to explain what the green men did | Deliberate narrative knowledge gap |
+| C-2079 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Harrenhal tourney contains king dragon prince and Kingsguard ceremony | Reed testimony and court history convergence |
+| C-2080 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Wolf maiden attacks three squires tormenting crannogman | Strong Lyanna inference, no name assigned here |
+| C-2081 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Purple-eyed maiden dances with white sword red snake griffin and quiet wolf | Names to corroborate, no direct identifications given |
+| C-2082 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Three guilty squires serve pitchfork porcupine and Frey twin-tower knights | Heraldic cue supports concrete later audit |
+| C-2083 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Laughing Tree Knight wears ill-fitting armor and weirwood shield | Mystery identity not confirmed |
+| C-2084 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Knight wins three tilts and rejects ransom for chastisement of squires | Honor-driven judgment, not a killing |
+| C-2085 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | King orders hunt and dragon prince seeks mystery knight | Potential historic contact, actual discovery withheld |
+| C-2086 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Meera says wolf maiden eventually crowned by dragon prince, sadder story follows | Future told event, motive and consequence not revealed |
+| C-2087 | [ASOS 24](../Source/Main-Series/03-A-Storm-of-Swords/chapters/24-bran.md) | Jojen twice asks whether Ned ever narrated tourney to Bran | Family silence significant but multiple ordinary reasons |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -2039,4 +2154,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and sixty-six first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and seventy first-pass chapters listed in the coverage tracker.
