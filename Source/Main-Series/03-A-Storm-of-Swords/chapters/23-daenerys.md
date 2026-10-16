@@ -1,0 +1,65 @@
+# ASOS 23 — Daenerys: the machinery of Unsullied slavery, a hidden language advantage, and conquest's moral problem
+
+- Record role: `RESEARCH / SEQUENTIAL CLOSE READING`
+- Status: `FIRST PASS COMPLETE — INDEPENDENT CHALLENGE OPEN`
+- Source: complete [ASOS 23 Daenerys transcription](../text/024-daenerys.md), read 2026-10-16. [Evidence policy](../../../../SOURCES.md).
+
+## Narrative sequence, material evidence and decisions
+
+1. **A city built around the altered harpy symbol.** In Astapor's Plaza of Pride, a huge bronze harpy fountain has a female face, dragon/bat wings, eagle legs and scorpion tail; chains and opened manacles hang where the ancient Ghiscari harpy was said to grasp a thunderbolt. Dany remembers the destruction of Old Ghis by Valyria. **The physical harpy and chains are visible**; Dany's five-thousand-year account is historical memory rather than direct verification.
+2. **Dany conceals her fluency in local speech.** Kraznys mo Nakloz speaks a Ghiscari-influenced High Valyrian, with which she can follow his insults. She pretends to need a young translator and speaks in Common Tongue/Dothraki on Jorah's prior advice. Kraznys **assumes** she cannot understand him. This is a verified informational advantage, not yet a completed deception-based operation.
+3. **The translator is herself enslaved.** A girl of roughly ten from **Naath**, with golden eyes, speaks polished Common Tongue and softens or omits her master's insults. She is the immediate intermediary for every proposed contract; her exact legal status as an owned slave is explicit.
+4. **One thousand displayed soldiers are a demonstration group.** They stand in **ten ranks of one hundred** near the harpy, under sun and reportedly without food or drink for a day and night. This is not the total Astapori inventory. Some command demonstrations are Kraznys's claims rather than proof that no soldier could disobey.
+5. **Uniforms and weapon disciplines are specific.** The Unsullied wear little beyond linen and spiked bronze helmets for inspection, with spears, shields, quilted tunics and swords set aside. Training supposedly begins at age **five**, covering shield, short sword and **three types of spear**, with only **one in three** boys surviving. Source of the mortality ratio is the sales representative and translator.
+6. **The ranks contain many ethnic origins, including Ghiscari.** Dany observes Lhazarene, Dothraki, Free Cities, Qartheen, Summer Isles and local Ghiscari features. Enslavers also enslave persons resembling themselves, undercutting a simple conqueror-vs-outsider ethnic explanation.
+7. **Abuse is used to demonstrate obedience.** Kraznys lashes a soldier's face without retaliation and maims another by cutting away a nipple while ordering immobility. The violence is **directly shown**; his claim that they are incapable of feeling pain is an interested overstatement.
+8. **Kraznys describes systematic pharmacological conditioning.** He says a daily potion derived from **deadly nightshade, bloodfly larva, black lotus root and secret ingredients** diminishes pain over years. This is a character's description of a training regimen; no biochemical test or proof of complete painlessness is offered.
+9. **Eunuch condition is not conflated with voluntary celibacy.** Kraznys describes complete genital mutilation of Astapori Unsullied, contrasting partial castration in Yunkai/Meereen. Arstan lists sworn celibate orders in Westeros. **Voluntary vows and forced mutilation are ethically and materially different**, regardless of Kraznys's sales pitch.
+10. **Daily reassigned names degrade individual identity.** Name-disks bearing Ghiscari glyphs are taken from a cask each morning; a soldier has used names like Red Flea, Black Rat and others on prior days. Remembering the current name is part of training. This is **a standardized imposed identity erasure**, not evidence that individual memories or personality truly cease to exist.
+11. **Cruel graduation ordeals are claimed by Kraznys.** He says trainees are assigned puppies and ordered to kill them, and must kill a purchased infant before its mother to earn a spiked cap. Even if the exact failure rate is unverified, Kraznys openly markets this atrocity as doctrine. Dany's horror is specific to children, families and coercion, not just dislike of expensive soldiers.
+12. **Claims about freedom are untested and self-serving.** Kraznys declares an Unsullied would refuse freedom even from a buyer and kill anyone offering it to induce betrayal. That statement describes **what an owner says about his product**, not the soldiers' freely stated preferences.
+13. **The sale inventory is specified.** He offers **8,000 fully trained Unsullied**, sold by **hundreds or thousands**, not groups of ten; arms, caps and basic uniform are included, additional armor is the buyer's responsibility. Customers choose officers, as the soldiers are trained for obedience instead of command initiative.
+14. **The scarcity tactic is contradicted on page.** Kraznys threatens that a corsair king may buy the entire inventory, but the translator quietly says that man wanted **only one hundred**. He silences her. This directly documents dishonest negotiation pressure.
+15. **Arstan explicitly opposes buying a slave army.** He warns that Westerosi traditions condemn slavery, predicts political resistance to a conquest led by slaves, and proposes remaining under Illyrio's protection while dragons grow and envoys seek allies. These are serious alternatives, but neither their safety nor popularity is assured.
+16. **Dany distinguishes possible support from guaranteed help.** Arstan claims Rhaegar is still warmly remembered and speculates many former usurper supporters might favor restoration. Dany presses him about Aerys and refuses to stake survival on a mere possibility. Her memory of Viserys's humiliating failed petitions informs the objection.
+17. **A violent entertainment economy surrounds the sale.** Kraznys boasts of a fighting-pit spectacle involving children and a bear. The little translator reframes his threats and lewd language as polite sightseeing. **No participation in the spectacle occurs on page**; its scheduling is a boast.
+18. **Arstan urges departure again during the return to the docks.** He argues that even paid free-company soldiers would be preferable to enslavement. He repeats a maester's rhyme about Astapor's red bricks and slave blood. The actual manufacture's every step is not directly inspected; red dust and the city's atmosphere are.
+19. **Urban geography is concrete.** Dany sees extensive red-brick streets, worn tiered pyramids, derelict defenses, dust, sparse population, fighting pits and guarded wealthy districts near the harbor. She sees a slave coffle and an overseer with a many-thonged whip, some captors riding white asses; slavery is not limited to soldiers.
+20. **Dany forbids Jhogo to crack his whip there.** A local, immediate choice respects the trauma represented by the city's ubiquitous lashes. It does not, by itself, free anyone.
+21. **Jorah's earlier kiss continues to affect judgment and boundaries.** Dany says she did not consent to the kiss, avoids being alone with him and notices desire and grief do not align neatly with her wish to honor Drogo. She reflects on an intimate moment in which her handmaid **Irri** initiated physical assistance; Dany later insists Irri is a **freed handmaid, not a sexual servant**, and refuses another offer. Irri describes pleasing her as an honor; the passage raises an unresolved power imbalance rather than establishing uncoerced mutual desire.
+22. **Jorah's prior slaving is a live credibility issue.** Arstan reminds Dany that Jorah once sold human beings. Dany's own forced marriage to Drogo—arranged for Viserys's political ambitions—helps explain why purchasing traumatized children is especially intolerable to her.
+23. **The slavers have inspected Dany's ships and cargo.** Jorah says **three slavers**, a dozen scribes and enslaved assistants surveyed their holds while Dany was away. That shows her available goods have been appraised, but no price, final agreement or exchange is witnessed.
+24. **Dany strikes Jorah and immediately resists his suggestion to sail.** She slaps him, denounces Astapor, and briefly says she wants to leave; but she concludes she must somehow obtain the eight thousand soldiers. This is not a purchase, an order to sack Astapor, or a final moral resolution. It is a decision to **remain and solve the military dilemma**.
+25. **The dragons are young but growing and increasingly difficult to confine.** Drogon tries to escape the cabin and bites Irri when restrained; Viserion is already too large to perch comfortably on Dany's shoulder. The sailors and women report distress from confinement aboard ship; no successful escape or injury by dragonfire to the ship is shown.
+26. **Jorah's consequential argument is utilitarian.** He compares the Unsullied's obedience to the Sack of King's Landing's rampant murder and rape, saying their future crimes would be under a commander's control. This is **Jorah's justification**, not proof that an army's obedience reliably makes war humane.
+27. **Dany reverse-interrogates Astapor's strategic situation.** She observes broken walls, sparse sentries and weakly impressive freeborn warriors, then asks why Dothraki have not destroyed the city. Jorah identifies **Unsullied deterrence** and the lack of profit in destroying a slave-market trading partner.
+28. **The economics of appeasement are explicit.** Jorah says the Masters distribute gifts and feasts to passing Dothraki, a cheaper bargain than fighting. Astapor survives in a regional system with buyers and carriers; its political vulnerability and commercial network are both real considerations for a would-be conqueror.
+29. **Rhaegar supplies competing ideals.** Dany asks whether his knights fought from conviction or from purchase; Jorah counters that honorable Rhaegar died and lost his war. The chapter closes **without determining whether virtue and victory can be reconciled**.
+30. **End state.** Dany is aboard Balerion in Astapor, with dragons still confined, **no completed Unsullied purchase** and **no departure**. She remains divided between building the army needed for Westeros and refusing to repeat slavers' abuses. The information advantage from her Valyrian comprehension remains active.
+
+## Microdetails / interpretive safeguards
+
+| Anchor | Supported reading and alternate |
+|---|---|
+| Astapori harpy carries broken chain instead of bolt | Physical ideological emblem, exact historical chain evolution from memory |
+| Kraznys's broken High Valyrian and Dany's silence | Hidden language competence; not a public reveal yet |
+| Naathi interpreter softens vicious insults | Mediation and captivity, possible survival strategy |
+| Thousand men displayed; eight thousand available | Distinct counts, not contradictory armies |
+| One-in-three survive training | Seller's training claim, not independent census |
+| Pain potion ingredients include nightshade, black lotus | Claimed regimen, effects untested by the reader |
+| Names randomly assigned daily | Dehumanization policy observable by presentation |
+| Trained soldiers must buy armor separately | Specific additional cost |
+| Corsair allegedly buys eight thousand but asked for one hundred | Explicit sales misinformation |
+| Ship holds inventoried by Kraznys's colleagues | Potential bargaining intelligence, no concluded transaction |
+| Crumbling walls and Dothraki gifts | Local threat matrix and commercial deterrence |
+| Dragon growth and Drogon's bite to Irri | Increasing husbandry and power imbalance problems |
+
+## Theory/disconfirmation tests
+
+- **Will Dany subvert the purchase?** Her language advantage, moral outrage, desire for eight thousand fighters and knowledge of weak Astapor defenses are compatible with several plans, including aggressive action; none is articulated or ordered here. A conventional purchase or departure remains logically possible at chapter end.
+- **The 'obedient army' claim:** A slave merchant's descriptions are not informed consent or verified individual autonomy. Test actual Unsullied behavior under changed conditions before deciding they lack independent agency.
+- **Protecting the weak vs winning:** Arstan offers a moral and political challenge; Jorah provides military necessity and horrific real-world analogies. Neither resolves Dany's responsibility for the means she might choose.
+- **Manipulation at close quarters:** Jorah's kiss and Irri's self-described service are distinct power relationships, both of which Dany worries about; do not mistake silence or proclaimed honor for blanket consent.
+- **Magic:** The bronze harpy, dragon wings, drugs and colored lights are meaningful material details but not proof that the slave market has a supernatural defense.
+
+**Review boundary:** Full chapter read and paraphrased; independent literary/evidentiary challenge open.
