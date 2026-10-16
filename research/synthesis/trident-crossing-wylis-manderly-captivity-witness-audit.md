@@ -68,6 +68,10 @@ Arya **sees Frey hostages ransomed** while noting that no comparable ransom is p
 
 [Maidenpool escort/custody audit](maidenpool-prisoner-handoffs-tarly-mooton-connington.md) adds **ADWD Epilogue (Kevan)**: **Tarly speaks of Red Ronnet's escort passing through Maidenpool and the crimes of its Mountain men there**. Combined with Jaime's **AFFC 27/30** explicit Wylis→Ronnet→Maidenpool order and **ADWD 29** Wylis's reported homecoming, this **corroborates the escort's presence at the transit town**, **not** the exact Wylis-to-ship handover. **AFFC 27 also leaves several other unnamed highborn Trident captives present at Harrenhal** without individually narrated release orders when Bonifer Hasty takes over the castle. These possible witnesses must not be silently presumed to have joined Wylis in White Harbor or to have been moved to Maidenpool.
 
+### Additional source test: what Hasty can and cannot testify to (2026-10-16)
+
+[Harrenhal's post-Jaime custody and raven audit](harrenhal-hasty-unreleased-trident-prisoners-raven-audit.md) confirms **AFFC 27** directly shows **several unnamed highborn Trident captives** alive alongside Wylis, but **only Wylis** receives a named release/escort instruction. Jaime appoints **Bonifer Hasty** interim crown castellan and takes Gregor's men away; **Maester Gulian** is to remain with ravens. **This is not a proven prisoner-to-Hasty transfer**, and no subsequent five-book scene certifies the other men remain at the castle, are sent to Maidenpool, or tell Hasty anything about Roose's rear guard. Hasty's outgoing-raven capacity is an *unexercised pathway*, not a received testimony or royal inquest. Wylis's later homecoming remains the one individually identified end state.
+
 ## 2. What is supported independently of Roose's version?
 
 | Claim | Source/evidence | Status and limit |
