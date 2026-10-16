@@ -2736,6 +2736,136 @@
 | C-2670 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Hoat orders both extracted, Jaime promises ransom | Release actual, payment unperformed |
 | C-2671 | [ASOS 44](../Source/Main-Series/03-A-Storm-of-Swords/chapters/44-jaime.md) | Jaime tells Brienne he came back because he dreamed of her | Expressed motive, romance and magic uncertain |
 
+| C-2672 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Jeyne remains Riverrun after three farewells, Catelyn's advice | Concern for Walder insults, not demonstrated Westerling plot |
+| C-2673 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Raynald Westerling travels as Robb banner bearer | Only Westerling remaining with marching king |
+| C-2674 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Sybell, Jeyne, Eleyna, Rollam stay in Riverrun | Family group separated without proven intent |
+| C-2675 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Rolph Spicer escorts Martyn Lannister toward Golden Tooth | Captive exchange ordered, delivery unknown |
+| C-2676 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Robett Glover reported loaded on ship at Duskendale | Arranged exchange, safe arrival unproven |
+| C-2677 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Grey Wind rejoins Robb following Jeyne departure | Wolf proximity and prior tensions |
+| C-2678 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Lothar Frey speaks tenderly about Roslin and Jeyne | Diplomacy not proof sincere allegiance |
+| C-2679 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Robb fields 3500 experienced troops before Frey Bolton junction | Current force versus planned 12000 |
+| C-2680 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Greatjon van Galbart scouts Wendel baggage Robin Flint rear | Command topology of march |
+| C-2681 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Brynden holds Riverrun as Warden of Southern Marches | Strong southern defense, absence from march |
+| C-2682 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Maege and Dacey Mormont sympathetic to Catelyn Jaime release | Individual northern allies amid dissent |
+| C-2683 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Bear Island carving nursing mother bearing axe | Culture and local defense history |
+| C-2684 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Catelyn remembers Lynesse Hightower unhappy on Bear Island | Firsthand visit, motivations not fully known |
+| C-2685 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Edmure worries bride unseen and is chastised by Catelyn | Pressure and strained family communication |
+| C-2686 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Catelyn recalls initial duty marriage to Ned then love | Her own emotional history, no Edmure prediction |
+| C-2687 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Whispering Wood cairns expose decayed corpses after earlier victory | Battlefields do not stay gloriously intact |
+| C-2688 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Hallis Mollen and silent sisters with Ned bones remain unaccounted | Burial at Winterfell not confirmed |
+| C-2689 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Fairmarket and Oldstones bridges destroyed by flood | Nonconspiratorial march delay |
+| C-2690 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Galbart almost drowns and scout dies trying Blue Fork | Real personnel and horse losses |
+| C-2691 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Detour by Sevenstreams Hag's Mire slows army and abandons carts | Supply costs from weather |
+| C-2692 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Jenny of Oldstones memory involves Catelyn and Petyr playacting | Prince of Dragonflies cultural echo, childhood memory |
+| C-2693 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Oldstones houses Tristifer IV Mudd tomb with worn warhammer | Material ruin, historical names via Catelyn |
+| C-2694 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Tristifer allegedly won 99 of 100 battles before Andal defeat | Song-historical count, not independently proved |
+| C-2695 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Robb and Jeyne tried to conceive but pregnancy unknown | No current heir established |
+| C-2696 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Robb considers Sansa and Tyrion next legal heirs under wrong Bran report | Dynastic concern based on mistaken intelligence |
+| C-2697 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Catelyn identifies Vale Royce Stark cousins via Waynwood Corbray Templeton | Alternative line partly uncertain |
+| C-2698 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Robb wants to legitimize Jon and negotiate Watch oath release | Stated intention, no legal execution at grave |
+| C-2699 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Catelyn cites Blackfyre precedents against bastard legitimization | Risk argument not proof Jon disloyalty |
+| C-2700 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Robb objects Jon is not Theon despite Catelyn parallel | Personal loyalty distinction |
+| C-2701 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Robb later demands lords seal unseen heir decision document | Document contents and later survival unknown |
+| C-2702 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Myraham captain reports Balon bridge storm death at Pyke | Lordsport secondhand, not eyewitness |
+| C-2703 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Myraham captain reports Euron returns on Silence black sails red hull | Arrival report, timeline uncertain |
+| C-2704 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Captain says Euron drowned Lord Botley on Seastone Chair challenge | Secondhand killing claim |
+| C-2705 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Robb expects Victarion Asha and other ironborn pulled to succession fight | Predictive strategic contingency |
+| C-2706 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Mallister has six longships and two war galleys | Insufficient to defeat Iron Fleet |
+| C-2707 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Two ships with Maege and Galbart intended to reach mobile Greywater Watch | Dispatch plan, actual arrival unknown |
+| C-2708 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Maege Galbart carry false written commands, real secret instructions | Operational security and intercept risk |
+| C-2709 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Howland Reed guides needed for unmapped Neck routes | Unique local knowledge, cooperation unverified |
+| C-2710 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Three-front Moat Cailin operation masks Robb middle force vanishing | Proposed deception, no execution |
+| C-2711 | [ASOS 45](../Source/Main-Series/03-A-Storm-of-Swords/chapters/45-catelyn.md) | Robb orders Catelyn to Seagard rather than Riverrun | Stated split-security goal, perceived detention |
+| C-2712 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Sam walks while Gilly baby ride last horse after second horse dies | Post-childbirth priorities and attrition |
+| C-2713 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Weirwood village smaller than Whitetree and face differs | Sam corrects own false geographic identification |
+| C-2714 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Village deserted when people joined Mance per Sam inference | Population report without current eyewitness |
+| C-2715 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Sam prays to old gods uncertain of belief | Prayer witnessed, response source unproved |
+| C-2716 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Sam navigates by sun Ice Dragon constellation but longitude uncertain | Wall likely ahead but Castle Black gate unlocated |
+| C-2717 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Gilly binds Sam cut hand and starts fire competently | Gilly active survival agent |
+| C-2718 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Only garlic-seasoned hard black sausages remain | Scarcity and Craster wives help |
+| C-2719 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Gilly says child must not be named before two years old | Local infant mortality belief |
+| C-2720 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Gilly asks if allowed to stand near Castle Black fire | Social vulnerability and hoped refuge |
+| C-2721 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Sam sings Song of Seven but omits Stranger | Cultural death omission not theological absence |
+| C-2722 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Randyll forbade Sam singing to baby Dickon | Specific parental emotional cruelty |
+| C-2723 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Gilly offers Sam marriage, he fears Watch vows and status | No ceremony, conflict not resolved |
+| C-2724 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Sam dreams owning Horn Hill carving roast with Heartsbane | Psychological desire, not future transfer |
+| C-2725 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Small Paul returns dead with black hands milky skin blue eyes | Identified wight distinct from Other |
+| C-2726 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Raven perched on Paul tears dead flesh from cheek | Animal presence, purpose uncertain |
+| C-2727 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Gilly says wight seeks her baby's fresh life | Maternal claim, motive not directly established |
+| C-2728 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Sam wields Jeor Mormont obsidian dagger left from Keep | Specific surviving weapon provenance |
+| C-2729 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Obsidian blade shatters on Small Paul mail before flesh contact | No genuine obsidian-wight flesh efficacy test |
+| C-2730 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Steel dagger also deflected off Paul's mail | Armor defeats normal steel attempt too |
+| C-2731 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Small Paul chokes Sam with deathly cold grip | Strength and supernatural nature witnessed |
+| C-2732 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Sam uses weight to wrestle wight into embers | Improvised counterattack under severe risk |
+| C-2733 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Smoldering brand inside Paul mouth ignites and ends blue eye-glow | Direct wight vulnerability to fire |
+| C-2734 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Chett Lark Softfoot Ryles and possible Hake among wights | Returning Watch dead, Hake identification uncertain |
+| C-2735 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Wights kill Sam and Gilly remaining horse | Transportation loss directly observed |
+| C-2736 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Speaking raven repeats fair fear and go on Sam shoulder | Language-like mimicry, controller not established |
+| C-2737 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Hundreds or thousands ravens attack wights from weirwood | Coordinated intervention, other magical agent unknown |
+| C-2738 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Ravens target wight eyes not Sam, buy escape | Selective behavior, not total destruction witnessed |
+| C-2739 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Hooded elk rider calls Sam brother under trees | Assistance but no actual identity given |
+| C-2740 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Elk kneels for Sam and Gilly, huge antlers and body | Trained or uncanny mount, exact mechanism unknown |
+| C-2741 | [ASOS 46](../Source/Main-Series/03-A-Storm-of-Swords/chapters/46-samwell.md) | Rider bare hand black cold hard as stone | Undead possibility, no proven nature or name |
+| C-2742 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Sandor binds Arya in horse blanket at night after attempted escape | Coercive captivity, not willing protection |
+| C-2743 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Arya tries killing Sandor with stone during presumed sleep | Failed attempt, he disarms her |
+| C-2744 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Arya attempts steal black horse Stranger but nearly bitten | Horse dangerous to nonmaster |
+| C-2745 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Sandor threatens punishment if Arya repeats Mycah's name | Murder legacy despite trial acquittal |
+| C-2746 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Arya mislocates broad river as Blackwater due to disorientation | POV mistaken geography |
+| C-2747 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Arya scratches her name on tree trunks until discovered | Attempted trail signal, rescue not verified |
+| C-2748 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Flooded Lord Harroway Town nearly underwater | Direct riverlands devastation |
+| C-2749 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Old King Andahar two-headed water horse is actual ferry | Metaphor corrected by observation |
+| C-2750 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Ferry has sod-roofed house horsehead bow stern and many oars | Concrete river infrastructure |
+| C-2751 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Crossbowman watches boat from flooded tower | Local security, no named identity |
+| C-2752 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Ferryman quotes three gold dragons for rider horse assumed boy | Cash price and child disguise |
+| C-2753 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Sandor promises payment at north bank by knight's honor | Intentional contingent bargain |
+| C-2754 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Arya considers jumping from boat to evade captor | No jump executed |
+| C-2755 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Massive floating tree strikes ferry nearly capsizes | Flood hazard, not deliberate ambush |
+| C-2756 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | One ferryman thrown overboard and vanishes in river | Probable death, body unconfirmed |
+| C-2757 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Boat lands two miles downstream of normal ferry | Material navigation drift |
+| C-2758 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Ferryman demands six dragons including dead crew compensation | Demand not paid in gold |
+| C-2759 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Sandor hands debt paper for 9000 dragons, allocates ten | Paper collectability and claimed worth uncertain |
+| C-2760 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Sandor mocks knightly honor after violating payment expectation | Self-described ethic vs manipulation |
+| C-2761 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Sandor hopes delay harms Brotherhood pursuing across river | Strategic ferry crossing effect |
+| C-2762 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Sandor attempts fire for feverish Arya, fails and hates flames | Limited care coexists with threat |
+| C-2763 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Sandor says Gregor killed own man for snoring | Secondhand atrocity report |
+| C-2764 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Arya reveals Gregor once captured her and killed Lommy through Raff | Past personal testimony to Sandor |
+| C-2765 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Sandor says saved Sansa from King's Landing mob | Earlier Sansa POV corroborates |
+| C-2766 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Sandor says Sansa sang to him | Character report, emotional reading open |
+| C-2767 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Sandor says river actually Trident, plans Twins not King's Landing | Declared destination, no handoff yet |
+| C-2768 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Sandor wants to ransom Arya to Catelyn and seek Robb service | Economic motive, Robb response unknown |
+| C-2769 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Sandor claims possibility killing Gregor for Robb | Proposal only, no battle |
+| C-2770 | [ASOS 47](../Source/Main-Series/03-A-Storm-of-Swords/chapters/47-arya.md) | Arya retains Sandor on vengeance list despite destination revelation | Unforgiven captivity and Mycah killing |
+| C-2771 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Jon wounded thigh worsens and he gets lost riding kingsroad | Serious fever and urgency |
+| C-2772 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Jon warns Mole's Town stable boys to evacuate civilians | Actual warning delivered, response unknown |
+| C-2773 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Jon receives black gelding with saddle bread and wine | Logistics allow Castle Black arrival |
+| C-2774 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Mole's Town visible brothel only hut, underground settlement | Geographical vulnerability |
+| C-2775 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Jon reaches Castle Black unchallenged before dawn | Successful return, not full Watch vindication |
+| C-2776 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Castle Black buildings near abandoned and undefended south | Physical state upon arrival |
+| C-2777 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Donal Noye receives Jon and challenges Mance allegiance rumor | Provisional trust scrutiny |
+| C-2778 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Jarman Buckwell scouts saw Jon with Mance fortnight earlier | Outward observation not evidence motive |
+| C-2779 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Jon says he followed Qhorin final infiltration command | His account, consistent with earlier POV |
+| C-2780 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Harma Rattleshirt Weeper feint attacks multiple Wall points | Diversion inferred, northern reports |
+| C-2781 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Bowen Marsh gone, Wynton Stout nominal castellan forgot role | Command vacancy despite titles |
+| C-2782 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Donal Noye practical acting defense head | Capability rather than formal succession |
+| C-2783 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Castle Black forty-odd defenders mostly crippled and trainees | Current staffing versus Styr 120 |
+| C-2784 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Aemon clarifies Magnar is lord title in Old Tongue | Skagos surname confusion corrected |
+| C-2785 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Noye says Ghost not seen at Castle Black yet | No completed direwolf warning |
+| C-2786 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Aemon cauterizes Jon infected leg and gives milk of poppy | Observed medical procedure, recovery not yet done |
+| C-2787 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Survivors of Craster mutiny reached Castle Black ~dozen | Advance warning independently delivered |
+| C-2788 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Noye misnames Garth of Oldtown among Mormont attackers | Contradicts Sam firsthand Garth identities |
+| C-2789 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Aemon says Mormont actually murdered and Bowen interim commander | Watch leadership vacancy |
+| C-2790 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Pyke and Mallister rival possible future Lord Commanders | No actual election yet |
+| C-2791 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Grenn personally saw Sam kill Other with dragonglass | Corroborating independent witness |
+| C-2792 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Grenn says Sam left at Craster with dying Mormont | Grenn wrong to assume Sam fate unknown/doom |
+| C-2793 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Wall southern lookout Weatherback Ridge set after Jon report | Implemented preparedness |
+| C-2794 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Aemon sends warning ravens Eastwatch and Shadow Tower | Completed dispatch, reinforcements uncertain |
+| C-2795 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Jon repeats Ygritte searched 100 graves vs earlier 50 | Internal count discrepancy under poppy and fever |
+| C-2796 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Watch sent appeals to kings but none has helped yet | Political neglect as of time |
+| C-2797 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Aemon says Theon killed Bran Rickon, burned Winterfell | False inherited reports vs reader Bran POV |
+| C-2798 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Grenn says Bolton son captured tortures Theon | Northern report, firsthand source absent |
+| C-2799 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Jon recalls grey wolf at Queenscrown seemed to know him | Summer with living Bran via paired POV |
+| C-2800 | [ASOS 48](../Source/Main-Series/03-A-Storm-of-Swords/chapters/48-jon.md) | Jon dream shows Ned-faced weirwood and skeletal Ygritte | Symbolic fear, no on-page Ygritte death |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -2743,4 +2873,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and ninety first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and ninety-four first-pass chapters listed in the coverage tracker.
