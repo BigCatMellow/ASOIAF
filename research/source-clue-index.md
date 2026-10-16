@@ -977,6 +977,61 @@
 | C-938 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Bywater says public blames Tyrion most despite Joffrey actions | Political reputation and scapegoating evidence |
 | C-939 | [ACOK 41](../Source/Main-Series/02-A-Clash-of-Kings/chapters/41-tyrion.md) | Bronn suggests Tommen replace Joffrey, Tyrion rejects implied killing | Hypothetical succession violence, not an authorized plan |
 
+| C-940 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Davos hears Devan report Stannis dreams of Renly dying and Melisandre soothes him | Reported nightmare suggests mental link; not proof Stannis directly witnessed blow |
+| C-941 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Penrose rejects surrender despite Stannis pardons and demands Edric Storm | Protection of royal bastard prevents negotiated fortress transfer |
+| C-942 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Edric Storm mother Delena Florent connects child to king's own in-laws | Political and blood ties deepen Stannis custody interest |
+| C-943 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Penrose recognizes Brienne's devotion from youth and rejects accusation | Favorable prior knowledge contrasts defector rumors |
+| C-944 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Guyard and Caron insist Brienne, Florent blames Catelyn for Renly murder | Contradictory character allegations overruled by Catelyn eyewitness |
+| C-945 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Penrose challenges Stannis or champion to duel while Stannis claims 20000 | Military calculations make single combat unnecessary to king |
+| C-946 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Florent urges threatening sick old Lord Penrose with execution | Proposed cruelty explicitly disapproved by Davos; not carried out |
+| C-947 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Stannis praises Davos for exposing opportunist loyalty of formerly Renly lords | Pragmatism contrasts alleged adherence to strict justice |
+| C-948 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Davos carries his severed fingerbones, Stannis explains separate punishment and reward | Physical symbol of nuanced yet harsh legal principle |
+| C-949 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Stannis recounts dream with Renly green tent candles cries blood while his body abed | Distinct first-person evidence consistent with ACOK33 shadow scene |
+| C-950 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Stannis regrets Renly peach and admits he loved his brother | Emotional response not a coded assassination instruction |
+| C-951 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Davos advises sail to King's Landing immediately, Stannis refuses untaken Storm End | Another unchosen direct-capital strategy, reputation/fear motivation |
+| C-952 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Stannis says Melisandre saw branching futures of defeat before King's Landing and victory at Storm End | Visions as character report rather than validated certainty |
+| C-953 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Stannis predicts Penrose death within day and orders Davos to bring Melisandre secretly | Knowledge, authorization and complicity stronger than mere beneficiary |
+| C-954 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Stannis demands Edric Storm because Melisandre saw necessity in flames | Mystic motive alleged, actual intended use undisclosed |
+| C-955 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Davos navigates tide-dependent cave beneath Storm End as sixteen years before | Same smuggling route repurposed from saving to killing |
+| C-956 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Melisandre says ancient castle spells prevent shadow crossing outer stone | Supernatural ward rule asserted, not independently tested |
+| C-957 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Davos watches Melisandre birth full Stannis-shaped moving shadow inside sea tunnel | Direct witnessed magic and major Renly-shadow corroboration |
+| C-958 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Davos sees shadow slip through portcullis toward castle | Ingress witnessed, final Penrose death not directly seen |
+| C-959 | [ACOK 42](../Source/Main-Series/02-A-Clash-of-Kings/chapters/42-davos.md) | Melisandre denies personally killing Renly and says no boat was required | Potential indirect responsibility and word-choice ambiguity |
+| C-960 | [ACOK 43](../Source/Main-Series/02-A-Clash-of-Kings/chapters/43-jon.md) | One horn blast at Fist announces returning Shadow Tower rangers | Not equivalent to broken bronze warhorn from cache |
+| C-961 | [ACOK 43](../Source/Main-Series/02-A-Clash-of-Kings/chapters/43-jon.md) | Qhorin returns with four dead twelve wounded after defeating Alfyn Crowkiller | Wildling scouts may escape with reports but no confirmed delivery |
+| C-962 | [ACOK 43](../Source/Main-Series/02-A-Clash-of-Kings/chapters/43-jon.md) | Qhorin knew Ned and Rickard Stark and selects Jon later | Personal Watch/Stark relationship evident, selection rationale uncertain |
+| C-963 | [ACOK 43](../Source/Main-Series/02-A-Clash-of-Kings/chapters/43-jon.md) | Chett and Lark threaten Watch may not obey retreat refusal, Jon stays silent | Credible incipient mutiny warning not sent to Mormont |
+| C-964 | [ACOK 43](../Source/Main-Series/02-A-Clash-of-Kings/chapters/43-jon.md) | Jon fashions obsidian knives for himself Grenn Mormont | Material distribution not proof effective against Others |
+| C-965 | [ACOK 43](../Source/Main-Series/02-A-Clash-of-Kings/chapters/43-jon.md) | Mormont wears steel despite receiving dragonglass knife | Commander remains conventional in preferred weapons |
+| C-966 | [ACOK 43](../Source/Main-Series/02-A-Clash-of-Kings/chapters/43-jon.md) | Bronze-banded ancient horn cracked, rim chipped and will not sound | Physical condition and lack of observed magic |
+| C-967 | [ACOK 43](../Source/Main-Series/02-A-Clash-of-Kings/chapters/43-jon.md) | Jon gives nonfunctional horn to Sam along with a spearhead and dozen points | Confirmed custody with Sam, future significance unresolved |
+| C-968 | [ACOK 43](../Source/Main-Series/02-A-Clash-of-Kings/chapters/43-jon.md) | Mormont thinks buried black cloak could be Benjen or rangers | Speculation not provenance proof |
+| C-969 | [ACOK 43](../Source/Main-Series/02-A-Clash-of-Kings/chapters/43-jon.md) | Qhorin captive reports wargs mammoths and multiple wildling chiefs | Torture victim testimony may be exaggerated, prisoner dies |
+| C-970 | [ACOK 43](../Source/Main-Series/02-A-Clash-of-Kings/chapters/43-jon.md) | Qhorin fears tortured captive died with key intelligence unrecovered | Another failed evidence-gathering outcome |
+| C-971 | [ACOK 43](../Source/Main-Series/02-A-Clash-of-Kings/chapters/43-jon.md) | Mormont wants all kings warned of Mance threat, Qhorin prefers Winterfell | Outreach planned, no delivered support shown |
+| C-972 | [ACOK 43](../Source/Main-Series/02-A-Clash-of-Kings/chapters/43-jon.md) | Night Watch now occupies three of originally seventeen Wall castles | Under-garrisoned defensive system |
+| C-973 | [ACOK 43](../Source/Main-Series/02-A-Clash-of-Kings/chapters/43-jon.md) | Qhorin thinks Mance searches Frostfangs for unknown power to break Wall | Strategic hypothesis, cannot name object or magic |
+| C-974 | [ACOK 43](../Source/Main-Series/02-A-Clash-of-Kings/chapters/43-jon.md) | Qhorin assigns fifteen men in three five-man mountain scouting groups | Planned movements, casualties and discoveries pending |
+| C-975 | [ACOK 43](../Source/Main-Series/02-A-Clash-of-Kings/chapters/43-jon.md) | Qhorin picks Jon and Mormont asks his consent; Jon chooses to go | Steward assigned risky active ranging by choice |
+| C-976 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Lancel reports Cersei evacuating Tommen disguised as dark-haired page to Rosby | Secret mother plan verified via coerced informant |
+| C-977 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Tyrion sends Bywater misleading roseroad letter and separate actual oral ambush orders | Information integrity deliberately bifurcated for secrecy |
+| C-978 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Tyrion intends Bywater seize Rosby fortress to guard Tommen, not return child | Counter-custody plan, success unshown |
+| C-979 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Tyrion imagines Tommen a surviving claimant if Joffrey captured or killed | Dynastic contingency, not wish to murder Joffrey |
+| C-980 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Tyrion distrusts Bronn to hold Tommen because boy has ransom value | Even favored sellswords treated as compromised security |
+| C-981 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Curfew reportedly cut morning street dead but public resents Tyrion | Governance effect and attribution diverge |
+| C-982 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Symon Silver Tongue recognizes Tyrion at Shae's manse | Specific secrecy breach, singer not killed here |
+| C-983 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Shae detects Varys despite foul smelling begging brother disguise | Proven practical counter-disguise skill |
+| C-984 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Varys announces Penrose dead and Storm End surrendered | Reports fulfill Stannis forecast, no direct death scene |
+| C-985 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Penrose reportedly fell from tower with no intruder seen by guards | Causal shadow inference strong across POVs, last push unseen |
+| C-986 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Shae objects to servant labor and wants status as Tyrion's lady | Her goals distinct from his secret protection plan |
+| C-987 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Tyrion physically slaps Shae then regrets it | Abusive act remains independent of apology |
+| C-988 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Tyrion confesses Tysha assault and marriage annulment using Tywin/Jaime version | Character belief on bride identity not independently proven |
+| C-989 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Varys proposes replacing Lollys Stokeworth maid with Shae after theft allegation | Cover placement proposed but not yet executed |
+| C-990 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Varys knows secret access to Hand's chambers and withholds route location | Major information/security asymmetry at Red Keep |
+| C-991 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Varys recounts magical mutilation ritual and responsive voice from blue flames | First-person traumatized memory, objective identity of voice unknown |
+| C-992 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Varys expresses hatred of sorcery since childhood assault | Potential motive to oppose Stannis and Melisandre |
+| C-993 | [ACOK 44](../Source/Main-Series/02-A-Clash-of-Kings/chapters/44-tyrion.md) | Tarly reportedly kills Florent men after seizing Bitterbridge stores | Reach-Stannis coalition violence report, Littlefinger negotiations still unverified |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -984,4 +1039,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and eighteen first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and twenty-one first-pass chapters listed in the coverage tracker.
