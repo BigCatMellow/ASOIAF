@@ -3130,6 +3130,135 @@
 | C-3061 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Gate asks sworn identity and opens to Sam reciting Watch vow | Direct access control by Watch oath |
 | C-3062 | [ASOS 56](../Source/Main-Series/03-A-Storm-of-Swords/chapters/56-bran.md) | Door drops warm salty tear on Bran's forehead | Observed physical oddity, meaning unknown |
 
+| C-3063 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Meereen larger than Astapor and Yunkai together, strong brick walls | Siege scale materially greater than earlier cities |
+| C-3064 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Great Pyramid 800 feet high with bronze harpy atop | Measured skyline detail, not demonstrated magic |
+| C-3065 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Dany host exceeds eighty thousand, less than quarter soldiers | Military strength must not equal population total |
+| C-3066 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Meereen harvested or burned fields and poisoned wells before arrival | Scorched earth and starvation strategy |
+| C-3067 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Slave children crucified alive at mileposts total 163 | Dany counts victims, individual perpetrators unnamed |
+| C-3068 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Daario tried to remove children before Dany saw them | Concealment attempted as apparent mercy |
+| C-3069 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Dany demands to see and remember every crucified child | Personal political motivation, no completed remedy |
+| C-3070 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Oznak zo Pahl rides white horse with fourteen-foot lance | Champion and morale display, no gates opened |
+| C-3071 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Arstan warns duel has morale significance even if walls hold | Psychological war versus siege practicality |
+| C-3072 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Dany preserves bloodriders and Daario as essential captains | Command cohesion and risk tradeoff |
+| C-3073 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Brown Ben Plumm elected leader of Second Sons after Mero flight | Sellsword company internal election |
+| C-3074 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Brown Ben alleges Oznak killed Scarb for imaginary insult | Reported witness story, not on-page murder |
+| C-3075 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Strong Belwas pit-slave status motivates champion choice | Victory shames highborn Meereenese |
+| C-3076 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Belwas kills Oznak after evading lance and dropping horse | On-page duel sequence |
+| C-3077 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Belwas wounded beneath breasts, receives vinegar sutures firewine bindings | Direct bodily injury, infection outcome unknown |
+| C-3078 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Belwas claims each scar signifies man slain after allowing one wound | His boast not verified kill tally |
+| C-3079 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | No timber within twenty leagues for engines ramps ladders | Defense through destruction of siege materials |
+| C-3080 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Meereen gate harpy heads release boiling oil | Reported anti-siege defense, not yet seen used |
+| C-3081 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | River wall stronger and dozen fire hulks oppose three ships | Naval assault plan constrained |
+| C-3082 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Grey Worm explains boiling oil still blinds kills Unsullied | Corrects false pain-immunity stereotype |
+| C-3083 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Diseases brownleg fever and three bloody flux cases in camps | Field medical reports, cause not isolated |
+| C-3084 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Meereen draws clean wells while dumping waste in river | Source of water asymmetry |
+| C-3085 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Jorah counsels abandoning Meereen and expendable freed people | Strategic opinion directly opposed by Dany |
+| C-3086 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Brown Ben recounts sewer escape through rusty grates and dark filthy maze | One man's claimed route, no infiltration ordered |
+| C-3087 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Viserion lands on Brown Ben head and shoulder | Dragon attraction observed, genealogy unconfirmed |
+| C-3088 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Brown Ben claims old Plumm married dragon princess in unnamed Aegon reign | Multigeneration rumor, family chain unknown |
+| C-3089 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Dany reflects three dragon heads but no second or third rider named | Prophetic interpretation not allocation |
+| C-3090 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Dany drawn to Daario despite knowledge he killed captains | Desire alongside cruelty awareness |
+| C-3091 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Ships Balerion Meraxes Vhagar given names of old Valyrian gods | Former ship names and symbolic lineage |
+| C-3092 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Freed camp chaotic with starving people roasting horse | Provisioning crisis while waiting before Meereen |
+| C-3093 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Mero disguises by shaving and hides among freedmen to kill Dany | On-page assassination attempt |
+| C-3094 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Arstan beats Mero with staff before freedmen attack his fallen body | Dany calls it killing, final blow amid crowd unseen |
+| C-3095 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Jorah concealed Mero escape danger from Dany despite bounty | Intelligence withholding by advisor |
+| C-3096 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Arstan identified as Barristan Selmy former Lord Commander | False identity ended by recognition |
+| C-3097 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Barristan admits Robert pardon and service until Joffrey dismissal | Delayed allegiance switch, self-account |
+| C-3098 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Barristan says Varys received continuous reports from Dany companion | Spy claim corroborated by Jorah |
+| C-3099 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Jorah admits informing Varys for promised return from exile | Direct confession, end of spying not verified |
+| C-3100 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Dany invokes gold and love betrayals but Jorah says homecoming reward | Prophecy fit uncertain |
+| C-3101 | [ASOS 57](../Source/Main-Series/03-A-Storm-of-Swords/chapters/57-daenerys.md) | Dany orders both knights out but ends without naming destination | Next command deliberately not yet given |
+| C-3102 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Sansa and Tyrion share bed without intercourse | Marriage remains unconsummated after Red Wedding |
+| C-3103 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Tyrion tells Sansa of Robb killing, she later cries in private | Grief observed behind door, not indifference |
+| C-3104 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Tyrion receives report Robb corpse with wolf head and Catelyn in river | Reported postmortem desecration not personally witnessed |
+| C-3105 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Sansa night godswood prayers make Tyrion suspect she wishes him dead | His interpretation, prayer actual content unknown |
+| C-3106 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Tyrion moved into Gyles Rosby Kitchen Keep rooms after marriage | Household relocation and power displacement |
+| C-3107 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Kitchen Keep underground stairs connect vaulted passages to skull chamber | Verified Red Keep covert infrastructure |
+| C-3108 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Brella once ran Renly household and Varys recommended her | Social intelligence channel not established spying |
+| C-3109 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Shae serves Sansa as maid concealing prior paid relationship | Material exposure to household discovery |
+| C-3110 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Tyrion visits Shae nude among old dragon skulls before dawn | Secret sexual contact under Red Keep |
+| C-3111 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Tyrion cannot distinguish Balerion and Vhagar skulls in dark | Named dragon relic uncertainty |
+| C-3112 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Shae proposes Sansa dreamwine so trysts could occur beside sleeping wife | Suggestion only, drugging not performed |
+| C-3113 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Tyrion fears Tywin will hang Shae if secret exposed | Risk understanding, no issued sentence |
+| C-3114 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Varys warns he will tell Cersei truth if directly questioned | Conditional divided allegiances acknowledged |
+| C-3115 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Varys admits prior lies yet says little birds sustain his survival | Informational balancing rather than complete loyalty |
+| C-3116 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Tyrion wonders whether Sansa could be told about concubine | Private deliberation, no disclosure |
+| C-3117 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Tyrion blames Sansa for once revealing Ned plans to Cersei | Interested judgment undercut by her own POV |
+| C-3118 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Tyrion considers Chataya brothel as possible Shae destination | Hypothetical no referral |
+| C-3119 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Tyrion considers arranging Shae marriage to Bronn or Tallad | Unexecuted protective plan and class assumptions |
+| C-3120 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Tyrion doubts Shae love despite intimate declarations | No Shae first-person access |
+| C-3121 | [ASOS 58](../Source/Main-Series/03-A-Storm-of-Swords/chapters/58-tyrion.md) | Tyrion notes wedding morning starts new year and century | 300 AC cross-chapter synchronizer |
+| C-3122 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Sansa dreams of Winterfell with Lady and living family | Dream desire, no resurrection |
+| C-3123 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Sansa falsely believes Bran Rickon Arya all dead | Reader has Bran Arya alive |
+| C-3124 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Two cloud castles merge in morning sky | Observed imagery, prophecy not established |
+| C-3125 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Shae sees golden sky castle, Brella sees falling tower | Different interpretations by attendants |
+| C-3126 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Brella Shae replace suspected Cersei spies | Sansa household rearrangement |
+| C-3127 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Royal ceremony midday and seventy-seven course evening feast | Precise wedding schedule |
+| C-3128 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | New year three hundred after Conquest | Chronology coordinated with Tyrion 58 |
+| C-3129 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Cersei reuses Joanna and own marital cloak for Margaery | Dynastic robe lineage |
+| C-3130 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Podrick Payne arms purple white chequy with gold coins | Heraldic identity separate Ilyn misdeeds |
+| C-3131 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Jalabhar Xho presents bow with scarlet green arrows | Specific exotic wedding gift |
+| C-3132 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Oberyn presents red gold scorpion brooch | Dornish symbolic gift |
+| C-3133 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Paxter Redwyne constructing 200 oar King Joffrey Valor | Model at wedding, vessel not launched |
+| C-3134 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Joffrey says flagship to attack Stannis Dragonstone | Military intention not battle |
+| C-3135 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Tyrion presents Kaeth illuminated Lives of Four Kings | Scholarship gift to monarch |
+| C-3136 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Kaeth history covers Daeron I Baelor Aegon IV Daeron II | Named kings and archival scope |
+| C-3137 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Joffrey threatens Sansa sexual coercion when ridiculing Tyrion | Public abusive threat, not executed |
+| C-3138 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Mace Tyrell chalice three feet tall with two handles and seven sigils | Key banquet vessel provenance |
+| C-3139 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Joffrey plans replace wolf image on cup with squid | Mockery of lost Stark power |
+| C-3140 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Tywin gifts red black Valyrian longsword Joffrey names Widows Wail | Royal weapon named, forge details not in this scene |
+| C-3141 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Joffrey destroys manuscript with new Valyrian sword | Observed symbolic destruction of knowledge |
+| C-3142 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Garlan says one of four Kaeth personally illuminated copies lost | Scarce archival object |
+| C-3143 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Tyrion suggests matching Valyrian dagger with dragonbone hilt | Catspaw inference clue not confession |
+| C-3144 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Joffrey asks dagger gold ruby hilt rather than dragonbone | Specific reaction but guilt unproven |
+| C-3145 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Oberyn posits Viserys II poisoned Baelor | Contested historical suspicion, no verification |
+| C-3146 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Ellaria counters septon miracle that Baelor escaped snake bites | Competing religious history |
+| C-3147 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Tyrion argues Viserys ruled fifteen years before one year crowned | Regency fact claimed during debate |
+| C-3148 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Sansa knows Ellaria via Shae rumors of Lysene goddess worship | Unverified gossip vs on-page dignity |
+| C-3149 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Tyrion questions Sansa on Bran Joffrey relations | Investigative dialogue, answer not direct catspaw evidence |
+| C-3150 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Sansa says Bran died by Theon after earlier fall | False report repeated in Lannister litter |
+| C-3151 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Sansa refuses details Robb and Catelyn deaths to avoid nightmares | Protective refusal not ignorance of loss |
+| C-3152 | [ASOS 59](../Source/Main-Series/03-A-Storm-of-Swords/chapters/59-sansa.md) | Tyrion tells Sansa he never harmed Bran | His denial, no further confession in Sansa scene |
+| C-3153 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Joffrey and Margaery formally wed by septon before reception | Ceremony completed, consummation unshown |
+| C-3154 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Tywin supplies High Septon elaborate replacement gold crystal crown | Institutional patronage after riot |
+| C-3155 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Tyrion infers Joffrey hired catspaw against Bran from steel familiarity | Internal hypothesis not confession |
+| C-3156 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Tyrion thinks Joff took unadorned Valyrian dagger from Robert baggage | Speculative custody path not verified |
+| C-3157 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Tyrion rules out Jaime Cersei using behavioral profiles | Nonconclusive exclusion |
+| C-3158 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Margaery acclaim sustained by Tyrell food despite earlier roseroad blockade | Public politics and past famine |
+| C-3159 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Sansa formal compliance persists during Tyrion romantic travel proposals | Lack of free trust/affection |
+| C-3160 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Gregor captured Harrenhal and ruby ford per Tyrion reports | Completed military events after earlier order |
+| C-3161 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Seagard yields to Black Walder per Tyrion report | New Frey control claim |
+| C-3162 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Randyll Tarly holds Maidenpool Duskendale and kingsroad | Crown consolidation |
+| C-3163 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Daven and Forley move against Riverrun with Ryman 2000 spears | Upcoming operation |
+| C-3164 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Redwyne fleet plans coastal approach to Dragonstone | Future naval plan, not arrived |
+| C-3165 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Lancel hair white and brittle, weakened at feast | Observed post Blackwater illness |
+| C-3166 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Shae sets silver hairnet dark purple gems in Sansa hair | Specific accessory before Olenna contact |
+| C-3167 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Olenna adjusts Sansa hairnet and touches it twice | Opportunity for removal, no substance witnessed |
+| C-3168 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Olenna invites Sansa to Highgarden and criticizes wedding murders | Political overture, intent unknown |
+| C-3169 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Joffrey and Margaery enter feast in green and Lannister colors | Public dynastic pact |
+| C-3170 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Tyrell golden chalice filled with Arbor red and shared early | Cup used before fatal phase |
+| C-3171 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Seventy seven courses amid starvation in city | Resource contrast and legitimacy |
+| C-3172 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Court singers rewrite Renly ghost victory and credit Joffrey for Blackwater | Propaganda not battlefield history |
+| C-3173 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Garlan credits Tyrion wildfire chain and wildling scouting disruptions | Independent recognition of contribution |
+| C-3174 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | One Rowan knight stabs Dornishman at feast | Faction violence continues |
+| C-3175 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Two dwarf jousters on dog and sow mock stag and wolf | Humiliation staged, organizer unshown |
+| C-3176 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Joffrey tries force Tyrion to ride pig; Tyrion mocks Joff | Personal conflict witnessed |
+| C-3177 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Joffrey pours wine over Tyrion using wedding cup | Chalice emptied before refill |
+| C-3178 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Garlan rebukes Joffrey and helps Tyrion stand | Witness opposed public humiliation |
+| C-3179 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Tyrion refills cup three-quarters under royal order | Forced cupbearing not poisoning proof |
+| C-3180 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Joffrey drinks cup and leaves it on table | Critical exposure timeline |
+| C-3181 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Ilyn greatsword resembles Ice but silver bright with dragonglass skull pommel | Material clue to repurposed blade, forging not described |
+| C-3182 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Joffrey Margaery slice giant dove pie with Ilyn sword | Ceremonial cutting, no direct poison |
+| C-3183 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Sansa recognizes Ice absent from father's sword | Property provenance cross-POV concern |
+| C-3184 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Joffrey eats Tyrion pigeon pie, drinks wine, suddenly coughs | Two exposure routes; cannot isolate poison |
+| C-3185 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Joffrey airway sounds cease, claws throat and dies | On-page fatal outcome |
+| C-3186 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Margaery and Alerie blame choking on pie | Immediate witness diagnosis not laboratory result |
+| C-3187 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Cersei claims poisoning and orders Tyrion Sansa arrested | Formal accusation, no chemical proof |
+| C-3188 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Tyrion picks up dropped chalice and empties remaining wine | Material evidence destroyed regardless of intent |
+| C-3189 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Sansa missing from Tyrion view during death scene | Absence not proof fled or poisoned |
+| C-3190 | [ASOS 60](../Source/Main-Series/03-A-Storm-of-Swords/chapters/60-tyrion.md) | Margaery widowed before any consummation shown | Royal marriage and succession altered |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -3137,4 +3266,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and two first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and six first-pass chapters listed in the coverage tracker.
