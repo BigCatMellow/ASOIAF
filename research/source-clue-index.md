@@ -1363,6 +1363,51 @@
 | C-1316 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Cersei touches Sansa throat as she speaks of no living surrender | Physical threat, not mere abstract policy |
 | C-1317 | [ACOK 60](../Source/Main-Series/02-A-Clash-of-Kings/chapters/60-sansa.md) | Queen orders Joffrey removed while Tyrion fights outside | Consequence to morale still to be verified |
 
+| C-1318 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Tyrion's wedge of riders actually exits King's Gate sally port | Earlier intention now executed |
+| C-1319 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Podrick insists on riding beside Tyrion despite his youth | Loyalty under actual threat |
+| C-1320 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Mandon impales enemy using Joffrey banner as lance | War banner used as lethal object |
+| C-1321 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Tyrion kills Florent-badged knight and ram crew scatters | Local King's Gate defense succeeds tactically |
+| C-1322 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Men shout Halfman while Tyrion moves to Mud Gate | Unexpected leader loyalty distinct from court reputation |
+| C-1323 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Wildfire and horses' terror make Tyrion understand Sandor breakdown | Trauma cue not complete excuse |
+| C-1324 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Tyrion recalls Jaime's account of battle fever and loses sense of time | Subjective action report limited in precision |
+| C-1325 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Surrendering knight offers severed hand still in gauntlet | Battlefield atrocity image directly observed |
+| C-1326 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Balon Swann shows Tyrion twenty entangled shipwrecks forming a bridge | Unintended consequence of wildfire chain trap |
+| C-1327 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Hundreds of Stannis troops hop between galleys across Blackwater | River crossing despite naval disaster |
+| C-1328 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Celtigar spearman kills Balon Swann's horse | Not death of Balon |
+| C-1329 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Tyrion's horse breaks leg aboard Dragonsbane wreck; he kills animal | Battle cost and dramatic transition to foot combat |
+| C-1330 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Tyrion loses axe and fights ship-to-ship with broken spear | Chaos and weapon changes under impaired POV |
+| C-1331 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Naked man falls from above and bursts on deck | Consistent with trebuchet executions, exact identity unknown |
+| C-1332 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Wreck rotation causes Tyrion to misread Stannis and Red Keep banks | Physical orientation confusion not magic |
+| C-1333 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Arrow lodging at Tyrion shoulder discovered late | Battle fever suppresses wound recognition |
+| C-1334 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Mandon extends left hand like rescue then slashes Tyrion's face | Deliberate assassination-like attempt |
+| C-1335 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Mandon puts sword point to wounded Tyrion throat to finish him | Intentional second lethal act rules out accident |
+| C-1336 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Moore knocked off ship before killing blow; childlike rescuer voice resembles Pod | Rescue strongly inferred, actual shove unseen |
+| C-1337 | [ACOK 61](../Source/Main-Series/02-A-Clash-of-Kings/chapters/61-tyrion.md) | Moore attack sponsor entirely unknown from chapter | No unwarranted Cersei/Joffrey/Varys attribution |
+| C-1338 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Lancel arrives wounded and reports Tyrion dead on broken bridge | Mistaken or premature in light of Tyrion61 survivor POV |
+| C-1339 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Lancel links Joffrey recall to hundreds of deserting gold cloaks | Strong insider claim about morale collapse |
+| C-1340 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Osney reports soldiers fighting on both river banks and foes among themselves | First unclear indicator of relieving army |
+| C-1341 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Osney says Hound missing and King's Gate under renewed battering | Incomplete field intelligence |
+| C-1342 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Cersei orders Maegor drawbridge raised, leaves praying women outside | Protection selectively revoked |
+| C-1343 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Cersei orders Joffrey into inner refuge against Lancel opposition | Maternal security overrides king's command presence |
+| C-1344 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Cersei deliberately strikes Lancel's open wound before departure | Direct coercive violence against loyal cousin |
+| C-1345 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Sansa reassures terrified women and sends Moon Boy to distract | Independent social leadership after Cersei leaves |
+| C-1346 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Sansa gets wounded Lancel helped to Maester Frenken | Compassionate treatment despite enemy loyalty |
+| C-1347 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Sansa sees red-cloaked guard looting silver cups and candlesticks | Confirmed collapse of elite security discipline |
+| C-1348 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Dontos tells Sansa retreat to bedroom and wait for planned rescue | Escapist advice, no ship ready shown |
+| C-1349 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Sandor hiding in her room grabs Sansa and threatens to kill if screams | Abusive encounter after battlefield breakdown |
+| C-1350 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Sandor says he will flee north via Iron Gate, holds sword and white cloak | Claimed plan, city exit not witnessed |
+| C-1351 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Sandor offers to protect Sansa but holds knife at throat demanding song | Coercion invalidates free consent or promise |
+| C-1352 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Sansa sings Mother mercy hymn, Hound removes threatening blade | Observed de-escalation and theme |
+| C-1353 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Sansa touches Sandor face and feels moisture not blood | Tears suggested but no emotion named |
+| C-1354 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Sandor leaves torn bloodied white cloak and departs chamber | Symbolic disavowal of King's service, route unknown |
+| C-1355 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Sansa shelters under Hound's cloak until bells begin ringing | Transferred physical object |
+| C-1356 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Joyful city bells and street cheers signal battle relief | Public celebration independently observed |
+| C-1357 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Dontos reports Tyrell and Lannister armies arrived by roseroad/riverside | Victorious relief story, detailed positions secondhand |
+| C-1358 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Dontos lists Tywin Tarly Mace Tyrell commanders and house banners | Retold source chain, no direct Sansa battle view |
+| C-1359 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Figure in Renly's green armor and antler helm purportedly leads vanguard | Renly already dead; costume identity unresolved |
+| C-1360 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Dontos says 'Renly' killed Guyard Morrigen, repeated by multiple royal parties | Hearsay combat claim not witnessed by Sansa |
+| C-1361 | [ACOK 62](../Source/Main-Series/02-A-Clash-of-Kings/chapters/62-sansa.md) | Dontos says Stannis dead or fled, explicitly unsure | Defeated army not proof king killed |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1370,4 +1415,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and thirty-seven first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and thirty-nine first-pass chapters listed in the coverage tracker.
