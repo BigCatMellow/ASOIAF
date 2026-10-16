@@ -90,6 +90,8 @@ Three forces are too often conflated as “the North”:
 
 **Avoid a classic theory trap:** The Freys' disappearance, Wyman's marriage/pie hospitality and his animosity **support serious suspicion** but do **not source-certify** the *contents* of the wedding pies; a “Frey pies” theory needs an evidentiary discussion distinct from an assumption that Wyman's whole force is in a hidden Stannis alliance.
 
+**Separate battlefield command test (2026-10-16):** [Frey–Manderly Winterfell sortie fracture](frey-manderly-sortie-command-fracture.md) source-checks the deeper **ADWD 29/37/46/51** chain. **Wyman's private Frey grievance and conditional Rickon bargain** coexist with participation in Ramsay's wedding. In ADWD 51 Hosteen slashes Wyman through several chins; **Wyman collapses and Medrick works to stop the bleeding while four White Harbor knights protect him**. Roose immediately orders **Hosteen's Freys to the main gates** and **Wyman's White Harbor force to the east gate**, despite Wyman's condition. **Hosteen and Aenys physically turn to lead Frey horses from the Great Hall; no similar recovery or deployment for Wyman is shown**. The two groups' eventual field positions and Manderly allegiance at battle are **UNKNOWN**. The already iced Winterfell gates, depleted horses and lost scouts supply independent physical constraints. This **does not** prove either a deliberate Bolton purge of unreliable bannermen or White Harbor defection to Stannis.
+
 ## 5. The disclosure is not one event: knowledge and allegiance matrix
 
 | Question | Source-proven holder | Recipient still lacking proven disclosure | Consequence if independently accepted |
