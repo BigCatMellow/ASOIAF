@@ -129,4 +129,4 @@ Potential follow-up must separate:
 5. If the Night Lamp theory is developed, which route and signal choices work **even if Manderlys do not defect** and Wyman never leads a field command?
 6. Could Roose's enforced truce be a plausible *strategic attempt to purge* potential disloyal factions rather than defeat Stannis? Seek Roose's own orders, internal testimony or outcomes rather than declaring the inference a plan.
 
-**Disposition:** `FREY/HARBOR HOSTILITY POV-VERIFIED / W YMAN WOUNDED NOT DEAD / TWO MUSTER GATES ORDERED / FREY HORSE MOVEMENT OBSERVED / FIELD COMMAND AND ENGAGEMENT UNKNOWN / INDEPENDENT CRITICAL REVIEW OPEN`.
+**Disposition:** `FREY/HARBOR HOSTILITY POV-VERIFIED / WYMAN WOUNDED, DEATH UNSHOWN / TWO MUSTER GATES ORDERED / FREY HORSE MOVEMENT OBSERVED / FIELD COMMAND AND ENGAGEMENT UNKNOWN / INDEPENDENT CRITICAL REVIEW OPEN`.
