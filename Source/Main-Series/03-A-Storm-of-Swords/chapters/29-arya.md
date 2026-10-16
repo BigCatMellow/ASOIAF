@@ -1,0 +1,58 @@
+# ASOS 29 — Arya: the Battle of the Bells, the crow cages, Bella, and the cost of belonging to the wolves
+
+- Record role: `RESEARCH / SEQUENTIAL CLOSE READING`
+- Status: `FIRST PASS COMPLETE — INDEPENDENT CHALLENGE OPEN`
+- Source: complete [ASOS 29 Arya transcription](../text/030-arya.md), read 2026-10-16. [Evidence policy](../../../../SOURCES.md).
+
+## Causal and chronological close reading
+
+1. **Stoney Sept connects two rebellions.** Arya approaches the town with the Brotherhood; Harwin recalls the Battle of the Bells, when **Jon Connington, then Hand to Aerys**, searched house by house for wounded Robert. According to Harwin, **Eddard Stark and Hoster Tully** attacked the town before Connington found him. Robert joined fighting amid bells rung by septons. These details are **Harwin's historical account**, not a firsthand battle scene for Arya.
+2. **Named participants should be tracked.** Harwin says Robert killed **Myles Mooton**, a former squire of Rhaegar; Connington gravely wounded Hoster Tully and killed **Ser Denys Arryn**; Connington withdrew when beaten. Robert credited Ned with the victory. Preserve names and assignments for later Harrenhal/Rebellion, Connington and Vale histories rather than inferring private motives.
+3. **Recent devastation and fragile civilian trading.** Replaced wooden town gates stand beside charred remnants of predecessors, about every third house is burnt, and many inhabitants hide until they recognize Brotherhood associates. The gate captain says the Huntsman brought sheep and trade continues across the Blackwater where some crops escaped burning. **The town survives**, not unscathed or entirely depopulated.
+4. **The Mad Huntsman's motivation is personal and political.** The captain reports that western soldiers raped the Huntsman's wife and sister, burned crops, slaughtered sheep and killed his dogs. The Huntsman has taken a pack of dogs to search for escaped Jaime; he may prefer revenge to preserving a ransomable prisoner. **CHARACTER CLAIM:** captain's reported history and intentions; no present confession by the Huntsman.
+5. **Authority has disappeared at Stoney Sept.** The townsfolk say **Ser Wilbert** was killed by lions a year earlier and his sons follow the Young Wolf in the west. The crow cages are therefore a **local vengeance regime** rather than a clearly authorized judicial sentence by their absent lord.
+6. **The cages contain soldiers bearing a northern label.** Twelve iron cages hang by the trout fountain. Several prisoners are already dead; the living have extreme thirst and exposure wounds. A townsman calls them wolves who sought Jaime, then killed eight people at **Tumbler's Falls** when they failed to find him. One prisoner's mutilation is attributed to rape. These are serious charges by **local witnesses**, not an independently conducted trial.
+7. **Arya's pack identity is challenged.** She is horrified that men who may have served Robb could have done this. The title 'wolves' does not mean they are her kin, or prove that Robb ordered abuses; nonetheless it prevents easy partition into virtuous North versus evil Lannisters.
+8. **Arya gives water to condemned enemies.** Against townsfolk's objections, she takes her cup from her bedroll, has Harwin and Gendry lift her, and pours fountain water onto the faces/bars of **three living men** so they can drink. The bars cannot admit her cup. Her action shows mercy to people she believes guilty and who identify politically with her own side.
+9. **Anguy performs immediate killings.** After Lem says Beric disapproves of leaving men to die of thirst and would prefer hanging, **Anguy shoots arrows into all three prisoners**. This is a rapid death instead of prolonged suffering, but it is still summary killing by an outlaw archer. Do not treat Arya's mercy as approval of the arrows or the townsfolk's allegations as judicial findings.
+10. **Arya recalls the Braavosi death formula.** Her private phrase following the executions links death, the earlier Jaqen coin, her developing vengeance ritual and the stark reality of punishment. No new Faceless Man is present or shown hearing her.
+11. **The inn called the Peach is also a brothel.** Red-haired **Tansy** runs a bustling inn with many serving women; boys and adult customers go upstairs as evening falls. The Brotherhood is well known to her. Arya deduces the business from behavior by remembering Syrio's instruction to notice what is actually there.
+12. **Tansy's household contains names useful for later identity checks.** The staff include **Cass, Lanna, Jyzene, Helly** and others; the innkeepers force Arya into another bath and borrowed girl clothes. Tom Sevenstrings is teased about a probable son now riding with the Huntsman. Such claims about paternity, made during familiar teasing, are not biologically demonstrated.
+13. **Bella supplies a very specific Robert clue.** A young dark-haired sex worker called **Bella**, named after the Battle of the Bells, claims that her mother slept with Robert while he hid at the Peach and that Robert preferred her mother. She has thick black hair reminiscent to Arya of Robert and **Gendry**. **INFERRED:** Bella may be Robert's daughter, potentially Gendry's half-sister; **UNKNOWN:** her biological father. She has not been formally recognized.
+14. **Gendry refuses Bella's invitation.** Bella flirts with him and proposes an encounter free of charge because of his association with the Brotherhood. He abruptly leaves rather than participate. The reader's knowledge of Gendry's suspected paternity raises an unintended-family proximity, but **neither youth knows that potential relation**.
+15. **Different reaction to sex and rank.** Arya believes she is a child trying to hide an identity, while Gendry asserts that no highborn girl should be in a brothel. Their mutual class irritation grows, even though he tries to keep her safe. His disapproval is not proof of romantic jealousy.
+16. **A drinking customer threatens Arya's safety.** An older stranger singles her out with sexualized interest, asks her name, and presses near her. Gendry returns, falsely calls her **his sister**, and uses his strength to send the man away. This creates a tactical, protective kinship fiction.
+17. **A bitter misunderstanding follows.** Arya protests that Gendry is not her brother; Gendry construes it as rejection because he is lowborn. She tries to correct him, but he rebuffs her. **The scene supports crossed class/identity meanings**; neither spoken correction resolves the dispute before sleep.
+18. **Catelyn's freeing of Jaime circulates through distorted gossip.** Arya overhears Tansy telling Lem and Harwin that Catelyn spent a night with Jaime and another woman, then freed him for love. The **release itself** is supported by [ASOS 1 Jaime](01-jaime.md) and [ASOS 20 Catelyn](20-catelyn.md); the romantic-sexual explanation is unreliable brothel rumor. Arya rejects all of it through loyalty and ignorance of the actual negotiation.
+19. **An escape opportunity is not a viable route home.** At night Arya considers taking a horse but sees the closed gates, city watch, likely pursuit by Harwin or the Huntsman, and loss of her map. **She decides not to flee** rather than simply forgetting the possibility.
+20. **A disturbing coexistence of song and punishment.** Music, jokes and sexual commerce continue indoors while caged bodies decay across the square. Arya notices some laughter feels forced or excessive; this is her subjective response to civilians coping amid normalized brutality.
+21. **Her death list is persistent but fluid.** Alone before sleep she recites names including Cersei, Joffrey, Ilyn Payne, Meryn Trant, Dunsen, Raff, Polliver, the Tickler, Sandor and Gregor. She varies ordering to remember wrongdoing, and imagines some might already be in cages. **Targets' actual locations/fates remain unverified to Arya.**
+22. **An intense wolf dream follows.** In a rain-scented wood she experiences belonging to a pack, running down a horse, feeding and howling. The dream's embodied senses align with a **Nymeria skinchanging hypothesis**, but an independently observed Nymeria scene at this exact time would strengthen identification; don't make mere dream placement an unassailable location report.
+23. **The Mad Huntsman's return is witnessed but the captive is misidentified by others.** Next morning Arya sees **roughly a dozen riders and a large mixed dog pack**. They remove a dead man from a cage, and dogs tear the body apart, while a captive man is threatened with the cages, a Lannister ransom and transfer of remains to his brother. Arya concludes from his visible face that he is **not Jaime**. **The new prisoner's identity is not established in this scene.**
+24. **End state:** The Brotherhood stays in Stoney Sept with Arya and Gendry; Beric still has not personally received her, and she has not reached Riverrun. Arya has seen atrocities committed by people called 'wolves', performed a small mercy, witnessed three quick killings, and heard more partially false news about her mother.
+
+## Microdetail and cross-POV ledger
+
+| Exact anchor | What it establishes / what it does not |
+|---|---|
+| Battle of the Bells: Connington, Mooton, Denys Arryn, Hoster wounded | Historical report from Harwin, not Arya's eyewitness record |
+| New town gates, burnt third of houses, distant trade | Incomplete reconstruction and ongoing civilian supply |
+| Eleven? **Twelve** crow cages by trout fountain | Specific physical punishment structure, not a lawful court proceeding |
+| Three thirsty living prisoners given water, then shot | Arya's mercy and Anguy's lethal intervention are separate acts |
+| Wolves searched for Jaime at Tumbler's Falls | Local accusations, not universal evidence against Northern host |
+| Tansy, Bella, Cass, Lanna, Jyzene, Helly | Local witness network with potential later surname ambiguity |
+| Bella's black hair and mother's Robert story | Paternity possibility; no acknowledged birth record |
+| Gendry poses as Arya's brother | Protects her from harassing customer, class wound afterward |
+| Catelyn released Jaime 'for love' | False/unsupported embellishment over a true release |
+| Wolf dream's horse and pack | Sensory warg clue with no dated external witness here |
+| New prisoner not Jaime despite 'Lannister' cries | Avoid misidentification of Huntsman's captive |
+
+## Competing readings / tests
+
+- **Can Stark banners guarantee justice?** No; the local testimony concerns war crimes by 'wolves'. A rival explanation is that some supposed northerners are rogue men or falsely labeled soldiers. Cross-check sigils, motives and timing against [ASOS 20 Catelyn](20-catelyn.md) Karstark desertion.
+- **Did Bella and Gendry nearly meet as siblings?** Robert's stay at Stoney Sept is independently reported, Bella's mother supposedly served him and she resembles his known phenotype, but no paternity test or acknowledgement. Preserve as high-value **THEORY / INFERRED**, not fact.
+- **Is this mercy or execution?** Arya offers water and Anguy kills; this can be mercy relative to the cages while leaving concerns about summary justice. Separate the characters' agency.
+- **Nymeria dream:** The wolf-pack material may be a second POV on real action; verify external reports of wolf packs and their movement before fixing place/time.
+- **Rumor discipline:** The confirmed Catelyn–Jaime release has acquired a fabricated romantic motive in town gossip. This is an explicit warning about how partial information spreads.
+
+**Review boundary:** Full source read, independent microdetail challenge pending.
