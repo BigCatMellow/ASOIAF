@@ -1557,6 +1557,61 @@
 | C-1506 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Bran with Hodor Reeds and Summer leave Hunter Gate going north | Other heir route, not yet reached destination |
 | C-1507 | [ACOK 69](../Source/Main-Series/02-A-Clash-of-Kings/chapters/69-bran.md) | Bran thinks Winterfell broken not dead because stones roots and crypt kings remain | Hope and future symbol, not guaranteed restoration |
 
+| C-1508 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Jaime physically shackled wrists and ankles during Catelyn-authorized trip | Transport is conditional custody, not full release |
+| C-1509 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Catelyn had Brienne sword to Jaime chest while extracting vows | Oath is coerced and Jaime knows it |
+| C-1510 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Jaime swears no violence against Stark/Tully and to compel Tyrion return both girls | Arya not in royal custody, fulfillment obstructed |
+| C-1511 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Brienne says she serves Catelyn not Robb, must return two daughters | Specific hierarchy of sworn duty |
+| C-1512 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Cleos Frey born of Genna Lannister and Emmon Frey | Cross-faction kinship represented by quartered sigil |
+| C-1513 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Jaime's recollection has Cersei condemning his initial shove of Bran | Corroborates prior Cersei admission, not sponsor of catspaw |
+| C-1514 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Jaime briefly wonders if Cersei hired later Bran killer then argues not | His interested inference not independent innocence evidence |
+| C-1515 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Jaime orders famous blond hair shaved, looking less like Cersei | Disguise and loss of twin mirrored appearance |
+| C-1516 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Abandoned commerce, burned villages and Lannister-cloaked drowned corpse along Red Fork | War disruption of trade and civilians |
+| C-1517 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Women hanged at burned inn under accusation they lay with Lannister soldiers | Real murders, actual executioner unknown |
+| C-1518 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Brienne seeks to cut down and bury executed women | Practical knightly ethics against expediency |
+| C-1519 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Jaime considers Bracken Piper Beric Bolton as possible perpetrators | Speculative list, no attribution proved |
+| C-1520 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Cleos reports Roose controls Harrenhal; Jaime worries routes watched | Cross-POV positioning before interception |
+| C-1521 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Robin Ryger pursues in Tully river galley with nine oars each side | Disputed authority over Jaime imprisonment |
+| C-1522 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Robin rejects Catelyn's asserted right to authorize exchange | Institutional conflict over prisoner custody |
+| C-1523 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Brienne steers skiff behind wooded islet below bluffs under bow fire | Seamanship permits ambush |
+| C-1524 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Jaime distracts Ryger with offer of single combat while Brienne climbs cliff | Tactical coordination, not actual duel |
+| C-1525 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Brienne dislodges huge boulder, breaks mast and hull of pursuit galley | Pursuit disabled, unknown death tally |
+| C-1526 | [ASOS 1](../Source/Main-Series/03-A-Storm-of-Swords/chapters/01-jaime.md) | Jaime contemplates striking Brienne with oar then pulls her back aboard | Observed restraint/rescue, cause unconfirmed |
+| C-1527 | [ASOS 2](../Source/Main-Series/03-A-Storm-of-Swords/chapters/02-catelyn.md) | Catelyn asserts full awareness Jaime release was treason and rejects madness excuse | Agency admitted, grief real but not ignorance |
+| C-1528 | [ASOS 2](../Source/Main-Series/03-A-Storm-of-Swords/chapters/02-catelyn.md) | Desmond and Utherydes confine Catelyn to Hoster rooms and sept | Punishment limited but real |
+| C-1529 | [ASOS 2](../Source/Main-Series/03-A-Storm-of-Swords/chapters/02-catelyn.md) | Ser Robin Ryger dispatched to recapture or kill Jaime | ASOS1 directly corroborates ship pursuit |
+| C-1530 | [ASOS 2](../Source/Main-Series/03-A-Storm-of-Swords/chapters/02-catelyn.md) | Hoster repeatedly calls for Tansy, forgiveness, blood and trueborn babes | Unresolved identity and reproductive wrongdoing |
+| C-1531 | [ASOS 2](../Source/Main-Series/03-A-Storm-of-Swords/chapters/02-catelyn.md) | Utherydes knows no Tansy household servant; Vyman mistakes widow's name | Negative evidence, not proof Tansy is a person |
+| C-1532 | [ASOS 2](../Source/Main-Series/03-A-Storm-of-Swords/chapters/02-catelyn.md) | Catelyn recalls Lysa miscarried five times after marriage | Previous losses to distinguish from possible earlier pregnancy |
+| C-1533 | [ASOS 2](../Source/Main-Series/03-A-Storm-of-Swords/chapters/02-catelyn.md) | Catelyn remembers Lysa believed she was pregnant when her moonblood stopped | Possible early loss, not medical diagnosis |
+| C-1534 | [ASOS 2](../Source/Main-Series/03-A-Storm-of-Swords/chapters/02-catelyn.md) | Lysa wept holding newborn Robb, Catelyn retrospectively links loss | Behavior supports grief reading, does not prove particular cause |
+| C-1535 | [ASOS 2](../Source/Main-Series/03-A-Storm-of-Swords/chapters/02-catelyn.md) | Catelyn suspects Hoster compelled Jon Arryn to marry Lysa for Tully swords | Character theory, parties not directly confirming |
+| C-1536 | [ASOS 2](../Source/Main-Series/03-A-Storm-of-Swords/chapters/02-catelyn.md) | Catelyn sends letter seeking Lysa forgiveness to dying father | Entrusted to maester, response not received yet |
+| C-1537 | [ASOS 2](../Source/Main-Series/03-A-Storm-of-Swords/chapters/02-catelyn.md) | Vyman relays west raven that Robb took wound capturing Crag | Severity and other news concealed |
+| C-1538 | [ASOS 2](../Source/Main-Series/03-A-Storm-of-Swords/chapters/02-catelyn.md) | Edmure returns exhausted after preventing Tywin river crossings | Direct return and report of military action |
+| C-1539 | [ASOS 2](../Source/Main-Series/03-A-Storm-of-Swords/chapters/02-catelyn.md) | Edmure says Highgarden and Dorne declared Joffrey allegiance | Sweeping character geopolitical assertion, Martell actions unshown |
+| C-1540 | [ASOS 2](../Source/Main-Series/03-A-Storm-of-Swords/chapters/02-catelyn.md) | Edmure fears Tyrion mortally wounded and hostage promise unusable | Rumor of death contradicts ACOK67 survivor |
+| C-1541 | [ASOS 2](../Source/Main-Series/03-A-Storm-of-Swords/chapters/02-catelyn.md) | Edmure has sent three ravens to Roose Bolton alleging Jaime escaped | Completed official false framing of negotiated transfer |
+| C-1542 | [ASOS 2](../Source/Main-Series/03-A-Storm-of-Swords/chapters/02-catelyn.md) | Edmure offers thousand gold dragons for Jaime capture | Incentive may attract bounty pursuit, outcome unknown |
+| C-1543 | [ASOS 2](../Source/Main-Series/03-A-Storm-of-Swords/chapters/02-catelyn.md) | Catelyn thinks portraying escape will void claim to Stark girls | Strategic concern, actual refusal not yet observed |
+| C-1544 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Arya Gendry Hot Pie flee east Harrenhal postern under rain | Practical escape continues and security uncertain |
+| C-1545 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Arya rides upstream quarter mile to erase trail from hounds | Countertracking attempt, dogs not yet shown |
+| C-1546 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Arya carries Jaqen iron coin and stolen map dagger sword | Object continuity from ACOK64 |
+| C-1547 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Burned hamlet contains twelve hanged bodies in apple trees | Unknown executioner, distinct from Jaime's dead women |
+| C-1548 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Hot Pie prays to Mother while Arya repeats nightly names by corpses | Different trauma coping strategies |
+| C-1549 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Arya picks wormy apple under gallows and eats | Resource scarcity/desensitization observed |
+| C-1550 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Three wolves eating deer force travelers to withdraw cautiously | Real nonmagical predator encounter |
+| C-1551 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Large pack across stream answers Arya's distant howl | Real response, pack identity not established |
+| C-1552 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Arya plans travel north toward Trident then upriver to Riverrun | Destination plan, no successful arrival |
+| C-1553 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Arya hides Stark identity from Hot Pie and knows Gendry's secret better than he does | Asymmetric kin/parentage knowledge |
+| C-1554 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Moss appears on three sides or none undercutting her north compass | Navigation self-confidence unsupported |
+| C-1555 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Little Willow Big Willow Rippledown streams can lead in opposite directions | Wrong tributary could return fugitives to Gods Eye |
+| C-1556 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Arya twice fords unnamed streams, unable to identify river names | Actual crossings without located coordinates |
+| C-1557 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Arya refuses abandon weaker unskilled Hot Pie/Gendry, calls them pack | Real personal loyalty creates danger and support |
+| C-1558 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Gendry enforces sleep after Arya nods off and horse wanders in circles | Child leader not infallible, care reciprocated |
+| C-1559 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Arya dreams as huge wolf commanding pack against four armed Mummers | Dream content, bodily reality unverified |
+| C-1560 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Dothraki pursuer named Iggo with bells and arakh has arm ripped off in dream | Specific testable casualty detail, not observed corpse |
+| C-1561 | [ASOS 3](../Source/Main-Series/03-A-Storm-of-Swords/chapters/03-arya.md) | Dream pack loses wolves to horse hooves and blade | Wolf agency plus real possible injuries, external confirmation pending |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1564,4 +1619,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and forty-six first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and forty-nine first-pass chapters listed in the coverage tracker.
