@@ -1921,6 +1921,117 @@
 | C-1862 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Sansa intends early-made gown for Joffrey wedding and Highgarden | Her hypothesis not an actual explanation from Cersei |
 | C-1863 | [ASOS 16](../Source/Main-Series/03-A-Storm-of-Swords/chapters/16-sansa.md) | Willas proposal remains future, no meeting or marriage yet | Dynastic plan vs completed court act |
 
+| C-1864 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Arya notices moss directions and later uses sun to verify southbound travel | Initial clue ambiguous, later corroborated |
+| C-1865 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Hot Pie stays at Sharna's inn to bake | Civilian alternative to endless flight |
+| C-1866 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Sharna calls Hot Pie Boy like another boy | Identity and local naming collision |
+| C-1867 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Arya apologizes to Hot Pie for breaking his nose | Friendship and accountability amid wartime |
+| C-1868 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Arya tells Harwin Hullen died at Red Keep stables | Stark retainer testimony and death |
+| C-1869 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Arya conceals stableboy and Harrenhal guard killings from Harwin | Selective witness record, fear of Ned's judgment |
+| C-1870 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Arya retains Jaqen iron coin beneath her belt | Physical Faceless Man contact artifact |
+| C-1871 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Arya remembers Jaqen face change and quietly recites names | Personal recollection, not evidence of current surveillance |
+| C-1872 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Harwin says only six of Ned's twenty Winterfell men remain | Retainer attrition and scattering |
+| C-1873 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Harwin alleges Tywin intended Gregor raid to trap Ned | Participant inference about enemy motive |
+| C-1874 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Harwin describes two-bank ambush at Mummer's Ford | Firsthand military reconstruction |
+| C-1875 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Harwin names deaths of Raymun Darry Gladden Wylde and Lothar Mallery | Named witness casualty roll |
+| C-1876 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Mummer's Ford expedition falls from six score to at most two score | Reported force loss, not Winterfell-only tally |
+| C-1877 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Harwin says Thoros prayed after extracting lance from Beric | Extraordinary survival, death not independently certified |
+| C-1878 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Beric refuses surrender after Ned Robert deaths | Shift from crown commission to smallfolk defense |
+| C-1879 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Brotherhood attracts fieldworkers artisans septons women and children | Cross-class growth by Harwin's account |
+| C-1880 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Jack sounds two-short two-long horn at hidden village refuge | Operating signal and civilian support network |
+| C-1881 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Villagers report searchers chasing escaped Jaime two days prior | Limited-speed knowledge transmission |
+| C-1882 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Greenbeard expects Thoros to see Jaime in flames | Character religious expectation, no vision witnessed |
+| C-1883 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Anguy says Beric trials precede hangings | Procedure claimed, fairness unproven |
+| C-1884 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Tom sings of Kingswood Brotherhood crimes | Historical analogy not identity of two bands |
+| C-1885 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Arya dreams Winterfell receding and wolves tasting blood | Dream fear and memory, not literal forecast |
+| C-1886 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Greenbeard calls Arya a valuable highborn captive bound for Beric | Status replaces earlier anonymous mobility |
+| C-1887 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Arya flees on stolen Bolton horse and Harwin catches her | Horse speed insufficient in forest terrain |
+| C-1888 | [ASOS 17](../Source/Main-Series/03-A-Storm-of-Swords/chapters/17-arya.md) | Harwin compares Arya riding to Lyanna and serves smallfolk not Robb | Experienced family resemblance plus explicit allegiance |
+| C-1889 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Sam's snow blindness cold exhaustion and aching feet nearly halt him | Physical limits of retreat rather than supernatural proof |
+| C-1890 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Remaining group after Fist about fifty or more by Sam's uncertain memory | Contingent estimate, not total Watch survivors |
+| C-1891 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Mormont orders torch perimeter along retreat | Local defense against pursuing dead |
+| C-1892 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Black Bernarr broken ankle receives surviving mount | Wounded allocation and resource scarcity |
+| C-1893 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Sam remembers Maslyn begging before wight kills him | Wight brutality, distinct from living Other |
+| C-1894 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Mormont ordered messages to Castle Black and Shadow Tower | Specific communications responsibility |
+| C-1895 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Chett flees after three horn blasts carrying dagger | Sam misreads purpose, reader has prologue context |
+| C-1896 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Sam dispatches early attack notices on two ravens | One message per Watch castle before rout |
+| C-1897 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Other birds escape during raven handling | Flight does not itself confirm attached reports |
+| C-1898 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Sam goes to Blane's Shadow Tower archers at ringwall | Fear overrules instruction, then Mormont redirects |
+| C-1899 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Massed wights ignore initial arrow volley | Material combat weakness of ordinary missiles |
+| C-1900 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Mormont orders fire arrows against advancing dead | Observed tactical adaptation |
+| C-1901 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Sam writes escalating conflicting battle reports | Draft status not confirmed deliveries |
+| C-1902 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | A wight impaled by spear still kills Watch spearman | Wights function despite physical wounds |
+| C-1903 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Soldiers shout about giant or bear during Fist attack | Chaos report, giant unverified to Sam |
+| C-1904 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Two short one long horns call Watch to mount | Retreat/mustering code distinct from Others three blasts |
+| C-1905 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Sam releases remaining ravens without attaching later reports | Concrete second-message failure |
+| C-1906 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Ser Ottyn Wythers kicked by loose horse in retreat | Battle casualty or injury, final fate not separately verified |
+| C-1907 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Rotting blue-eyed bear kills Thoren Smallwood | Reanimated animal withstands partial beheading |
+| C-1908 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Mormont orders wedge south then east to leave Fist | Steep slopes and wight pressure constrain route |
+| C-1909 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Unidentified black-cloaked man takes Sam's horse in woodland | Motive identity unknown |
+| C-1910 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Dywen brings down five loaded packhorses three reach regrouping | Supply attrition and redistribution |
+| C-1911 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Grenn resists leaving Sam to die and Small Paul carries him | Concrete mutual aid in failing retreat |
+| C-1912 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Paul repeats Chett's promised speaking raven and worries about Lark | Character connection, conspiracy knowledge uncertain |
+| C-1913 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Sam believes Jon likely dead beyond Wall | False cross-POV assessment |
+| C-1914 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Detached trio encounters Other mounted on gutted Mawney horse | Actual Other and revived mount shown |
+| C-1915 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Other's blue blade extinguishes Grenn's torch | Specific weapon/fire interaction, generalized immunity unproven |
+| C-1916 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Small Paul is slain by Other with crystal sword | Immediate verified witness death |
+| C-1917 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Sam's Jon-given dragonglass dagger dissolves Other | Confirmed material vulnerability in throat strike |
+| C-1918 | [ASOS 18](../Source/Main-Series/03-A-Storm-of-Swords/chapters/18-samwell.md) | Grenn first drops the freezing dagger then retrieves it at dawn | Dagger intact, reunion with Watch unconfirmed |
+| C-1919 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Tywin sits in king's chair while Tyrion is at council foot | Visible transfer of administrative primacy |
+| C-1920 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Kevan says Lancel intermittently recovers and praises Tyrion | Medical report, Tyrion distrusts Cersei motives |
+| C-1921 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Varys reports Tarly victory at Duskendale and Tallhart death | Battle intelligence without on-page witness |
+| C-1922 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Robett Glover's survivors allegedly head toward Gregor at Harrenhal | Potential pincer, interception not yet depicted |
+| C-1923 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Littlefinger notes Robb personally undefeated despite northern loss | Attribution of battle and agency |
+| C-1924 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Daven and Forley plan movement against Riverrun when Robb goes north | Conditional war plan not actual advance |
+| C-1925 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Balon offers alliance for North and Iron Islands recognition | Proposal not accepted |
+| C-1926 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Tywin refuses to reward Balon's current anti-Stark fighting | Calculated nonaction and undisclosed better option |
+| C-1927 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Littlefinger offers Lysa marriage enabled by Harrenhal lordship | Title yields eligibility, success hypothetical |
+| C-1928 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Tywin offers Robert Arryn Warden East restoration if Vale submits | Conditional patronage, not executed |
+| C-1929 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Petyr names Braavosi galley Merling King for proposed voyage | Specific shipping intention not confirmed boarding |
+| C-1930 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Tyrion appointed master of coin in Petyr's stead | New job, treasury unverified |
+| C-1931 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Pycelle reports three hundred Dornishmen bound for wedding | Reported travel party not observed in city |
+| C-1932 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Tywin expects Doran to attend council and ask justice for Elia | Anticipated attendee and grievance, arrival not yet shown |
+| C-1933 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Mace Tyrell upset by Dornish passage and Oberyn harm to Willas | Alliance fault line between Reach and Dorne |
+| C-1934 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Garlan Tyrell awarded Florent Brightwater Keep | Royal disposition not actual estate possession |
+| C-1935 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Redwyne wins thirty years wine tax remission | Commercial payoff for loyalty |
+| C-1936 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Council dead recorded as forty-seven lordlings six hundred nineteen knights | Administrative reported counts for rebel side |
+| C-1937 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | High Septon's crown stolen crystals found, replacement commissioned | Ceremonial reconstruction for royal wedding |
+| C-1938 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Varys reports real kraken near Fingers and Qarth dragon rumor | Mixed-quality distant intelligence dismissed by Tywin |
+| C-1939 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Tyrek Lannister still missing and sought by Tywin | Family disappearance unresolved |
+| C-1940 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Varys proposes Wall for Gold Cloak deserters; Tyrion backs need | Crown has actionable Watch warnings |
+| C-1941 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Tywin orders deserters' knees broken and abandons north to wildlings | Punitive policy order not completed outcome |
+| C-1942 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Kevan says Petyr revealed Tyrell plan for Sansa to wed Willas | Court intelligence turns private proposal into race |
+| C-1943 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Tywin proposes Cersei remarriage to counter incest allegations | Dynastic legitimacy strategy not consummated |
+| C-1944 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Willas proposed for Cersei to replace thwarted Tyrell Sansa match | Compensating marriage prospect not betrothal |
+| C-1945 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Tywin orders Tyrion Sansa match before Joffrey wedding | Strong explanation for Sansa's urgent tailoring |
+| C-1946 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Tyrion objects to Sansa's youth and forced consummation | Moral resistance coexists with eventual compliance |
+| C-1947 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Tywin imagines Tyrion Sansa son winning Winterfell after Greyjoy winter | Strategic projected heir, not proven northern loyalty |
+| C-1948 | [ASOS 19](../Source/Main-Series/03-A-Storm-of-Swords/chapters/19-tyrion.md) | Tywin hints Westerlings understand Castamere consequences and states Robb wed Jeyne | Conspiracy question open, no demonstrated contract |
+| C-1949 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Murdered hostages Willem Lannister and Tion Frey displayed at Riverrun | Unarmed squires, one resisted |
+| C-1950 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Grey Wind howls from distant enclosure as bodies enter | Observation, precise supernatural perception inferred |
+| C-1951 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Rickard Karstark associates use lethal force against Delp and Elwood | Two extra Tully deaths in prison assault |
+| C-1952 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Eight accomplices total, five captured alive or dying as described | Arrest account, not whole Karstark force |
+| C-1953 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Karstark defends captive murders as vengeance for sons killed by Jaime | Collective blood-debt principle rejected by Robb |
+| C-1954 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Robb orders look-out to hang last after admitting foreknowledge | Severe judgment for aiding murder |
+| C-1955 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | About three hundred Karstark riders with double mounts deserted before execution | Immediate loss of mounted strength |
+| C-1956 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Karstark offers daughter's marriage to Jaime killer of any rank | Bounty deploys unknown woman's marriage |
+| C-1957 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Edmure urges secrecy to protect Frey and Lannister relations | Option considered but deserters already know |
+| C-1958 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Robb insists on notifying fathers and punishing murderer | Justice rationale despite lack of thanks |
+| C-1959 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Harrion Karstark named as imprisoned surviving heir | Heir's actual loyalty and custody unverified |
+| C-1960 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Brynden suggests Harrion might welcome lordship privately | Counterexample to inevitable filial revenge |
+| C-1961 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Robb fears Karstark foot under Bolton may reject him | Necessary warning contemplated, delivery unverified |
+| C-1962 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Robb wants Vale passage and Gulltown fleet to White Harbor | Specific strategic alternative to Neck fight |
+| C-1963 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Catelyn and Brynden expect Lysa refuses neutrality transit | Character forecast, not witnessed Lysa decision |
+| C-1964 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Robb invokes Ned-like rule before deciding Rickard must die | Stated internal code and strategic pressure |
+| C-1965 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Rickard asserts Stark and Karstark First Men blood and kin curse | Genealogical claim and contested religious judgment |
+| C-1966 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Robb personally beheads Rickard by heart tree with three axe strokes | Execution actual, prolonged trauma |
+| C-1967 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Brynden rides with hundred after deserters | Limited pursuit, return unobserved |
+| C-1968 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Maester Vyman says Hoster's last strength is going | Medical prognosis, not actual death on page |
+| C-1969 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Jeyne says Robb writes and burns letter then studies maps | Unsent document, content unknown |
+| C-1970 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Catelyn teaches Jeyne Ned's personal execution code and patient northern solitude | Cultural adaptation advice |
+| C-1971 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Jeyne and Robb actively seek child with names Eddard Brandon | Pregnancy not confirmed |
+| C-1972 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Sybell gives Jeyne daily herbs milk ale fertility posset | Direct testimony, chemical effect not established |
+| C-1973 | [ASOS 20](../Source/Main-Series/03-A-Storm-of-Swords/chapters/20-catelyn.md) | Catelyn judges Jeyne sincere while Sybell's motives remain untested | Mother and daughter must not be conflated |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1928,4 +2039,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and sixty-two first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and sixty-six first-pass chapters listed in the coverage tracker.
