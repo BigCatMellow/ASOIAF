@@ -61,6 +61,8 @@ A responsible proposed hearing would therefore distinguish **medical shelter, wa
 
 **Important counterargument:** Not every northern lord personally depended on the bride's identity; the Red Wedding, ancestral Stark loyalty and hatred of Bolton/Frey rule survive exposure of the imposture. Likewise a single mutilated former captor/turncloak's recantation may fail to persuade anyone. **Do not set the coalition to disintegrate or flip universally on one speech.** The source supports differentiated responses, not automatic political collapse.
 
+**Coalition evidence (2026-10-16):** [Comparative Manderly, Umber and clan ledger](northern-coalition-manderly-umber-clans-arya-revelation-gates.md) source-checks how each northern power could respond *differently* to a credible **Jeyne Poole** disclosure. **ADWD 29 (Davos)**: Wyman Manderly's Stark-first bargain requires Davos to bring him **Rickon and his direwolf** before Wyman promises to take Stannis as king; this is **not an accomplished alliance**. **ADWD 42 (Asha)**: Wull/Liddle and the mountain allies explicitly want Ned's girl *and* a fight with Bolton; revealing that the girl is not Arya could alter the rescue rationale without eliminating the anti-Bolton motive. **ADWD 17 (Jon)**: Mors Umber only conditionally offers part of his house and refuses to fight Whoresbane's Umber force, regardless of girl identity. His original price includes **Mance's skull**, a second conflict with Mance's secret rescue. **ADWD 62** puts rescued people in Tycho's party by Mors's account, but no meeting confirms that Mors or Stannis already knows Jeyne's name.
+
 ## 4. The sequence must allow separate claims to reach separate recipients
 
 `ADWD 51: WITNESSED ESCAPE → ADWD 62: MORs/TYCHO CAMP ARRIVAL REPORTED/OBSERVED`
