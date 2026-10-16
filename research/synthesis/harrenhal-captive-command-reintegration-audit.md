@@ -68,6 +68,10 @@ Roose's speech to Jaime is unusually revealing. Roose knows **which former highb
 
 **Important qualifier:** Roose also knows Harrion was a prisoner **at the moment he took the castle**, but this does not establish he physically opened the cell, negotiated with the hedge knight, or personally marched Harrion out. The witnessed Duskendale direction and Roose's later reported Karstark reassignment strengthen an operational connection without certifying every transfer step.
 
+### Harrion's next known political trace: Maidenpool report, not a verified casualty
+
+[Harrion's post-Duskendale hostage and succession audit](harrion-karstark-maidenpool-hostage-succession-verification.md) adds a later, **explicitly stale** report. **ADWD 44 (Jon)** records Alys saying Harrion was a **prisoner at Maidenpool** when the family last heard, **almost a year earlier**. This goes beyond Roose's conjecture about Duskendale in ASOS 37, but it is neither a witnessed capture/transfer nor proof of current life. **ADWD 49** records Cregan's contrary death assertion without evidence. Alys also alleges Arnolf hopes pro-Stannis declarations will cause Lannisters to kill Harrion; **ADWD 32** independently supports Arnolf–Bolton collusion but not an observed death order. This is a *different period and prisoner chain* from the Harrenhal exit documented here.
+
 ## 4. Wylis: the contrast case rather than Harrion's presumed duplicate
 
 For **Wylis**, the available endpoints are `AGOT 62 GREEN FORK CAPTURE`, `ACOK 30 TYWIN-HELD LIKELY PRISONER`, `ASOS 49 ROOSE REPORTS TRIDENT REAR-GUARD WYLIS`, `AFFC 27 JAIME FINDS WYLIS HELD AFTER THE RIVER`, and `ADWD 29 WYMAN SAYS HIS SON RETURNED`.
