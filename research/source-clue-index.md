@@ -1434,6 +1434,68 @@
 | C-1385 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Three hired ships Saduleon Summer Sun Joso Prank ready for Dany | Concrete vessels named, actual voyage not yet undertaken |
 | C-1386 | [ACOK 63](../Source/Main-Series/02-A-Clash-of-Kings/chapters/63-daenerys.md) | Dany renames ships Vhagar Meraxes Balerion with golden letters | Three dragons of conquest symbol, not proven prophecy fulfillment |
 
+| C-1387 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Bolton publicly executes Tothmure Lucan Harra and Tywin's steward for Lannister service | Occupation change creates punitive collaborator deaths |
+| C-1388 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Pia and women forced into stocks abused by Frey soldiers | Northern occupation reproduces violence against civilians |
+| C-1389 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Gendry faults Arya for helping turncoats take Harrenhal | Consequences of Weasel Soup and Lucan killing |
+| C-1390 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Hoat Brave Companions revisit towns they earlier forced to support Lannisters | Circular profit-motivated treason persecution |
+| C-1391 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Arya retrieves Jaqen iron coin after angrily discarding it | Object continuity and future access token |
+| C-1392 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Elmar Frey a trueborn son of Walder brags marriage to unnamed princess | Strong Arya-betrothal implication, he doesn't know her identity |
+| C-1393 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Roose Bolton receives large pale leeches tended by unchained Qyburn | Strange medical ritual, not evidence supernatural power |
+| C-1394 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Frey leaders argue Lannister Tyrell victory means Robb must bend knee | Coalition defeatism exposed to Arya |
+| C-1395 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Frey leaders report Bran Rickon killed and Winterfell lost | Known mistaken identification of false boys' heads |
+| C-1396 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Roose orders Tallhart execute Darry captives burn castle and march with Glover on Duskendale | Risky and brutal strategic order, betrayal intent unproven |
+| C-1397 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Roose plans give Harrenhal to Vargo Hoat on return north | Arya's personal danger made explicit |
+| C-1398 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Roose burns unidentified leatherbound book in his chamber | Observed destruction, unknown contents |
+| C-1399 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Arya discovers and steals map of Trident showing Riverrun | Operational escape aid, route not yet completed |
+| C-1400 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Roose's hunters return with nine slain wolves including two pups | Symbolic Stark animal cruelty, no Nymeria proof |
+| C-1401 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Arya hears distant wolf howl and experiences Ned's voice reclaiming Arya identity | Subjective guidance, spirit or telepathy not established |
+| C-1402 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Elmar learns from Twins raven planned royal marriage canceled | Political marriage rupture known, cause not given in scene |
+| C-1403 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Arya tells Gendry false claim Hoat will chop left foot off every servant | Deliberate motivational lie vs true risk |
+| C-1404 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Arya uses Bolton livery to requisition three horses by night | Abuse of rank presentation as escape tactic |
+| C-1405 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Arya drops Jaqen iron coin so guard bends to retrieve it | Coin acts as lure without actual expenditure |
+| C-1406 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Arya kills northman postern guard with stolen dagger then retrieves coin | Direct intentional lethal act under escape necessity |
+| C-1407 | [ACOK 64](../Source/Main-Series/02-A-Clash-of-Kings/chapters/64-arya.md) | Arya Gendry Hot Pie ride out Harrenhal east postern amid rain | Escape achieved, future destination not verified |
+| C-1408 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Tywin rides through throne room, receives Handship from Joffrey | Postbattle formal transfer of governing office |
+| C-1409 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Tywin horse defecates beneath Iron Throne amid elaborate ceremony | Grotesque contrast of royal display and material reality |
+| C-1410 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Loras Tyrell joins Kingsguard and Mace joins small council | Direct concessions sealing Reach alliance |
+| C-1411 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Garlan Tyrell says Margaery Renly marriage was not consummated | Family testimony enabling new match |
+| C-1412 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | High Septon declares Sansa Stark royal betrothal void for alleged Stark treason | Formal court claim, factional rationale |
+| C-1413 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Joffrey agrees to marry Margaery amid council-planned theatrics | Concrete rebetrothal, ceremony not wedding |
+| C-1414 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Sansa relieved Joffrey no longer legitimate future husband yet remains royal ward | Partial liberation without freedom |
+| C-1415 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Philip Foote given Caron estates, Lothor Brune knighthood, Willit patronage, Peckledon rewards | Redistribution of battle honors, land claims contingent |
+| C-1416 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Hallyne granted lord title without castle or lands | Symbolic promotion not full territorial power |
+| C-1417 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Lancel granted Darry though badly wounded and territory contested | Legal proclamation vs war-zone possession |
+| C-1418 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Petyr Baelish made Lord of Harrenhal and Lord Paramount of Trident | Political rank changes despite castle outside regime control |
+| C-1419 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Six hundred new knights created, only Swann Trant Kettleblack Kingsguard present | Elite replenishment and bodyguard depletion |
+| C-1420 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Mandon confirmed publicly dead, Sandor absent, Jaime captive, Arys in Dorne | King's protective institution only three present members |
+| C-1421 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Stannis prisoners given conditional restoration for fealty, dissenters killed | Coercive allegiance mechanism after victory |
+| C-1422 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Defiant prisoner publicly accuses Joffrey of incest and promises Stannis returns | Incest supported by Jaime, coming return only factional prophecy |
+| C-1423 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Joffrey cuts arm on Iron Throne and cries for Cersei | Physical cut verified, magical rejection unproved |
+| C-1424 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Tywin takes charge proceedings after Joffrey removed | Practical ruler contrasted crowned boy |
+| C-1425 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Dontos gives escape timing of Joffrey Margaery wedding night | Promised plan, no completion or exact vessel shown |
+| C-1426 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Dontos presents fine silver hairnet studded deep dark purple alleged Asshai amethysts | Suspicious unique physical object, composition unknown |
+| C-1427 | [ACOK 65](../Source/Main-Series/02-A-Clash-of-Kings/chapters/65-sansa.md) | Dontos calls hairnet magic justice vengeance for Ned | Interested foreshadowing claim, no actual poison use established |
+| C-1428 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Luwin counsels Theon surrender while oath binds his service to Winterfell | Institutional duty not personal endorsement |
+| C-1429 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Only seventeen ironborn choose stand with Theon, Wex first | Precise fatal garrison commitment |
+| C-1430 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Asha ten reinforcements and other ironmen abandon castle | Greyjoy occupation unsupported |
+| C-1431 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Rodrik arrives with near two thousand and siege weapons, identified northern banners | Regional relief coalition, military strength reported and observed |
+| C-1432 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Rodrik offers Theon life as Robb's prisoner, soldiers not murdering children to leave | Conditional surrender alternative |
+| C-1433 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Theon threatens Rodrik child Beth Cassel with rope between fake prince heads | Child hostage directly endangered, not hanged yet |
+| C-1434 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Theon equates childhood Stark wardship with Beth noose | Motivational analogy, not moral equivalence |
+| C-1435 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Luwin proposes Theon lay arms down and take black in Watch | Concrete alternative before Ramsay arrival, Rodrik approval not tested |
+| C-1436 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Bolton flayed-man riders initially pose as relief to Rodrik then attack his host | Observed deliberate surprise betrayal |
+| C-1437 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Rodrik Cassel Leobald Tallhart and Cley Cerwyn corpses shown at gate | Genuine leader deaths unlike false Stark heads |
+| C-1438 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Armored red helm says he cut Rodrik arm on greeting | Perpetrator confesses treacherous parley assault |
+| C-1439 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Reek removes helmet and identifies as Ramsay Snow/Bolton | On-page identity reveal beyond speculation |
+| C-1440 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Ramsay claims old real Reek swapped clothes horse ring with him and died | Explains mistaken identity reported from Hornwood chase |
+| C-1441 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Ramsay returns with father's Dreadfort fighters he estimates six hundred | Troop claim with observable armed force |
+| C-1442 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Ramsay demands Kyra instead of promised Palla | Shifted predatory demand, consent absent |
+| C-1443 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Ramsay strikes Theon with armored gauntlet smashing cheek | Direct assault on apparent patron |
+| C-1444 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Bolton riders murder Theon's remaining garrison after gates open | Betrayal turns on Greyjoy occupiers |
+| C-1445 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Luwin speared from behind and trampled | Severe injury witnessed, death in this POV unconfirmed |
+| C-1446 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Ramsay orders Frey boys saved while Winterfell buildings burned | Selective political protection and deliberate destruction |
+| C-1447 | [ACOK 66](../Source/Main-Series/02-A-Clash-of-Kings/chapters/66-theon.md) | Theon's last view Smiler escapes burning stable with mane aflame | Theon's ultimate fate remains unobserved |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -1441,4 +1503,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and forty first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the one hundred and forty-three first-pass chapters listed in the coverage tracker.
