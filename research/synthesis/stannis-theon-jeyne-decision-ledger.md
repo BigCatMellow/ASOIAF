@@ -136,6 +136,12 @@ The arrows illustrate **possible consequences of deliberate choices**; no node m
 
 **Disposition:** `A, B, C ALL RETAINED`. **Best evidence-supported next movement:** a **brief protective, skeptical audience** (a weak version of A), because witness testimony could change the next choices and the camp cannot afford costly false intelligence. This is a *literary experiment preference*, not a claim Stannis will choose it; competing branches remain valid.
 
+## First-hearing witness and outward message gate (2026-10-16)
+
+The [testimony and safe-reporting audit](stannis-theon-jeyne-testimony-and-safe-reporting.md) adds a **distinct evidentiary problem** to the existing branches: **ADWD 37 (Theon)** shows Lady Dustin deliberately uses Theon as the supposed Arya's wedding presenter precisely because he grew up with the Stark children. If Theon later exposes **Jeyne Poole**, he must **recant his own coercively performed public authentication**, not simply reveal anonymous court gossip. **ADWD 42 (Asha)** directly records the mountain clans' desire to liberate *Ned's girl*; public correction could delegitimize Bolton's Stark marriage and also strain this part of Stannis's coalition motive. Neither reaction is yet depicted; the actual Stannis hearing is absent.
+
+**ADWD 62 (Asha)** identifies **Arnolf's own maester and cage of ravens** as his contingent's equipment, **not** Stannis's verified secure courier capacity; Asha sees **two unnamed riders in all black** and *infers* Watch association. No oath, courier instructions or post-arrival return journey is supplied. `THEON/JEYNE ARRIVED TO ASHA` → `STANNIS HEARD THEON` → `STANNIS CHOSE DISCLOSURE` → `MESSENGER DISPATCHED` → `JON OR NORTHERN ALLIES RECEIVED` are **five different gates** with only the first source-verified. Theon can report **Roose's gate assembly orders** in ADWD 51, **not** Frey/Manderly field arrival.
+
 ## Warning-route companion (2026-10-15)
 
 The [Arnolf warning-route audit](arnolf-warning-routing.md) is the canonical synthesis owner for the four possible routes from Castle Black through Deepwood to Stannis. Its strongest new ordering constraint: **Tycho meets Jon before Alys reveals the betrayal in ADWD 44**, but later travels through Deepwood to the king's camp. The novel never depicts a Deepwood receipt or an audience with Stannis. All three first-audience branches above remain open.
