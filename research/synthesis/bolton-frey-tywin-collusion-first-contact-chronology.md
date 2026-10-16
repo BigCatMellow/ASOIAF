@@ -48,6 +48,10 @@ A parallel subtle image has Roose kill wolves including pups during the interven
 - **Roose+Frey violent cooperation:** `ASOS 51` massacre is `DIRECT` on-page, but the preparation is unshown; clearly **planning predates execution**, its start unknown.
 - **Tywin→Frey/Bolton bargain:** `ASOS 53` Tywin's account and the agreed compensation retrospectively confirm the **three-sided arrangement by the massacre**. They do **not** supply a reliable earliest agreement date.
 
+### More precise identification of the Red Wedding's operations after the pact
+
+The [Frey participation and absent-family witness ledger](frey-red-wedding-participation-absence-knowledge-and-witness-ledger.md) reads **ASOS Epilogue (Merrett)** as insider evidence that **Walder ordered** the massacre and **Lame Lothar planned it with Roose**, including the music and Merrett's explicitly assigned responsibility to render the Greatjon too drunk to fight. Merrett further says Lothar placed the gallery crossbowmen and arranged collapsible tents while **Bastard Walder led the exterior camp attack**. These are a more precise `PLANNING PARTICIPANT ACCOUNT` and `FIRSTHAND MERRETT TASK MEMORY` than a generic notion that all Freys were coequal co-conspirators. **They still contain no initial bargain date**, no ACOK 64 Frey conspiracy letter, and no evidence that Olyvar, Perwyn or Alesander approved: **ASOS 51** records all three absent; **ASOS 14** Robb says Olyvar wanted to stay with him. Their actual knowledge and reasons for absence remain `UNKNOWN`. **Roslin's visible fear (ASOS 49/51)** and Edmure's later claim she was forced to distract him (**AFFC 38**) support coerced rather than voluntary participation but give no independent direct confession from Roslin.
+
 ## 2. Jaime's “regards” and an intentional literary re-use
 
 **ASOS 44 (Jaime):** Bolton asks Jaime to give his warm regards to Tywin; Jaime, insisting on reciprocal civilities, asks Bolton to give **his regards to Robb Stark**. Bolton agrees. At the Red Wedding in **ASOS 51 (Catelyn)**, the pink-cloaked attacker of Robb utters the message attributing regards to **Jaime Lannister**, immediately before striking.
