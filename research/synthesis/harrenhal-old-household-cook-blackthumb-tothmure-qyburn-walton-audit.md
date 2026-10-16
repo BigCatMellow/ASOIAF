@@ -76,6 +76,10 @@ In **ACOK 64**, Arya plans to meet Gendry at an **east-wall postern behind the T
 
 **Critical negative:** the **AFFC 27 Trident prisoners** are held in the same castle as Ben and the cook. The mere coexistence of kitchens, smithy and prisoners does not establish either man's access to their quarters or permission to release them. Both could potentially testify to castle power transitions; neither is a certified witness of Roose's Trident ferry orders.
 
+### Qyburn's actual document chain is not an authenticated surviving letter
+
+The [Qyburn/Tallhart order and Lannister foreknowledge audit](qyburn-duskendale-order-document-delivery-enemy-intelligence-audit.md) adds three facts to this witness map: **ACOK 39 (Catelyn)** has Edmure *already claim* to have sent Tallhart to join Roose (no Duskendale destination); **ASOS 4 (Tyrion)** directly records Tywin knowing Glover/Tallhart are heading east and dispatching Tarly and Gregor to trap them; and **AFFC 43 (Cersei) → AFFC 44 (Jaime)** *actually shows receipt at Riverrun of a separate message Qyburn undertook to send for Cersei*. The last pair shows he can handle an effective long-range courier, but **neither a Qyburn-completed Duskendale draft nor its seal, courier, Tallhart receipt, retained copy, or message to Tywin appears in the five published books**. The information source for Tywin's accurate early forecast remains `UNKNOWN`; an earlier secret Qyburn raven is conjecture only. **AFFC 24**'s false Davos-head report is made by **Pycelle**, not Qyburn, although Qyburn briefed Cersei earlier in the same chapter.
+
 ## 5. Qyburn and Walton: the more actionable Duskendale witness split
 
 ### Roose's actual message instruction
