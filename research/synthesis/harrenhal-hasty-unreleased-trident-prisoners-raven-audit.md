@@ -1,7 +1,7 @@
 # After Jaime leaves Harrenhal — Bonifer Hasty, the unnamed Trident prisoners, and the unproven release order
 
 - Record role: `RESEARCH / POST-CLEGANE CUSTODY / WITNESS AND MESSAGE GATES`.
-- Status: `FIVE-NOVEL PRIMARY TEXT REVIEW / NAMED WYLis RELEASE ORDER / REMAINING HOSTAGE DISPOSITION UNKNOWN`.
+- Status: `FIVE-NOVEL PRIMARY TEXT REVIEW / NAMED WYLIS RELEASE ORDER / REMAINING HOSTAGE DISPOSITION UNKNOWN`.
 - Lifecycle: `ACTIVE`; authority: `ADVISORY / NONE`.
 - Primary fact-owner boundary: this file owns **the command turnover at Harrenhal, unnamed highborn Trident captives, and viable aftercare/reporting mechanisms**. [Trident witnesses](trident-crossing-wylis-manderly-captivity-witness-audit.md) owns what the surviving officers could know of Roose's crossing; [Maidenpool prisoner transfers](maidenpool-prisoner-handoffs-tarly-mooton-connington.md) owns verified and unverified southern transfers; [Harrion/first captivity](harrenhal-captive-command-reintegration-audit.md) owns the earlier Harrenhal prisoners; [information handoffs](information-handoffs.md) owns cross-theater message reception generally.
 - Checked on 2026-10-16 directly against the owner-provided five-book EPUB and matching repository chapter text. Also searched the published bundle for later `Bonifer`, `Hasty`, `Harrenhal` and relevant prisoner references. **No subsequent POV scene personally checks the unnamed captives under Bonifer** in the consulted five-book text. Search negatives apply to narrated evidence, not to possible off-page events. No future canon or extended source quotation used.
