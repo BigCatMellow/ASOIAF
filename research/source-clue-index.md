@@ -3396,6 +3396,160 @@
 | C-3325 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Aemon refuses leadership citing maester serves not commands | Institutional limit |
 | C-3326 | [ASOS 64](../Source/Main-Series/03-A-Storm-of-Swords/chapters/64-jon.md) | Aemon urges Jon take temporary command because Noye Qhorin Mormont trusted him | Emergency succession, no election yet |
 
+| C-3327 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Arya head lump shrinking after Twins axe blow | Alive, head injury persists |
+| C-3328 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Sandor says he used flat not edge of axe | Direct resolution of prior cliffhanger from assailant |
+| C-3329 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Arya feels enduring emotional hollow after Red Wedding | Traumatic subjective condition |
+| C-3330 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Arya repeatedly dreams leading huge wolf pack | Strong Nymeria skinchanging candidate |
+| C-3331 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Arya rides independent sorrel palfrey named Craven | Horse found riderless following slaughter |
+| C-3332 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Sandor stops binding Arya at night | Captivity loosens, freedom not guaranteed |
+| C-3333 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Arya considers escape but no secure destination | Practical and psychological trap |
+| C-3334 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Arya weighs Acorn Hall Sharna inn Beric Hot Pie Gendry | Former associates remain emotionally salient |
+| C-3335 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Frey twin tower horse patrols pursue scattered northmen | Sandor interprets patrol mission |
+| C-3336 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Piper archer with pink dancing maiden badge near dead | Individual camp-survivor witness |
+| C-3337 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Piper archer says Bolton flayed man drank wedding toasts then attacked | Betrayal report by victim, commander unproven |
+| C-3338 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Mace injury crushes Piper archer shoulder into mail | Infected wound directly apparent |
+| C-3339 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Dying archer requests water and death as mercy | Explicit consent for killing in agony |
+| C-3340 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Arya pours water from dog-head helm leaking at eyeholes | Material improvisation and compassionate act |
+| C-3341 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Sandor stabs archer through heart with dagger | Direct intentional death |
+| C-3342 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Sandor robs archer after mercy killing | Moral ambiguity of care and predation |
+| C-3343 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Archer yields pink-gem dagger to Arya | Arya new weapon is not Needle |
+| C-3344 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Arya wears rescued kettle helm too big for head | Specific recovered equipment |
+| C-3345 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Sandor plans ransom from Lysa via Bloody Gate | Declared destination, no contact made |
+| C-3346 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Arya hopes Catelyn could still be alive as captive | Her mistaken uncertainty despite reader eyewitness death |
+| C-3347 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Dream-wolf smells Catelyn corpse by river among floating dead | First-person dream sensation, independent verification pending |
+| C-3348 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Wolf swims river and seizes pale woman's arm | Recovered body in wolf dream, not human eyewitness |
+| C-3349 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Body dragged ashore has slit throat and cold blood | Matches Catelyn death and disposal reports |
+| C-3350 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Wolf snarls pack away and wills corpse to rise | Body preserved, resurrection not shown |
+| C-3351 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Mounted riders with black yellow pink wings approach from downwind | Unidentified mounted men, not automatically Beric |
+| C-3352 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Arya wakes saying she knows mother dead from dream | Character certainty, mechanism still open |
+| C-3353 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Mountain village hires Sandor for wood palisade fortnight | Work and temporary refuge |
+| C-3354 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Arya rips village girl's cloth soldier doll apart | Trauma-inflected cruelty to innocent |
+| C-3355 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Village elder reports Timett Burned Men and Stone Crows armed in Vale | Local claim, Tyrion steel distribution possible tie |
+| C-3356 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Village expels Sandor after work for fear of reputation and winter food | Civilian risk logic |
+| C-3357 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Sandor trades Twins axe for older rusty sword | Physical weapon change |
+| C-3358 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Sandor abandons Eyrie route and turns south toward Riverrun | No Lysa ransom occurs |
+| C-3359 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Arya proposes visiting Jon at Wall as last brother | Family refuge hope under incomplete information |
+| C-3360 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Sandor rejects north via Freys Neck ironborn northern host | Serious logistical objections |
+| C-3361 | [ASOS 65](../Source/Main-Series/03-A-Storm-of-Swords/chapters/65-arya.md) | Sandor ends saying he too has a brother | Gregor relationship remains emotional fault line |
+| C-3362 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Judges Tywin Mace Tyrell Oberyn Martell seated for king murder trial | Formally constituted court, interests conflict |
+| C-3363 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Trial by combat right acknowledged by Kevan | Legal remedy not yet chosen |
+| C-3364 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Cersei intends Gregor Clegane as champion | Adversary named before proposed combat |
+| C-3365 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Tyrion detained in tower without ability canvass witnesses | Defense procedural disadvantage |
+| C-3366 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Kevan offers to summon named witnesses through Addam | Formal promise not direct access |
+| C-3367 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Tyrion writes only Sansa as potential defense witness | Uncertain suspicion and marital position |
+| C-3368 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Tyrion suspects Sansa after flight but wonders poison source | Internal inference not proof |
+| C-3369 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Podrick runs errand and returns with Bronn despite delays | Continued loyalty |
+| C-3370 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Bronn arranged marriage to pregnant Lollys Stokeworth | Near-future reward, wedding not yet witnessed |
+| C-3371 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Falyse Stokeworth older married sister precedes Lollys in inheritance | Current succession |
+| C-3372 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Bronn hints Falyse's death would alter inheritance | Threatening possibility, no action yet |
+| C-3373 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Bronn admits could possibly tire out Gregor but one mistake fatal | Tactical assessment rather than certainty |
+| C-3374 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Bronn refuses combat because his gains would be lost even if he won | Explicit rational economic motive |
+| C-3375 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Tyrion lacks Shagga Timett as immediately available champions | Alternatives unworkable in time |
+| C-3376 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Ser Addam Marbrand escorts Tyrion with twelve gold cloaks | Trial security, Kingsguard witnesses |
+| C-3377 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | High Septon inaugurates court with prayer | Institutional ritual not impartiality proof |
+| C-3378 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Balon Swann calls Tyrion brave yet confirms slap to Joffrey | Context of past conduct |
+| C-3379 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Meryn Trant Boros Blount omit Sansa torment when reporting threats | Selective testimony |
+| C-3380 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Osney Osfryd Kettleblack recount Cersei supper threat | Omission of Alayaya context |
+| C-3381 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Osmund claims Joffrey predicted Tyrion planned kingship | Uncorroborated attributed remark |
+| C-3382 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Tywin warns Tyrion silence or gagging and shackles | Control of accused speech |
+| C-3383 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Ballabar Frenken autopsy finds no lodged pigeon pie | Sworn medical testimony, chemical cause still unisolated |
+| C-3384 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Pycelle displays stolen greycap nightshade sweetsleep etc | Earlier theft does not link Joffrey weapon |
+| C-3385 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Pycelle identifies strangler as rare throat-closing poison | Candidate mechanism, no sample recovered |
+| C-3386 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Pycelle admits strangler not found among confiscated jars | No direct toxicological chain |
+| C-3387 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Lady Merryweather says Tyrion dropped object into wine | Disputed witness accusation, not directly seen in Tyrion POV |
+| C-3388 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Guests separately testify Tyrion refilled cup and emptied residue | Observed acts under coercion and panic |
+| C-3389 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Kevan offers Wall instead of execution if Tyrion confesses | Conditional plea, not accepted |
+| C-3390 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Tyrion cites Ned Stark plea ending in execution | Precedent concern, Tywin role denied by Kevan |
+| C-3391 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Kevan recounts Tytos leniency and Tywin restoration of Lannister status | Partisan family history |
+| C-3392 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Varys produces little birds written dossiers on Tyrion remarks and past actions | Records without direct cross-examination of sources |
+| C-3393 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Varys proves historical threats not wedding dose | Critical evidentiary gap |
+| C-3394 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Oberyn visits Tyrion privately after prosecution testimony | Potential conflict with formal judging role |
+| C-3395 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Oberyn raises Dornish law favoring Myrcella over younger Tommen | Political hypothetical, no coronation |
+| C-3396 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Oberyn reports Cersei hinted at marriage to him | Her tactical inducement, marriage unexecuted |
+| C-3397 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Oberyn recounts historical scorpion canopy revenge on Tyrell in Dorne | Historical story via partisan prince |
+| C-3398 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Tyrion recounts Lorch murder Rhaenys and Gregor murder Aegon Elia | Specific perpetrator chain |
+| C-3399 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Tyrion knowingly lies denying Tywin gave commands | Narrator admits lie, distinguishes advocacy from evidence |
+| C-3400 | [ASOS 66](../Source/Main-Series/03-A-Storm-of-Swords/chapters/66-tyrion.md) | Oberyn offers to be Tyrion champion against Gregor | Offer made, duel not begun |
+| C-3401 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Jaime occupies Lord Commander chambers in White Sword Tower | Actual institutional authority despite lost hand |
+| C-3402 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Jaime sword now hangs right hip for left hand drawing | Motor relearning after amputation |
+| C-3403 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Jaime attends Tyrion trial standing unrecognized at back | Family schism, no direct intervention yet |
+| C-3404 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | White Book official name Book of Brothers, massive white vellum tome | Royal institutional archive |
+| C-3405 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Weirwood shield-shaped Round Room table supported by white horses | Sacred material, no magic shown |
+| C-3406 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Septon illuminators visit three times per year for shield art | Record maintenance practice |
+| C-3407 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Jaime must learn to write left handed before updating deaths and appointments | Record-keeping obstacle |
+| C-3408 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Barristan records own dismissal at sixty-one under Joffrey | Official institutional entry |
+| C-3409 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Barristan killed Maelys the Monstrous in War Ninepenny Kings | Last Blackfyre pretender label not full blood extinction |
+| C-3410 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Barristan saved Aerys in Defiance Duskendale with arrow wound | Recorded key rescue |
+| C-3411 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Barristan served Robert after Trident pardon | Past loyalty chain in White Book |
+| C-3412 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Jaime knighted by Arthur Dayne at fifteen | Official life record |
+| C-3413 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Jaime remembers Dayne granting Smiling Knight replacement sword before killing him | Personal eyewitness memory of chivalry |
+| C-3414 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Jaime identifies himself resembling Smiling Knight more than Arthur Dayne | Self-evaluation, not universal verdict |
+| C-3415 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Arys Oakheart currently serving away in Dorne | Only five Kingsguard brothers at meeting |
+| C-3416 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Tommen guarded by Osney Osfryd and Garlan during meeting | External guards, not sworn brothers in room |
+| C-3417 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Balon Swann says dais guests servants moved unobserved while pie cut | Material cup access gap |
+| C-3418 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Loras accuses Sansa of aiming to kill Margaery along with Joffrey | Theory based on shared chalice, not proof |
+| C-3419 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Jaime orders Boros Blount taste everything for Tommen | Concrete preventive change |
+| C-3420 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Boros leaves rather than duel Jaime after threat | Bluff works, Jaime doubts duel capacity |
+| C-3421 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Osmund claims sellsword Gallant Men in Disputed Lands | Unverified background |
+| C-3422 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Osmund says knighted by deceased Ser Robert Stone | Possible fabrication, no provenance |
+| C-3423 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Jaime tells Meryn to prevent child king from ordering cruelty | Kingsguard protection includes restraint |
+| C-3424 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Balon brother Donnel Swann sequentially served Renly Stannis Joffrey | House loyalty conflict |
+| C-3425 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Balon swears not to kill king even to spare realm | Formal oath response to Jaime hypothetical |
+| C-3426 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Loras tells Garlan wore Renly armor at Blackwater | Confirms staged ghost identity |
+| C-3427 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Loras attributes Renly armor deception suggestion to Littlefinger | Petyr performance manipulation corroboration |
+| C-3428 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Loras personally buried Renly in secret site near Storm End | Reported hidden burial, site unlocated |
+| C-3429 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Loras says he tried to duplicate clean cut through Renly steel gorget | Physical impossibility of ordinary sword strike claimed |
+| C-3430 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Loras admits doubts Brienne killed Renly after considering wound | Changed assessment, not acquittal |
+| C-3431 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Jaime compares Joffrey death with Kingsguard present to Renly guard failure | Counterexample of protection failure |
+| C-3432 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Loras killed Robar Royce and Emmon Cuy in grief after Renly | Past deaths and mistaken accusation consequences |
+| C-3433 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Loras recalls Renly said Brienne only wanted to die for him | Character recollection, Brienne interior still unknown |
+| C-3434 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Jaime orders Loras interview Brienne fairly and choose accuse or release | Process promised, result unshown |
+| C-3435 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Jaime wants gold prosthetic modeled loosely on Jacelyn Bywater iron hand | Proposed device, not fitted |
+| C-3436 | [ASOS 67](../Source/Main-Series/03-A-Storm-of-Swords/chapters/67-jaime.md) | Jaime vows multiple debts remain to address | Narrated intent, precise next targets unspecified |
+| C-3437 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Merling King galley reaches barren Fingers after storms | Actual landfall, sailing hardships |
+| C-3438 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Two sailors reportedly swept overboard one broke neck on mast | Hearsay to Sansa, deaths not witnessed |
+| C-3439 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Littlefinger reveals promised home is his unnamed tower not Winterfell | Manipulative destination substitution |
+| C-3440 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Merling King due east for Braavos after unloading | Future ship departure, no return to city in scene |
+| C-3441 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Petyr ancestral seat flint tower with one room each floor | Modest asset despite political power |
+| C-3442 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Kella tends twenty-three sheep down from twenty-nine | Smallholding detail from named servant |
+| C-3443 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Grisel wet nurse Umfred steward Bryen elderly guard | Tiny household personnel |
+| C-3444 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Old Baelish shield depicts Titan grey head on pale green | Material heraldic lineage |
+| C-3445 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Petyr says Braavosi sellsword great grandfather served Corbray | Family provenance via Petyr |
+| C-3446 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Sansa becomes Alayne Stone supposed bastard daughter of Littlefinger | Knowingly fabricated cover |
+| C-3447 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Alayne fictitious Braavosi merchant princess mother died in childbirth | Specific deception narrative |
+| C-3448 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Alayne supposed reared by Faith before contacting father Gulltown | Cover backstory, not historical birth |
+| C-3449 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Petyr uses norms against inquiry into bastards to conceal Sansa | Social camouflage mechanism |
+| C-3450 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Oswell rower confirms he fathers three Kettleblack sons | Hidden connection now on page |
+| C-3451 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Petyr says he ordered Oswell sons to King Landing via Bronn recruiting | Participant admission of placement |
+| C-3452 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Petyr says sons secretly loyal despite Cersei Tyrion payroll | Triple agent possibility from handler |
+| C-3453 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Petyr says Kettleblacks not entrusted with wedding poison | Self-serving exclusion, no audit |
+| C-3454 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Petyr explicitly says Dontos only led Sansa and ensured hairnet worn | Hairnet delivery intent self-admitted |
+| C-3455 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Petyr prompts Sansa to remember woman straightening net | Direct implication of Olenna |
+| C-3456 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Olenna prior hairnet contact independently seen by Tyrion | Corroborates opportunity not poisoning motion |
+| C-3457 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Petyr explains Mace wanted queen for daughter not necessarily Joffrey | Succession incentive |
+| C-3458 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Petyr says Olenna feared Joffrey harming Margaery and Loras avenging | Conspiracy motive via participant, not Olenna confession |
+| C-3459 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Petyr says his agents seeded negative Joffrey reports at Highgarden | Information manipulation admitted |
+| C-3460 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Petyr says agents inspired Loras white cloak with songs and money | Long political staging self-claimed |
+| C-3461 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Petyr predicts Margaery marriage Tommen would preserve alliance | Projected event, no ceremony yet |
+| C-3462 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Petyr teaches player piece distinction while eating pomegranate | Instruction intended to shape Sansa |
+| C-3463 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Sansa chooses pear over Petyr pomegranate | Specific interaction, no magical effect |
+| C-3464 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Petyr land includes ancient seven-point star marking Andal landing by report | Historical location claim not verified |
+| C-3465 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Petyr recounts hermit foretold greatness while touching him | Unverified childhood prophecy |
+| C-3466 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Lysa arrives with twenty riders three maids septon singer Marillion | Actually seen Vale party |
+| C-3467 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Lysa says Yohn Royce Hunter Corbray Nestor Royce pressure for war or marriage | Her account, agendas uncertain |
+| C-3468 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Lysa weds Petyr within hour beneath blue canopy | Marriage completed at Fingers |
+| C-3469 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Lysa hopes to conceive another child with Petyr | Desire, no pregnancy |
+| C-3470 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Marillion assaults Sansa despite her refusals | Sexual coercion witnessed, not consensual |
+| C-3471 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Lothor Brune cuts Marillion and intervenes on Sansa behalf | Physical rescue, Marillion survives |
+| C-3472 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Sansa dreams Joff death morph into Robb and Tyrion to Hound | Trauma-driven dream not real occurrence |
+| C-3473 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Lysa knows Alayne is Sansa and wants to darken auburn hair | Identity security measures |
+| C-3474 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Lysa says old Jon Arryn weak seed, five infant deaths prior Robert | Interested reproductive account, not clinical proof |
+| C-3475 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Lysa interprets Jon Arryn seed is strong as prophecy for Robert | Strong evidence of misread final words |
+| C-3476 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Sansa confirms Tyrion marriage unconsummated and no pregnancy | Direct first-person testimony |
+| C-3477 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Lysa wants Sansa secret marriage to eight year old Robert Arryn after Tyrion death | Plan not completed, coerced minor |
+| C-3478 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Lysa says Robert likes animal stories and must be allowed to win games | Specific parenting and expectation of Sansa |
+| C-3479 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Lysa intends Littlefinger Lord Protector of Vale | Proposed political office, not shown appointed |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -3403,4 +3557,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and ten first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fourteen first-pass chapters listed in the coverage tracker.
