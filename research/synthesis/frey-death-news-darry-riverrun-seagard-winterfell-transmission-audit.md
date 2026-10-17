@@ -1,0 +1,114 @@
+# Who knows the Freys are dead? Darry, Oldstones, Fairmarket, Riverrun, Seagard, and Winterfell — a receipt audit
+
+- Record role: `RESEARCH / FREY FAMILY DEATH NEWS / OUTLAW IDENTITY / CROSS-THEATER MESSAGE PROVENANCE`
+- Status: `FIVE-NOVEL PRIMARY SOURCE VERIFIED / OLDSTONES NEWS RECEIVED AT DARRY AND RIVERRUN / RYMAN DEATH REPORTED AT RIVERRUN / NORTH KNOWS SEPARATE DISAPPEARANCES AND LITTLE WALDER DEATH / CROSS-THEATER DELIVERY UNSHOWN`
+- Lifecycle: `ACTIVE`; authority: `ADVISORY / NONE`; independent challenge: `OPEN`.
+- Checked 2026-10-17 directly against owner's intact five-novel EPUB (SHA-256 `cf12ce6d586a9b2717b6cefe373515d454f805b9b6193cde544c8abf028e61b8`) and matching GitHub chapters. Five published novels only, narrative chapter numbers EPUB-local; Markdown source filenames carry chapter number +1.
+- Canonical fact ownership: This file owns **which people actually receive individual Frey-death reports, what those reports say, and the evidence of (or gap in) transmissions between Riverlands/Seagard and Winterfell**. For line of succession see [Twins succession / Frey fracture](frey-twins-succession-edwyn-black-walder-brotherhood-north-fracture.md). For responsibility at the Red Wedding see [Frey attendance/participation](frey-red-wedding-participation-absence-knowledge-and-witness-ledger.md). For Wyman and possible vanished Frey victims see the independent [Frey Pies case](../theories/cases/frey-pies.md). The [Winterfell sortie dossier](frey-manderly-sortie-command-fracture.md) owns military action. Cross-theater global receipt summary belongs in [information handoffs](information-handoffs.md).
+- Evidence levels: `POV-SEEN` = narrated sight, death or utterance; `RECEIVED-REPORT` = one actor hears a report in a depicted conversation; `SPEAKER-ASSERTION` = information claimed, motive/accuracy not verified; `POV-INTERPRETATION` = a character's inference; `UNOBSERVED-RELAY` = no sender, medium or receipt on page; `UNKNOWN` = neither proven nor disproven. Absence of a narrated message is not proof that a message was never sent.
+
+## Executive result — Darry supplies a previously underused independent receipt
+
+**[AFFC 30 (Jaime)](../../Source/Main-Series/04-A-Feast-for-Crows/text/031-jaime.md) depicts Lady Amerei (“Gatehouse Ami”) and her mother Lady Mariya at Darry**. They **know** that **Merrett Frey** rode out with gold to ransom **Petyr Pimple** from the Oldstones outlaws and was hanged. Mariya offers an unusually detailed **search report**: **Lord Vypren** pursued one band toward **Fairmarket**, and **Black Walder Frey** led trackers and hounds after another band into **Hag's Mire**, reaching a reported trail near the **Neck**. Peasants supplied descriptions of **a hooded, scarred woman** apparently in command and men identified by a missing eye and a yellow cloak. **Mariya initially presumed Beric's men**, but says **Beric and Thoros were not identified among the pursuers' sightings**. Jaime hears all of this directly; his questions do not transform the original witnesses' reports into personal sightings by him.
+
+This is **strong positive evidence for transmission of Oldstones killing news into a Frey marriage household at Darry and to Jaime's Lannister command**. It **does not identify** the exact messenger, a raven or whether Walder at the Twins personally read a matching dispatch. It also **does not prove** Black Walder earnestly pursued the outlaws versus pretending to: the hound operation is Mariya's secondhand account of what he reportedly did. A reader who knows [ASOS Epilogue (Merrett)](../../Source/Main-Series/03-A-Storm-of-Swords/text/082-epilogue.md) can identify **Lady Stoneheart as the likely hooded woman**, but **neither Mariya nor Jaime makes that identification** in AFFC 30.
+
+**[AFFC 44 (Jaime)](../../Source/Main-Series/04-A-Feast-for-Crows/text/045-jaime.md)** independently shows **Edwyn Frey and Walder Rivers at Riverrun** already speaking of the **Oldstones deaths**; they have additionally received a **report** that **Ryman Frey**, the senior living heir then returning to the Twins after Jaime dismissed him from siege command, was hanged with his escort **two leagues south of Fairmarket**. The source of this latest news is **not named**. Edwyn suspects **Black Walder** shared Ryman's route and deliberately let the previous outlaws escape, but **Walder Rivers openly challenges the lack of proof** and mentions Black Walder's location at **Seagard**.
+
+**[ADWD 32 (Reek)](../../Source/Main-Series/05-A-Dance-with-Dragons/text/033-reek.md)** supplies a different internal knowledge chain: **Roose knows three Freys vanished after parting from Manderly's column; Hosteen and Aenys are concerned; Ramsay's search failed**. The missing men belong to Wyman's [ADWD 29 (Davos)](../../Source/Main-Series/05-A-Dance-with-Dragons/text/030-davos.md) political entourage (**Ser Jared, Rhaegar and Symond Frey**). They are **missing, not independently verified slain** in these dialogues; the potential wedding-pie identification belongs to the separate case file.
+
+**[ADWD 51 (Theon)](../../Source/Main-Series/05-A-Dance-with-Dragons/text/052-theon.md)** directly depicts **Little Walder's corpse**, brought into Winterfell's hall by **Ser Hosteen**, who identifies him as **his brother Merrett's son**; **Big Walder** says he found the body beneath an abandoned keep. Hosteen blames **Wyman Manderly** both for the boy's death and for the prior Frey disappearances. **Theon witnesses the body, accusation and ensuing clash**, not the original murder or the vanished men's deaths.
+
+**Missing bridge:** No five-book scene establishes **a message from Winterfell delivering Little Walder's death or the three missing men to Walder, Edwyn, Lothar or Black Walder** in the Riverlands; nor does a northern Frey explicitly receive the details of Ryman's hanging, Merrett's Oldstones ransom attempt or Mariya's pursuit report. The geography offers plausible couriers, but narrative co-location of relatives in two theaters **does not establish receipt**.
+
+## 1. Specific deaths, disappearances, and who demonstrably knows
+
+| Item | Earliest directly displayed event / claim | Positively supported hearer and location | NOT established |
+| --- | --- | --- | --- |
+| **Petyr Pimple and Merrett** | `POV-SEEN` in **ASOS Epilogue (Merrett)**: Petyr has been hanged at Oldstones; Stoneheart's band questions and hangs Merrett after he brings ransom. | **Darry**: Amerei and Mariya know both deaths and their ransom connection; **Jaime** receives their report in AFFC 30. **Riverrun**: Edwyn and Walder Rivers refer to them during argument in AFFC 44. | The first messenger who told Lady Mariya; whether **Lord Walder himself** was shown opening/receiving an announcement; whether any *northern* Frey knows. |
+| **Pursuit of Oldstones attackers** | `SPEAKER-REPORT` from **Mariya, AFFC 30**: Vypren one trail, Black Walder another with hounds; local descriptions of mysterious woman near the Neck. | **Mariya at Darry → Jaime** in a witnessed conversation; several attendants hear portions of discussion. | Exact hunter eyewitness/roster, dates, independent verification of Black Walder's persistence, escape route into Neck as incontrovertible fact, Stoneheart publicly identified by Jaime. |
+| **Ryman Frey and escort** | `RECEIVED-REPORT` **AFFC 44 (Jaime)**: Walder Rivers says Ryman and **three knights plus twelve men-at-arms** hanged south of Fairmarket. | **Edwyn, Walder Rivers, Jaime** have report at Riverrun; by AFFC 44 Edwyn already treats himself as senior relevant candidate. | The killer(s) seen, who sent the original report, Black Walder's involvement, receipt at Twins/Seagard/Winterfell. |
+| **Black Walder supposedly informs on Ryman** | `ACCUSATION` in **AFFC 44** from **Edwyn**, challenged by **Walder Rivers**; Black Walder reported at **Seagard**. | Jaime **hears the allegation**, privately guesses Edwyn also has spies at Seagard. | Confirmed Edwyn spy, Black Walder informant, Brotherhood agreement, deliberate deceptive pursuit. |
+| **Jared, Rhaegar and Symond absent from northbound Manderly column** | `REPORTED MISSING` by Bolton conversation in **ADWD 32 (Reek)**; Davos has already heard Wyman identify the three Frey watchers in **ADWD 29**. | **Roose, Ramsay, Hosteen and Aenys** know of the absence/distress from ADWD 32; Ramsay claims a failed search; Wyman's own story is under suspicion. | Corpse, confirmed murder, independent cause, killer, Twins recipient of absence alert. |
+| **Little Walder Frey** | `POV-SEEN` corpse carried in by **Hosteen** in **ADWD 51 (Theon)**; Big's gloves/clothing bloody, but killer unobserved. | **Hosteen, Big, Roose, Ramsay, Fat Walda, Aenys, Wyman** and hall assembly demonstrably confronted with his death; **Theon** hears claims. | Actual murderer, dice-debt opponent, Black Walder/Edwyn/Twins learning, dispatched death message to Merrett's surviving relatives in Darry. |
+| **Winterfell hall casualties** | `POV-SEEN` **ADWD 51**: **six White Harbor men, two Freys** and dying Bolton man **Luton** after Little's corpse is presented (Ramsay kills Luton). | **Roose's Winterfell court** present, including named Frey and Manderly representatives. | Names of the two dead Freys, whether every camp learns the casualty count, any **outgoing** raven with deaths, broader north/south dissemination. |
+
+**Same name trap:** **Merrett Frey** killed at Oldstones (**ASOS Epilogue**) is **Little Walder's father**. His siblings include **Fat Walda Frey**, wife of Roose. **Hosteen Frey is Merrett's brother**, as Hosteen explicitly states in ADWD 51. This makes Little's murder a loss **inside the Bolton ruler's immediate in-law circle** and **inside the family already hit at Oldstones**; it does not show any of them connecting the two deaths in their dialogue.
+
+## 2. Oldstones → Darry is a real known-reception route, not a completed courier map
+
+### A. From Merrett's last mission to family response
+
+**ASOS Epilogue (Merrett)** shows the immediate sequence: **Petyr** already dead at the rendezvous; **Merrett** had taken coin from his father's household as demanded to secure Petyr, hoping to improve standing within the future Ryman succession branch; **Lady Stoneheart's group** and its outlaws hang Merrett. The chapter **does not portray** someone riding back to Twins to give Walder or his descendants the news.
+
+**AFFC 30 (Jaime)** places **Merrett's widow Mariya Darry and daughter Amerei** with Lancel at **Darry**, a separate installed Frey–Lannister household. **Amerei mourns** her father and **Mariya supplies the pursuers' descriptions**, which are stronger evidence of *actual news reception* than extrapolating Merrett's dying thoughts. A family network and tracked sightings exist; **the intermediate courier, dates, castle-by-castle routing and first beneficiary of the news are unknown**.
+
+### B. Black Walder's hunt is a counterpoint to Edwyn, but not an acquittal
+
+**Mariya reports (AFFC 30)** Black Walder **personally led** hounds/hunters after one Oldstones band, and **claims** near contact with the pursuers before they disappeared near the Neck. The account is consistent with him **trying** to bring perpetrators to justice, especially while Edwyn later says he let the outlaws escape.
+
+However, it could also represent **a failed pursuit, a self-serving inflated story, or deliberate slackening**. No POV independently observes the hunt, identifies the woman by name, or sees the truth of any delay. **Edwyn's suspicion in AFFC 44 remains a suspicion**, and the earlier search report does not exonerate Black Walder. It does, however, establish that **Edwyn's accusation is not the only Frey-side account of Black Walder's conduct**.
+
+**Mariya's report reveals the first community rumor about Stoneheart**: a scarred, hooded woman said to command the outlaws, alongside one-eyed and yellow-cloaked companions. Jaime still asks about **Beric and Thoros** and does not conclude the woman is resurrected Catelyn. Thus the information that reaches Darry is **physical description and suspected command**, *not authenticated supernatural identity*. Distinguish what the **reader** knows (ASOS Epilogue) from what **Mariya and Jaime** have learned.
+
+## 3. Fairmarket/Riverrun/Seagard: knowledge of Ryman's death is explicit, but informant is unproved
+
+In **AFFC 38 (Jaime)**, Jaime strips **Ryman** of siege authority after finding him incompetent and threatening **Edmure** on the gallows. In **AFFC 44**, he learns that **Ryman died returning toward the Twins**, shortly after the force around Riverrun disbands. **Walder Rivers** gives an exact **reported** ambush location and escort size.
+
+**Edwyn's case:** he suspects Black Walder knew of the restricted route through **a spy in the siege camp**, enabling outlaws to kill their father and improve Black Walder's inheritance prospect. He references the fact that Black Walder **had let the Oldstones outlaws escape**, a claim for which he offers no corroboration.
+
+**Rivers's counter:** he points out Black Walder is at **Seagard** and demands proof. **Jaime** thinks *Edwyn has his own spies at Seagard*, but this is **Jaime's inference** without a witnessed exchanged report. The geographic separation **does not rule out remote coordination**, but also **does not prove it**. This chapter **does not contain Black Walder's testimony**.
+
+**No proven Brotherhood-to-Black-Walder arrangement**: there are two independently described outsider attacks (Oldstones and reported Fairmarket-area hanging), and Edwyn supplies a culprit **inside** his family by accusation. A Frey choosing the same motive is not automatically an accurate investigator of an outlaw's strategy.
+
+## 4. Winterfell: two separate Frey losses collapse into one public accusation
+
+### Earlier missing men and source-aware uncertainty — ADWD 29 and 32
+
+**[ADWD 29 (Davos)](../../Source/Main-Series/05-A-Dance-with-Dragons/text/030-davos.md)** records Wyman's hostility toward **Ser Jared, Rhaegar and Symond**, who watch him closely during the White Harbor politics. In **ADWD 32 (Reek)**, Roose presses Ramsay about **three missing Freys** from Wyman's slow-moving northbound column. **Roose reports** Hosteen and Aenys are distressed and that Wyman blames himself while claiming affection for Rhaegar. **Ramsay's girls** have searched the purported split route without recovering a trail, and Roose himself does not proclaim the men dead. The Manderly explanation remains a disputed `CHARACTER CLAIM`.
+
+**Evidence threshold:** "The three vanished" is established as **known absence**. Wyman's guilt for murder or serving their remains in wedding pies is a distinct **research theory**, not certified through Roose's recollection of Manderly's story.
+
+### Little Walder's corpse and an immediate escalation — ADWD 51
+
+**ADWD 51 (Theon)**: Hosteen appears **with a body in his arms**, identifies his nephew Little Walder and implicitly the paternal connection to the earlier hanged Merrett. Big Walder has **blood on his clothing and gloves** and gives his **dice debt** explanation for Little's journey; neither Theon nor any other named POV sees the murder. Hosteen accuses Wyman not only of **this killing** but **all the other missing men**, moving from one present body to a wider unproven indictment. Wyman does not confess; a violent hall melee ensues and Roose redirects hostile contingents against **Stannis**.
+
+**A vital raven distinction:** **Maester Rhodry appears with a wet raven as Roose holds a parchment during this confrontation**. Roose then relays **Stannis's apparent position less than three days away** and orders the Freys from one gate and Manderly's men from another. This supports `INBOUND WAR INTELLIGENCE AT WINTERFELL`; the **bird's sending place, sender, complete contents and whether it concerned any Frey death are not narrated**. In particular, a wet raven **arriving** at Winterfell cannot substitute for proof that a **separate outgoing bird went from Winterfell to the Twins**.
+
+**The named northern listeners are broad** (Hosteen, Aenys, Fat Walda, Roose, Ramsay, Manderly and Theon), but the text does **not** show each being told Merrett was **already hanged at Oldstones**, Ryman was **later hanged near Fairmarket**, or Black Walder is being blamed by Edwyn. Hosteen identifying his brother as Little's father is **kinship**, not receipt of a southern murder report.
+
+## 5. Cross-theater provenance ledger: do not upgrade plausible road and raven routes into delivered messages
+
+| Prospective route | Demonstrated segment | Not established |
+| --- | --- | --- |
+| **Oldstones → Frey household at Darry** | Mariya and Amerei **know Merrett and Petyr are dead**, Mariya has reports from a hunt (AFFC 30). | Named original messenger, arrival date, personal Lord Walder receipt, written dispatch. |
+| **Oldstones → Riverrun** | Edwyn and Walder Rivers discuss **Merrett/Petyr** in AFFC 44. | Whether news moved through Twins, Darry or another messenger. |
+| **Fairmarket-area ambush → Riverrun** | Rivers tells **Jaime/Edwyn** Ryman and party have been hanged (AFFC 44). | Original observer, exact killers, permanent succession verdict. |
+| **Seagard/Black Walder → Riverrun** | Rivers says Black Walder **is at Seagard**; Jaime sees a bitter rivalry; Edwyn alleges spies (AFFC 44). | Any **actual dispatched** report, spy identity or hostile agreement. |
+| **Darry → Jaime** | Jaime **personally hears** Mariya's Oldstones report (AFFC 30). | Jaime reporting it to the capital or informing Roose/Winterfell. |
+| **White Harbor / Barrowton missing-Frey concern → Dreadfort/Winterfell** | Roose and Ramsay discuss known absence and search; Hosteen/Aenys are distressed (ADWD 32). | A sender to the **Twins**, proof the missing men died, and exact destination for their alleged final ride. |
+| **Little Walder corpse → Winterfell court** | Hosteen **physically displays** body; accusations provoke observed fighting (ADWD 51). | Named murderer or message to **Darry/Twins/Edwyn/Black Walder**. |
+| **Winterfell Maester Rhodry's rookery → faraway Freys** | **Wet incoming raven** held while Roose gives Stannis marching orders (ADWD 51). | The crucial **outgoing southern bird**, rookery destination capability, departure, arrival, and sender/receiver's interpretation. |
+| **Riverlands Frey succession bloodshed → northern Bolton allies** | Family links and known messengers between castles generally exist, but **none shown for these reports**. | Roose/Hosteen/Fat Walda receiving **Ryman/Oldstones news**, any effect on troop obedience or Walda's safety. |
+
+### Physical and temporal caveats
+
+AFFC and ADWD cover overlapping periods, not a single straightforward chapter-by-chapter calendar. **Do not assume ADWD 51's Little Walder news must happen before/after AFFC 44's Riverrun report solely from publication or chapter order.** We have **intra-plot event order**—Merrett → family mourning at Darry → Edwyn's later combined accusation; separately missing three → Little corpse → Winterfell riot—but no cross-book timestamp to synchronize the whole news network.
+
+The five-book texts supply **no completed route** from Winterfell to the southern Frey senior line. Inferring it merely because maesters have ravens would repeat a general project error: **capacity ≠ dispatched letter ≠ receipt ≠ acceptance of message**.
+
+## 6. Reversible future explanations and their disconfirmers
+
+1. **Edwyn wrongly frames Black Walder:** the earlier hunt reported by Mariya offers an alternative to sabotage. `POSSIBLE`. Requires some independent hunter/outlaw record to determine whether he intentionally let Stoneheart go.
+2. **Black Walder is secretly benefiting from the outlaws:** the alleged benefit from Ryman's death is concrete; contact and timing `UNKNOWN`. Needs a named intermediary, a letter, payment, observed meeting or confession; a cousin's resentment is not evidence alone.
+3. **Mariya's hooded-woman description alerts Lannister commanders to Stoneheart:** Jaime received it at Darry; he does not identify Catelyn then. A later explicit explanation, recognition, or report would be required. A scarred face can be a clue to the reader without being authenticated at court.
+4. **Roose withholds Little Walder's death from the Twins:** plausible utility as political leverage, but no evidence he decided **not** to send a raven; `UNKNOWN`. Proof would require a directive to Rhodry or a denied relay.
+5. **Frey relatives in the North learn Ryman's fate and reconsider their Bolton alliance:** family relationship gives potential stakes, but no verified receipt, no speech referencing Ryman and no subsequent Frey defection as of five-book endpoint.
+6. **A split Frey inheritance weakens Frey operations outside the Twins:** Edwyn versus Black Walder hatred is real; neither has an observed claim enforcement at the Twins. Need a Lord Walder death or lawful incapacity, acceptance of a successor by the garrisons, and practical military choice.
+7. **Information about the missing three reaches Walder as proof against Manderly:** the northern leaders currently have only disappearance and Hosteen's allegation; even if sent, the south needs a corroborated identification of murderer rather than a rumor. No such letter/response narrated.
+
+## Most meaningful next question
+
+**Which *named messenger* first gives Lord Walder Frey or Lothar reliable news of Little Walder and the Winterfell Frey–Manderly bloodshed?** The five books show **the Winterfell listeners**, **the physically displayed body**, and **the raven apparatus**, but **not** the first southern receipt. The sister question: will Lord Walder, Edwyn or Black Walder accept **Mariya's** preexisting scarred-woman report rather than Edwyn's accusations? Neither can be treated as decided.
+
+**Disposition:** `OLDSTONES DEAD MERRETT/PETYR DIRECT ASOS EPILOGUE`; `MARIYA/AMEREI DAR RY NEWS RECEIVED AFFC 30`; `BLACK WALDER REPORTED HOUND PURSUIT; INTENT UNKNOWN`; `EDWYN/RIVERS RIVERRUN KNOW MERRETT/PETYR AND RYMAN AFFC 44`; `EDWYN SPY ALLEGATION DISPUTED`; `MISSING NORTHERN TRIO KNOWN ROOSE/RAMSAY/HOSTEEN/AENYS ADWD 32 / FATE UNVERIFIED`; `LITTLE CORPSE SEEN WINTERFELL ADWD 51 / HOSTEEN SUSPECTS MANDERLY`; `RHODRY'S WET RAVEN INCOMING, ORIGIN UNSHOWN`; `NO SOUTHERN RECEIPT OF NORTHERN KILLINGS NOR NORTHERN RECEIPT OF SOUTHERN SUCCESSION HANGINGS VERIFIED`.
