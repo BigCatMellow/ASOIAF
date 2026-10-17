@@ -42,6 +42,10 @@ Lord Walder Frey — Lord of the Crossing (alive in the five-book baseline)
 
 **The anchor error to avoid:** Treating the brothers as a two-person legal ballot. The **senior line includes living daughters**; powerful junior Freys, royal overlords, and castle-control realities may intervene. Conversely, reconstructing an exact automatic queen-style succession from general feudal custom would exceed the series' observed Frey decisions.
 
+### Positive news receipts: Darry and Riverrun; no identified messenger to the North
+
+The [Frey death-news transmission and Black-Walder hunt dossier](frey-death-news-darry-riverrun-seagard-winterfell-transmission-audit.md) adds a previously underused **AFFC 30 (Jaime)** source: **Lady Mariya Darry (Merrett's widow) and Amerei (his daughter) at Darry already know Merrett and Petyr Pimple died at Oldstones**; Mariya reports **Lord Vypren pursued one group of outlaws to Fairmarket** and **Black Walder led hounds after another**, later claimed to approach within half a day before they disappeared near the Neck. Villagers report a **hooded scarred female leader**; Jaime **hears this report** but does not know she is Lady Stoneheart. **Black Walder's reported hunt** is a counterclaim to **Edwyn's AFFC 44 accusation** that he deliberately let the same outlaws escape; neither is direct proof of his intentions. **AFFC 44** separately documents **Edwyn/Walder Rivers/Jaime receiving news of Ryman's reported hanging south of Fairmarket**. The **ADWD 32 missing-Frey inquiry happens at Barrowton**, and **ADWD 51** displays **Little Walder's corpse at Winterfell**, with **no named southern recipient** of these latter events. The actual **Ryman messenger, Twins/Seagard sender and north–south Frey notification remain UNKNOWN**. This preserves separate reader-only and actor-received information states.
+
 ## 2. Oldstones to Fairmarket to Riverrun: who really died, and who only accuses?
 
 | Locator and episode | Direct evidence | What cannot be promoted to fact |
