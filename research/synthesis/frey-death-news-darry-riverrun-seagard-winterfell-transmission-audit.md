@@ -55,6 +55,10 @@ However, it could also represent **a failed pursuit, a self-serving inflated sto
 
 **Mariya's report reveals the first community rumor about Stoneheart**: a scarred, hooded woman said to command the outlaws, alongside one-eyed and yellow-cloaked companions. Jaime still asks about **Beric and Thoros** and does not conclude the woman is resurrected Catelyn. Thus the information that reaches Darry is **physical description and suspected command**, *not authenticated supernatural identity*. Distinguish what the **reader** knows (ASOS Epilogue) from what **Mariya and Jaime** have learned.
 
+### Additional *possible* Ryman intelligence conduit — a Brotherhood singer inside his camp
+
+The [Stoneheart/Tom operational audit](stoneheart-brotherhood-riverrun-tom-jaime-hostage-red-wedding-two-audit.md) adds **AFFC 38 (Jaime)**: Jaime personally extracts **Ser Ryman's singer** from the gallows crowd, and **AFFC 44** reveals that same man is **Tom o' Sevens**, a member of Beric's Brotherhood previously established in **ASOS 34 (Arya) and ASOS Epilogue**. His recent **fortnight of service to Ryman** means an identifiable Brotherhood-affiliated individual had **possible access to Ryman's travel arrangements** before the subsequent **Fairmarket-area hanging** reported by Rivers in AFFC 44. This creates a `POTENTIAL ROUTE: RYMAN CAMP → TOM → OUTLAWS` competing with **Edwyn's unproved Seagard/Black Walder spy allegation**, alongside scouts/locals/servants. **Neither Tom learning the actual itinerary nor a dispatch, receiver, killer or coordinated instruction is narrated.** The rival path increases **explanatory possibilities**, **not certainty**.
+
 ## 3. Fairmarket/Riverrun/Seagard: knowledge of Ryman's death is explicit, but informant is unproved
 
 In **AFFC 38 (Jaime)**, Jaime strips **Ryman** of siege authority after finding him incompetent and threatening **Edmure** on the gallows. In **AFFC 44**, he learns that **Ryman died returning toward the Twins**, shortly after the force around Riverrun disbands. **Walder Rivers** gives an exact **reported** ambush location and escort size.
