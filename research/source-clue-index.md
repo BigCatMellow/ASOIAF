@@ -5358,6 +5358,123 @@
 | C-5261 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion accepts journey but intends Daenerys for himself | Cross-purpose expedition set in motion |
 | C-5262 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion injured hand remains bleeding at final acceptance | Physical jeopardy in departure |
 
+| C-5263 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Darry's burned cropland tilled with women, oxen and armed guards | Material recovery tempered by insecurity |
+| C-5264 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Field workers retreat behind walls at Jaime's approach | Local distrust despite allied host |
+| C-5265 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Darry gates closed until Horn of Herrock sounds | Fortification and suspicion |
+| C-5266 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel quarters Lannister lion with Darry plowman on banner | Dynastic legitimacy via marriage |
+| C-5267 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime speculates Kevan engineered joint Darry heraldry | Political inference, not quoted Kevan plan |
+| C-5268 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime reiterates Kevan more suitable Hand than Harys Swyft | Regency disagreement persists |
+| C-5269 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime orders ditches and stakes around host camping outside | Outlaw and starvation threat precautions |
+| C-5270 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Ser Hugo Vance carries Kingsguard white banner | Officer staffing after Ronnet departure |
+| C-5271 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Red Ronnet assigned to escort Wylis Manderly to Maidenpool | Named custody link; arrival unknown |
+| C-5272 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Pia rides gelding supplied by Peck | Protection/transport after Harrenhal |
+| C-5273 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Pia compares Darry to a toy after living in Harrenhal | Trauma and limited comparative experience |
+| C-5274 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime orders Ilyn behead Gregor man trying to rape Pia | Direct lethal response to attempted assault |
+| C-5275 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Gregor man claims he and others assaulted Pia repeatedly | Perpetrator admits abuse, not Pia's consent |
+| C-5276 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Pia smiles upon seeing would-be rapist's severed head | Victim's observed reaction |
+| C-5277 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Darry new gates, shutters, steps and stable under reconstruction | Feudal recovery visible |
+| C-5278 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Darry ramparts occupied by Frey and Lannister soldiers | Mixed house enforcement |
+| C-5279 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Darry peasants carry scythes staves hoes and axes | Local militarization |
+| C-5280 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Red-starred bearded sparrows reside within rural castle | Faith mobilization beyond King's Landing |
+| C-5281 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Maester Ottomore says Kevan departed after wedding | Kevan's whereabouts unknown |
+| C-5282 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime lies Darry was on his way to Riverrun | Intentional delay of oath conflict |
+| C-5283 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime hopes Riverrun may fall without him using force | Catelyn pledge remains active |
+| C-5284 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Darry cannot feed Jaime's full force | Local logistics; army self-provisions |
+| C-5285 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Ser Harwyn Plumm absent with five knights and twenty archers | Named anti-outlaw mission, result unknown |
+| C-5286 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel orders no interruptions during his prayers | Religious priorities override access |
+| C-5287 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Tyrion once noticed removed Darry tapestries via darker wall squares | Deduction of hidden objects |
+| C-5288 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Tyrion bribed servant for concealed cellar key | Physical evidence and servant access |
+| C-5289 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Hidden tapestries depicted Targaryen kings including Aegon and Aenys | Former Darry political alignment; current custody unknown |
+| C-5290 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel wants new pious tapestries | Religious decor change projected |
+| C-5291 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Darry previously hosted Robert Jaime and Cersei on northbound and return trips | Timeline anchor to AGOT Trident incident |
+| C-5292 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel moved sleeping quarters into sept | Unconsummated dynastic alliance concern |
+| C-5293 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lord bed replaced by rough straw pallet and plain furnishings | Visible ascetic austerity |
+| C-5294 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Pia helps with Jaime's bath and clothing | New household role |
+| C-5295 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime bath memories return to Harrenhal Brienne confession | Ethical and psychological continuity |
+| C-5296 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime sends Pia away despite desire and earlier invitation memory | Chosen restraint |
+| C-5297 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime offers Peck potential liaison only if Pia is willing | Consent explicitly considered but action not shown |
+| C-5298 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime thinks Pia likely barren from assault history | Medical inference not confirmed |
+| C-5299 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime advises Peck to be gentle and kind if Pia agrees | Partial protective duty |
+| C-5300 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime dresses in red-and-gold rather than Kingsguard white for feast | Personal mission signaled |
+| C-5301 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Amerei says Lancel fasting over death of previous High Septon | Grief and faith nexus |
+| C-5302 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Amerei formerly married Pate slain confronting Gregor | Frey-Darry widow history |
+| C-5303 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lady Mariya Amerei's mother descends from House Darry | Dynastic legitimating link |
+| C-5304 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | About twenty Freys accompany Amerei to Darry | Political household composition |
+| C-5305 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Amerei mourns father Merrett hanged seeking Petyr Pimple | ASOS epilogue posthumous family perspective |
+| C-5306 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | ASOS epilogue confirms Merrett carried ransom but Petyr already executed | Reader-only corroboration |
+| C-5307 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime remembers Merrett Crakehall bully and White Fawn branding | Participant recollection crosschecks epilogue |
+| C-5308 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Amerei wrongly credits Jaime killing Smiling Knight | Legend distorts knight's deed |
+| C-5309 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime credits Ser Arthur Dayne with Smiling Knight kill | First-person correction |
+| C-5310 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Danwell Frey reports wolves attacked baggage from Twins | Wild predators amidst war |
+| C-5311 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Frey archers reportedly killed about twelve wolves | Hearsay pack size and response |
+| C-5312 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime gold hand cannot properly grip drinking vessels | Ongoing physical limitation |
+| C-5313 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Mariya says initially blamed Beric for Merrett's murder | Outdated Brotherhood attribution |
+| C-5314 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lord Vypren tracked one outlaw group to Fairmarket | Intermediary route report |
+| C-5315 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Black Walder tracked separate party into Hag's Mire | Scattered faction pursuit |
+| C-5316 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Peasants supply band details only after sharp questioning | Coercion contaminates witness reliability |
+| C-5317 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | One-eyed man sighted with scarred hooded woman and yellow cloak companion | Distinctive Stoneheart band identifiers |
+| C-5318 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | ASOS epilogue names Jack as one-eyed and Lem yellow-cloaked | Reader-level identification support |
+| C-5319 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Scarred female leader strongly identified by reader as Catelyn/Stoneheart | POV ignorance preserved |
+| C-5320 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Hounds lost band's trail north of Hag's Mire toward Neck | Approximate route no base identified |
+| C-5321 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Mariya says neither Beric nor red priest sighted with band | Absence from reports not general proof of death |
+| C-5322 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Strongboar repeats Gregor stabbed Beric's eye | Prior killing report versus resurrection |
+| C-5323 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Marbrand notes many claim Beric cannot stay dead | Contested resurrection knowledge |
+| C-5324 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Amerei admires Harwyn Plumm as gallant protector | Potential political attachment, no affair verified |
+| C-5325 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Amerei touches Jaime's golden hand during plea | Symbolic inability to feel |
+| C-5326 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Arwood Frey visits Saltpans devastation personally | Site witness distinguishes from remote account |
+| C-5327 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Harys and Donnel Haigh accompany Saltpans expedition | Named corroborating investigators |
+| C-5328 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Arwood recounts Ser Quincy sheltering in castle behind walls | Surviving local authority and fear |
+| C-5329 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Saltpans buildings razed, bones/ashes remain | Verified from Arwood eyewitness testimony |
+| C-5330 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Survivors identify distinctive hound helm on attacker | Helmet sighting not facial identification |
+| C-5331 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Saltpans eyewitnesses include injured girl boys woman and fishermen | Independent testimony routes to source audit |
+| C-5332 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime doubts Sandor identity because violence resembles Gregor | Skepticism not alternate perpetrator proof |
+| C-5333 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Strongboar promises later Hound hunt after Riverrun | Stated future action |
+| C-5334 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime predicts Sandor would outfight Strongboar | Interested combat assessment not duel outcome |
+| C-5335 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime spills wine and reads silence as pity | Disability humiliation escalates mood |
+| C-5336 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime estimates roughly hundred sparrows eating at Darry fires | Faith logistical burden |
+| C-5337 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime forecasts food scarcity if late autumn planting fails | Conditional famine concern |
+| C-5338 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Armed female Poor Fellow in mail and two male comrades bar sept door | Confirmed local Faith Militant activity |
+| C-5339 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Small guard calls Jaime cripple and woman identifies Kingslayer | Religious opposition to temporal honor |
+| C-5340 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel personally orders guards to admit Jaime | Faith follower authority inside Darry |
+| C-5341 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel shaven-crowned barefoot gaunt and white-haired | Physical effects of devotion/illness |
+| C-5342 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel says Kevan left after quarrel | Cousin's statement, precise reason not fully revealed |
+| C-5343 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel reports sleeping beneath rotating altars and receiving visions | Religious dream claim |
+| C-5344 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel reports vision Jaime will kill him for sins | Prediction unfulfilled this chapter |
+| C-5345 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel refuses food, calls faith nourishment | Ascetic health risk |
+| C-5346 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel says wanted to be Jaime more than Lord Darry | Motivation for royal and romantic role |
+| C-5347 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel claims marriage to Amerei never consummated | His testimony, legal effect unknown |
+| C-5348 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel cites Baelor/Daena for unconsummated annulment | Historically grounded argument requiring law test |
+| C-5349 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel says Harwyn may take Amerei and Darry | Renunciation aspiration, not transfer |
+| C-5350 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel equates himself and Jaime as kingslayers | Robert wine confession |
+| C-5351 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel speaks of killing Robert via wineskin not sword | Cersei AFFC7 corroboration |
+| C-5352 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel admits intimacy with Cersei and denies finishing inside her | Affair confirmed by participant, no pregnancy proof |
+| C-5353 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel says he loved/protected Cersei and Tyrion pressured him | Self-serving motives and blame |
+| C-5354 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime recalls Cersei's claim she lied repeatedly | Trust collapse |
+| C-5355 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime still uncertain about Osmund and Moon Boy allegations | Do not extend Lancel confirmation to all |
+| C-5356 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime internally recognizes paternity of three royal children | Incest secret remains unconfessed publicly |
+| C-5357 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel says he confessed sins to previous High Septon | Potential secret knowledge in deceased prelate |
+| C-5358 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Previous High Septon allegedly prayed with Lancel when wounded | Timing witness; new High Sparrow different man |
+| C-5359 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime worries what fruit confession bore | Danger inference, cause of High Septon death unproved |
+| C-5360 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel plans to surrender Darry and marriage | No enacted abdication |
+| C-5361 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel plans return next day to join Warrior's Sons | Recruited knight, departure future |
+| C-5362 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel says new High Septon wrote Tommen consented | Secondary testimony of written consent |
+| C-5363 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel offers letter but Jaime does not read it | Royal seal still not directly shown |
+| C-5364 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Poor Fellows declared restored and already locally armed | AFFC28 bargain has visible consequences |
+| C-5365 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime struggles to recall which Targaryen king suppressed militant orders | Historical uncertainty explicitly noted |
+| C-5366 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Lancel asks why Jaime forsook inheritance and marriage | Moral mirror of Kingsguard vow |
+| C-5367 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime privately admits his own Kingsguard choice principally for Cersei | Anti-idealized biography |
+| C-5368 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime recasts Cersei from Maid to Stranger in his imagery | Psychological metaphor, not actual divine identity |
+| C-5369 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime seeks Ilyn Payne and secluded godswood | Ongoing retraining and secrecy |
+| C-5370 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime identifies old Raymun Darry chamber from AGOT return south | Scene-specific royal history witness |
+| C-5371 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime recalls Cersei demanded Arya lose hand after Nymeria bit Joffrey | Unseen prior Lannister intent |
+| C-5372 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Robert opposed Arya maiming proposal, by Jaime's recollection | Royal disagreement rather than actual sentence |
+| C-5373 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime admits intercourse with Cersei while Robert asleep at Darry | Personal memory confirms egregious risk |
+| C-5374 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime says he would have killed Robert if awakened | Counterfactual willingness to commit regicide |
+| C-5375 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime acknowledges nearly finding Arya first during manhunt | Threat possibility, no actual harm to Arya |
+| C-5376 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Ilyn laughs silently at Jaime's jealous confession | Uncertain laughter motive |
+| C-5377 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime accuses Payne without evidence of intimacy with Cersei | Jealous projection |
+| C-5378 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime invites Payne to kill him in practice | Angry combat challenge, not depicted suicide |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -5365,4 +5482,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fifty-six first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fifty-seven first-pass chapters listed in the coverage tracker.
