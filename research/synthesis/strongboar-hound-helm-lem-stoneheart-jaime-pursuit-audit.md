@@ -62,6 +62,10 @@ Strongboar is physically powerful and eager for direct combat; **AFFC 38 (Jaime)
 
 A Brotherhood ambush has its own demonstrated precedent: [ASOS Epilogue (Merrett)](../../Source/Main-Series/03-A-Storm-of-Swords/text/082-epilogue.md) uses a false ransom, hidden support and prepared execution site. Yet **that does not certify where Lyle will be ambushed or that Stoneheart has heard about him**. Each group needs actionable intelligence, proximity and a tactical choice.
 
+### Hunting feasibility and missing fresh sightings
+
+[Strongboar tracking and Brotherhood counterintelligence audit](strongboar-darry-informants-hag-mire-outlaw-tracking-counterintelligence.md) distinguishes **AFFC 30** Black Walder's *reported earlier* hound search through Hag's Mire toward the Neck from **AFFC 44** Strongboar's *later actual departure* for Darry. Peasants both conceal fugitives and supply descriptions when questioned; Lyle urges mutilation, Jaime points to Arthur Dayne's policy of earning help. **ASOS Epilogue** the Brotherhood itself tracks Sandor using ferrymen and a robbed traveler; **AFFC 25** Meribald knows unmarked trails. A meeting with Lem still requires a **new helmet sighting, actual witness/courier, geographical overlap and timing**; no such lead appears.
+
 ## 3. What this could mean for Jaime's pending encounter with Stoneheart
 
 | Conditional fork | What must happen first | Source-based consequence / counterargument |
