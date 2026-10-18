@@ -3550,6 +3550,154 @@
 | C-3478 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Lysa says Robert likes animal stories and must be allowed to win games | Specific parenting and expectation of Sansa |
 | C-3479 | [ASOS 68](../Source/Main-Series/03-A-Storm-of-Swords/chapters/68-sansa.md) | Lysa intends Littlefinger Lord Protector of Vale | Proposed political office, not shown appointed |
 
+| C-3480 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Mance saws cuts wood day night while exhausted Watch lives atop Wall | Attrition and cage movement bottleneck |
+| C-3481 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Owen hopes Robert answers raven although Robert dead | Watch intelligence lag |
+| C-3482 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Mance rolling mantlets have slits for five archers | Physical shield adaptation |
+| C-3483 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Fresh rawhide covering makes mantlets resist fire | Prior fire tactic defeated |
+| C-3484 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Red Alyn body lies below Wall after arrow injury | Named Watch casualty |
+| C-3485 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Pyp names scarecrows after missing Watchmen | Morale practice, not real reinforcements |
+| C-3486 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Aemon Myrish telescope once used for stars | Repurposed instrument |
+| C-3487 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Dalla heavily pregnant at snow-bear tent | Birth imminent but unshown |
+| C-3488 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Val milks goat while Tormund and two sons prepare turtle | Distant observations |
+| C-3489 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Varamyr Sixskins seen alongside shadowcat | Identifiable wildling skinchanger |
+| C-3490 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Mammoth hide added to eight-wheeled turtle roof | Enhanced siege vehicle |
+| C-3491 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Oil and pitch nearly exhausted, one trebuchet broken | Supply crisis |
+| C-3492 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Denys reports Marsh beats Weeper at Bridge of Skulls | Raven-carried information |
+| C-3493 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Marsh wounded and more than one hundred Watch killed | Reported delayed reinforcements |
+| C-3494 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Endrew Tarth and Aladale Wynch reportedly among dead | Named Shadow Tower losses |
+| C-3495 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Zei fails return from Mole Town on assistance appeal | Actual fate unknown |
+| C-3496 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Mully finds Mole Town empty including brothel | No help recruited |
+| C-3497 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Turtle crosses fallen mammoth and giant bodies | Engineering scale |
+| C-3498 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Fire arrows and scorpion bolts fail against wet turtle roof | Material failure |
+| C-3499 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Frozen water binds crushed gravel in twelve oak barrels | Jon's tactical invention |
+| C-3500 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Frozen barrels avoid disintegrating into pebbles on descent | Physics explanation |
+| C-3501 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Four barrels crush turtle front and occupants flee | Gate attack repulsed |
+| C-3502 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Eight barrels still available after success | Remaining defensive inventory |
+| C-3503 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Jon delegates to Pyp and descends for dreamwine rest | Leadership continuity |
+| C-3504 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Dream of solitary loud horn after sleeping | Not confirmed Horn of Winter |
+| C-3505 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Janos Slynt claims Castle Black command pending Marsh return | Not elected Lord Commander |
+| C-3506 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Alliser Thorne returns from Eastwatch with officers | New hostile command faction |
+| C-3507 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Slynt accuses Jon cowardice oathbreaking desertion | Political allegations disputed |
+| C-3508 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Aemon confirms Qhorin undercover explanation previously accepted | Defense testimony |
+| C-3509 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Jon admits sexual relation with Ygritte but denies treason | Vow breach distinct from wildling allegiance |
+| C-3510 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Rattleshirt presented bruised chained and toothless | Potential coercion, not independently proven |
+| C-3511 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Rattleshirt falsely says Jon begged for life before killing Qhorin | Conflicts earlier Qhorin POV |
+| C-3512 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Cellador conflates northern heart-tree vows and wildling gods | Aemon corrects religious distinction |
+| C-3513 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Thorne claims Benjen may have joined Mance without evidence | Unsupported conspiracy rhetoric |
+| C-3514 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Slynt invokes Ned treason and orders Jon ice cell | Stark animus with coercive authority |
+| C-3515 | [ASOS 69](../Source/Main-Series/03-A-Storm-of-Swords/chapters/69-jon.md) | Jon grabs Thorne throat before Eastwatch officers separate them | Violent outburst does occur |
+| C-3516 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Tyrion considers false confession and taking black to live | Bargain not yet accepted |
+| C-3517 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Podrick cannot easily answer when asked whether Tyrion guilty | Emotional hesitation not proof disbelief |
+| C-3518 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Shae testifies Tyrion Sansa planned Joffrey murder | Contested fabricated conspiracy narrative |
+| C-3519 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Shae claims Tyrion would kill Cersei Tywin Tommen for crown | No independent corroboration |
+| C-3520 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Shae describes real dragon skull tryst surrounded by false claims | Part-truth testimony mechanism |
+| C-3521 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Shae claims coerced sexual enslavement by Shagga and Timett | Conflicts prior firsthand origin |
+| C-3522 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Shae utters private Giant of Lannister phrase and court laughs | Humiliation through private knowledge |
+| C-3523 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Tyrion refuses to confess regicide, says guilt is being born dwarf | Explicit distinction from murder admission |
+| C-3524 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Tyrion demands trial by battle and Cersei chooses Gregor | Lawful defense invokes dangerous champion |
+| C-3525 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Oberyn publicly accepts role as Tyrion champion | Offer formalized before court |
+| C-3526 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Tywin schedules duel next morning and leaves enraged | Completed ruling for combat |
+| C-3527 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Tyrion foresees Martell Tyrell faction fallout either way | Political forecast not fact |
+| C-3528 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Oberyn spear eight feet ash with two feet leaf steel | Weapon specifics |
+| C-3529 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Oberyn spearhead glistens dark, Tyrion wonders poison or oil | No chemical proof at this point |
+| C-3530 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Oberyn selects mobility and joint gaps to defeat armored Gregor | Tactical design |
+| C-3531 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Oberyn claims mother planned Jaime Elia and or Cersei Oberyn alliance | Family recollection, no signed betrothal |
+| C-3532 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Oberyn says Tywin offered young Tyrion instead of Jaime for Elia | Reported historic offense |
+| C-3533 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Oberyn remembers Elia liking Baelor Hightower before mocking nickname | Anecdote, possible contingency not firm betrothal |
+| C-3534 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Oberyn seeks confession of Elia rape murder and baby killing | Political justice objective |
+| C-3535 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Gregor wears seven pointed star painted atop original hounds | Heraldrical theatrical substitution |
+| C-3536 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Gregor heavily plated narrow visor limits field of vision | Physical disadvantage |
+| C-3537 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Oberyn strikes armor repeatedly and circles to tire Gregor | Initial attacks not penetrating |
+| C-3538 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Gregor cuts off stableboy arm during fight | Collateral injury witnessed |
+| C-3539 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Gregor then kills stableboy with separate head strike | Deliberate lethal act |
+| C-3540 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Oberyn uses polished shield to reflect sunlight into helmet | Tactical blinding attempt |
+| C-3541 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Oberyn penetrates Gregor armpit and knee joint | Actual serious wounds |
+| C-3542 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Oberyn impales Gregor belly and breaks spear while pinning him | Gregor still alive after |
+| C-3543 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Oberyn pauses rather than kill in order to force admission | Fatal tactical choice |
+| C-3544 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Gregor confesses killing Aegon and raping murdering Elia | Direct perpetrator confession |
+| C-3545 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Gregor's confession gives no direct Tywin command terms | Higher responsibility still separate |
+| C-3546 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Gregor crushes Oberyn face and head, killing him | Oberyn death direct |
+| C-3547 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Gregor himself not confirmed dead by end of duel | Gravely injured status |
+| C-3548 | [ASOS 70](../Source/Main-Series/03-A-Storm-of-Swords/chapters/70-tyrion.md) | Tyrion misses spoken sentence and is moved toward black cells | Conviction inference, exact judgment not heard |
+| C-3549 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Dany views Meereen from occupied Great Pyramid | City taken since preceding chapter |
+| C-3550 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Dany had bronze harpy crowning Great Pyramid removed | Symbolic break with masters |
+| C-3551 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Missandei says Naathi butterfly spirits punish island invaders | Religious claim not proven by this POV |
+| C-3552 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Dany notes butterflies do not save victims of slavers raids | Observed logical challenge |
+| C-3553 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Tourmaline Brotherhood three-headed crown worn in Meereen | Qartheen gift provenance |
+| C-3554 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Dany dismantles grounded ships for siege tools | Naval assets consumed |
+| C-3555 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Meraxes former Joso Prank mainmast becomes ram Joso Cock | Specific gate breach tool |
+| C-3556 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Meereen east gate broken after day and night attack | Fortification actually breached |
+| C-3557 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Dany stayed half league away while siege captains fought | Command position not individual spear leadership |
+| C-3558 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Diversion burns harbor hulks while sewer raiders infiltrate | Coordinated battle plan |
+| C-3559 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Jorah Barristan Belwas and twenty volunteers pass rusted sewer grating | Brown Ben route executed |
+| C-3560 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Pale giant lizard takes one infiltrator, Jorah kills another | Sewer animal unidentified |
+| C-3561 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Fighting-pit slaves unchained and half rise within hour | Internal revolt crucial |
+| C-3562 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Dany orders 163 masters nailed in retaliation for 163 children | Collective punishment without individual guilt demonstrated |
+| C-3563 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Dany regrets horror of masters dying yet defends justice | Ethical dissonance internal |
+| C-3564 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Dany destroys old harpy throne and sits ebony bench | Symbolic governance change |
+| C-3565 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Meereen sack discipline hangs eight murderers | Direct judicial punishment |
+| C-3566 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Dany orders mutilation of looters and rapists | Harsh law enforcement |
+| C-3567 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Missandei requests bones cleaned and returned to Ghiscari kin | Funerary concession adopted |
+| C-3568 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Ghael says King Cleon executed healer scholar priest council | Regime allegation, prior treason unverified |
+| C-3569 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Missandei identifies Cleon as Grazdan kitchen butcher | Cross-confirmed former occupation |
+| C-3570 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Ghael offers alliance vs Yunkai and marriage to Dany | Proposal not accepted |
+| C-3571 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Ghael alleges Yunkai new troops ships and foreign alliance missions | Strategic claims not corroborated |
+| C-3572 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Indigo Star captain claims Astapor city armed camps and starvation | Independent travel report |
+| C-3573 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Merchant alleges Cleon forcibly training highborn children as new Unsullied | Serious claim, no Dany visit |
+| C-3574 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Meereenese nobles request self-sale to slavers for rich-house work | Reported desire, futures unproven |
+| C-3575 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Dany permits adult voluntary enslavement but bars sales of children spouses | Actual decree conflicting liberation ideal |
+| C-3576 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Dany imposes ten percent sale tax and requires written accounts | State participating in trade |
+| C-3577 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Dany doubts Stormcrows tax collectors honesty | Anticipated leakage not audited theft |
+| C-3578 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Barristan admits concealed self to evaluate whether Dany mad | Disclosed strategic motive |
+| C-3579 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Barristan recalls Jaehaerys hereditary greatness madness coin metaphor | Reported saying not hard genetic law |
+| C-3580 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Barristan newly swears and receives sword from Dany's hand | New allegiance directly enacted |
+| C-3581 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Jorah admits accepting Varys gold and writing cipher reports from Qarth | Late espionage admission |
+| C-3582 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Barristan links Jorah pregnancy reports to Robert assassination order | Council firsthand testimony |
+| C-3583 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Jorah explains Varys message warned him about poison attempt | Self-defense, full timeline uncertain |
+| C-3584 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Dany banishes Jorah by dawn and bars future contact | Order, travel not observed |
+| C-3585 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Dany rejects Daario offer to kill Jorah | Direct restraint after exile |
+| C-3586 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Dany dreams of house with red door while surveying city | Memory symbol without fresh location proof |
+| C-3587 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Dany worries free dragons might not return from flight | Future risk not event |
+| C-3588 | [ASOS 71](../Source/Main-Series/03-A-Storm-of-Swords/chapters/71-daenerys.md) | Dany chooses stay in Meereen and learn to rule | Completed strategic choice, successful rule unproven |
+| C-3589 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Tommen signs attainders Edmure and Brynden depriving Riverrun | Legal acts, Brynden physical resistance remains |
+| C-3590 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Tommen signs grant Riverrun to Emmon Frey and Genna | Promised political reward formally executed |
+| C-3591 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Tommen signs legitimization decree for Ramsay Bolton | Official status, northern acceptance not assured |
+| C-3592 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Tommen signs Roose Bolton as Warden of North | Royal appointment, actual occupation separate |
+| C-3593 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Tommen grants Castamere and lordship to Rolph Spicer | Real charter signed |
+| C-3594 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Tommen pardons Gawen Sybell Jeyne Westerling | Royal reconciliation instrument |
+| C-3595 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Tommen pardons Bracken Vance Goodbrook Mooton | Riverlands outreach |
+| C-3596 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Tommen just eight and enjoys sealing decrees | Minor king lacks independent judgment |
+| C-3597 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Addam Marbrand batters Jaime during left-hand sparring | Combat incapacity explicitly confirmed |
+| C-3598 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Jaime hides left-hand skill loss from other Kingsguard | Security concern |
+| C-3599 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Walton escorts alleged Arya older and frightened in grey wolf finery | Direct fake bride observation |
+| C-3600 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Jaime recognizes alleged Arya as false and later tells Brienne | Identity substitution verified |
+| C-3601 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Fake girl's actual birth name unknown in chapter | Do not silently identify |
+| C-3602 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Bolton supposedly knowingly accepts counterfeit girl for Ramsay | Jaime testimony of complicity |
+| C-3603 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Walton receives and shares coin for northbound mission | Escort paid |
+| C-3604 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Gregor remains alive with necrotic wounds and dark veins after Oberyn | Severe illness |
+| C-3605 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Pycelle reports all leeches feeding Gregor die | Strong poison clue no chemistry |
+| C-3606 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Tywin orders Gregor kept alive for formal King's Justice execution | Desired spectacle not yet performed |
+| C-3607 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Varys fishermen report Dragonstone nearly empty and Lyseni ships gone | Actual location of Stannis unknown |
+| C-3608 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Pycelle guesses Stannis gone to Lys and Tywin suspects Storm End Dorne | Speculations, not sightings |
+| C-3609 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Cersei objects to Tywin control of Tommen and forced marriage | Political disagreement |
+| C-3610 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Jaime confirms Tommen biological son but never calls him father | Private paternity |
+| C-3611 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Cersei says Robert drunkenly compared mercy killing disabled children | Reported speech, Joffrey heard in company |
+| C-3612 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Jaime infers Joffrey commissioned Bran catspaw from Robert remark | Hypothesis not a confession |
+| C-3613 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Cersei denies arranging Bran assassination | Interested denial, independent test lacking |
+| C-3614 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Cersei insists Jaime leave Kingsguard and marry her privately | Conflicting desires |
+| C-3615 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Jaime refuses Cersei sexual approach in White Sword Tower | Boundary stated and enforced |
+| C-3616 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Cersei admits lying to Jaime in unspecified ways | Not disclosure of any particular act |
+| C-3617 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Loras says Brienne's shadow version of Renly death might be true | Exculpatory shift, no magical firsthand witness |
+| C-3618 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Cortnay Penrose death at Storm End raised as possible analog | Reported mystery |
+| C-3619 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Jaime reveals false Arya to Brienne and urges avoid Bolton trap | Protective intelligence handoff |
+| C-3620 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Jaime gives Brienne red black Valyrian blade Oathkeeper | Sword handed over |
+| C-3621 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Jaime confirms Ice reforged into two swords by Tywin | Ned steel provenance |
+| C-3622 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Jaime gives Brienne bay mare and mission to safeguard Sansa | Practical oath fulfillment attempt |
+| C-3623 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Brienne promises seek Sansa for Catelyn and Jaime | Promise not completed search |
+| C-3624 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Jaime suspects Sansa poisoned Joffrey but acts to protect her anyway | Moral contradiction, claim unproved |
+| C-3625 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Jaime writes left handed White Book entry honoring Brienne's return | Record actually made |
+| C-3626 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Jaime sees much of page blank for acts he can choose | Character future frame, not completed reform |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -3557,4 +3705,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fourteen first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and eighteen first-pass chapters listed in the coverage tracker.
