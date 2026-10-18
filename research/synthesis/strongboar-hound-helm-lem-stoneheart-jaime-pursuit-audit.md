@@ -36,6 +36,10 @@ In **[AFFC 30 (Jaime), at Darry](../../Source/Main-Series/04-A-Feast-for-Crows/t
 
 **Identity trap:** The argument `helmet seen at Saltpans → Sandor performed massacre` fails. A new argument `helmet seen with Lem → Lem performed massacre` would fail for the **same reason**: the helmet can change hands while its public association survives. Lem's own real misconduct may make him a viable target, but **a different charge must be substantiated rather than inheriting Rorge's crimes with the steel**.
 
+### The search infrastructure and a failed Brotherhood alert are now separately audited
+
+The [Darry/Hardstone/Strongboar intelligence-contest investigation](stoneheart-brotherhood-strongboar-hardstone-darry-crossroads-intelligence-contest.md) corrects any implication that Lyle can simply inherit a known trail to Stoneheart. In **AFFC 30 (Jaime)** Darry commander **Ser Harwyn Plumm (“Hardstone”)** is **already absent** pursuing **a new report beyond the Trident with five knights and twenty archers**; this is **not Strongboar's later armed departure from Riverrun (AFFC 44)**. Mariya's **Lord Vypren/Fairmarket** and **Black Walder/Hag's Mire→Neck** accounts are **older lost tracks** of separately dispersed Oldstones outlaws, not a map to Stoneheart's current shelter. **AFFC 37/42 (Brienne)** supplies a public **crossroads inn** protected by Gendry and children, **Lem's assigned concealed watch with an intended chimney-smoke distress signal**, and **Thoros's account of a misleading “Mad Dog” report** drawing Lem north while Rorge's group used a stream to double back; a Frey knight column delayed him further. **The original rumor's sender, actual smoke-signal transmission, and any hunter receipt remain unshown**. Lyle's suggestion to mutilate villagers contrasts with Jaime's Arthur Dayne example of earning cooperation.
+
 ## 2. The actual anti-outlaw search: men, command limits and target mismatch
 
 ### At Darry before the siege — AFFC 30
