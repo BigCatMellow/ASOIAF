@@ -4398,6 +4398,42 @@
 | C-4318 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Fifty pots wildfire placed in Tower of Hand | Concrete destruction scale |
 | C-4319 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Cersei experiences wildfire as beautiful cleansing and remains with Osmund | Aerys parallel plus charged companionship |
 
+| C-4320 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arys crosses shadow city disguised without Kingsguard cloak | Concealed unauthorized meeting |
+| C-4321 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Anti-King Landing fruit trader recently murdered in Sunspear | Popular unrest already violent |
+| C-4322 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arys recalls centuries of Oakheart-Dornish hostility | Inherited regional prejudice |
+| C-4323 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Sand Snake confinement has partially calmed streets | Earlier detention executed at least partly |
+| C-4324 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Myrcella and Trystane play cyvasse imported via Volantis and Greenblood | Game and trade network |
+| C-4325 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Myrcella outplays older Trystane in cyvasse | Arys observation of aptitude |
+| C-4326 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Myrcella rooms secured by four Lannister guards plus attendants | Physical security detail |
+| C-4327 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Doran promises transfer of Myrcella and escort to Water Gardens | Planned relocation not yet complete |
+| C-4328 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Doran asks Arys not to alert King Landing to princess location | Operational secrecy risk |
+| C-4329 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Doran invokes Rhaenys murder as precedent for instrumental harm to Myrcella | Political child-hostage threat |
+| C-4330 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Doran trembling hand read by Arys as terror | Observation with gout alternative |
+| C-4331 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arianne waits in secret room with Nymeria ships tapestry | Rhoynish imagery |
+| C-4332 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arys and Arianne are repeatedly intimate despite his oath | On-page Kingsguard vow breach |
+| C-4333 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arianne reports using moon tea | Birth control claim not verified ingestion |
+| C-4334 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arys cites Terrence Toyne and Lucamore Strong precedent | Kingsguard punishment history |
+| C-4335 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arianne claims Prince Lewyn kept paramour absent from White Book | Uncorroborated family memory and record gap |
+| C-4336 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arys regrets beating Sansa on Joffrey orders | First-person culpability |
+| C-4337 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arys still assumes Tyrion poisoned Joffrey | Incorrect knowledge state |
+| C-4338 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arys judges Myrcella braver and more capable than Tommen | Comparative character assessment |
+| C-4339 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arianne asserts Myrcella's seniority should override brother | Contested succession claim |
+| C-4340 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arys states Iron Throne succession differs from Dornish law | Legal objection |
+| C-4341 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arianne invokes Rhaenyra Criston Cole and Dance | Historical persuasion analogy |
+| C-4342 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Criston Cole motives have conflicting traditional accounts | Historical epistemic uncertainty |
+| C-4343 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arianne reinterprets Water Gardens as imprisonment | Unverified future custody claim |
+| C-4344 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Loreza six and Dorea eight reportedly detained with Sand Snakes | Young detainees human consequence |
+| C-4345 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arianne alleges court staff and Oberyn actually governed Sunspear | Claim of nominal authority |
+| C-4346 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arianne recalls Doran's old letter promising Quentyn Dorne | Firsthand memory reported, letter unseen here |
+| C-4347 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arianne claims Quentyn secretly sailed east as merchant | Unnamed informant report |
+| C-4348 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arianne notes Golden Company broke Myr contract | Company action report |
+| C-4349 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arianne infers Quentyn Golden Company and Yronwood joint succession plot | Theory without proved contact |
+| C-4350 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arys offers ordinary alternative Doran letter could be encouragement | Disconfirming rival explanation |
+| C-4351 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Toland dragon devouring tail used to explain cyclical political conflict | Heraldic rhetorical symbol |
+| C-4352 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arianne proposes crowned Myrcella could release Arys Kingsguard vows | Future bargain without Myrcella consent |
+| C-4353 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arys privately vows his sword and life to Myrcella's claim and Arianne | Completed commitment, no public action |
+| C-4354 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arianne's final demand concerns obtaining Myrcella | Next plot action unresolved |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -4405,4 +4441,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and thirty-nine first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty first-pass chapters listed in the coverage tracker.
