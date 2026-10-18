@@ -36,6 +36,10 @@ Jaime **does not walk into ADWD 48 utterly unaware of a woman called Stoneheart*
 - **[ASOS Epilogue (Merrett)](../../Source/Main-Series/03-A-Storm-of-Swords/text/082-epilogue.md):** The Merrett POV independently shows the silent woman called Lady Stoneheart at the Oldstones hanging. **The readers' identification can be confirmed across Brienne and Merrett**, but neither sends Jaime the news.
 - **Critical difference**: Jaime hears a **physical description** and then a **name**; Brienne gains **direct personal recognition and a participant explanation**. That explains why a truthful warning to Jaime would involve extraordinary information he has not yet accepted. No five-book passage depicts that disclosure before Brienne proposes their isolated trip.
 
+### Strongboar's independent hunt might reach Lem, but Jaime has not received his intelligence
+
+The [Strongboar–Hound-helm encounter and timing audit](strongboar-hound-helm-lem-stoneheart-jaime-pursuit-audit.md) verifies **AFFC 30 (Jaime)** that **Ser Lyle Crakehall** promises Mariya/Amerei at Darry he will kill the supposed Saltpans `Hound`, whom survivors identified principally from **the helmet**; Jaime **already doubts Sandor's responsibility**. **AFFC 31 (Brienne)** the Elder Brother says a stranger took Sandor's marker helmet, **AFFC 37** Rorge wears it and Brienne kills him, and **AFFC 42** Lem confirms taking it from Rorge and chooses to wear it against Thoros's advice. **AFFC 44 (Jaime)** Strongboar actually leaves to return toward Darry with men-at-arms, a squire and **Beardless Jon Bettley**; Jaime permits killing the Hound but directs him to **capture Beric alive**. **No Strongboar sighting of Lem, location report, message to Jaime, reunion or rescue is shown**. At Pennytree **ADWD 48**, Jaime hears Brienne's `Hound` warning **without being told Lem now wears the helmet**. A coincidence that the hunt interrupts a Stoneheart capture is a conditional fan possibility, **not a current plot action**.
+
 ## 3. There are several different men (and stories) called “the Hound”
 
 The ADWD 48 line mentioning the Hound **is not straightforward evidence that Sandor Clegane guards Sansa**.
