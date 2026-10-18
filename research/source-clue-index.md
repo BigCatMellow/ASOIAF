@@ -4285,6 +4285,119 @@
 | C-4206 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Cersei notes Mace could die in siege and Jaime acknowledges risk | Risk recognized, no assassination order |
 | C-4207 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Cersei says Jaime briefly sounds like Tywin | Strategic resemblance to father |
 
+| C-4208 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Skinny boy on piebald horse appears again outside Duskendale | Persistent follower clue |
+| C-4209 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Duskendale market sells looted battle gear from multiple armies | War-dead economy |
+| C-4210 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Brienne keeps Jaime oak shield despite heavier weight | Personal attachment plus practical choice |
+| C-4211 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Brienne repaints Lothston bat to avoid suspicion | Identity concealment |
+| C-4212 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Old shield memory shows green tree and falling star | Tarth-armory provenance unresolved |
+| C-4213 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Darke Darkwood and Dargood families preserve diluted Darklyn descent | Local dynastic afterlife |
+| C-4214 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Seven Swords inn commemorates seven Darklyn Kingsguards | Former house glory reduced to civic memory |
+| C-4215 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Duskendale maester says local tradition blames Serala for Defiance | Gendered historical blame |
+| C-4216 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Serala reportedly mutilated then burned by Aerys | Extreme royal punishment testimony |
+| C-4217 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Barristan rescue ended Denys hostage leverage | Defiance turning point |
+| C-4218 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Dontos spared as child only after Barristan intervention | Hollard survival junction |
+| C-4219 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Dontos never returned and held no Duskendale base | Negative search evidence |
+| C-4220 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Brella says Sansa often visited godswood and guesses north | Former maid inference, no sighting |
+| C-4221 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Brienne considers Jon Edmure Brynden and Lysa as surviving blood | Family-refuge search model |
+| C-4222 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Brienne identifies Eyrie as easiest plausible refuge | Inference close to reader-known truth |
+| C-4223 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Holy brother reports ragged fool at Maidenpool seeking passage for three | Unverified new lead |
+| C-4224 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Witness cannot securely identify fool as Dontos | Identity uncertainty |
+| C-4225 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Nimble Dick reportedly boasted of fooling a fool | Named investigative lead |
+| C-4226 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Brienne speculates Tyrion might be third traveler | Incorrect model from incomplete information |
+| C-4227 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Duskendale already knows Tywin murdered by Tyrion | Fast-moving public report |
+| C-4228 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Innkeeper still defines Jaime primarily as oathbreaker | Public reputation |
+| C-4229 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Brienne dream substitutes Jaime for dying Renly | Psychological attachment signal |
+| C-4230 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Northern dead buried in common grave while victors honored | Memory asymmetry after battle |
+| C-4231 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Hollard ruin at road fork carries three-crown heraldic motif | Physical family-location clue |
+| C-4232 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Humfrey Wagstaff betrothal ended after Brienne defeated him | Gender expectation conflict |
+| C-4233 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Ser Goodwin taught Brienne endurance and exploiting male pride | Combat-method evidence |
+| C-4234 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Follower is revealed as Podrick Payne | Mystery rider resolved |
+| C-4235 | [AFFC 9](../Source/Main-Series/04-A-Feast-for-Crows/chapters/09-brienne.md) | Pod follows Brienne because he hopes Sansa may lead to Tyrion | Parallel loyalty quest |
+| C-4236 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Marillion songs from sky cell permeate Eyrie | Cover-up remains audible |
+| C-4237 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Petyr says he reached agreement with Marillion and Mord is persuasive | Coercion signaled before confession |
+| C-4238 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Sansa fears Nestor may believe true account | Conscious false testimony risk |
+| C-4239 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Petyr says their lies will profit Nestor | Transactional deception strategy |
+| C-4240 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Sansa internally preserves Stark identity | Alayne not fully internalized |
+| C-4241 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Sansa recognizes Petyr also tells her comforting lies | Growing epistemic awareness |
+| C-4242 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Sansa separates protective Petyr from dangerous Littlefinger in her mind | Split model of manipulator |
+| C-4243 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Sansa thinks Bran Rickon and Tyrion dead | False information narrows options |
+| C-4244 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Sansa knows Lysa murdered Jon Arryn | Explosive hidden knowledge |
+| C-4245 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Sweetrobin seeks Sansa bed and nuzzles breasts | Dependent boundary problem |
+| C-4246 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Sansa tells Robert Petyr loved Lysa | Kindly lie |
+| C-4247 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Robert repeats prepared claim Marillion killed Lysa | Secondhand false narrative |
+| C-4248 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Sansa gives false testimony with genuine fear and tears | Emotion makes lie credible |
+| C-4249 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Robert suffers severe shaking fit and wets himself | Direct health evidence |
+| C-4250 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Marillion appears eye-bandaged and gloved | Visible coercion aftermath |
+| C-4251 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Missing fingers are rumor Sansa cannot verify | Injury uncertainty |
+| C-4252 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Marillion confesses jealousy and alleged Lysa pregnancy | Arranged confession, not reliable event history |
+| C-4253 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Nestor party already disliked Marillion | Confirmation bias |
+| C-4254 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Petyr performs self-blame and is reassured by Royces | Narrative manipulation |
+| C-4255 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Nestor reports Bronze Yohn coalition intends Petyr removal | Lords Declarant threat |
+| C-4256 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Petyr knows coalition composition despite tiny garrison | Strong information network |
+| C-4257 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Petyr grants hereditary Gates of Moon to Nestor | Political inducement |
+| C-4258 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Grant bears Arryn seal but Petyr signature | Authority dependency |
+| C-4259 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Nestor deeply wants hereditary status | Leverage target |
+| C-4260 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Sansa independently deduces grant ties Nestor to Petyr survival | Political learning |
+| C-4261 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Petyr says honor can be routed through children's interests | Explicit manipulation principle |
+| C-4262 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Oswell and Lothor know Sansa true identity | Cover security vulnerability |
+| C-4263 | [AFFC 10](../Source/Main-Series/04-A-Feast-for-Crows/chapters/10-sansa.md) | Petyr requires Alayne identity even in private and uses reciprocal surveillance | Operational secrecy discipline |
+| C-4264 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Asha returns to sparse Harlaw gathering | Weak succession coalition |
+| C-4265 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Asha support concentrated mainly on Harlaw island | Geographic political limit |
+| C-4266 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Alannys still remembers Theon as ten-year-old hostage | Trauma-frozen maternal memory |
+| C-4267 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Asha is not certain Theon is dead | Succession uncertainty |
+| C-4268 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Asha keeps Glover family as captives but demands warm humane quarters | Hostage policy |
+| C-4269 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Glover infant sick after mother's milk dries | Human and strategic vulnerability |
+| C-4270 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Deepwood remains important to Asha mainland plans | Hostage has political function |
+| C-4271 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Rodrik reads Marwyn Book of Lost Books | Oldtown-Iron Islands knowledge link |
+| C-4272 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Marwyn allegedly found three pages of Signs and Portents | Secondhand lost-text claim |
+| C-4273 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Rodrik orders Myrish lens as eyesight declines | Research access constrained by age |
+| C-4274 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Alannys believes Balon was murdered | Family suspicion |
+| C-4275 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Rodrik repeats bridge-storm account and day-after Euron return | Timing corroboration not murder proof |
+| C-4276 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Asha lacks ships to dislodge Euron directly | Military constraint |
+| C-4277 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Aeron kingsmoot call redirects captains | Religious institution reshapes succession |
+| C-4278 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Rodrik cites Urron Greyiron kingsmoot massacre | Violent precedent |
+| C-4279 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Rodrik notes ancient kingsmoot date disputed by roughly factor two | Chronology uncertainty |
+| C-4280 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Rodrik compares Euron with Urron | Historical analogy |
+| C-4281 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Rodrik advises bargaining naval power for durable land | Alternative ironborn grand strategy |
+| C-4282 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Rodrik still treats Tywin as living contender | Information lag |
+| C-4283 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Asha calls Balon brave but bad lord and Old Way obsolete | Explicit strategic critique |
+| C-4284 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Asha proposes third course between submission and old-way repetition | Emerging platform |
+| C-4285 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Rodrik says each captain votes equal at kingsmoot | Feudal loyalty not automatic vote |
+| C-4286 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Rodrik offers Asha Ten Towers | Alternative inheritance |
+| C-4287 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | No identified Theon body found at Winterfell | Survival possibility remains open |
+| C-4288 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Tris says Euron drowned Sawane Botley and rewarded supporters with lands | Repression plus patronage |
+| C-4289 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Tris says Euron returned with enormous eastern treasure | Imported wealth claim |
+| C-4290 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Eastern monsters and wizards remain secondhand reports | Supernatural asset unverified |
+| C-4291 | [AFFC 11](../Source/Main-Series/04-A-Feast-for-Crows/chapters/11-the-krakens-daughter.md) | Asha rejects Tris marriage and asserts sexual and political autonomy | Consent and claim boundary |
+| C-4292 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Cersei accepts Tommen-Margaery wedding because throne still strategically insecure | Necessary alliance despite hatred |
+| C-4293 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Bloody half-formed chick appears in breakfast egg | Odd event, omen unproved |
+| C-4294 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Jaime establishes layered anti-poison security | Concrete protection plan |
+| C-4295 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Cersei still assumes Tyrion killed Joffrey and plans novel attack | False premise drives threat model |
+| C-4296 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Cersei says only Melara heard Maggy prophecy with her | Prophecy information boundary |
+| C-4297 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Cersei orders Jaime inside Tommen wedding chamber | Surveillance and control |
+| C-4298 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Cersei fears Tyrell intimacy despite Tommen too young for consummation | Influence read as dynastic threat |
+| C-4299 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Red Keep search uncovers numerous hidden passages | Real infrastructure supports uncertainty |
+| C-4300 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Search finds black-cell route and apparently bottomless well | Unexplained castle features |
+| C-4301 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Search finds bones and old Viserys I silver | Historical hidden-space evidence |
+| C-4302 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Two guards vanish in tunnel and voices allegedly heard through stone | Unresolved disappearance |
+| C-4303 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Cersei insists Tower fire might smoke out Tyrion despite failed search | Paranoia persists |
+| C-4304 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Jaime says capital and Iron Throne materially support Tommen legitimacy | Political geography insight |
+| C-4305 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Jaime warns wildfire may spread | Known safety risk |
+| C-4306 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Jaime says Cersei sounds like Aerys | Explicit comparison |
+| C-4307 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Cersei thinks Jaime has become stranger rather than other half | Twin rupture |
+| C-4308 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Tommen-Margaery wedding deliberately modest | Post-Purple-Wedding constraint |
+| C-4309 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Margaery reuses Joffrey wedding gown | Cersei interprets as crown hunger |
+| C-4310 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Cersei maps Maggy younger-more-beautiful warning onto Margaery | Prophecy referent inferred, not named |
+| C-4311 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Tommen cough triggers Cersei panic and Joffrey memory | Traumatic grief |
+| C-4312 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Taena claims Senelle spies for Margaery through cousins | New intelligence allegation |
+| C-4313 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Taena provides testable meeting pattern in sept | Claim can be verified |
+| C-4314 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Cersei initially considers Taena may be lying | Brief skepticism |
+| C-4315 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Taena declares loyalty to husband and son and displays ambition | Alternative motive |
+| C-4316 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Aurane Waters reminds Cersei of Rhaegar | Attraction biases attention |
+| C-4317 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Cersei folds Kevan-Garlan conversation into Tyrell conspiracy | Ambiguous interaction overread |
+| C-4318 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Fifty pots wildfire placed in Tower of Hand | Concrete destruction scale |
+| C-4319 | [AFFC 12](../Source/Main-Series/04-A-Feast-for-Crows/chapters/12-cersei.md) | Cersei experiences wildfire as beautiful cleansing and remains with Osmund | Aerys parallel plus charged companionship |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -4292,4 +4405,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and thirty-five first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and thirty-nine first-pass chapters listed in the coverage tracker.
