@@ -4478,6 +4478,46 @@
 | C-4396 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Brienne offers six dragons if sister found two if fool found | Conditional guide contract |
 | C-4397 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Brienne warns Dick not to betray her | Acknowledged credibility risk |
 
+| C-4398 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Blackbird leaves Eastwatch carrying Sam Aemon Gilly baby and Dareon | Direct ship departure |
+| C-4399 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Sam recalls Randyll throwing him into Horn Hill pond to swim | Paternal trauma |
+| C-4400 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Hyle Hunt rescued Sam after near drowning | Cross-POV Hyle identity |
+| C-4401 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Sam imagines Gilly safety at Horn Hill | Sam hope not secured outcome |
+| C-4402 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Dareon claims rape conviction was unjust | Interested claim |
+| C-4403 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Dareon named recruiter to replace missing Yoren | Watch personnel decision |
+| C-4404 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Gilly appears withdrawn and inconsolable during voyage | Direct behavior, motive initially misunderstood |
+| C-4405 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Cotter Pyke chose Blackbird over faster Storm Crow and Talon | Storm-seaworthiness rationale |
+| C-4406 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Gilly and nursing infant remain ill in cramped cabin | Physical distress |
+| C-4407 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Dareon sings several Watch oarsmen favorites | Musical ability |
+| C-4408 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Aemon says Egg sent him north at age thirty-five on Golden Dragon | Firsthand historical memory |
+| C-4409 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Ser Duncan escorted Aemon on voyage to Wall | Royal escort testimony |
+| C-4410 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Brynden Rivers accompanied Aemon as prisoner and later commanded Watch | Bloodraven chronology |
+| C-4411 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Aemon says he declined helping Egg govern | Personal choice testimony |
+| C-4412 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Horas and Hobber Redwyne humiliated young Sam on Arbor | Childhood abuse memory |
+| C-4413 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Randyll planned to leave Sam on Arbor as Redwyne page | Mother's report of dynastic plan |
+| C-4414 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Sam longs for mother but fears Randyll at Horn Hill | Conflicting family impulses |
+| C-4415 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Skagos described as stoneborn isle with unicorn mounts | Book/song report, not witness |
+| C-4416 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Skagosi revolt reportedly killed Lord of Winterfell | Historical report |
+| C-4417 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Cannibalism and Skane depopulation attributed to Skagosi | Unverified folklore |
+| C-4418 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Observed galley wreck and dead sailors off Skagos | Direct navigational hazard |
+| C-4419 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Aemon stays in cold rain and mistakes Sam for Egg | Physical decline |
+| C-4420 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Sam carries and warms frail Aemon with Gilly's help | Observed caretaking |
+| C-4421 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Blackbird loses sail and battles successive severe storms | Direct voyage danger |
+| C-4422 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Dareon becomes frequent firewine drinker | Observed deterioration |
+| C-4423 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Oarsmen blame incest-born Gilly and baby for storms | Direct scapegoating |
+| C-4424 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Oarsmen suggest disposing of Gilly and infant at sea | Threat reported by Sam hearing |
+| C-4425 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Sam sharpens knife and escorts Gilly for protection | Protective response despite fear |
+| C-4426 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Aemon identifies Gilly distress as grief not sea fear | Expert emotional interpretation |
+| C-4427 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Aemon identifies infant on ship as Dalla's son | Explicit child-swap revelation |
+| C-4428 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Gilly's own baby remains at Wall | Inferred from revealed swap, corroborate Jon POV |
+| C-4429 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Aemon believes Gilly compelled by Jon's threats and promises | Inference, precise coercion unobserved here |
+| C-4430 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Sam deduces Jon protected royal child from Melisandre | Strategic interpretation |
+| C-4431 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Gilly's child bears danger as unvalued supposed prince | Risk displaced onto nonroyal infant |
+| C-4432 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Aemon distinguishes Jon the friend from Lord Snow | Moral authority dilemma |
+| C-4433 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Aemon notes no happy choice, only less grievous one | Explicit ethical frame |
+| C-4434 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Sam perceives own part in Jon becoming commander | Personal complicity feeling |
+| C-4435 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Sam sees red wanderer free folk call Thief | Astronomical naming detail |
+| C-4436 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Lightning reveals new storms ahead after brief calm | Observed chapter end |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -4485,4 +4525,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-one first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-two first-pass chapters listed in the coverage tracker.
