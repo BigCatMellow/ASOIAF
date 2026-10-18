@@ -52,6 +52,10 @@ The ADWD 48 line mentioning the Hound **is not straightforward evidence that San
 
 An especially important authorial mechanism is the **misleading public name**. Mariya's hooded *woman* and Jaime's `Stoneheart` could be one person but are not joined by his own knowledge; **Sandor** and his **Hound** persona demonstrably separate on-page. Jaime walks into the final conversation with *both* identity maps incomplete.
 
+### Opposite side of Jaime's knowledge gap: what Stoneheart thinks Jaime did
+
+[Stoneheart/Jaime accusation and Brienne hearing audit](stoneheart-jaime-red-wedding-attribution-evidence-and-hearing-audit.md) checks a `DIFFERENT` question from Jaime's recognition of Stoneheart: **ASOS 51 Catelyn** herself hears Robb's pink-cloaked killer claim **Jaime's regards**; **ASOS 44 Jaime** directly shows his original **routine farewell to Roose**; **ASOS 62 Jaime** depicts the returning Jaime/Brienne party **learning** of the massacre from **Bertram Beesbury at Brindlewood**. **ASOS Epilogue Merrett** audibly blames Walder, Ryman, Bolton, Lothar and Bastard Walder before Stoneheart, **not Jaime**; Merrett's private memory of who planned it does not enter the listener's mind automatically. **AFFC 42 Brienne** expressly defends Jaime and is ordered to kill him anyway. **ASOS 72 (Jaime)** adds especially clear **reader-only corroboration**: Jaime gives Brienne Oathkeeper and tells her to get Sansa safe **because Cersei means to kill the girl**; this directly answers Lem's seemingly commonsense claim that a Lannister twin would never protect Sansa from Cersei. None of it establishes Stoneheart **has heard the corroborating private conversation**, nor that she will pardon Jaime for other wrongs.
+
 ## 4. Why Brienne's proposal is so dangerous (and why its outcome is not yet narrated)
 
 **[AFFC 42 (Brienne)](../../Source/Main-Series/04-A-Feast-for-Crows/text/043-brienne.md)**:
