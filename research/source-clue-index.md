@@ -3,7 +3,7 @@
 - Record role: `RESEARCH / EVIDENCE ROUTER`
 - Authority: `ADVISORY / NONE`; owner of **which source junctions to investigate next**, not owner of story outcomes
 - Status: `EXPANDING — EARLY CHAPTER INTAKE`
-- Updated: 2026-10-15
+- Updated: 2026-10-18
 - Source and epistemic standard: [SOURCES.md](../SOURCES.md); reading coverage: [tracker](../Source/Main-Series/CLOSE-READING-STATUS.md)
 
 **Interpretation rule:** A detail is not a clue just because it is unusual. Preserve narrative context and at least one ordinary explanation; distinguish directly observed action from a character's private inference, folk history or external fan idea. `TEST` means investigate, not accept.
@@ -4990,6 +4990,67 @@
 | C-4897 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Jon Pox condemned in Meribald wartime account | Cost of war |
 | C-4898 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Meribald says never saw king or gained penny in Ninepenny war | Perspective reversal |
 
+| C-4899 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Dareon promised to return before dusk with food and wine but remains absent | VERIFIED unmet promise; test accountability against drunkenness or emergency |
+| C-4900 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Gilly huddles at cold hearth and cries over child left at Wall | Visible grief; connect infant exchange without presuming Sam asks |
+| C-4901 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Dareon courts Moonshadow after kiss by Moon Pool | Opportunity cost of Watch recruiter's talent |
+| C-4902 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Dareon composes courtesan songs instead of recruiting songs about Wall | Mission drift; Jon's recruiting purpose unfulfilled |
+| C-4903 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Dareon complains of Gilly sobbing and child's cries and wants to strike her | Escalating hostility; not proof he acted on threat |
+| C-4904 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Aemon says Jon became hard when elected Lord Commander | Character interpretation of coercive responsibility |
+| C-4905 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Sam refuses to ask Gilly directly whose baby she nurses | Knowledge-gap boundary despite AFFC 15 reader knowledge |
+| C-4906 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Titan's evening horn wakes infant and Aemon | Braavosi environment shapes household routines |
+| C-4907 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Aemon mistakes Sam for Egg and loses temporal orientation | Cognitive change after voyage; ordinary illness rival |
+| C-4908 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Aemon is 102 with clammy skin and wheezing lungs | Observed medical decline; no precise clinical diagnosis |
+| C-4909 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | House of Red Hands healer in red-white stripes provides dreamwine | Palliative care and distinctive healer affiliation |
+| C-4910 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Healer says death is in Aemon's lungs and dismisses leeches | Attributable prognosis; not on-page death |
+| C-4911 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Storms and ice after Skagos force galley under oars with mast lowered | Maritime hazards and timeline obstacle |
+| C-4912 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Others' appetites return after arrival but Aemon's does not | Different course of illness |
+| C-4913 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Oversized inn bed billed for eight travelers | Resource depletion from accommodation terms |
+| C-4914 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Wood expensive because Braavos imports it and conserves windbreak pines | Economy/ecology link; no invented shortage plot |
+| C-4915 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Dareon prepaid for hearth without accounting for fuel | Predictable logistical failure distinct from malice |
+| C-4916 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Sweetwater aqueduct supplies fountains and wealthy households | Infrastructure and unequal access |
+| C-4917 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Gilly loses map and herself fetching clean water | Displacement and linguistic vulnerability |
+| C-4918 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Braavos Purple Harbor and Ragman's Harbor handle different routes | Operational geography for seeking sailors |
+| C-4919 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Aemon dreams of Oldtown with Egg and Egg's large knight | Targaryen family memory; dream is not present travel |
+| C-4920 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Dareon's unremembered sailor story of living dragons drives Aemon | Secondhand rumor still worth verification |
+| C-4921 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Sam's limited High Valyrian/Braavosi hinders inquiry | Information acquisition obstacle |
+| C-4922 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Aemon predicts he will never see Oldtown | Character prognosis not yet fulfilled |
+| C-4923 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Aemon links father's throne to accidental lethal blow against brother | Family testimony to compare with succession histories |
+| C-4924 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Aemon fears death and uncertain afterlife | Humanizes religious certainty; not a metaphysical verdict |
+| C-4925 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Aemon's dragon memories are dreams though dragons died before his birth | Reject literal eyewitness reading |
+| C-4926 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Bleeding red star features in Aemon's dreams | Prophetic parallel requiring independent test |
+| C-4927 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Dragon shadows crossing snow and wings/heat in Aemon's dreams | Fire/cold imagery, no established future referent |
+| C-4928 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Aemon claims brothers' dragon dreams destroyed them | Claim with unresolved identity and cause |
+| C-4929 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Aemon offers feverish dying as rival explanation for visions | Built-in disconfirmation of confident prophecy |
+| C-4930 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Aemon regrets leaving Wall and says cold preserves | Interesting theory cue versus mundane exposure/age |
+| C-4931 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Jon's old cracked horn hangs beside Sam's swordbelt | Object continuity; no magical identification |
+| C-4932 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Sam avoids inn's common room to evade proprietor | Debt and social precariousness |
+| C-4933 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Sam's earlier romantic Braavos fantasies fail reality test | Narrative change in expectations |
+| C-4934 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Sam visits eight named inns/winesinks/brothel for Dareon | Geographic search network and negative sightings |
+| C-4935 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Braavosi bravos wear finery while wealthy often dress discreetly | Local class semiotics affect mistaken challenges |
+| C-4936 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Armed bravos Terro and Orbelo challenge Sam over costume and sword | Threat arises from recognized street code |
+| C-4937 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Cat claims clothing surrender would escalate extortion | Pragmatic threat reading versus mere bravado |
+| C-4938 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Cat uses slender knife in left hand to deter bravos | Observed weapon use; no supernatural capacity |
+| C-4939 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Cat recognizes Night's Watch and locates singer at Happy Port | Cross-POV Arya-to-Sam information conduit |
+| C-4940 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Cat offers leftover clams and explains sword-at-night rule | Agency/compassion with ordinary social explanation |
+| C-4941 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Cat calls herself No one before Cat | Faceless Men identity language but no proven transformation |
+| C-4942 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Cat invents or reports father oarmaster on ship Nymeria | Uncorroborated cover story resonating with direwolf name |
+| C-4943 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Cat says Brusco adopted her when captain put her off | Character account, contradicted by Arya's known history |
+| C-4944 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Lady Ushanora sailed after waiting three days for Aemon | Lost passage and timing constraint |
+| C-4945 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Lady Ushanora captain keeps prepaid finest-cabin fare | Financial trap; contracted voyage rival explanation |
+| C-4946 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Sailor's Wife takes clients by a one-night marriage | Braavosi custom not durable Westerosi marriage proof |
+| C-4947 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Happy Port contains Yna one-eye and a red priest | Concrete place/people; red priest does not establish sorcery |
+| C-4948 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Dareon's black cloak covers Sailor's Wife before he takes it back | Visual signal of disputed Watch allegiance |
+| C-4949 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Dareon taunts Sam about Gilly and Other slaying | Moral fracture; unreliability of singer |
+| C-4950 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Dareon says Westeros vows do not bind him in Braavos | Explicit self-justification for duty abandonment |
+| C-4951 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Dareon expressly declares himself done with the black | Desertion intention established; no judgment depicted |
+| C-4952 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Dareon throws cloak at Sam to warm Aemon | Cruelty coexists with nominal material concession |
+| C-4953 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Sam assaults Dareon despite habitual fear | Agency and anger; not authorized punishment |
+| C-4954 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Sam's swordbelt tangles his ankles as he drowns | Material detail turns social misfit into bodily peril |
+| C-4955 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Xhondo dives in and rescues Sam from Braavosi canal | Survival and new contact, parallel earlier Hyle rescue |
+| C-4956 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Xhondo's feather cloak is ruined saving Sam | Material cost of rescue and Summer Isles dress |
+| C-4957 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Xhondo identifies as mate of Cinnamon Wind | Strong cross-book merchant ship link to ACOK 27 |
+| C-4958 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Xhondo says he knows these dragons | Claim of knowledge; Quhuru eyewitness confirmation separate |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -4997,4 +5058,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fifty-two first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fifty-three first-pass chapters listed in the coverage tracker.
