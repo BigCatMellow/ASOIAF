@@ -43,6 +43,10 @@ The [Jaime–Stoneheart–Brienne intelligence audit](jaime-stoneheart-rumor-to-
 
 [Strongboar/Darry tracking and outlaw source audit](strongboar-darry-informants-hag-mire-outlaw-tracking-counterintelligence.md) specifies that **Mariya's AFFC 30 account** of **Black Walder's hound search in Hag's Mire** and **Vypren's search toward Fairmarket** are **reported prior operations**. **Strongboar's AFFC 44 departure** establishes a new hunt but no shared itinerary or active trace from the former search. The Brotherhood's own ASOS Epilogue ferryman and robbed-traveler sources and Meribald's AFFC 25 unmapped route knowledge explain how both parties could gain intelligence; **a fresh Lem sighting sent to Lyle is still UNKNOWN**.
 
+### Harwyn's current hunt must not be confused with Mariya's Oldstones tracks
+
+The [Darry scouting/smallfolk intelligence investigation](stoneheart-brotherhood-strongboar-hardstone-darry-crossroads-intelligence-contest.md) distinguishes **three reports inside the same AFFC 30 (Jaime) chapter**: (1) **Mariya's past report** of **Vypren losing one Oldstones band at Fairmarket** and **Black Walder losing another at the Neck after Hag's Mire**, with villagers questioned for descriptions of a hooded scarred woman; (2) **Maester Ottomore's report** that Darry garrison commander **Harwyn Plumm (“Hardstone”)** has *just gone beyond the Trident* with **five knights/twenty archers** after a different outlaw sighting; and (3) Lady Amerei repeating **Harwyn's belief local smallfolk hide and feed outlaws**, an interested claim. Later **AFFC 44** Strongboar leaves toward Darry on **his own** hunt. **No scene identifies the original Harwyn scout, confirms what the twenty-five hunters found, shows a message to Strongboar, or authenticates a continuing trail from the older post-Oldstones pursuit to Stoneheart's present hideout**. Thoros's separate **AFFC 42** account of Lem being baited away from an orphan shelter supplies a proven flaw in outlaw-side intelligence without identifying an enemy spy.
+
 ## 2. Oldstones → Darry is a real known-reception route, not a completed courier map
 
 ### A. From Merrett's last mission to family response
