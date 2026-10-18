@@ -74,6 +74,10 @@ Stoneheart then imposes a **forced binary**: Brienne must kill Jaime with Oathke
 
 **Most important obstacle:** The reader knows the source of the fatal phrase. **Stoneheart may know the words only in their weaponized form**; the intermediary who could explain their origin—Roose—is also Robb's killer. There is no reason to assume she would trust him. Brienne's honest account is dismissed in the one hearing actually observed.
 
+### Separate operational owner — if Stoneheart gained custody of Jaime
+
+The [Brotherhood access / hostage / Red Wedding 2.0 audit](stoneheart-brotherhood-riverrun-tom-jaime-hostage-red-wedding-two-audit.md) challenges an assumption that Stoneheart's **AFFC 42 kill-Jaime demand** automatically becomes a more useful `KEEP JAIME ALIVE AS A HOSTAGE` policy. **ADWD 48 Jaime has not even agreed to Brienne's lone ride.** The strongest verified operational path is instead **Tom o' Sevens**, whose Brotherhood affiliation is confirmed in **ASOS 34/Epilogue**; in **AFFC 38 Jaime** Tom is the unrecognized singer retained while Jaime threatens **Edmure and his unborn child**, and in **AFFC 44** he stays near the **new Riverrun household**. A larger `SECOND RED WEDDING` around **Daven's planned Frey marriage** is a documented fan theory with missing date, venue, invitation list, insider orders and assault manpower. Keeping Jaime alive would require an actual **Stoneheart reversal/delay**, a custody event, incentive, viable recipient and credibility despite the Brotherhood's rigged Oldstones ransom. Evidence about whether Jaime ordered Robb's death remains owned in **this** hearing dossier; operational capacity is not evidence of guilt.
+
 ## 4. A credibility ledger: who could change whose mind?
 
 | Potential witness | Source-grounded knowledge | Practical problem and actual status |
