@@ -1,0 +1,41 @@
+# ASOS 75 — Samwell: Dalla's son, the vote deadlock, and Sam's first idea to avert Slynt's election
+
+- Status: **FIRST PASS COMPLETE — INDEPENDENT CHALLENGE OPEN**
+- Record: **RESEARCH / SEQUENTIAL CLOSE READING**
+- Primary source: [ASOS 75 Samwell transcription](../text/076-samwell.md), fully read 2026-10-17. [Evidence policy](../../../../SOURCES.md).
+
+## Chronology and causal spine
+
+1. **Mance and Dalla's son is born alive.** The newborn, referred to as the **'little prince'** or **'born-in-battle'**, is still **unnamed**; Val says free folk may wait until the child's third year to name him. **Dalla has died in childbirth**—a later direct statement by Jon confirms it in [ASOS 76 Jon](76-jon.md).
+2. **Gilly nurses both her own infant and Dalla's infant.** She tells Sam that Mance's son sucks harder, while her own child takes less milk. The babies are distinct and **both unnamed here**. The shared nursing arrangement is a concrete future identity and custody clue, **not evidence either baby has been exchanged**.
+3. **Val remains with her sister's baby at Castle Black.** The Watch calls her a 'wildling princess', but **she has no demonstrated formal royal title**. Her role is practical care and advocacy for her captive brother-in-law.
+4. **Sam and Gilly returned by foot from Nightfort via Deep Lake and Queensgate.** Approximately a day and a half from Castle Black they met **Denys Mallister, wounded Bowen Marsh, Dywen, Giant and Dolorous Edd**, returning from the Bridge of Skulls. The known route directly reconciles the earlier travel gap.
+5. **Sam hears secondhand that Stannis landed at Eastwatch.** Giant says **Cotter Pyke escorted Stannis along ranger roads**, Mance was captured, roughly **a thousand free folk killed** including Harma Dogshead, and the rest scattered. These are **survivor reports**, rather than Sam's eyewitness combat record. The previous Jon POV directly showed the cavalry rout but not Mance's fate.
+6. **Castle Black is substantially occupied by Stannis's force.** Sam finds the common hall burned and stair destroyed, but **over a thousand royal troops** and banners filling formerly empty towers. He identifies **Baratheon stag, Florent fox-and-flowers, Estermont turtle, Bar Emmon swordfish and Wensington crossed trumpets**.
+7. **King's men differ from queen's men.** Pyp explains **Selyse and Shireen stayed at Eastwatch** with the fleet, while **Melisandre accompanied Stannis**; her adherents use **flaming-heart symbols**, while the king's men are less religiously fervent. A rumor says Melisandre burned a man before the voyage for favorable winds; **the burning is not witnessed by Sam**.
+8. **Stannis keeps Mance prisoner.** Val asks to take Dalla's son to his father. Jon explains **only Maester Aemon is permitted to visit**, and that Stannis and Melisandre determine his fate. Val has heard Melisandre wants him burned. **The execution is rumored/planned but not yet performed.**
+9. **Jon credits Gilly's survival and Sam's return, but is visibly grieving Ygritte.** His smile is constrained, and his leg continues healing. The narrative does not equate his restraint with indifference to Gilly or Val.
+10. **Sam's relationship with Gilly presents an oath and protection problem.** Gilly offered to be his wife, but Sam told her his Night's Watch vows prohibit it. He privately recalls warmth beside her and the baby; he also says she made him 'braver'. No actual marriage occurs.
+11. **Sam considers claiming Craster's baby as his own in a letter.** He thinks his **mother and sisters at Horn Hill** would welcome Gilly and a child and his father **Randyll Tarly** might value evidence of virility. Jon warns Lord Randyll would react badly to deception and a bastard's prospects would vary. **This is an unexecuted plan for written misrepresentation, not a switch of babies or established Tarly fosterage**.
+12. **Bowen Marsh removes Jon from active duty.** He does so because Jon remains suspected as a turncloak by Thorne/Slynt. Jon instead spends hours training **Satin, Horse, Hop-Robin, Arron and Emrick** in the yard, filling the vacancy left by master-at-arms **Endrew Tarth's death** and Thorne's indifference.
+13. **Jon no longer dreams of Ghost.** He tells Sam of dreams of **Winterfell's crypt kings and dead relatives separated by a wall**; he feels cut off from his father's and Robb's dead world. This is psychological dream reporting, **not proof Ghost has died**.
+14. **Sam knows Bran lives but honors a specific secrecy vow.** He recalls personally promising **Bran, Jojen Reed and Coldhands** not to tell Jon, because Coldhands fears seekers finding the company. Sam's silence is a **documented information barrier**, not forgetting the Bran revelation.
+15. **The Lord Commander election is already in its ninth or tenth ballot.** Two-thirds of sworn brothers are required; more than **thirty nominees** initially appeared, subsequently reduced to seven before another withdrawal. The procedure remains **in progress**.
+16. **Sam records an earlier exact tally.** **Denys Mallister 213, Cotter Pyke 187, Janos Slynt 74, Othell Yarwyck 60, Bowen Marsh 49, Three-Finger Hobb 5, Dolorous Edd 1**. Slynt had been rising as other candidates gradually lost votes.
+17. **Slynt gathers dangerous endorsements.** Sam sees **Bowen Marsh** talking to Slynt and **Alliser Thorne** consulting **Othell Yarwyck**. Slynt is gaining through coordination rather than broad personal admiration.
+18. **Bowen Marsh formally withdraws and endorses Slynt.** He cites his injury and Slynt's former gold-cloak command. The endorsement transfers significant credibility despite Slynt's earlier treatment of Jon.
+19. **Voting uses mixed physical tokens in a kitchen kettle.** Brothers deposit **shells, pebbles, coins, arrowheads, nails or acorns** unseen behind a hanging; absent men may delegate votes, and **Denys/Cotter represent their remote garrisons**. **Sam, Clydas and Aemon** count independently.
+20. **The next full tally is not a majority.** Sam counts **Denys 203, Cotter 169, Slynt 137, Yarwyck 72, Hobb 5, Edd 2**. Clydas differs by one for Cotter, and Aemon notes **Jon cast no vote**. Sam's count is accepted. Slynt is **still third**, not already elected.
+21. **The danger lies in momentum and candidate fragmentation.** Denys and Cotter lose supporters while Slynt climbs rapidly. Sam calculates **their combined support nearly equals two-thirds**, and realizes one withdrawing in favor of the other could prevent a Slynt victory. **No actual bargain or new Lord Commander election takes place in this chapter**.
+22. **Sam considers persuading the rival commanders despite self-doubt.** Pyp and Grenn encourage him because he is **a lord's son, Aemon's steward and 'Sam the Slayer'**. Sam insists dragonglass killed the Other and confesses fear of confronting senior officers.
+23. **The maester's rookery is depleted.** Sam feeds the ravens, notes only a few birds have returned, and reflects that one **reached Dragonstone and brought Stannis** while the southern Lannister kings did not respond. This is Sam's civic interpretation; Stannis's exact reasoning is described more directly to Jon in the next chapter.
+24. **End state:** Mance is alive captive, Dalla dead and her son alive, Gilly nursing both children, **no Lord Commander chosen**, and Sam has the beginning of a vote-coordination plan, not yet an executed campaign.
+
+## Critical counterreadings
+
+- **Baby identity:** Each child is physically distinct and unnamed, but no swap or future hostage plan is shown. Track who holds each child and the names assigned.
+- **Sam and the oath:** His proposed Horn Hill letter would lie about paternity to aid Gilly, an instructive tension between vows and welfare. It is neither a completed deception nor a marriage.
+- **Election legitimacy:** No plurality suffices; the **two-thirds rule** and movement of block votes dominate strategy. The **current 203/169/137/72/5/2 result** should be preserved exactly, with no phantom Jon vote.
+- **Royal aid:** The one surviving Dragonstone raven and Davos's retrieved message connect to Stannis's presence, but Sam was not present at the royal decision.
+
+**Research boundary:** Complete chapter read; Stannis–Watch political settlement and election outcome pending.
