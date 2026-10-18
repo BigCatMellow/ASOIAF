@@ -3698,6 +3698,126 @@
 | C-3625 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Jaime writes left handed White Book entry honoring Brienne's return | Record actually made |
 | C-3626 | [ASOS 72](../Source/Main-Series/03-A-Storm-of-Swords/chapters/72-jaime.md) | Jaime sees much of page blank for acts he can choose | Character future frame, not completed reform |
 
+| C-3627 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Jon spent four days in cramped ice cell while Aemon wrote Cotter Pyke | Prior incarceration, Aemon institutional defense |
+| C-3628 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Slynt and Thorne send Jon as envoy ordered to assassinate Mance | Coerced assassination under pretended parley |
+| C-3629 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Jon predicts Mance will mistrust him as returned crow | Prior deception has continuing costs |
+| C-3630 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Raven on dead giant cries Snow to Jon | Observed bird speech, magical agency unknown |
+| C-3631 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Tormund estimates about two hundred free folk and dozen giants dead | Wildling estimate, not audited casualties |
+| C-3632 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Tormund and Jon toast Donal Noye and Mag the Mighty | Honor and grief across enemies |
+| C-3633 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Tormund says Longspear Ryk stole his daughter Munda | Interested family report, consent not independently narrated |
+| C-3634 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Mance camp includes children goats dogs sheep and spearwives | Military target contains many noncombatants |
+| C-3635 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Harma and Varamyr distrust Jon, Tormund protects parley | Internal free-folk faction differences |
+| C-3636 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Varamyr claims possession of Orell eagle and Orell's lingering hate | Skinchanger testimony, mental persistence unverified |
+| C-3637 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Varamyr eagle recon reveals Watch ammunition and weak cage | Military intelligence through claimed skinchanging |
+| C-3638 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Dalla labor begins while Val assists in tent | Birth outcome not shown in Jon 73 |
+| C-3639 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Huge horn eight feet curved with runic gold bands is present | Object seen, authenticity untested |
+| C-3640 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Mance identifies horn as Joramun Horn of Winter | Character claim not independently verified |
+| C-3641 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Mance says earlier unsuccessful horn search account concealed truth | Deliberate secrecy, actual provenance unknown |
+| C-3642 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Dalla warns that magic used against Wall would expose people to Others | Strategic warning assumes horn possible |
+| C-3643 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Mance says Styr Jarl feints intended to open Wall gate | His account of failed earlier plan |
+| C-3644 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Mance threatens Bay of Seals rafts and abandoned castle excavations | Plans, not yet executed attacks |
+| C-3645 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Mance says Others kill and revive free folk across many clans | Eyewitness-adjacent leadership testimony |
+| C-3646 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Mance distinguishes refugee flight from prior conquest kings | Declared motive, political interest possible |
+| C-3647 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Mance says free folk choose fighters not hereditary monarchs | Political organizational claim |
+| C-3648 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Mance rejects southron laws taxation and kneeling | Explicit integration obstacle |
+| C-3649 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Mance offers surrender horn if Watch opens gate | Conditional bargain not completed |
+| C-3650 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Mance threatens Tormund will sound horn three days later | Threat only, horn remains silent |
+| C-3651 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Varamyr eagle erupts in visible flame while skinchanger collapses | Direct correlation, culprit unshown |
+| C-3652 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Harma charges scouts with thirty raiders and later head displayed | Direct combat and likely death |
+| C-3653 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Steel-clad mounted army strikes from three directions | Stannis surprise attack on camp |
+| C-3654 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Mance mare killed and leader lost in cavalry surge | Fate ambiguous within Jon 73 |
+| C-3655 | [ASOS 73](../Source/Main-Series/03-A-Storm-of-Swords/chapters/73-jon.md) | Stannis banners black stag and fiery heart clearly identified | Actual northern military intervention |
+| C-3656 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Arya recognizes inn previously visited with Sansa and Mordane | War transformation of familiar site |
+| C-3657 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Woman gibbet bones hang outside changed inn | Conflict atrocity, identity unknown |
+| C-3658 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Polliver Tickler and unnamed squire sit at inn | Known Gregor retainers in reach of Arya |
+| C-3659 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Polliver reports Joffrey poison by Tyrion and winged wolf Sansa rumor | Distorted secondhand information |
+| C-3660 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Polliver reports Harrenhal taken by postern cook retaliation | Garrison account, not eyewitness Arya |
+| C-3661 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Polliver says Blackfish besieged and Edmure threatened | Riverlands coercion testimony |
+| C-3662 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Polliver mentions Arya for Bolton bastard while true Arya present | False-claim propagation |
+| C-3663 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Sandor asks about Saltpans ship access | Escape route now seaward |
+| C-3664 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Tickler throws knife at Sandor as first blow | Initiated inn melee |
+| C-3665 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Sandor weakens from rapid wine drinking | Physical factor in fight |
+| C-3666 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Arya hits unnamed squire with stone wine cup | Improvised defense |
+| C-3667 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Arya thrown dagger hits Tickler hilt first | Lack of throwing proficiency |
+| C-3668 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Arya stabs squire abdomen with his dagger after being seized | Fatal initial wound |
+| C-3669 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Polliver severs Sandor ear and wounds neck thigh with ally | Direct wounds, infection risk |
+| C-3670 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Sandor kills Polliver with sword after knocking bench | Polliver killed on page |
+| C-3671 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Arya kills Tickler while repeating torture interrogation questions | Direct death, emotional reenactment |
+| C-3672 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Arya retrieves Needle from Polliver's belt | Confirmed return of own sword |
+| C-3673 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Arya uses Needle to kill dying squire at his mercy request | Deliberate terminal mercy killing |
+| C-3674 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Hound wants reach Vale by sea from Saltpans | Plan, not actual joint crossing |
+| C-3675 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Sandor pours boiling wine onto wounds using helm and Arya | First aid attempted, wound sterility uncertain |
+| C-3676 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Arya binds wounded Sandor with strips from squire's cloak | Actual care despite animosity |
+| C-3677 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Sandor feverish, thigh wound foul-smelling and unable to stand | Illness direct, death unconfirmed |
+| C-3678 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Sandor admits Mycah killing and Sansa's abuse while demanding mercy | Self-incriminating speech, other threatened acts not executed |
+| C-3679 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Arya refuses to kill Sandor and rides off alone | Sandor alive at last direct observation |
+| C-3680 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Six days later Arya reaches Saltpans damaged harbor | Time and geography anchor |
+| C-3681 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Arya sells Craven cheaply under threatened theft prosecution | Exploitation of vulnerable child |
+| C-3682 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Titan Daughter ship purple three masts from Braavos | Named vessel, destination |
+| C-3683 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Captain warns twelve pirate ships observed near Crackclaw Point | Secondhand maritime intelligence |
+| C-3684 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Jaqen iron coin elicits captain recognition and Valar dohaeris response | Observed Braavosi access code, organization unknown |
+| C-3685 | [ASOS 74](../Source/Main-Series/03-A-Storm-of-Swords/chapters/74-arya.md) | Captain offers Arya cabin after coin and words | Actual passage granted, not northbound |
+| C-3686 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Val and Gilly care for two distinct unnamed infant boys | Two babies, no exchange witnessed |
+| C-3687 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Gilly breastfeeds Mance son as well as her own | Cross-household nursing |
+| C-3688 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Dalla died after birthing Mance son | Confirmed by next Jon account |
+| C-3689 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Sam Gilly route Nightfort Deep Lake Queensgate Castle Black | Geographic travel sequence |
+| C-3690 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Sam meets Denys Mallister Marsh Dywen Giant Edd from Bridge of Skulls | Rangers survived and returned |
+| C-3691 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Giant says Stannis sailed to Eastwatch and Pyke guided ranger roads | Reported deployment path |
+| C-3692 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Giant reports Mance captured and Harma killed | Casualty/captivity witness report |
+| C-3693 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Stannis more than thousand troops occupy Castle Black | Sam visual military strength |
+| C-3694 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Sam identifies Florent Estermont Bar Emmon Wensington banners | Regional coalition material |
+| C-3695 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Selyse Shireen stayed Eastwatch with fleet | Pyp report, not witnessed by Sam |
+| C-3696 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Queen men follow Melisandre flaming heart, king men less devout | Faction distinctions |
+| C-3697 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Rumor red priestess burned man for winds at Dragonstone | Not confirmed by Sam eyewitness |
+| C-3698 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Val asks to show Mance his living son | Denied audience request not completed |
+| C-3699 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Mance captive visits restricted to Aemon | Cultural conflict and custody |
+| C-3700 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Sam plans written paternity lie to take Gilly and child Horn Hill | Proposal unexecuted |
+| C-3701 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Sam thinks Randyll might like reputed bastard grandson | Father reaction conjecture |
+| C-3702 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Jon says Randyll could react badly to lie | Reasonable counterread |
+| C-3703 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Bowen removes Jon from Watch duty despite saving Wall | Continued institutional suspicion |
+| C-3704 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Jon trains Satin Horse Hop Robin Arron Emrick | New teaching role |
+| C-3705 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Sam conceals Bran survival due oaths to Bran Jojen Coldhands | Explicit information bottleneck |
+| C-3706 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Jon says no Ghost dreams, recurring Stark crypt nightmares | Internal condition, wolf fate unknown |
+| C-3707 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Watch Lord Commander vote requires two thirds | Institutional threshold |
+| C-3708 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Earlier tally Mallister 213 Pyke 187 Slynt 74 Yarwyck 60 Marsh 49 Hobb 5 Edd 1 | Recorded numbers before Marsh withdrawal |
+| C-3709 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Bowen Marsh withdraws candidacy and supports Slynt | Faction coalition pivot |
+| C-3710 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Election tokens counted by Sam Clydas Aemon | Actual blind counting procedure |
+| C-3711 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Later tally Mallister 203 Pyke 169 Slynt 137 Yarwyck 72 Hobb 5 Edd 2 | No candidate has won |
+| C-3712 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Jon did not cast token according to Aemon | No phantom Jon vote |
+| C-3713 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Slynt climbs as Mallister and Pyke vote counts fall | Vote splitting central risk |
+| C-3714 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Sam imagines one leading commander withdrawing for the other | Strategy contemplated not executed |
+| C-3715 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Watch ravens slow returning but one reached Dragonstone | Communications bottleneck |
+| C-3716 | [ASOS 75](../Source/Main-Series/03-A-Storm-of-Swords/chapters/75-samwell.md) | Sam considers approaching the commanders himself | Future intervention not undertaken |
+| C-3717 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Jon trains Satin in shield technique after removal from Watch duty | On-page teaching, not formal command |
+| C-3718 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Melisandre privately summons Jon to Stannis atop Wall | Confidential negotiation |
+| C-3719 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Melisandre touch feels hot and ruby seems pulse | Observed sensation, explanation unknown |
+| C-3720 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Stannis believes Jon Halfhand explanation partly knowing Slynt | Royal judgment, not Watch acquittal |
+| C-3721 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Ghost found dragonglass cache wrapped in ranger cloak under Fist | Location and provenance unresolved |
+| C-3722 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Stannis says Noye forged his sword and Robert warhammer | Historical smith tie |
+| C-3723 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Dalla dead giving birth to living son, Val caregiver | Family and hostage custody clarified |
+| C-3724 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Jon asks Val see captive Mance with child | Requested mercy, permission not given |
+| C-3725 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Melisandre hints fire power after question of burned eagle | No express admission of technique |
+| C-3726 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Jon assesses Mance honorable, Rattleshirt dishonorable, Tormund loyal danger | Individual free-folk profiles |
+| C-3727 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Stannis explicitly credits Davos for northern mission | Causal link to Watch plea |
+| C-3728 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Stannis prioritizes Others over original throne-first strategy | Declared change in campaign |
+| C-3729 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Melisandre identifies threat with night terror god | Religious frame, unproven cosmology |
+| C-3730 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Stannis needs northern banners against Bolton and ironborn | Political alliance goal |
+| C-3731 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Ironborn control Moat Cailin Deepwood Torrhen Square Stony Shore per Stannis | King report, live positions not audited |
+| C-3732 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Stannis offers Jon legitimization as Stark | Conditional offer, no decree signed |
+| C-3733 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Stannis offers lordship Winterfell for fealty | Not yet taken or accepted |
+| C-3734 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Jon recalls Night Watch vows against lands and family | Formal obstacle |
+| C-3735 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Melisandre urges burning Winterfell weirwoods and rejecting old gods | Explicit religious demand |
+| C-3736 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Jon recalls childhood Winterfell ambition and love for trueborn siblings | Internal divided identity |
+| C-3737 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Jon assumes many siblings dead though reader knows alive | POV knowledge gap |
+| C-3738 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Stannis proposes free folk swear laws faith allegiance for Gift settlement | Unimplemented integration plan |
+| C-3739 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Gift still held by Night Watch, Stannis plans to take it | Jurisdictional conflict |
+| C-3740 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Stannis lists captive Rattleshirt clan chiefs new Magnar and free Tormund | Different negotiation audiences |
+| C-3741 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Stannis claims one thousand killed and thousand captured wildlings | Military estimate not exact census |
+| C-3742 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Jon supports anti Other alliance in principle | Not assent to every condition |
+| C-3743 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Stannis requires marriage to Val as alliance price | Val consent not obtained |
+| C-3744 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Jon asks time to consider rather than accepting or rejecting | Choice unresolved |
+| C-3745 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Stannis orders private offer kept secret | Election and fealty still pending |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -3705,4 +3825,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and eighteen first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and twenty-two first-pass chapters listed in the coverage tracker.
