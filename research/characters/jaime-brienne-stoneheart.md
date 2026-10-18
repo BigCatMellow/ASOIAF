@@ -41,6 +41,10 @@ The [Stoneheart hearing and Jaime/Red Wedding evidence comparison](../synthesis/
 
 **Stoneheart:** She retains Catelyn's memories and targets Frey/Lannister participants, but is not the same acting mother whom Brienne once swore to serve. Revenge may destroy the ethical basis of her former cause.
 
+### Practical Brotherhood reach, rather than a presumed hostage/wedding script
+
+The [Stoneheart manpower, Tom o' Sevens at Riverrun and Red Wedding 2.0 research](../synthesis/stoneheart-brotherhood-riverrun-tom-jaime-hostage-red-wedding-two-audit.md) establishes that **the singer kept in Jaime's tent while he threatens Edmure (AFFC 38)** is later explicitly named **Tom o' Sevens at Riverrun (AFFC 44)**, a **recognized Brotherhood member in ASOS Arya/Merrett chapters**. Thus Tom can potentially hear and report from inside Emmon/Genna's household, **but actual communication to Stoneheart is not depicted**. **Daven promises to keep his future Frey marriage** (AFFC 33), while the source supplies **no wedding date/venue** and no attack order. Stoneheart **has demanded Jaime's death**, and he **has not accepted Brienne's invitation on-page**. Consider `CAPTURE/EXECUTION`, `CONDITIONAL BARGAIN`, `FAILED/REFUSED LURE` and `BROTHERHOOD INTERNAL CONFLICT` as genuinely distinct next decisions. There is no canonical Jaime hostage role or second wedding massacre to build later outcomes upon.
+
 ## Three gardener branches
 
 1. **Testimony before execution:** Stoneheart forces Jaime to confront his and the Lannisters' roles; Brienne's divided testimony matters.
