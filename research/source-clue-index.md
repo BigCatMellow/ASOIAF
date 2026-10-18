@@ -4639,6 +4639,47 @@
 | C-4553 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Balon exiled Euron to prevent brother killing brother | Family disciplinary arrangement |
 | C-4554 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Asha sympathizes with victim and chooses own claim | Coalition collapses |
 
+| C-4555 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Aeron relives creaking iron hinge trauma after confronting Euron | Unexplained intrusive memory |
+| C-4556 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Aeron bathes cold sea to reclaim courage | Religious coping |
+| C-4557 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Nagga hall has forty-four monumental ribs | Visible site with mythical attribution |
+| C-4558 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Grey King sea dragon living fire and mermaid traditions | Religious lore not verified history |
+| C-4559 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Aeron believes wind and waves speak Drowned God will | Subjective spiritual interpretation |
+| C-4560 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Kingsmoot assembled captains warriors laborers thralls and families | Social participant distribution |
+| C-4561 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Aeron hopes Euron claims first but Euron waits | Political timing error |
+| C-4562 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Gylbert Farwynd Lonely Light eight days northwest | Remote island geography report |
+| C-4563 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Farwynds rumored marine skinchangers | Unverified magical tradition |
+| C-4564 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Gylbert promises land beyond Sunset Sea without winter or death | Unverified geographic promise |
+| C-4565 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Farwynd offers walrus and whalebone gifts but draws weak support | Gifts versus actual support |
+| C-4566 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Erik Ironmaker physically unable to rise to Asha challenge | Public competence test |
+| C-4567 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Dunstan Drumm questions Greyjoy monopoly of kingship | Legal precedent argument |
+| C-4568 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Drumm wears Valyrian sword Red Rain | Observable named blade |
+| C-4569 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Drumm tradition Hilmar acquired Red Rain by cunning cudgel | Historical family account |
+| C-4570 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Drumm loses audience with long genealogy and meager gifts | Campaign failure |
+| C-4571 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Aeron publicly blesses Victarion and signals his turn | Priestly kingmaking |
+| C-4572 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Victarion promises continuation of Balon war | Explicit platform |
+| C-4573 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Victarion campaign chests disgorge precious plunder | AFFC 18 chests explained |
+| C-4574 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Asha champions Qarl Tristifer Botley and Harras Harlaw | Coalition composition |
+| C-4575 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Asha contrasts Balon victories with dead ironborn families | Strategic cost argument |
+| C-4576 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Asha produces pebbles pinecones turnips as northern spoils | Symbolic campaign performance |
+| C-4577 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Asha names Harrag Sharp death at Winterfell | Specific war casualty |
+| C-4578 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Asha promises Sea Dragon Point and Stony Shore peace settlement | Future proposal not binding treaty |
+| C-4579 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Rodrik Reader and Baelor Blacktyde shout for Asha | Public endorsements |
+| C-4580 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Victarion and Asha faction shouting becomes threatening | Unresolved divisive vote |
+| C-4581 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Euron follower sounds enormous black Valyrian glyph horn | Instrument present |
+| C-4582 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Horn glyphs appear to glow and sound overwhelms witnesses | Observable anomalous effects |
+| C-4583 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Hornblower suffers burned lips bleeding tattoo and collapse | Physical cost |
+| C-4584 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Smoke issues from horn after sounding | Observed aftereffect |
+| C-4585 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Euron claims travel to Asshai and unmatched undefeated status | Self-interested boasts |
+| C-4586 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Euron promises all Westeros rather than merely north or coastal settlement | Maximal conquest pitch |
+| C-4587 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Aeron momentarily feels pull of Euron conquest dream | Priestly ambivalence |
+| C-4588 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Euron says Aegon precedent requires dragons | Historical persuasion |
+| C-4589 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Euron claims horn found in Valyria | Provenance unverified |
+| C-4590 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Euron claims horn binds dragons | Function unproven |
+| C-4591 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Euron says three dragons exist and he knows location | Correct broad fact unexplained source |
+| C-4592 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Euron supporters distribute costly gifts | Patronage machine |
+| C-4593 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Hotho Harlaw Gorold Goodbrother Erik Ironmaker acclaim Euron | Named political support |
+| C-4594 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Aeron hears crowd proclaim Euron king and returns to hinge dread | Kingsmoot outcome and trauma |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -4646,4 +4687,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-five first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-six first-pass chapters listed in the coverage tracker.
