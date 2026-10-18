@@ -4116,6 +4116,58 @@
 | C-4040 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Brienne prays to Crone with Ned Stark blade | Faith/oath ritual |
 | C-4041 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Brienne departs inn at night avoiding Mad Mouse | No Sansa sighting yet |
 
+
+| C-4042 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Sam spends night researching Others in Castle Black vaults | Active but unfinished primary-source search |
+| C-4043 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Castle Black books suffer mice dust loose pages and crumbling | Ordinary archival loss can erase evidence |
+| C-4044 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Hidden cell and chests of detached pages remain in vaults | Archive incompleteness |
+| C-4045 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Oldest histories Sam finds were written after Andal arrival | Long Night evidence transmitted late |
+| C-4046 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Ancient histories contain centuries-long reigns and premature knights | Explicit chronology/anachronism warning |
+| C-4047 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Oldest Lord Commander list contains 674 names not claimed 998 | Institutional chronology discrepancy |
+| C-4048 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Osric Stark reportedly chosen Lord Commander at age ten for sixty years | Historical report, source completeness uncertain |
+| C-4049 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Others associated with cold darkness and storms but causality unclear | Consistent tradition with unresolved mechanism |
+| C-4050 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Accounts say Others ride dead horses bears direwolves and mammoths | Dead-horse portion firsthand corroborated |
+| C-4051 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Giant ice spiders appear in some old accounts | Legendary report only |
+| C-4052 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Men killed fighting Others must be burned or may rise | Consistent with witnessed wights |
+| C-4053 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Children once gave Watch one hundred obsidian daggers yearly | Old institutional dragonglass link |
+| C-4054 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Purpose duration and knowledge behind obsidian tribute unstated | Follow-up question not evidence of pact |
+| C-4055 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | One Long Night account says dragonsteel slew Others | Single late-transmitted textual clue |
+| C-4056 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Jon asks if dragonsteel means Valyrian steel and Sam agrees as first thought | Character inference, not identification |
+| C-4057 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Sam has not found Others origin identity or motive | Explicit knowledge gap |
+| C-4058 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Sam wonders if Silverwing left egg at Wall or Stannis has Dragonstone egg | Internal speculation only |
+| C-4059 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Jon rebuilds Wall stair day and night | Defensive infrastructure reform |
+| C-4060 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Jon mandates daily archery for entire garrison including stewards and cooks | Force-readiness reform |
+| C-4061 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Builders complain Jon works them harder than Mormont | Morale strain |
+| C-4062 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Pyp and Grenn say Jon has little time for old friends | Leadership-isolation perception |
+| C-4063 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Jon trains because he thinks Longclaw better than its wielder and recalls Qhorin superiority | Self-perceived martial inadequacy |
+| C-4064 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Sam knows Bran lives beyond Wall with Coldhands but keeps oath | Major Jon information asymmetry |
+| C-4065 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Aemon drafts letter to Tommen presenting Watch neutrality and Stannis aid | Diplomatic paper shield |
+| C-4066 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Sam persuades Jon political shame may move Lannisters to aid Wall | Sam strategic argument changes action |
+| C-4067 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Jon signs seals and sends Tommen letter by raven | Completed diplomatic dispatch |
+| C-4068 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Jon and Sam plan around Lord Tywin though reader has seen Tywin dead | Communications lag |
+| C-4069 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Jon lists food shelter Nightfort and Gift settlement rights given Stannis | Concrete Watch concessions |
+| C-4070 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Jon privately wants death for Lannisters while maintaining Watch neutrality | Personal-institutional conflict |
+| C-4071 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Only Karhold raven has returned from Stannis northern summons | Sparse current northern response |
+| C-4072 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Jon treats Karstarks as Stannis supporters despite limited reply evidence | Confidence exceeds verified motive |
+| C-4073 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Jon prefers beheading Mance to Melisandre burning him | Jurisdiction and mercy distinction |
+| C-4074 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Jon rejects Mance royal blood because Mance never inherited crown or throne | Jon claim about magical premise |
+| C-4075 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Jon removes Aemon because Melisandre might value true Targaryen blood | Precaution under magical uncertainty |
+| C-4076 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Jon orders Sam to Citadel to become future Watch maester | Major institutional reassignment |
+| C-4077 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Mullin described more fighter than scholar and Harmune frequently drunk | Weak replacement-maester bench |
+| C-4078 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Randyll previously chained Sam three days and nights over maester ambition | Direct trauma memory |
+| C-4079 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Jon tells Sam Watch brotherhood supersedes paternal authority | Institutional identity command |
+| C-4080 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Jon orders Sam to stop calling himself craven | Identity intervention, fear still present |
+| C-4081 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Aemon says his grandfather sent him Citadel because too many dragons were dangerous | Targaryen dynastic/service testimony |
+| C-4082 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Planned route Eastwatch to Braavos aboard Blackbird then onward Oldtown | Concrete travel chain |
+| C-4083 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Dareon is to sing in south to recruit men for Watch | Secondary mission |
+| C-4084 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Gilly leaves Jon distressed and distinguishes own baby from Dalla son | Infant-identity clue from limited POV |
+| C-4085 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Jon says another wet nurse needed for infant remaining at Wall | Practical consequence of secret arrangement |
+| C-4086 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Gilly farewell refers strainedly to other child and Dalla little prince | Deliberately confusing identity language |
+| C-4087 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Gilly rejects title lady and identifies as wife daughter and mother | Self-definition after coercive life |
+| C-4088 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Aemon leaves marked Jade Compendium passage for Jon | Pending textual clue, content unrevealed |
+| C-4089 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Aemon carries rare books toward Citadel but Sam finds only one in four requested | Partial knowledge transfer |
+| C-4090 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Aemon so frail wind nearly knocks him down before voyage | Severe travel vulnerability |
+| C-4091 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Sam Aemon Gilly infant rare books and ranger escort depart Castle Black in snow | Chapter end-state and southward convergence |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -4123,4 +4175,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and thirty-one first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and thirty-two first-pass chapters listed in the coverage tracker.
