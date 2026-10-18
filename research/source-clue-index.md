@@ -4600,6 +4600,45 @@
 | C-4515 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Taena recounts former Myrish captain lover | Potential leverage, claim only |
 | C-4516 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Cersei closes with obsession about Tyrion head | Prophecy-related fixation |
 
+| C-4517 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Nagga ribs and Grey King hall frame kingsmoot | Sacred political setting |
+| C-4518 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Victarion captains urged candidacy while he held Moat Cailin | Internal succession pressure |
+| C-4519 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Aeron kingsmoot summons releases Victarion from holding Moat | Religious legitimation |
+| C-4520 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Ralf Kenning left commanding Moat Cailin | Strategic northern withdrawal |
+| C-4521 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Nine-tenths Iron Fleet reaches Old Wyk | Victarion strength claim |
+| C-4522 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Euron Silence has dark red hull black sails mouthless figurehead | Distinct flagship |
+| C-4523 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Victarion blocks Silence escape with Grief and Iron Vengeance | Coercive fleet deployment |
+| C-4524 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Victarion guards undisclosed chests | Contents and political use open |
+| C-4525 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Victarion reports poisoned bog arrows at Moat Cailin | Asymmetric northern defense |
+| C-4526 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Aeron blesses Victarion at sacred shore | Priestly endorsement |
+| C-4527 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Botley faction has reason to resent Euron drowned lord | Reported grievance |
+| C-4528 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Hotho Harlaw offers twelve-year-old daughter to Victarion | Dynastic bargaining |
+| C-4529 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Victarion recalls three wives and killing third | Violence concealed |
+| C-4530 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Baelor Blacktyde urges ending ironborn war | Internal antiwar position |
+| C-4531 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Blacktyde worships Seven after Oldtown hostage years | Religious diversity |
+| C-4532 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Asha parks Black Wind apart and arrives overland | Independent political preparation |
+| C-4533 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Asha reports Drumm and Maron Volmark claims | Multiple contenders |
+| C-4534 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Euron arrives with vocal supporters before kingsmoot vote | Show of force |
+| C-4535 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Euron claims travel among many religions and peoples | Boast partly supported by exotic crew |
+| C-4536 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Aeron rejects Euron and exits feud | Priestly exclusion ineffective |
+| C-4537 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Asha questions Euron timing after Balon death | Suspicion not proof |
+| C-4538 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Euron alleges he was at sea and cites silent crew as witnesses | Unverifiable alibi |
+| C-4539 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Victarion prevents violent altercation at feast | Crowd management |
+| C-4540 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Some captains leave after Euron departure | Fluid allegiance |
+| C-4541 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Asha acknowledges own votes insufficient | Private campaign assessment |
+| C-4542 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Asha proposes endorsing Victarion in exchange for being Hand | Rejected governance offer |
+| C-4543 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Asha would return Deepwood Torrhen Square and Moat Cailin | Territorial negotiation offer |
+| C-4544 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Lady Glover reportedly offers Sea Dragon Point and Stony Shore | Unratified northern proposal |
+| C-4545 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Asha offers hostages and mutual defense pact | Proposed peace mechanism |
+| C-4546 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Victarion claims north can be held after Stark fall | Unsound logistical assumption |
+| C-4547 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Victarion assumes marrying Hotho daughter delivers Harlaws | Rodrik leadership overlooked |
+| C-4548 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Asha says Euron dominates captains stories | Reputation and election |
+| C-4549 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Victarion claims torching Lannister flagship personally | Tactical participation |
+| C-4550 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Asha attributes Lannisport plan to Euron | Strategic authorship claim |
+| C-4551 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Victarion discloses Euron violated his third wife | Personal feud origin |
+| C-4552 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Victarion admits killing wife after betrayal | Directly confessed killing |
+| C-4553 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Balon exiled Euron to prevent brother killing brother | Family disciplinary arrangement |
+| C-4554 | [AFFC 18](../Source/Main-Series/04-A-Feast-for-Crows/chapters/18-the-iron-captain.md) | Asha sympathizes with victim and chooses own claim | Coalition collapses |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -4607,4 +4646,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-four first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-five first-pass chapters listed in the coverage tracker.
