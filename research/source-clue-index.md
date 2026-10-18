@@ -5051,6 +5051,109 @@
 | C-4957 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Xhondo identifies as mate of Cinnamon Wind | Strong cross-book merchant ship link to ACOK 27 |
 | C-4958 | [AFFC 26](../Source/Main-Series/04-A-Feast-for-Crows/chapters/26-samwell.md) | Xhondo says he knows these dragons | Claim of knowledge; Quhuru eyewitness confirmation separate |
 
+| C-4959 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Cersei compares bearded Jaime to Robert and plucks grey hair | Visible age/disability taunt; not impartial character diagnosis |
+| C-4960 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime remains drawn to Cersei but replays Tyrion's lover accusations | Jealous belief versus verified affairs |
+| C-4961 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Cersei sends Jaime to Riverrun instead of keeping him beside Tommen | Kingsguard-versus-campaign authority conflict |
+| C-4962 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime questions why Daven is warden if not trusted with mission | Patronage versus practical military trust |
+| C-4963 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime invokes his sworn promise to Catelyn Stark | Oath whose later practical interpretation can be tested |
+| C-4964 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Cersei wants Brynden Tully chained or dead | Command objective versus eventual action |
+| C-4965 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Harrenhal fails to answer royal ravens | Communications gap while Gregor's men hold castle |
+| C-4966 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Wylis Manderly recovery named strategic requirement | Northern hostage leverage; outcome pending |
+| C-4967 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Cersei wants Osmund Kettleblack as acting Kingsguard leader | Appointment proposal contested by Jaime |
+| C-4968 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime prefers Loras Tyrell for temporary command | Professional judgment versus Cersei's Tyrell distrust |
+| C-4969 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Balon Swann's mission to Dorne reduces Kingsguard choices | Myrcella protection and political resource tradeoff |
+| C-4970 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Cersei slaps Jaime after conflict about Loras and Osmund | Relationship violence; not evidence of changed official appointment |
+| C-4971 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime suspects Qyburn's continued secrecy despite prior lifesaving care | Insider distrust distinct from proven Qyburn conspiracy |
+| C-4972 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Forty knights and forty squires leave Red Keep with mixed allegiances | Force composition and integration problem |
+| C-4973 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Dermot carries king's standard, Ronnet Kingsguard white banner | Heraldry and political roles |
+| C-4974 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Paege, Piper and Peckledon squires attend Jaime | Personnel continuity for later witnesses |
+| C-4975 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Piper names horses Honor and Glory, dressed white and red | Identity imagery; horses ordinary |
+| C-4976 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime refuses to wear golden hand before King's Landing spectators | Self-conception versus gilded representation |
+| C-4977 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime requires Ilyn Payne and Addam Marbrand as terms of service | Relational bargaining with Cersei |
+| C-4978 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Aerys removed Ilyn's tongue for claiming Tywin ruled in practice | Reported royal cruelty and silent witness history |
+| C-4979 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Tyrell departure drew praise but Jaime's does not | Different immediate popular receptions |
+| C-4980 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Sparrows preach to crowds in Cobbler's Square | Visible growing Faith activism |
+| C-4981 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime's full troop column numbers fewer than a thousand | Reinforcement, not full Riverrun investing army |
+| C-4982 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Brynden's surrounding-country denial strains besieger supplies | Siege logistics and scorched-earth dynamics |
+| C-4983 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime equates current campaign with Lorch and Gregor depredations | Internal moral recognition not renunciation |
+| C-4984 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Marbrand scouts prevent a repeat of Whispering Wood surprise | Institutional learning |
+| C-4985 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime bans unapproved foraging rides that could destroy crops | Attempted discipline; compliance not yet verified |
+| C-4986 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Fields and livestock persist near capital but vanish farther north | War geography differential |
+| C-4987 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime shares Lew Piper's blackberries with squires and Payne | Small action of provision and care |
+| C-4988 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | King's Justice traditionally oversees dungeons despite Ilyn's inability to communicate | Role dysfunction and delegation risk |
+| C-4989 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Littlefinger sold Chief Gaoler post to future Antler Man | Patronage and corrupted justice administration |
+| C-4990 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Undergaoler Rennifer Longwaters claims dragon ancestry | Character claim distinct from proven bloodline |
+| C-4991 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Ilyn's quarters filthy but execution sword immaculate | Contrast between institutional role and personal maintenance |
+| C-4992 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Ilyn Payne accepted Jaime's offer by a nod | Documented consent and companionship |
+| C-4993 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime sets Hayford sentries recalling Stafford at Oxcross | Second case of military institutional learning |
+| C-4994 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Golden hand has mother-of-pearl nails and curved goblet-holding fingers | Artifact capabilities and appearance |
+| C-4995 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Hand slips/causes Jaime to spill wine at Hayford feast | Practical inability despite ornate prosthesis |
+| C-4996 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Infant Ermesande Hayford already married to missing Tyrek | Dynastic arrangement with incapacitated child parties |
+| C-4997 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Tyrek horse found but no corpse after King's Landing riot | Missing-person evidence and limit |
+| C-4998 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | No ransom request for Tyrek ever came | Alternative against ordinary hostage-for-profit theory |
+| C-4999 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime publicly asserts Tyrek dead without proof | Confident inference versus verified disappearance |
+| C-5000 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime privately suspects Varys could have seized Tyrek for information | Speculative abduction theory with disconfirmers |
+| C-5001 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime recalls Varys failed to warn about riot and missed Myrcella departure | Suspicious absences not independent orchestration proof |
+| C-5002 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime trains with blunted sword left-handed and shield looped to gold hand | Concrete martial adaptation |
+| C-5003 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Ilyn repeatedly strikes Jaime and knocks free shield | Current limitation against exaggerated recovery |
+| C-5004 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime commits to nightly training while masking bruises | Sustained effort with incomplete result |
+| C-5005 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Wolves kill an outrider's horse and Jaime orders carcass salted | Observed animal attack and practical reuse |
+| C-5006 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Bonifer ascribes wolf killing to demons and sins | Religious claim, mundane predator rival |
+| C-5007 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Ser Roger Hogg holds Sow's Horn with tiny defenders and villagers | Small-holder resilience and fortress geography |
+| C-5008 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Hogg reports 'white star wolves' distinct from real predators | Unresolved referent; avoid conflation |
+| C-5009 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Lorch raided Hogg despite his Hayford/King's Landing fealty | Lannister harm to Crown's own subjects |
+| C-5010 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Hogg's wolf pelts cannot replace raided livestock | Civilian food-system impact |
+| C-5011 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime advises sowing one more crop without guarantees | Limited reconstruction response |
+| C-5012 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Wode brothers' halls burned while fates unknown | War displacement and map-lore separation |
+| C-5013 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime hangs cellar outlaws including a red-cloaked one | Extrajudicial on-page violence and personal 'justice' inference |
+| C-5014 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime hopes to be called Goldenhand the Just | Aspiration, not established reputation |
+| C-5015 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime wonders whether Brienne headed to Riverrun for Sansa | Jaime's uninformed location guess versus Brienne POV |
+| C-5016 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Petyr is lord of Harrenhal but remains absent | Paper title versus field governance |
+| C-5017 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Horn of Herrock is sounded thrice to open Harrenhal | Ordinary military horn distinct from supernatural artifacts |
+| C-5018 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Shitmouth and other Gregor men still garrison Harrenhal | Occupational continuity |
+| C-5019 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Gregor's men report Polliver, Tickler and Sarsfield boy killed by Hound | Secondhand account overassigns deaths to Sandor |
+| C-5020 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | ASOS 74 shows Arya killed Tickler and squire; Sandor killed Polliver | Reader-level correction to Harrenhal gossip |
+| C-5021 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Garrison repeats Hound accompanied by supposed peasant boy | Arya misread as boy; do not infer new companion |
+| C-5022 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Rafford/Raff wears Vargo Hoat's chain of diverse coins | Material continuity and identity lead |
+| C-5023 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Rafford is plausible Arya revenge-list target Raff the Sweetling | Cross-book identity continuity test |
+| C-5024 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Gregor's men declined to pursue Sandor from fear | Military capacity versus accountability |
+| C-5025 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Vargo Hoat's severed head identifiable by unusual long beard | Verified grotesque remains; not full torture sequence |
+| C-5026 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Gregor's men recount cutting Hoat apart and feeding him to captives | Perpetrator testimony with independent limits |
+| C-5027 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime recalls Lady Lothston cannibal-feast lore at Harrenhal | Historical parallel as attributed legend |
+| C-5028 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Bonifer Hasty appointed Harrenhal castellan until Petyr arrives | Actual administrative transfer |
+| C-5029 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Gregor's men refuse offer of farmland and demand promised gold | Incentives and prospective mutiny/policing |
+| C-5030 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Bonifer offers hides of land escalating with family formation | Agrarian settlement proposal, not achieved tenure |
+| C-5031 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Pia found bruised, broken-nosed and missing teeth | Observed victim of occupation |
+| C-5032 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Ben Blackthumb and cook who opened postern survive | Personnel links between regimes |
+| C-5033 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Wylis Manderly alive with northmen taken at Trident fords | Directly refutes uncertainty whether surviving captivity |
+| C-5034 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Captives well fed yet possibly ate Hoat remains unwittingly | Horrific irony; which meals unknown |
+| C-5035 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime orders Wylis escorted via Maidenpool by ship to White Harbor | Movement instruction, arrival unverified |
+| C-5036 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Pia panics when rescued despite Jaime's assurances | Victim response and trauma |
+| C-5037 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime prohibits goat for immediate supper | Specific response to cannibal account |
+| C-5038 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Bonifer rejects Pia while Jaime takes her with his army | Religious exclusion versus partial protection |
+| C-5039 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime keeps violent Gregor men for potential front-line use | Moral inconsistency despite justice claims |
+| C-5040 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Holy Hundred reduced to eighty-six after Blackwater | Actual garrison capacity |
+| C-5041 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Bonifer's cavalry neutral to riverlands vendettas but combat untested | Mixed suitability for Harrenhal command |
+| C-5042 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime suspects Merryweather influence in Bonifer's appointment | Patronage conjecture not proved |
+| C-5043 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Bonifer cites Seven-Pointed Star protection against revenants | Doctrinal claim not magic verification |
+| C-5044 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Hasty proposes joint security with Lancel at Darry and Tarly Maidenpool | Intended regional alliance |
+| C-5045 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime lists Shagwell among wanted Mummers despite Brienne killing him | Cross-POV timing and knowledge lag |
+| C-5046 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime does not know Rorge reportedly traveled to Saltpans | Information gap relevant to Hound attribution |
+| C-5047 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Bonifer allows repentance but still insists crime requires execution | Theological doctrine versus coercive law |
+| C-5048 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime seeks Beric alive for a public execution | Stated plan, not capture |
+| C-5049 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime dismisses questions about Thoros's false faith | Pragmatic sectarian indifference versus Bonifer |
+| C-5050 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Bear's bones remain in pit where Brienne fought | Physical revisit of Jaime-Brienne history |
+| C-5051 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Ronnet repeats inaccurate rumor Brienne fought bear naked | Story distortion corrected by eyewitness Jaime |
+| C-5052 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Ronnet reports he was Brienne's second planned fiancé | Character claim corroborated by prior Brienne memory |
+| C-5053 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Ronnet father was cousin of Jon Connington, opposing family branches | Kinship and divided rebellion allegiance |
+| C-5054 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime remembers Jon Connington's handship and reports exiled death | Received belief; death not directly witnessed |
+| C-5055 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Ronnet's rebel father gained Griffin's Roost but not full holdings or gold | Land redistribution and dynastic fragmentation |
+| C-5056 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Ronnet recounts giving Brienne insulting rose on Tarth | Cross-POV corroboration of lasting injury |
+| C-5057 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime strikes Ronnet with his ornamental golden hand | Reversal of failed prosthesis into consequential defense |
+| C-5058 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Ronnet's dropped lantern spills burning oil in bear pit | Immediate physical aftermath without confirmed injury |
+| C-5059 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime orders Ronnet to address Brienne respectfully by name | Explicit dignity assertion versus earlier jokes |
+| C-5060 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Ronnet answers 'Brienne the Beauty' after complying | Continued insult despite physical intimidation |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -5058,4 +5161,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fifty-three first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fifty-four first-pass chapters listed in the coverage tracker.
