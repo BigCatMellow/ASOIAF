@@ -4518,6 +4518,43 @@
 | C-4435 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Sam sees red wanderer free folk call Thief | Astronomical naming detail |
 | C-4436 | [AFFC 15](../Source/Main-Series/04-A-Feast-for-Crows/chapters/15-samwell.md) | Lightning reveals new storms ahead after brief calm | Observed chapter end |
 
+| C-4437 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Tywin bier departs through Gate of Gods not Lion Gate | Jaime symbolic observation |
+| C-4438 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Kevan rejects Hand post and chooses Darry restoration | Completed refusal |
+| C-4439 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Jaime cannot get Lancel alone for questioning | Unresolved Tyrion allegation |
+| C-4440 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Kevan reports Hound raids near Trident | Attribution unverified |
+| C-4441 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Jaime recalls destruction of Saltpans | Atrocity reported not identified perpetrator |
+| C-4442 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Kevan mentions Jaime presence in Cersei bedchamber | Strong implication Kevan knows incest |
+| C-4443 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Jaime fears Cersei might act against Kevan | Suspicion not plot proof |
+| C-4444 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Garlan takes half Tyrell strength to Highgarden | Army redeployment |
+| C-4445 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Mace Tyrell and Mathis Rowan invest Storm End | Siege movement |
+| C-4446 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Two thousand westermen await Redwyne fleet for Dragonstone | Planned operation |
+| C-4447 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Western hosts disperse for autumn harvest | Logistical reduction of capital forces |
+| C-4448 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Jaime admires Loras excellent horsemanship | Reliable skill testimony |
+| C-4449 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Bronn names Lollys son Tyrion | Specific message from Stokeworth |
+| C-4450 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Cersei threatens unspecified retaliatory gift | Intent unclear |
+| C-4451 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Cersei wine consumption increased | Jaime witnessed pattern |
+| C-4452 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Jaime remembers Cersei tears watching Tower wildfire | Observed reaction ambiguous motive |
+| C-4453 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Jaime recalls Aerys mistreating Rhaella while Kingsguard stood watch | Firsthand duty failure |
+| C-4454 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Jon Darry interprets oath as excluding intervention against king | Institutional moral contradiction |
+| C-4455 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Rhaella maids report evidence of injury | Secondhand report |
+| C-4456 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Jaime recalls Aerys feared blades and was cut by Iron Throne | Firsthand decline account |
+| C-4457 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Cersei says she uses Taena to feed Margaery selective news | Claimed counterintelligence |
+| C-4458 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Cersei says Taena reports Margaery activities | Ultimate allegiance unresolved |
+| C-4459 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Taena describes Olenna underweight Highgarden gold hands | Unverified monetary anecdote |
+| C-4460 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Cersei predicts Bolton bastard clears Moat Cailin | Forecast not accomplished |
+| C-4461 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Two thousand Freys under Hosteen and Aenys assigned to north | Cersei military expectation |
+| C-4462 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Orton Merryweather floated as Hand candidate | Unappointed |
+| C-4463 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Pyromancer Hallyne floated as Hand candidate | Unappointed Aerys echo |
+| C-4464 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Aurane Waters considered for master of ships | Potential patronage appointment |
+| C-4465 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Jaime recommends Redwyne naval command instead | Professional counterproposal |
+| C-4466 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Cersei rejects Redwyne as Tyrell bannerman | Faction distrust |
+| C-4467 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Qyburn expulsion from Citadel recurs in Jaime warning | Professional record concern |
+| C-4468 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Cersei expels Jaime after his refusal of Handship | Completed sibling rupture |
+| C-4469 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Jaime White Book discussion challenges Loras focus on famous men | Institutional historical education |
+| C-4470 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Jaime lists little-known veteran Kingsguard commanders including bastards | Unsung service |
+| C-4471 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Rolland Darklyn died protecting king shortly after joining | Historical sacrifice |
+| C-4472 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Jaime identifies Criston Cole as Kingmaker | Cross-POV AFFC 13 parallel |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -4525,4 +4562,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-two first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-three first-pass chapters listed in the coverage tracker.
