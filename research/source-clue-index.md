@@ -4168,6 +4168,123 @@
 | C-4090 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Aemon so frail wind nearly knocks him down before voyage | Severe travel vulnerability |
 | C-4091 | [AFFC 5](../Source/Main-Series/04-A-Feast-for-Crows/chapters/05-samwell.md) | Sam Aemon Gilly infant rare books and ranger escort depart Castle Black in snow | Chapter end-state and southward convergence |
 
+| C-4092 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Arya reaches Braavos aboard Titan's Daughter after captain refuses Eastwatch | Destination produced by failed Jon/Eastwatch plan |
+| C-4093 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Arya reviews repeated failed routes to Winterfell Riverrun Twins and Eastwatch | Pattern of displaced destinations |
+| C-4094 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Arya believes Jon is her only surviving close family | Major false-information premise |
+| C-4095 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Braavosi sailors call Arya Salty and give gifts or lessons | New temporary social identity |
+| C-4096 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Needle remains Arya's material link to Jon and Winterfell | Persistent Stark identity anchor |
+| C-4097 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Denyo says Moonsingers led Braavos founders to refuge hidden from dragons | Civic-religious history, not independent proof |
+| C-4098 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Titan contains arrow slits murder holes guards and horn signal | Harbor monument is also fortification |
+| C-4099 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Arya sees Arsenal and dense maritime traffic | Braavosi naval infrastructure |
+| C-4100 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Isle of Gods hosts many faiths including small forgotten shrines | Direct religious pluralism |
+| C-4101 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | R'hllor temple makes Arya remember Thoros reviving Beric | Cross-faith resurrection association |
+| C-4102 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Arya thinks Seven failed her family | POV religious rejection |
+| C-4103 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Arya thinks old gods are dead | POV belief contradicted by other reader evidence |
+| C-4104 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Ned pack-survival lesson returns while Arya thinks pack destroyed | Identity grief built on false family state |
+| C-4105 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Arya death list currently includes Gregor Dunsen Raff Ilyn Meryn and Cersei | Updated personal target ledger |
+| C-4106 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Arya regrets withholding mercy killing from Sandor | Moral complication in revenge practice |
+| C-4107 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | House of Black and White doors combine weirwood and ebony | Direct material/symbolic detail |
+| C-4108 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Iron coin plus valar morghulis gains Arya entry | Verified credential function |
+| C-4109 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Temple smells evoke forest snow and warm food to Arya | Sensory manipulation mechanism unknown |
+| C-4110 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Black pool is used by suffering visitor before peaceful death | Observed assisted-death association |
+| C-4111 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Old sick and dying people rest in temple alcoves | House functions as death sanctuary |
+| C-4112 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Waif touches Arya and triggers immediate violence threat | Survival conditioning remains active |
+| C-4113 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Priest teaches Many-Faced God has innumerable names and forms | Institutional theology |
+| C-4114 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Jaqen H'ghar name does not straightforwardly identify Arya's sponsor | Alias/network structure unresolved |
+| C-4115 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Coin matters more than Jaqen name in admission process | Credential outranks personal identifier |
+| C-4116 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Arya cycles Salty Squab Weasel Nan and Arry before true name | Accumulated survival identities |
+| C-4117 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Arya finally names herself Arya Stark of Winterfell | Core identity disclosed |
+| C-4118 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Priest says House has no place for Arya Stark as such | Identity surrender is admission condition |
+| C-4119 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Skull-and-worm face fright test does not make Arya flee | Observed fear response |
+| C-4120 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Frightening face becomes kindly old man | Face-changing mechanism unproved |
+| C-4121 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Arya kisses skull and tries to bite worm | Defiance rather than passivity before death image |
+| C-4122 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Arya remains emotionally attached despite low fear response | Grief and longing coexist with courage |
+| C-4123 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Final hunger is explicitly not merely for food | Open motive for joining House |
+| C-4124 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Arya has not become no one by chapter end | Initiation remains incomplete |
+| C-4125 | [AFFC 6](../Source/Main-Series/04-A-Feast-for-Crows/chapters/06-arya.md) | Family survival knowledge could materially alter Arya's choice | Cross-POV dependency |
+| C-4126 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Cersei tightly controls Tommen's funeral posture tears and movement | Maternal rule through public-performance discipline |
+| C-4127 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Cersei compares Tommen unfavorably with Joffrey | Misreads cruelty as kingly strength |
+| C-4128 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Tywin funeral attendance is formal rather than visibly loving | Public prestige not affection |
+| C-4129 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Current High Septon reached office with Tyrion support and Tywin crown | Association Cersei treats as possible secret risk |
+| C-4130 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Cersei offers lordship for Tyrion's head and sends ravens widely | Expanded manhunt |
+| C-4131 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Tywin corpse smells and seems faintly smiling | Decay detail, poisoning not established |
+| C-4132 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Cersei believes she can surpass Tywin | Grandiose self-assessment |
+| C-4133 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Lancel appears gaunt white-haired and intensely religious | Post-wound transformation |
+| C-4134 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Lancel reports High Septon says Mother spared him to atone | Religious interpretation |
+| C-4135 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Cersei fears Lancel may confess affair and Robert strongwine secret | Internal corroboration of shared wrongdoing |
+| C-4136 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Cersei pressures Lancel toward silence | Leak-management response |
+| C-4137 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Cersei studies Margaery's ladies for exploitable weaknesses | Court intelligence targeting |
+| C-4138 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Taena Merryweather reports watchers for Tyrion in Myr Lys and Tyrosh | Interested ally claim and ambition signal |
+| C-4139 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Mace says Tywin expected Garth Tyrell to become master of coin | Prior-office bargain reported |
+| C-4140 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Cersei names Gyles Rosby instead of Garth | Deliberate Tyrell humiliation |
+| C-4141 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Olenna mocks Tywin corpse odor and Cersei privately imagines killing her | Hostility without executed plot |
+| C-4142 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Tommen reports Margaery wants him at Highgarden after wedding | Marriage-control conflict |
+| C-4143 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Gyles Rosby coughs blood while taking master-of-coin office | Health and succession risk |
+| C-4144 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Cersei wants Rosby council timing regularized retroactively | Administrative record manipulation |
+| C-4145 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Rosby wants Littlefinger financial appointees removed | Institutional cleanup plan |
+| C-4146 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Cersei expects Littlefinger to lose Vale and return dependent | Unverified strategic forecast |
+| C-4147 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Qyburn finds old Gardener gold coin concealed in Rugen cell | Physical clue with unknown provenance |
+| C-4148 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Gardener coin bears Reach-linked historical imagery | Association, not payer proof |
+| C-4149 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Cersei converts Gardener coin into Tyrell-conspiracy certainty | Paranoia from ambiguous evidence |
+| C-4150 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Qyburn identifies Gregor's poison as slowed manticore venom | Expert claim consistent with symptoms |
+| C-4151 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Gregor has dark veins infected fluids huge wound and prolonged screaming | Severe direct medical report |
+| C-4152 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Gregor had longstanding headaches and poppy use before duel | Preexisting health detail |
+| C-4153 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Qyburn admits Citadel expelled him for experiments on living people | Self-reported prohibited practice |
+| C-4154 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Qyburn repeats Marwyn criticism of conservative archmaesters | Character report not conspiracy proof |
+| C-4155 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Cersei authorizes Qyburn unrestricted secret work on Gregor | Expansion of Qyburn power |
+| C-4156 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Cersei requires Gregor head for Dorne after death | Political remains requirement |
+| C-4157 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Kevan refuses Hand unless Cersei yields regency and returns west | Independent Lannister challenge |
+| C-4158 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Kevan proposes Rowan or Tarly as Hand to balance Reach power | Strategic alternative |
+| C-4159 | [AFFC 7](../Source/Main-Series/04-A-Feast-for-Crows/chapters/07-cersei.md) | Kevan strongly implies he knows Jaime is Tommen's father | Dangerous family knowledge |
+| C-4160 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime keeps Tywin vigil while exhausted and refuses relief | Duty mixed with guilt |
+| C-4161 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime thinks freeing Tyrion made him complicit in Tywin death | Self-attributed causal responsibility |
+| C-4162 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime remembers threatening Varys with dagger to free Tyrion | Escape initiated through Jaime coercion |
+| C-4163 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Varys did not volunteer Tyrion escape assistance | Responsibility boundary |
+| C-4164 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime says he did not know Tyrion intended to kill Tywin | Counterfactual claim |
+| C-4165 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Tyrion accusation about Lancel Osmund and Moon Boy obsesses Jaime | Jealousy destabilizes Cersei trust |
+| C-4166 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime searches Red Keep tunnels with twelve guards and finds no Varys | Failed physical search |
+| C-4167 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Missing hand materially impairs ladders crawling and torch use | Post-amputation functional constraint |
+| C-4168 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Underground junction contains iron dragon brazier and Targaryen mosaic | Old royal infrastructure |
+| C-4169 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Rhaegar told Jaime Aerys kept him close because he feared Tywin | Kingsguard as political leverage |
+| C-4170 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Rhaegar planned a council and unspecified changes after Trident | Planned reform, exact settlement unknown |
+| C-4171 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jon Darry framed Kingsguard duty as obedience | Institutional ethic behind Jaime conflict |
+| C-4172 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime feels little grief and recalls Tywin taught tears as weakness | Father-son emotional legacy |
+| C-4173 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Pycelle says Tywin was greatest man he knew | Partisan admiration |
+| C-4174 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Pycelle recalls grey plague killing half Oldtown and most Citadel | Historical epidemic testimony |
+| C-4175 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Quenton Hightower reportedly burned ships sealed gates and killed escapees | Extreme quarantine policy |
+| C-4176 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Quenton and young son reportedly lynched after plague ended | Backlash to coercive rule |
+| C-4177 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Pycelle explains Tywin apparent smile as drying facial muscles | Ordinary corpse explanation |
+| C-4178 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Rennifer Longwaters claims Targaryen descent through princess and Oakenfist | Genealogical claim Jaime doubts |
+| C-4179 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Dungeon payroll provides for more staff than actually employed | Administrative corruption/dysfunction |
+| C-4180 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Longwaters says Rugen appointment dated to Aerys and Rugen often absent | Cover identity history |
+| C-4181 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime knows Rugen was Varys | Direct resolution unavailable to Cersei |
+| C-4182 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Dungeon reports circulated through multiple royal offices | Information-channel map |
+| C-4183 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Two drugged turnkeys are dead before Jaime can question them | Witness destruction |
+| C-4184 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Kettleblacks confirm Cersei ordered turnkeys to sleep forever | AFFC 3 execution order completed |
+| C-4185 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime knows Varys drugged turnkeys and they were not escape conspirators | Privileged exculpatory knowledge |
+| C-4186 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime orders future Cersei execution commands routed through him | Kingsguard authority assertion |
+| C-4187 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime uses Osmund jealousy accusation despite knowing escape theory false | Emotion contaminates investigation |
+| C-4188 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime sends Addam Marbrand to search Street of Silk for Tyrion | Public search despite private skepticism |
+| C-4189 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime thinks of Brienne and nearly prays for her strength | Continuing moral attachment |
+| C-4190 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime considers confessing Tyrion escape role to Cersei but does not | Major concealed fact |
+| C-4191 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Arthur Dayne vigil memory contrasts Young Lion with Kingslayer | Identity reconstruction |
+| C-4192 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime wants White Book truth rather than lies | Honor/reputation shift |
+| C-4193 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Cersei asks Jaime to become Hand after Kevan refusal | Political-intimate appeal |
+| C-4194 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime refuses Handship and denies lived fatherhood of Tommen/Joffrey | Break with Cersei role |
+| C-4195 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Cersei responds by promising Jaime battlefields | Future deployment consequence |
+| C-4196 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Tywin corpse develops green color leakage and overwhelming stench | Advanced decomposition |
+| C-4197 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Margaery keeps one funeral rose beneath nose | Practical court intelligence |
+| C-4198 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Tommen sobs vomits and flees Tywin bier | Child reaction to corpse |
+| C-4199 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Cersei shames Tommen for reaction and compares him with Joffrey | Maternal coercion |
+| C-4200 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime tells Tommen people can fight laugh or go away inside | Coping advice |
+| C-4201 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Tommen says he used to go away inside when Joffrey... | Strong abuse implication, acts unstated |
+| C-4202 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime moves sensitive conversation away from listening ears | Court-surveillance awareness |
+| C-4203 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime tells Cersei to stop humiliating Tommen | Protective intervention |
+| C-4204 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Jaime proposes Tommen-Margaery wedding followed by Mace taking Storm's End | Independent political strategy |
+| C-4205 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Plan benefits crown whether Mace succeeds or looks foolish | Explicit strategic logic |
+| C-4206 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Cersei notes Mace could die in siege and Jaime acknowledges risk | Risk recognized, no assassination order |
+| C-4207 | [AFFC 8](../Source/Main-Series/04-A-Feast-for-Crows/chapters/08-jaime.md) | Cersei says Jaime briefly sounds like Tywin | Strategic resemblance to father |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -4175,4 +4292,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and thirty-two first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and thirty-five first-pass chapters listed in the coverage tracker.
