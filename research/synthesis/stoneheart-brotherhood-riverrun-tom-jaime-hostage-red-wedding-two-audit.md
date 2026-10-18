@@ -73,6 +73,10 @@ In [AFFC 38](../../Source/Main-Series/04-A-Feast-for-Crows/text/039-jaime.md), J
 
 **Critical correction:** [AFFC 38](../../Source/Main-Series/04-A-Feast-for-Crows/text/039-jaime.md) ends with Jaime ordering Tom to sing for Edmure, and Edmure's protest; the reader **does not witness the later conversation, if any, between singer and Edmure alone**. **`TOM HELPED BLACKFISH ESCAPE` is a plausible fan theory** due to subsequent disappearance, but cannot be promoted to fact. The Blackfish's earlier plans and Edmure's intent could suffice without Tom.
 
+### Outside pressure: Lyle Crakehall might hunt the *present* Hound, not Sandor
+
+The [Strongboar/Lem Hound-helmet source audit](strongboar-hound-helm-lem-stoneheart-jaime-pursuit-audit.md) tests a **separate** possible disruption to Stoneheart's regional activity. **AFFC 30 (Jaime)** Lyle promises the Darry women he will hunt Sandor for Saltpans atrocities based on **a recognizable helmet**; **AFFC 31/37/42 (Brienne)** establish Sandor's helmet was taken from a marker by **Rorge**, who performed the atrocities and whom Brienne killed, and that **Lem** subsequently wears it despite Thoros's opposition. **AFFC 44** Lyle **departs toward Darry** with his squire, armed men and **Beardless Jon Bettley**, authorized to **kill the Hound** but commanded to **capture Beric alive**. **Thoros says Beric gave his life to Catelyn** (AFFC 42), leaving both of Lyle's understanding of his quarry targets stale. A Lyle→Lem fight or rescue of a Jaime captive is **plausible conditional fan speculation (documented in 2021 and 2026 Reddit analyses)**, but requires a **helmet sighting, timed route, Jaime agreeing to go with Brienne, his actual captivity, and Lyle arrival**. None is observed. Do not treat this alternative as proving a future Red Wedding 2.0 or a Brotherhood plan to keep Jaime alive.
+
 ## 4. How a “second Red Wedding” would actually have to work
 
 ### Version A — small covert intelligence/hostage operation: relatively few necessary inventions
