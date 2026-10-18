@@ -4938,6 +4938,58 @@
 | C-4846 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei imagines Rhaegar would not pursue Lyanna if wed to her | Unfounded alternate history |
 | C-4847 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei resents Robert for Rhaegar death | Longlasting grievance |
 
+| C-4848 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Hyle transports heads of three Mummers to Tarly | Trophies disturb Brienne |
+| C-4849 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Heads deteriorate as party returns through wet Crackclaw | Ordinary decay not haunting |
+| C-4850 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Hyle honestly credits Brienne and Podrick at Maidenpool | Witness admission |
+| C-4851 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Tarly says Oathkeeper speed explains Brienne prowess | Dismissive assessment |
+| C-4852 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Brienne rejects Tarly order to sail home | Oath prioritized |
+| C-4853 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Tarly supplies conflicting Hound follower counts | Weak intelligence |
+| C-4854 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Tarly mentions Dondarrion red priest and Stoneheart | Outlaw reports |
+| C-4855 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Tarly refuses Brienne lodging and return | Forced onward travel |
+| C-4856 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Hyle offers Alyn as Hound search informant | Investigative lead |
+| C-4857 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Maidenpool inns overcrowded by soldiers | War's lodging impact |
+| C-4858 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Podrick suggests shipboard rooms | Useful logistical idea |
+| C-4859 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Titan Daughter sails away from Maidenpool | Arya sea route cross-link |
+| C-4860 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Seastrider itinerary crosses Oldtown and western Free Cities | Commerce and travel mapping |
+| C-4861 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Brienne rejects passage north despite temptation | Search decision |
+| C-4862 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Brienne purchases Podrick orange | Small care detail |
+| C-4863 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Damaged Lady of Myr sells them cabin accommodation | Harbor repair economics |
+| C-4864 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Brienne fears dead Dick and dreams of earlier enemies | Traumatic aftereffects |
+| C-4865 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Stinking Goose proprietor expected Dick criminal fate | Reputation testimony |
+| C-4866 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Alyn via Hyle places purported Hound at Saltpans | Secondhand identity claim |
+| C-4867 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Hyle repeats Hound crossroads and Saltpans attribution | Different evidence origins |
+| C-4868 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Hyle outlines Trident Vale and Riverlands obstacles | Geographic inference |
+| C-4869 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Hyle says Brotherhood seeks Hound for Saltpans | Contradicts Tarly linkage |
+| C-4870 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Hyle says Tarly smears Beric to reduce popular support | Unverified attributed propaganda |
+| C-4871 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Hyle repeats Stoneheart tale as Beric lover | Distorted identity rumor |
+| C-4872 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Brienne resolves to investigate Saltpans | New route choice |
+| C-4873 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Hyle suggests guide Septon Meribald | Local source |
+| C-4874 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Hyle says Tarly dismissed him from service | Professional shift |
+| C-4875 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Hyle hopes Sansa rescue yields reward | Different motivation |
+| C-4876 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Meribald carries donkey provisions to poor | Relief practice |
+| C-4877 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Meribald illiterate but knows scriptures by memory | Oral religious authority |
+| C-4878 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Meribald barefoot twenty years as penance | Personal ritual |
+| C-4879 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Meribald Smith Cobbler occupational god teaching | Theological interpretation |
+| C-4880 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Podrick favors Warrior aspect of Seven | Character preference |
+| C-4881 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Meribald navigates marsh tracks absent maps | Local infrastructure |
+| C-4882 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Three marsh women exchange clams for oranges | Scarcity and charity |
+| C-4883 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Marsh households little affected owing little plunder | War geography |
+| C-4884 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Meribald forty-year circuit takes half-year plus | Communication network |
+| C-4885 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Meribald dog called Dog belongs to itself | Naming motif |
+| C-4886 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Podrick old dog named Hero | Character memory |
+| C-4887 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Meribald hears extraordinary Trident wolf howling | Firsthand sound |
+| C-4888 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Giant grey she-wolf and hundreds in pack are rumors | Nymeria test |
+| C-4889 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Tidal mud is dangerous to travelers | Ecological hazard |
+| C-4890 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Stilt-house villagers report three hungry wanderers | Danger warning |
+| C-4891 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Meribald proposes food confession and Quiet Isle | Nonpunitive solution |
+| C-4892 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Meribald differentiates broken conscripts from predatory outlaws | War sociology |
+| C-4893 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Long campaigns produce losses hunger theft desertion | Social causal chain |
+| C-4894 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Meribald says broken men dangerous but pitiable | Nuanced ethical assessment |
+| C-4895 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Meribald recalls Ninepenny Kings wartime youth | Autobiographical grounding |
+| C-4896 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Willam Robin Owen died in Meribald war circle | Noncombat and combat losses |
+| C-4897 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Jon Pox condemned in Meribald wartime account | Cost of war |
+| C-4898 | [AFFC 25](../Source/Main-Series/04-A-Feast-for-Crows/chapters/25-brienne.md) | Meribald says never saw king or gained penny in Ninepenny war | Perspective reversal |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -4945,4 +4997,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fifty-one first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fifty-two first-pass chapters listed in the coverage tracker.
