@@ -25,6 +25,10 @@ Brienne swore to protect Catelyn's daughters and has come to trust Jaime, but Ca
 | AFFC 44 (Jaime) | Jaime takes Riverrun through negotiations and explicit coercive threats, including against Edmure's unborn child. | Ending the siege without a storming does not erase the threat's cruelty. |
 | ADWD 48 (Jaime) | Brienne seeks Jaime, claims to have found Sansa, and asks him to come alone; **the chapter ends before Jaime answers**. | Whether she's lying under duress, what Stoneheart ordered, and what Jaime will find. |
 
+### Cross-book correction: Jaime has a name, not the identity (2026-10-17)
+
+The [specialist Jaime/Stoneheart rumor and Hound-identity dossier](../synthesis/jaime-stoneheart-rumor-to-brienne-pennytree-information-gates.md) distinguishes **three actual Jaime receptions**: **AFFC 30 (Jaime)** Mariya reports a scarred hooded woman leading Oldstones outlaws; **AFFC 44** Walder Rivers offers **Stoneheart** as a possible Ryman killer; **ADWD 48** Jaime himself invokes **Stoneheart** when threatening Tytos Blackwood over sheltering rebels. **Jaime is not shown knowing she is Catelyn Stark**. Conversely **AFFC 42 (Brienne)** Brienne sees Catelyn alive and hears Thoros's Beric explanation, and she sees **Lem wearing Rorge's inherited Hound helm**. The **ADWD 48** line that “the Hound” will kill “the girl” is therefore **not authenticated proof that Sandor holds Sansa**, nor proof Stoneheart authored those precise words. Brienne's **unidentified** scream at the gallows does not certify a particular negotiated bargain; **Jaime's agreement, departure or captivity are not narrated**. These constraints refine the existing character branches without choosing one.
+
 ## Character dilemmas
 
 **Brienne:** If she refuses Stoneheart, Podrick and Hyle may die; if she lures Jaime, she betrays his trust and her own sense of honor. The original Catelyn's oath is being weaponized by the resurrected Catelyn.
