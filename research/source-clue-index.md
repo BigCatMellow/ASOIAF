@@ -3981,6 +3981,141 @@
 | C-3906 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Revival origin not narrated by Merrett POV | Do not prematurely credit Beric or Thoros |
 | C-3907 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Brotherhood now ransoms falsely and executes Freys | Changed faction conduct, membership consensus unshown |
 
+| C-3908 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Aeron submerges struggling Emmond until no bubbles or resistance | Actual dangerous drowning rite |
+| C-3909 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Rus Norjen work chest and limbs before Aeron breathes into Emmond | Physical resuscitation mechanism present |
+| C-3910 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Emmond coughs water and recovers with fear | Recovery witnessed, divine intervention not objectively proved |
+| C-3911 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Drowned men carry driftwood cudgels and sea-colored robes | Priestly organization equipment |
+| C-3912 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Sparr Steffarion Gormond Goodbrother convey Balon death report | Named messenger chain |
+| C-3913 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Gormond wears Goodbrother black gold warhorn badge | Material insignia |
+| C-3914 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Balon reportedly falls from Pyke rope bridge during violent storm | Accident/murder/god cause all unverified |
+| C-3915 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Aeron recently saw Balon aging but not visibly acutely sick | Witness condition |
+| C-3916 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Great Wyk mines keep some Goodbrother people inland from sea | Religious-geographic friction |
+| C-3917 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Quellon first wife's sons Harlon Quenton Donel and later siblings named | Ironborn genealogy |
+| C-3918 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Harlon died greyscale with stone-like tongue lips | Childhood medical memory |
+| C-3919 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Euron arrives Lordsport day after Balon death | Suspicious timing, no homicide witness |
+| C-3920 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Euron returns despite two-year banishment and Balon death threat | Unexplained travel and risk |
+| C-3921 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Euron sits Seastone Chair sends demands for homage | Gorold report, not installed by free vote |
+| C-3922 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Balon privately hoped Theon dead to avoid impeding Asha | Aeron's recollection |
+| C-3923 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Maester Murenmure calls Theon first legitimate heir, then Asha | Interested legal argument |
+| C-3924 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Aeron rejects female kingship despite Balon favoring Asha | Religious/political norm |
+| C-3925 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Victarion controls Iron Fleet and appears godly to Aeron | Claimant has military support |
+| C-3926 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Euron has Sawane Botley drowned for favoring Theon | Gorold report |
+| C-3927 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Aeron claims drowning violates no ban on shedding ironborn blood | Religious legal evasion |
+| C-3928 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Aeron refuses to tell Gorold to swear to Euron | Delay of allegiance |
+| C-3929 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Aeron severed Urri fingers with finger dance axe in childhood | Self-incriminating memory |
+| C-3930 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Maester attempts finger reattachment, Urri dies after infection | Aeron's account, treatment quality uncertain |
+| C-3931 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Balon amputates maester fingers in retaliation | Cycle of violence |
+| C-3932 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Aeron formerly drunken joking performer captain Golden Storm | Pre-conversion persona |
+| C-3933 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Stannis ship Fury destroyed Golden Storm off Fair Isle | Aeron battle memory |
+| C-3934 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Aeron imprisoned in Casterly Rock after initial revolt | Capture account |
+| C-3935 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Rusty hinge and door noises trigger recurring Euron terror | Unexplained trauma association |
+| C-3936 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Victarion Euron estrangement linked to dead woman | Identity/causal history unresolved |
+| C-3937 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Reader at Ten Towers summons Asha supporters to Harlaw | Merlyn raven report |
+| C-3938 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Aeron sees Nagga hill Grey King hall bones as sacred moot location | Religious tradition, literal magic unproved |
+| C-3939 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Aeron summons captains to Old Wyk kingsmoot rather than Pyke | Completed political intervention |
+| C-3940 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Aeron followers demand Aeron king but he refuses | Rejects personal kingship |
+| C-3941 | [AFFC 1](../Source/Main-Series/04-A-Feast-for-Crows/chapters/01-the-prophet.md) | Ancient kings Urras Ironfoot Sylas Flatnose Harrag Hoare named | Historical traditions from Aeron, not independently audited |
+| C-3942 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Doran observes overripe blood oranges falling and bursting in Water Gardens | Direct physical detail, symbolic omen optional |
+| C-3943 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Caleotte wheeled Doran chair of ebony iron goose down | Disability accommodation |
+| C-3944 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Doran gout swollen knees and toes limit mobility severely at fifty-two | Direct Areo observation |
+| C-3945 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Doran delays opening Oberyn death raven until moonrise | Political grief or caution, motive uncertain |
+| C-3946 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Obara Sand eldest near thirty carries whip copper steel shield and spear | Armed personality details |
+| C-3947 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Obara reports public anger throughout Dorne over Oberyn | Claim partly confirmed by actual Sunspear crowds |
+| C-3948 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Doran says Oberyn killed in legal trial by combat not murder | Legal framing contested by kin |
+| C-3949 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Obara wants two hosts through Prince Pass and Boneway to sack Oldtown | Unexecuted offensive plan |
+| C-3950 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Doran requests Tywin send Gregor head while Tywin reader-known dead | Information-timing disconnect |
+| C-3951 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Obara tells mother prostitute struck by Oberyn during childhood removal | Family trauma testimony |
+| C-3952 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Doran points Obara to playing children as cost-of-war test | Direct ethical argument |
+| C-3953 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Doran recalls Mors Olyvar died then Elia and Oberyn born | Family historical detail |
+| C-3954 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Areo sold to Norvosi bearded priests and branded with axe | Personal memory of coerced training |
+| C-3955 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Areo oath Serve Obey Protect at age sixteen | Direct institutional identity |
+| C-3956 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Norvos three bells Noom Narrah Nyel recalled | Cultural geography |
+| C-3957 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Doran travels from Water Gardens to Sunspear to be seen | Completed strategic visibility choice |
+| C-3958 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Hotah selects twenty of thirty guards for return litter | Precise escort distribution |
+| C-3959 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Dalt Blackmont children and Greenblood orphan singled out by Doran | Water Gardens hostages/children, custody unspecified |
+| C-3960 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Myrcella under Arys Oakheart escort and letters to Cersei expected | Political intelligence channel |
+| C-3961 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Nymeria Sand rides with twelve spearmen wearing lilac and cream | Second Sand Snake approach |
+| C-3962 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Nymeria wants Jaime Cersei Tywin Tommen assassinated | Four targets, no executions |
+| C-3963 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Doran says Tommen innocent of Oberyn killing | Moral/legal objection |
+| C-3964 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Nymeria reports Ser Daemon thinks Gregor poisoned | Secondhand battlefield medical clue |
+| C-3965 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Doran says Oberyn instructed assess court and avoid provoking Tywin | Prior command claims from Doran |
+| C-3966 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Sunspear crowd throws citrus shouts vengeance to spears | Direct public unrest |
+| C-3967 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Sunspear Threefold Gate aligns winding walls and shadow city | Urban tactical layout |
+| C-3968 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Arianne receives father with court including Ricasso Manfrey and Myrcella | Direct formal arrival |
+| C-3969 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Tower Sun twin seats Martell spear and Rhoynish sun | Heraldic duality |
+| C-3970 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Tyene golden needles and pleasant appearance conceal martial threat | Visual danger signal, not poisoning proof |
+| C-3971 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Tyene claims knowledge of Oberyn's slow agonizing poison on Gregor | Insider claim strengthens poison theory |
+| C-3972 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Tyene proposes crown Myrcella as older heir to provoke Dornish invasion | Succession provocation, not actual crowning |
+| C-3973 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Doran specifies Dornish succession law not automatically Iron Throne law | Jurisdictional distinction |
+| C-3974 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Caleotte examines Doran's hand for poison scratches after Tyene gesture | Precaution; no attempt proved |
+| C-3975 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Doran orders quiet bloodless detention of all eight Sand Snakes | Order issued, compliance not shown |
+| C-3976 | [AFFC 2](../Source/Main-Series/04-A-Feast-for-Crows/chapters/02-the-captain-of-guards.md) | Doran leaves away Sarella to her unspecified game | Unknown mission/location |
+| C-3977 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Cersei dreams Iron Throne flaying her as naked Tyrion laughs | Dream/fear not waking prophecy proof |
+| C-3978 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Osmund and Boros wake Cersei with Tywin death report | Actual court notification |
+| C-3979 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Jaime sends twelve men guard sleeping Tommen, Loras on watch | Security assignments |
+| C-3980 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Osmund reports hidden hearth door in Hand tower | Infrastructure finding corroborated ASOS Tyrion |
+| C-3981 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Cersei suspects Tyrell or Stannis without evidence | Unreliable inference |
+| C-3982 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Cersei sees Tywin death as opportunity end coerced remarriage | Internal ambition |
+| C-3983 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Lum found Tywin dead in privy per Osmund | Named discovery report |
+| C-3984 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Kevan grieves at bedside unable pray fully | Direct family mourning |
+| C-3985 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Tywin bolt lodged low abdomen with fletching visible | Corpse physical description |
+| C-3986 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Cersei orders royal bells and magnificent burial apparel | Reputation management |
+| C-3987 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Cersei recalls Tytos death near mistress quarters | Family recollection, not eyewitness |
+| C-3988 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Pycelle leaves for silent sisters before queen summoned | Observed aftermath report |
+| C-3989 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Qyburn offers expertise despite Citadel chain removed | Potential new court patronage |
+| C-3990 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Cersei orders Qyburn remove crossbow and prepare Tywin | Actual order |
+| C-3991 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Shae found naked dead in Tywin bed with gold linked-hand chain | Material evidence contradicting Cersei idealization |
+| C-3992 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Qyburn claims Tywin may have interrogated Shae about Sansa | Convenient hypothesis, not proof |
+| C-3993 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Cersei orders Kettleblacks hide Shae corpse through shaft | Active evidence suppression |
+| C-3994 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Cersei demands recover gold chain unscratched | Chain custody |
+| C-3995 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Cersei remembers Shae promised jewels house knight by crown | Testimony incentive; no full contract |
+| C-3996 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Cersei withheld rewards pending Sansa disclosure, Shae left crying | Interested witness account of coercion |
+| C-3997 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Jaime reports multi-gate tunnel system but says he lacks keys | Partial physical recon after secret jailbreak |
+| C-3998 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Jaime refuses to become Hand despite Cersei request | Office not filled by Jaime |
+| C-3999 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Cersei slaps Jaime after he warns Tommen may suffer | Interpersonal assault |
+| C-4000 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Cersei prefers Kevan as obedient Hand | Plan, no appointment |
+| C-4001 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Cersei fears Tyrell bloc including Mace Redwyne Rowan and Loras | Political suspicion, not conspiracy proof |
+| C-4002 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Cersei admits Ned's inquiry sped her decision to rid herself of Robert | Important internal self-implication |
+| C-4003 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Varys fails to attend death scene and is sought by Trant | Known escape accomplice |
+| C-4004 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Boros finds Tyrion missing from black cell | Escape discovered |
+| C-4005 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Turnkey Rugen missing as well as sedated guards | Identity unresolved |
+| C-4006 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Cersei orders guards who slept to sleep forever | Murder order, completion not shown |
+| C-4007 | [AFFC 3](../Source/Main-Series/04-A-Feast-for-Crows/chapters/03-cersei.md) | Cersei remembers prophecy involving valonqar at throat | Interpretation fear, referent unproven |
+| C-4008 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Brienne questions Rosby villagers for thirteen year old auburn blue eyed Sansa | No sightings obtained |
+| C-4009 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Rosby arms three red chevrons on ermine | Local insignia |
+| C-4010 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Piebald horse skinny boy vanishes before Brienne questions | Unidentified potential information source |
+| C-4011 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Brienne takes route toward Duskendale with larger port trade | Pragmatic travel inference |
+| C-4012 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | King Landing harbor still destroyed but offshore boats unload ships | Explains negative departure record |
+| C-4013 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Brienne thinks Sansa may have died or escaped by sea | Uncertain search model |
+| C-4014 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Jaime assures counterfeit Arya sent north not real Stark sister | Cross POV intelligence |
+| C-4015 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Creighton Longbough nearsighted fat knight and Illifer Penniless older | Named companions |
+| C-4016 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Creighton boasts improbable Blackwater victories and ransoms | Unverified personal claims |
+| C-4017 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Illifer recognizes old black bat Lothston shield from Harrenhal | Misleading visual identity |
+| C-4018 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Illifer accuses Brienne of Renly murder then hears oath by Seven | Witness denial accepted |
+| C-4019 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Brienne recalls Renly dancing courteously with her at Tarth feast | Motivation for lifelong loyalty |
+| C-4020 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Brienne keeps watch despite fearing unknown armed men | Trauma vigilance |
+| C-4021 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Two hedge knights leave Brienne unharmed through night | Observed decent conduct |
+| C-4022 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Creighton sees piebald horse boy and six armed walkers at night | Second report, identity unknown |
+| C-4023 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Brella former Sansa maid reports cold marriage to Tyrion | Character testimony |
+| C-4024 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Brienne suspects Tyrion coerced Sansa to poison Joffrey | Inference contrary other POV |
+| C-4025 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Begging brothers lead sixty ragged followers with wagon of holy bones | Emergent Faith mobilization |
+| C-4026 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Shirtless poor fellow has seven pointed star carved on chest | Religious bodily marker |
+| C-4027 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Procession says slain septons and violated sisters prompt action | Religious claim, prior atrocities partly corroborated |
+| C-4028 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Barefoot septon calls supporters sparrows and demands knights protect Faith | Stated movement ideology |
+| C-4029 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Poor fellows threaten knights who refuse unpaid escort | Intimidation within charitable movement |
+| C-4030 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Septon restrains mob and allows Brienne party to continue | Also demonstrates moral leadership |
+| C-4031 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Brienne remembers Brave Companions used dead septon for target practice | Independent religious-violence observation |
+| C-4032 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Merchant Hibald hires Ser Shadrich called Mad Mouse | Paid escort relationship |
+| C-4033 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Shadrich white mouse red eyes device on blue brown field | Distinct identifying shield |
+| C-4034 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Shadrich claims Varys offers bounty for Sansa | Interested but dangerous rival knowledge |
+| C-4035 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Shadrich knows Ser Dontos disappeared Joffrey wedding night | Accurate clue but Dontos dead reader-known |
+| C-4036 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Brienne denies Sansa identity using lost sister pretext | Defensive cover likely penetrated |
+| C-4037 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Old Stone Bridge innkeeper Naggle says Creighton owes seven stags | Local debt detail |
+| C-4038 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Brienne possesses Tommen signed royal assistance parchment via Jaime | Document and legal-access tool |
+| C-4039 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Brienne hides Oathkeeper in bedroll while ordinary sword visible | Concealed Valyrian custody |
+| C-4040 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Brienne prays to Crone with Ned Stark blade | Faith/oath ritual |
+| C-4041 | [AFFC 4](../Source/Main-Series/04-A-Feast-for-Crows/chapters/04-brienne.md) | Brienne departs inn at night avoiding Mad Mouse | No Sansa sighting yet |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -3988,4 +4123,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and twenty-seven first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and thirty-one first-pass chapters listed in the coverage tracker.
