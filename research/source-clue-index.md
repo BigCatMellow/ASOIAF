@@ -4771,6 +4771,54 @@
 | C-4682 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Arianne knife was gift from Lady Nym | Small item provenance |
 | C-4683 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Hotah says someone informed Doran | Unidentified informant |
 
+| C-4684 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Arya recites six revenge targets and seeks Frey names | Unbroken vengeance |
+| C-4685 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Kindly man rejects personal selection of victims | Order doctrine |
+| C-4686 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Temple kindly man waif acolytes and servants lack public names | Organizational anonymity |
+| C-4687 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Arya privately recalls all Stark relatives and Nymeria | Unextinguished identity |
+| C-4688 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Blind novice senses candle heat and smell | Sensory technique |
+| C-4689 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Temple hosts thirty god images with social preferences | Many-faced syncretism |
+| C-4690 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Stranger niche receives almost no candles | Braavosi devotion distribution |
+| C-4691 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Third cellar sanctum restricted to priests | Unknown ritual space |
+| C-4692 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Temple stores weapons and garments from dead | Operational resources |
+| C-4693 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Arya learns Braavosi through cooking fish and shellfish | Practical vocabulary |
+| C-4694 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Candles evoke Winterfell senses and kin in Arya | Memory trigger |
+| C-4695 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Kindly man offers Arya leave with no return | Voluntary conditional training |
+| C-4696 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Black cup drinkers die quietly in shrine alcoves | Observed death practice |
+| C-4697 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Bodies and valuables sorted separately | Postmortem procedure |
+| C-4698 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Priests alone access remains in deeper sanctum | Unseen final treatment |
+| C-4699 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Arya practices Needle swordplay by blue candle | Continued warrior identity |
+| C-4700 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Waif reports Needle training to priest | Unspecified information flow |
+| C-4701 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Arya ordered to surrender belongings and name | Total identity demand |
+| C-4702 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Coin paid Braavos passage but not induction | Contract distinction |
+| C-4703 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Priest offers merchant house marriage courtesan or return | Alternate lives |
+| C-4704 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Priest claims women rarely serve death god | Gender ideology |
+| C-4705 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Arya discards gifts coins clothes and dagger into canal | Partial renunciation |
+| C-4706 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Arya hides Needle behind loose step stone | Concealed retrieval cache |
+| C-4707 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Arya counts steps to recover Needle one day | Explicit future intent |
+| C-4708 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Priest seems to know Arya retained a secret | Knowledge scope unknown |
+| C-4709 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Faceless order claims predating Braavos in Valyrian mines | Institutional origin tradition |
+| C-4710 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Fourteen Flames mines extremely dangerous to slaves | Volcanic exploitation |
+| C-4711 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Firewyrms reportedly tunnel and breathe fire | Secondhand magical zoology |
+| C-4712 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Founder possibly slave freeholder son or overseer | Origin uncertainty |
+| C-4713 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | First Faceless gift was death of suffering slave | Priestly founding claim |
+| C-4714 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Priest alludes to eventual gifts for slave masters | Incomplete origin narrative |
+| C-4715 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Priest teaches reading eyes mouth neck and jaw for lies | Behavioral training |
+| C-4716 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Waif and Arya exchange Braavosi and Common Tongue | Reciprocal immersion |
+| C-4717 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Lying game waif consistently better at detection | Early skill gap |
+| C-4718 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Waif says she is thirty-six | Unexpected age |
+| C-4719 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Priest attributes waif childhood appearance to poisons | Physical transformation claim |
+| C-4720 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Waif pours stone flagon into black pool nightly | Unknown substance |
+| C-4721 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Visitors include man whose beard and nose vary | Variable appearance |
+| C-4722 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Arya dreams wolf pack while serving meetings | Potential warg comparison |
+| C-4723 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Priest denies recognizing Jaqen name | Ambiguous denial |
+| C-4724 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Glamors said to require long costly study | Magical limit claim |
+| C-4725 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Myrish mirror drills train Arya facial muscles | Nonmagical disguise |
+| C-4726 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Northern elders went hunting in deadly winters | Old Nan custom story |
+| C-4727 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Novice ordered to sell shellfish for Brusco | External field assignment |
+| C-4728 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Cat identity fabricated as orphan of galley oarmaster | Practical cover |
+| C-4729 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Fictional ship named Nymeria | Persistent Stark link |
+| C-4730 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Cat enters Braavos with iron knife and repeats names | Identity contradiction |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -4778,4 +4826,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-eight first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-nine first-pass chapters listed in the coverage tracker.
