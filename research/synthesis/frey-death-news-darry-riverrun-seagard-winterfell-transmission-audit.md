@@ -39,6 +39,10 @@ This is **strong positive evidence for transmission of Oldstones killing news in
 
 The [Jaime–Stoneheart–Brienne intelligence audit](jaime-stoneheart-rumor-to-brienne-pennytree-information-gates.md) carries **AFFC 30's Darry report** past this source-owner's southern family-news receipt: Jaime hears **a scarred hooded woman apparently led the Oldstones attackers**, but **Mariya does not call her Catelyn or even Stoneheart**; **AFFC 44 (Jaime)** then has **Walder Rivers explicitly name Stoneheart** as a *possible* Ryman killer, and **ADWD 48 (Jaime)** shows Jaime himself **use the name** while warning Lord Tytos Blackwood not to shelter enemies. Those are **three escalating Jaime-side information states**, **not verified recognition** of resurrected Catelyn. The **reader and Brienne** know the identity from other POV scenes, and Brienne knows **Lem's reused Hound helm**, but neither knowledge is shown transmitted to Jaime before Brienne's lone-ride invitation at Pennytree. The original **Merrett/Petyr/Black-Walder pursuit** receipts and death-news routes remain owned here.
 
+### Tracked yesterday is not found today
+
+[Strongboar/Darry tracking and outlaw source audit](strongboar-darry-informants-hag-mire-outlaw-tracking-counterintelligence.md) specifies that **Mariya's AFFC 30 account** of **Black Walder's hound search in Hag's Mire** and **Vypren's search toward Fairmarket** are **reported prior operations**. **Strongboar's AFFC 44 departure** establishes a new hunt but no shared itinerary or active trace from the former search. The Brotherhood's own ASOS Epilogue ferryman and robbed-traveler sources and Meribald's AFFC 25 unmapped route knowledge explain how both parties could gain intelligence; **a fresh Lem sighting sent to Lyle is still UNKNOWN**.
+
 ## 2. Oldstones → Darry is a real known-reception route, not a completed courier map
 
 ### A. From Merrett's last mission to family response
