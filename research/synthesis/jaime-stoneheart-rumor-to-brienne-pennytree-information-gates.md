@@ -1,0 +1,94 @@
+# Jaime's incomplete Stoneheart intelligence — Darry → Riverrun → Raventree → Brienne's Pennytree warning
+
+- Record role: `RESEARCH / INDIVIDUAL KNOWLEDGE / RUMOR-LABEL IDENTITY / COERCED INVITATION`.
+- Status: `FIVE-PUBLISHED-NOVEL PRIMARY SOURCE AUDIT / JAIME KNOWS NAME AND REPORTS, NOT RESURRECTED IDENTITY / BRIENNE KNOWS IDENTITY AND LEM'S HELM / NO DEPARTURE DEPICTED`.
+- Lifecycle: `ACTIVE`; authority: `ADVISORY / NONE`. Critical independent check pending.
+- Canonical owner for **what Jaime personally hears/recognizes about the Stoneheart outlaw network before Brienne offers a private journey**, including the separate `Hound` label and last actual dialogue. The [Jaime–Brienne–Stoneheart character dossier](../characters/jaime-brienne-stoneheart.md) owns moral/oath choices and first-scene alternatives; the [Frey death-news receipt ledger](frey-death-news-darry-riverrun-seagard-winterfell-transmission-audit.md) owns Oldstones→Darry and Ryman report provenance; [Red Wedding individuals](frey-red-wedding-participation-absence-knowledge-and-witness-ledger.md) owns Frey culpability; [information handoffs](information-handoffs.md) owns cross-theater summary. Do not overwrite other agent's sequential book/chapter notes.
+- Source reread on 2026-10-17 directly in owner-provided intact five-book EPUB (SHA-256 `cf12ce6d586a9b2717b6cefe373515d454f805b9b6193cde544c8abf028e61b8`) and corresponding GitHub Markdown. Source names below use EPUB-local **narrative** chapter numbers; `text/NNN` filenames are one higher. Narration, reported accounts, theories, and possibilities kept separate; no long quotations.
+- Evidence definitions: `POV-OBSERVED` = actual dialogue/scene from viewpoint, `RECEIVED REPORT` = character hears a speaker's characterization, `RUMOR` = reported by distant people or unknown witness, `READER-ONLY` = information from a different POV unavailable to Jaime, `INTERPRETATION` = a possible explanation, `UNKNOWN` = no on-page fact or reply.
+
+## Executive finding — Jaime knows there is a Stoneheart, not that Stoneheart is Catelyn
+
+Jaime **does not walk into ADWD 48 utterly unaware of a woman called Stoneheart**. He has three progressively stronger **named or descriptive pieces of outlaw intelligence**:
+
+1. **[AFFC 30 (Jaime), Darry](../../Source/Main-Series/04-A-Feast-for-Crows/text/031-jaime.md)**: **Mariya Frey**, widow of Merrett, reports that the **Oldstones** outlaws include a **hooded, scarred woman** whom peasants said led them, alongside descriptions of **a one-eyed man and a yellow-cloaked man**. Jaime questions the report and asks how far Black Walder's hound-led party tracked them. **Mariya does not identify her as Catelyn or use `Stoneheart` in this passage.** `DESCRIPTION RECEIVED / IDENTITY UNKNOWN`.
+2. **[AFFC 44 (Jaime), Riverrun](../../Source/Main-Series/04-A-Feast-for-Crows/text/045-jaime.md)**: **Walder Rivers** says **Ryman Frey** was hanged near Fairmarket and proposes **Beric, Thoros, or “this woman Stoneheart”** as possible perpetrators. Jaime hears the name and assesses the danger of killing an heir near the Twins, **not the woman's original identity**. `NAME RECEIVED / RESPONSIBILITY SUGGESTED BUT UNVERIFIED`.
+3. **[ADWD 48 (Jaime), Raventree Hall](../../Source/Main-Series/05-A-Dance-with-Dragons/text/049-jaime.md)**: In person Jaime **names Stoneheart** alongside Beric, Thoros, Sandor Clegane and Brynden Tully as outlaws who must not be sheltered by **Tytos Blackwood**. Jaime threatens to execute **Hoster Blackwood**, his new young hostage, if Blackwood assists any of them. `POV-OBSERVED ACTIVE POLICY / IDENTITIES NOT EQUATED`.
+
+**No narrated Jaime POV supplies the leap `hooded scarred woman = Stoneheart = resurrected Catelyn Stark`.** The **reader** has long since witnessed Catelyn/Stoneheart at [ASOS Epilogue (Merrett)](../../Source/Main-Series/03-A-Storm-of-Swords/text/082-epilogue.md); **Brienne** is personally brought before her in [AFFC 42](../../Source/Main-Series/04-A-Feast-for-Crows/text/043-brienne.md). They do not thereby inform Jaime. Nor does Jaime's listing Stoneheart with Beric and the Hound mean he understands her current leadership, her demand to kill him, or her actual relationship to those groups.
+
+## 1. What the outlaws look like from Jaime's side
+
+| Scene and independent chapter source | Jaime personally receives / acts upon | What remains **outside his knowledge** |
+| --- | --- | --- |
+| **Darry — AFFC 30** [text](../../Source/Main-Series/04-A-Feast-for-Crows/text/031-jaime.md) | Reports of **Merrett and Petyr Pimple hanged**, Mariya's **scarred hooded woman**, a **one-eyed man**, a **yellow-cloaked man**. Mariya's account says **Lord Vypren** pursued one group to Fairmarket, **Black Walder** another to Hag's Mire and toward the Neck. | Names and true purpose of the woman; that she is the supposedly dead Catelyn; first-person proof of Black Walder's diligent hunt; direct sight of any perpetrators. |
+| **Riverrun — AFFC 44** [text](../../Source/Main-Series/04-A-Feast-for-Crows/text/045-jaime.md) | Walder Rivers **reports** that Ryman and escort were hanged; attributes act hypothetically to Beric, Thoros or **Stoneheart**. Edwyn suspects Black Walder informed on their father. | Actual killer(s) of Ryman, proof of informant, **whether this named Stoneheart is Mariya's hooded woman**. |
+| **Raventree — ADWD 48** [text](../../Source/Main-Series/05-A-Dance-with-Dragons/text/049-jaime.md) | Jaime invokes Stoneheart among possible rebels when demanding Blackwood's submission; uses hostage **Hoster** as enforcement. He hopes on the return march that he might find the **Blackfish** or lure **Beric**. | Neither confirmation that Blackwood sheltered Stoneheart nor any realized attack; a presumed united command of Beric, Thoros, Sandor and Stoneheart would be invented. |
+| **Pennytree — ADWD 48** [text](../../Source/Main-Series/05-A-Dance-with-Dragons/text/049-jaime.md) | Brienne appears **visibly injured and bandaged**, has **Oathkeeper**; she says she has found the girl and she is a day's ride away, but Jaime **must come alone** because `the Hound` would otherwise kill her. | Why Brienne was hurt beyond her reply `a bite`; whether Sansa is there, whether any Hound really threatens the girl, the relation to Stoneheart, whether Jaime agrees to leave with her. |
+
+**Meaning of the Riverrun quotation:** `Stoneheart` is named as an alternative *suspect*, not a settled verdict. Jaime’s later use of the name shows the reported category has become part of his own political language, not that he authenticated the death by a scarred woman or uncovered Catelyn's resurrection.
+
+## 2. Brienne hears a stronger rumor before meeting the truth
+
+- **[AFFC 25 (Brienne), Maidenpool](../../Source/Main-Series/04-A-Feast-for-Crows/text/026-brienne.md):** **Randyll Tarly** names an outlaw woman **Stoneheart** separately from Beric and the red priest, while guessing the Hound's allies/whereabouts. **Ser Hyle Hunt** relays a **wild folk tale** that the woman was Beric's lover, was hanged by Freys, then brought back by Beric's kiss. Hyle’s identification of the woman as a *lover* is **rumor**; it is not Catelyn's true history. `BRIENNE HEARS RUMOR / NO IDENTIFICATION VERIFIED YET`.
+- **[AFFC 42 (Brienne)](../../Source/Main-Series/04-A-Feast-for-Crows/text/043-brienne.md):** Brienne is brought before the woman herself and **recognizes Catelyn**. **Thoros**, an actual surviving participant, reports **Catelyn lay dead for three days**, he refused Harwin's appeal to attempt the kiss of life after so long, and **Beric gave Catelyn his own life**. Brienne's direct sight of the revived woman plus Thoros's account **upgrades the identity**, not every theological detail as an independent scientific fact.
+- **[ASOS Epilogue (Merrett)](../../Source/Main-Series/03-A-Storm-of-Swords/text/082-epilogue.md):** The Merrett POV independently shows the silent woman called Lady Stoneheart at the Oldstones hanging. **The readers' identification can be confirmed across Brienne and Merrett**, but neither sends Jaime the news.
+- **Critical difference**: Jaime hears a **physical description** and then a **name**; Brienne gains **direct personal recognition and a participant explanation**. That explains why a truthful warning to Jaime would involve extraordinary information he has not yet accepted. No five-book passage depicts that disclosure before Brienne proposes their isolated trip.
+
+## 3. There are several different men (and stories) called “the Hound”
+
+The ADWD 48 line mentioning the Hound **is not straightforward evidence that Sandor Clegane guards Sansa**.
+
+1. **[AFFC 31 (Brienne), Quiet Isle](../../Source/Main-Series/04-A-Feast-for-Crows/text/032-brienne.md)**: The **Elder Brother** tells Brienne **Sandor Clegane** is dead or at rest, and strongly distinguishes him from the monstrous **helm-wearing raider of Saltpans**. His description includes a claim that the Hound *never had Sansa*. How literally to read “Sandor dead” as physical death versus identity/religious renunciation is debatable; the old man is a **speaker**, not a narrator certifying a corpse.
+2. **[AFFC 37 (Brienne)](../../Source/Main-Series/04-A-Feast-for-Crows/text/038-brienne.md)**: The inn fight establishes a raider **Rorge** temporarily wore the infamous **Hound helm** and was slain by Brienne; she was horrifically bitten by **Biter**, the actual cause of her visible later wound.
+3. **[AFFC 42 (Brienne)](../../Source/Main-Series/04-A-Feast-for-Crows/text/043-brienne.md)**: **Lem Lemoncloak** has taken that same **Hound helm off Rorge's corpse**. Brienne **recognizes it**; Lem **admits he took it** and argues that wearing it frightens foes. **Thoros rebukes him** for assuming Sandor/Rorge's violent public identity. This is `POV-SEEN HELM TRANSFER`, not speculation that Sandor joined Stoneheart.
+4. **[ADWD 48 (Jaime)](../../Source/Main-Series/05-A-Dance-with-Dragons/text/049-jaime.md)**: Brienne says **the Hound** would kill **the girl** unless Jaime travels alone. Reader knows Lem has adopted the Hound's terrifying visual identity and Brienne has actually met Lem in Stoneheart's band. Yet the sentence **does not specify which human being** Brienne intends to evoke, nor prove a child is presently threatened. **Calling it an objectively truthful statement about Lem holding Sansa would be a false upgrade.**
+
+**Competing interpretations:**
+- `LIKELY STRATEGIC DECEPTION`: Brienne uses the terrifying **Hound** label to force Jaime to come alone and satisfy Stoneheart's demand. This requires no claim that Sansa is really near.
+- `PARTIAL LITERAL REFERENT`: the threatening `Hound` might be **Lem acting under the helm**, consistent with Brienne's firsthand knowledge of his conduct. **The girl and threat remain unverified**.
+- `STRAIGHTFORWARD SANDOR CAPTOR`: directly conflicts with the stronger available Brienne/Quiet Isle/helm evidence and needs major additional source support. **Do not adopt**.
+
+An especially important authorial mechanism is the **misleading public name**. Mariya's hooded *woman* and Jaime's `Stoneheart` could be one person but are not joined by his own knowledge; **Sandor** and his **Hound** persona demonstrably separate on-page. Jaime walks into the final conversation with *both* identity maps incomplete.
+
+## 4. Why Brienne's proposal is so dangerous (and why its outcome is not yet narrated)
+
+**[AFFC 42 (Brienne)](../../Source/Main-Series/04-A-Feast-for-Crows/text/043-brienne.md)**:
+- Brienne carries **Oathkeeper**, the Lannister-forged sword Jaime gave her, and **Tommen's sealed authorization**. Stoneheart's followers treat the lion iconography and papers as signs of betrayal of Catelyn, while Brienne argues Jaime saved her and sent her to find Sansa in fulfillment of his oath.
+- **Stoneheart specifically demands Jaime Lannister**: Brienne is told to **kill the Kingslayer with Oathkeeper** or be hanged. Brienne **refuses this binary**. Stoneheart orders **Brienne, Podrick and Hyle** hanged.
+- At the gallows Brienne sees **Podrick choking** and **screams a single word**, whose exact text is not revealed. Therefore `WORD CHOSEN = SWORD`, `OATH OF ASSASSINATION COMPLETED`, `PODRICK/HYLE FREED`, and `JAIME DELIVERED` are **not** primary-text facts. Her subsequently appearing **alive with Oathkeeper** in ADWD 48 demonstrates she survived and had the sword again, **not the details of how the hostage ultimatum was resolved**.
+- **Thoros** shows unease with the band's severity and warns that even seemingly holy missions have hardened, but **does not visibly overrule Stoneheart's command**. `DIFFERENT BROTHERHOOD ATTITUDES / NO OBSERVED MUTINY`.
+
+**[ADWD 48 (Jaime)](../../Source/Main-Series/05-A-Dance-with-Dragons/text/049-jaime.md)**:
+- Jaime is at **Pennytree** after visiting Raventree Hall, with **his armed contingent, pages and new hostage Hoster Blackwood**. He has **not** thrown away his command or voluntarily surrendered himself.
+- Brienne appears during the night after **two men ride back with a woman they took into custody**. Jaime notes her striking new injuries and asks after them. She explains only that she was **bitten**, touches **Oathkeeper**, and invokes his mission to find “the girl.”
+- Brienne claims **the girl is a day away** and **Jaime must travel alone** lest the **Hound** kill her. He **asks where the girl is** and hears the response; the **chapter ends there**. **No answer to her lone-escort demand, no departure, no exposure of the alleged hostage, and no meeting with Stoneheart** appears in the five-book endpoint.
+
+### Personal pressures that could govern Jaime's next choice (conditional, not canon)
+
+| Pressure in Jaime's on-page circumstances | Testable near-term choice / important objection |
+| --- | --- |
+| **Jaime thinks of Brienne and Sansa shortly before she appears (ADWD 48)** | He has a real emotional and oath-driven motive to listen. **Having a motive to believe does not mean he is shown believing the new claim or consenting.** |
+| **Brienne returns visibly wounded, with the old lion-pommel sword** | Injury may support the danger story, while an inexplicable bite + missing details could raise doubts. The reader knows Biter caused the wound; Jaime has not been told that. |
+| **Jaime already lists Stoneheart as a regional enemy** | He might connect a new ambush to outlaws, but **has not identified her as Catelyn**. A conclusion he possesses the resurrection secret is invented. |
+| **Jaime has a garrison/hostage responsibility** | Leaving **alone** would alter who protects Hoster Blackwood and who commands the column. **No handoff and no departure shown**. |
+| **Brienne is under apparent coercive pressure from Stoneheart's command** | Jaime could challenge her story, seek proof, bring an escort, or refuse; each choice potentially endangers Podrick/Hyle. **Their current keeper, safety, location, and any actual bargain are unshown.** |
+| **Jaime has just threatened Tytos with Hoster's head** | A confrontation about vengeance, innocents and oaths would test Jaime's growth amid continued hostage-taking, not permit simple redemption. [Character choice owner](../characters/jaime-brienne-stoneheart.md). |
+
+## 5. Potential authentication tests / falsifiers
+
+1. **Does Jaime recognize the scarred woman described at Darry as Catelyn?** No on-page recognition through ADWD 48. New proof would require an explicit exchange, the woman's appearance before him, or a trusted witness explanation.
+2. **Which person is “the Hound” in Brienne's line?** **Lem wearing Sandor's helm** is a concrete candidate she knows; **Sandor personally holding Sansa** is not shown. Need location, wearer and captive separately.
+3. **Has Brienne found Sansa?** No independent sighting of Sansa with her. In the five novels Sansa's actual POV remains in the Vale; the claim in Jaime's final chapter is **unsupported in Brienne's own earlier POV**.
+4. **Which person lives because Brienne screamed?** **Brienne lives into ADWD 48.** Podrick and Hyle are not independently shown alive or dead after their gallows scene, nor are the exact terms stated.
+5. **Who currently controls the conditions of the lure?** Stoneheart previously dictated the sword-or-noose ultimatum; ADWD 48 has **Brienne**, not Stoneheart, speaking the exact Hound warning. A fictionalized verbatim script from Stoneheart to Brienne would exceed evidence.
+6. **Does Jaime go?** The written narrative **stops with Brienne's request**. An outline may branch, but neither `JAIME DEPARTS` nor `JAIME IS CAPTURED` is canon.
+7. **Can any known follower identify the resurrected Catelyn to Jaime?** **Thoros, Lem, Gendry, Harwin and Brienne** have differing verified levels of contact and interests, but **no one is narrated delivering a statement to Jaime**.
+
+## Source-tested interpretation
+
+At the Red Wedding, Jaime's innocent-sounding request that Roose pass his regards to Robb is later used in the killer's taunt; now his genuine promise to help Catelyn's surviving daughter is turned into a reason to isolate him. The symmetrical irony is **interpretive**, not documentation that Jaime aided Robb's murder or that Brienne freely betrays him.
+
+**Most defensible outcome-independent claim:** **Jaime knows enough to have heard the names of dangerous outlaws and recognize a threat in the Riverlands, yet not enough to identify his specific personal enemy. Brienne knows exactly who the enemy is but has strong coercive reasons not to say so.** That knowledge asymmetry, the transferrable Hound identity, and the unresolved safety of Podrick/Hyle supply a near-term genuine decision fork.
+
+**Disposition:** `AFFC 30 SCARRED HOODED FEMALE/OUTLAW HUNT REPORT RECEIVED`; `AFFC 44 STONEHEART NAME HEARD AS ONE OF SEVERAL RYMAN SUSPECTS`; `ADWD 48 JAIME PERSONALLY NAMES STONEHEART AS OUTLAW`; `JAIME KNOWS CATELYN IDENTITY UNKNOWN/NOT NARRATED`; `AFFC 25 BRIENNE HEARS RESURRECTION FOLKTALE`; `AFFC 42 BRIENNE RECOGNIZES CATELYN / THOROS REPORTS BERIC'S TRANSFER`; `LEM WEARS RORGE'S FORMER HOUND HELM`; `STORY OF SANDOR HOLDING SANSA NOT VERIFIED`; `BRIENNE'S HANGING WORD UNREVEALED`; `PODRICK/HYLE SAFETY UNKNOWN`; `BRIENNE PRESENTS HOUND WARNING AT PENNYTREE`; `JAIME AGREEMENT/DEPARTURE/STONEHEART MEETING UNKNOWN`.
