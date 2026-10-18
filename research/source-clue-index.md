@@ -5154,6 +5154,112 @@
 | C-5059 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Jaime orders Ronnet to address Brienne respectfully by name | Explicit dignity assertion versus earlier jokes |
 | C-5060 | [AFFC 27](../Source/Main-Series/04-A-Feast-for-Crows/chapters/27-jaime.md) | Ronnet answers 'Brienne the Beauty' after complying | Continued insult despite physical intimidation |
 
+| C-5061 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Taena says Hamish the Harper visits fortnightly and Alaric of Eysen performs for Margaery | Attributable performer network, not verified private affair |
+| C-5062 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Blue Bard is Margaery's favorite singer, according to Taena | Court access and possible later testimony |
+| C-5063 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei asks whether Margaery is a maiden rather than about governance | Accusation-seeking bias |
+| C-5064 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Taena claims firsthand view of Renly's sexual arousal at Margaery's wedding | Arousal is not proof of consummation |
+| C-5065 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | No bloodied sheet was shown after Renly wedding | No conclusive virginity evidence |
+| C-5066 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei speculates riding horses affects maidenhood | Misconception, not diagnostic physical test |
+| C-5067 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Taena lists Lambert, Bayard Norcross, Greenhill, Woodwrights, Portifer and Lucantine | Court attendee names; no sexual misconduct shown |
+| C-5068 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Pycelle visits Margaery's company frequently according to Taena | Routine access versus Cersei's suspicion of betrayal |
+| C-5069 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Jalabhar Xho joins Margaery's social circle | Summer Isles/court attendee continuity |
+| C-5070 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Elinor promised to an Ambrose; Megga considers several admirers | Tyrell cousins' marriage network |
+| C-5071 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Megga wants monkey for one-armed Mark Mullendore | Distinctive affection and disabled knight detail |
+| C-5072 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei belittles Mark because of missing arm | Consistent disability prejudice |
+| C-5073 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Taena hints Loras and Margaery share everything | Innuendo, no demonstrated sibling incest |
+| C-5074 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon discards birth name upon elevation | Religious institution identity convention |
+| C-5075 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei recounts Baelor promoting illiterate stonemason to High Septon | Received historical precedent, uncorroborated within chapter |
+| C-5076 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Rumor alleges Baelor's Hand poisoned stonemason septon | Hearsay poisoning, do not substitute for prior current septon's death |
+| C-5077 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei repeats Baelor elevated an eight-year-old alleged miracle worker | Reported miracle and legitimacy manipulation |
+| C-5078 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei contemplates selecting a future High Septon herself | Explicit political ambition to control Faith |
+| C-5079 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei asks Taena to bring Russell Merryweather to court | Proposed proximity to Tommen, no agreed fosterage |
+| C-5080 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Taena hesitates because Russell knows only Longtable | Resistance to court integration and possible leverage |
+| C-5081 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei imagines Tommen-Russell friendship paralleling Robert-Ned | Alliance hope; child relationship not achieved |
+| C-5082 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei calls Joffrey lonely and searching Sandor for father figure | Maternal retrospective claim, not proven motive |
+| C-5083 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei remembers aunt's lioness lesson at her own arrival to court | Formative elite worldview |
+| C-5084 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei remembers Melara falling into well | Ambiguous death reference; no killer identified here |
+| C-5085 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Joffrey's dying appeal revives Maggy's prophecy and valonqar fear | Fear driven by memory, not validation of interpretation |
+| C-5086 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Sparrows physically obstruct Cersei's procession | Mass gathering impacts sovereign access |
+| C-5087 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei orders gentle clearing to avoid another riot | Tactical crowd-management restraint |
+| C-5088 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei treats Aegon I's Oldtown anointing as legitimacy ritual | Instrumental view of Faith despite disbelief |
+| C-5089 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Debt repayments to Faith/Iron Bank still suspended for naval construction | Policy continuity from AFFC 17 |
+| C-5090 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei attributes Rosby's worsening bloody cough to Braavosi pressure | Causal assumption, separate observed illness |
+| C-5091 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Flagship planned as Lord Tywin with twice Robert's Hammer oars | Projected ship specifications, not sea trial |
+| C-5092 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Sweet Cersei planned with gilded armored queen figurehead | Political naval iconography |
+| C-5093 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Brave Joffrey, Lady Joanna and Lioness among ship names | Dynastic fleet naming plan |
+| C-5094 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Queen Margaery, Golden Rose, Lord Renly and Lady Olenna named by Tommen | Family naming and patronage gesture |
+| C-5095 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Tommen's Moon Boy ship name overruled in favor of Princess Myrcella | Child's limited influence and court control |
+| C-5096 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Hundreds of sparrows camp in plaza/gardens/steps | Actual scale of displaced religious protest |
+| C-5097 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Osfryd Kettleblack currently commands gold cloaks | Political staffing despite Pycelle's objections |
+| C-5098 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Pycelle objects Osfryd lacks seasoned military competence | Institutional caution versus queen's favoritism |
+| C-5099 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei sought Dornish master-at-arms to antagonize Tyrells | Unfilled appointment and explicit motive |
+| C-5100 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei walks among sparrows with Osmund and Meryn | Royal exposure to mobilized crowd |
+| C-5101 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei's old gown now tight at waist | Ordinary clothing change, not pregnancy proof |
+| C-5102 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei recalls brief happy wedding moment ended by seeing Jaime | Family dynamics and court public memory |
+| C-5103 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Baelor's statue surrounded by skulls and mortal remains | On-page death display, provenance separate |
+| C-5104 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | One-legged sparrow says bones belong to slaughtered religious people | Witness relay, individual source unknown |
+| C-5105 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Sparrows report violated Silent Sisters and burned septs | Grave allegation, avoid definitive perpetrator attributions |
+| C-5106 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei blames crimes on Stannis, witch and northern worshipers | Political accusation contradicts broader evidence |
+| C-5107 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | One-legged spokesman asks protection of living, not revenge for dead | Distinct remedial demand |
+| C-5108 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Star-painted sparrow questions Tommen's kingly legitimacy | Popular test of actual protection |
+| C-5109 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Another sparrow asks Kingsguard to defend Faith over worldly masters | Religious-sovereign authority conflict |
+| C-5110 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei prevents Meryn sword draw to avoid crowd retaliation | Measured tactical calculus |
+| C-5111 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Armed men wear red star surcoats before formal Militant repeal | Preexisting armed religious network |
+| C-5112 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Sept guards refuse King's Guard swords inside Great Sept | Faith controls weapons in sacred territory |
+| C-5113 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Raynard compelled to scrub floor until hands blister | New internal clergy disciplinary hierarchy |
+| C-5114 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | New High Septon barefoot and personally scrubbing floor | Ascetic manual-service example |
+| C-5115 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | New High Septon calls work prayer pleasing to Smith | Potential thematic link with Meribald |
+| C-5116 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Torbert reportedly confined on bread and water for gluttony | Harsh ascetic enforcement |
+| C-5117 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon demands royal humility before Seven | Competition over hierarchical authority |
+| C-5118 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Crystal-and-gold crown Tywin donated no longer worn | Visible break with prestige display |
+| C-5119 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon says luxury treasures sold to feed poor | Attributable charitable disposition claim |
+| C-5120 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Qyburn informers report Luceon nine votes short before crowd entered | Uncorroborated electoral pressure account |
+| C-5121 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Mother and Maid altars crowded with candles unlike Stranger's | Observed devotional pattern |
+| C-5122 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Hedge knights pray with stacked swords at Warrior altar | Martial readiness exists before royal permission |
+| C-5123 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon and Cersei kneel at Crone altar to negotiate | Public rank inversion through ritual |
+| C-5124 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon says refugees have no surviving homes to return to | Mass-displacement response |
+| C-5125 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon says he tended fifty destroyed villages | Personal testimony linking movement to war |
+| C-5126 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon treats Ned execution as defilement of sept plaza | Religious challenge to royal violence |
+| C-5127 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei insists Ned a traitor but execution should occur elsewhere | Partial ceremonial regret, not remorse for killing |
+| C-5128 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei privately remembers Baelor imprisoning his sisters | Alternative view of sanctified royal history |
+| C-5129 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei remembers hurting infant Tyrion upon hearing Baelor story | Cruel childhood memory |
+| C-5130 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon reports lion-marked bands among predators | Contradicts exclusive Stannis/northern blame |
+| C-5131 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon relays Saltpans septon killing and abused novice attributed to Hound | Severe testimony, Hound identity unverified |
+| C-5132 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei claims Sandor dismissed from Lannisters and now serves Beric | Present allegiance asserted without verification |
+| C-5133 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon invokes Jaehaerys protective vow to Faith | History testimony requiring independent check |
+| C-5134 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei agrees to Jaehaerys vow though privately ignorant | POV admits expedient assertion |
+| C-5135 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon says Tommen's blessing delayed, not refused | Distinguish ceremonial lag from categorical opposition |
+| C-5136 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon recalls Oldtown High Septon fasting before submission to Aegon | Historical precedent claimed by interested priest |
+| C-5137 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon reports prophetic vision of Oldtown burning on resisting dragons | Attributed prophecy, source not direct historical witness |
+| C-5138 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei imagines starving new priest and treating him like predecessor | Suggestive admission, mechanism and responsibility unproved |
+| C-5139 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon asks what protective force Tommen can supply | Operational gap beneath ceremonial promises |
+| C-5140 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei refuses diverting royal soldiers to defend clergy | Military prioritization |
+| C-5141 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon cites Maegor laws barring Faith from arms | Legal hurdle and religious grievance |
+| C-5142 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei proposes reversing Maegor's restrictions | Contemporary revolutionary institutional decision |
+| C-5143 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon asks restoration of Sword and Star orders | Priest's explicit bargain objective |
+| C-5144 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Faith debt precisely 900674 dragons in High Septon's account | Quantified fiscal stake, not rounded estimate |
+| C-5145 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon verbally offers remission of Faith debt | Promised agreement; paperwork still future |
+| C-5146 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | High Septon promises blessing to Tommen | Expected ritual not yet enacted |
+| C-5147 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei promises decree signed and sealed by Tommen | Royal authorization intended; signature not shown |
+| C-5148 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei expects sparrows to leave city without verifying | Overconfident predicted crowd behavior |
+| C-5149 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Warrior's Sons described as land-renouncing knights with silver arms and rainbow cloaks | Reported institutional heritage |
+| C-5150 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Poor Fellows described as numerous armed itinerant commoners marked with red stars | Mass mobilization capacity |
+| C-5151 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Legends call Faith Militant dragon slayers and sorcerers | Attributed reputation, not established magic |
+| C-5152 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei expects revived Faith to target Stannis and Melisandre | Unenforceable targeting assumption |
+| C-5153 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei and Taena celebrate apparent success with hippocras | Confidence distinct from implementation |
+| C-5154 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Margaery outing group includes Blue Bard, Loras, Redwynes, Jalabhar and cousins | Cross-social networks and visible escort |
+| C-5155 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Margaery markets public outings with alms, street trade and riding | Public legitimacy practice, motive open |
+| C-5156 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Tommen wants to mingle with smallfolk for their affection | Developing independent political intuition |
+| C-5157 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei uses Myrcella riot and High Septon lynching to block Tommen's excursions | Security memory used to maintain control |
+| C-5158 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei turns Gardener coin into claim Tyrells paid gaolers to free Tyrion | Reader-refuted source inference |
+| C-5159 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei thinks Tyrion and Sansa sheltered at Highgarden | Reader refutation: Sansa in Vale |
+| C-5160 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Jaime knows gaoler Rugen was Varys, contradicting Cersei's theory | Independent cross-POV evidence |
+| C-5161 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Margaery offers to share governing burdens and quell rivalry | Diplomatic offer, sincerity and strategy open |
+| C-5162 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei recalls Robert hunting excursions facilitated Jaime intimacy | Unreliable public presentation of marriage |
+| C-5163 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei warns Margaery forests can conceal fatal danger | Veiled threat without current action |
+| C-5164 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Margaery says Loras protects her, triggering Cersei's incest insinuation | Cersei projection, not verified incest |
+| C-5165 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei concludes chapter promising Margaery will share her joke | Threatening private plan without execution |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -5161,4 +5267,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fifty-four first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fifty-five first-pass chapters listed in the coverage tracker.
