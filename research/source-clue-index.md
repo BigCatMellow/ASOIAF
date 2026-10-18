@@ -5475,6 +5475,108 @@
 | C-5377 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime accuses Payne without evidence of intimacy with Cersei | Jealous projection |
 | C-5378 | [AFFC 30](../Source/Main-Series/04-A-Feast-for-Crows/chapters/30-jaime.md) | Jaime invites Payne to kill him in practice | Angry combat challenge, not depicted suicide |
 
+| C-5379 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Quiet Isle sits ~0.5 mile from shore at Trident mouth | Site and ferry geography |
+| C-5380 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Terraced crops fishponds mill sheep and storks establish island self-provisioning | Productive sanctuary amid war |
+| C-5381 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Saltpans visible across bay north of Quiet Isle | Direct route, next-day crossing only proposed |
+| C-5382 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Tide exposes broad quicksand-prone mudflats | Physical access constraint |
+| C-5383 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Narbert as proctor may speak one day in seven | Order silence rule exception |
+| C-5384 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Meribald disputes Silent Sisters tongues being removed | Vows of silence differ from physical mutilation |
+| C-5385 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Path of faith winds 1.5 miles for apparent half-mile crossing | Concealed safe route through tidal mud |
+| C-5386 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Meribald probes mud with quarterstaff | Natural guidance mechanism competes with piety rhetoric |
+| C-5387 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Dog follows tightly and captures pinch-crab | Animal behavior and environment |
+| C-5388 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Footprints immediately fill with water on quicksand route | Limited retracing/following |
+| C-5389 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Brother Narbert last saw Meribald nearly year earlier | Circuit timing continuity |
+| C-5390 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Quiet Isle welcomes Brienne despite rarity of female visitors | Healing care and gender segregation |
+| C-5391 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Narbert says Elder Brother cures some patients maesters could not | Attributed treatment reputation not magic proof |
+| C-5392 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Brienne names Hound as quarry and grips Oathkeeper | Purpose declared to religious witnesses |
+| C-5393 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder Brother reportedly saw party approach over mud | Surveillance from island, no supernatural detection |
+| C-5394 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Large black stallion kept well apart in stable | Distinct animal with later Sandor linkage |
+| C-5395 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Horse named Driftwood kicks Rawney breaking shin | Persistent unbroken destrier behavior |
+| C-5396 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Horse bites off Brother Gillam's ear during attempted gelding | Specific injury confirming danger |
+| C-5397 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Hyle jokes at violence, Narbert emphasizes Smith's work ethic | Knightly versus penitent framework |
+| C-5398 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Brothers churn butter herd sheep tend cows and gardens | Daily labor infrastructure |
+| C-5399 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Oversized novice gravedigger moves with evident limp | Sandor-gravedigger theory primary observation |
+| C-5400 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Gravedigger bows head after reprimand | Silent humble conduct, no identification |
+| C-5401 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Gravedigger drops spade and scratches Dog's ear | Gentleness and animal interaction |
+| C-5402 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Gravedigger works grave for Brother Clement | Mundane burial assignment |
+| C-5403 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Clement forty-eight died of Saltpans wounds | Immediate local martyr victim |
+| C-5404 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Clement sold septry mead in Saltpans market | Island-town trade route |
+| C-5405 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Raider cut Clement's tongue for maintaining vow of silence | Attributed cruelty; actor unnamed |
+| C-5406 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Narbert says some residents have invisible wounds | Trauma beyond bodily damage |
+| C-5407 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Narbert credits prayer for island spared war, Meribald credits tides | Competing explanation of protection |
+| C-5408 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Quiet Isle sept walls, cloister and windmill detailed | Physical institution, not mere symbolism |
+| C-5409 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Hermit's Hole supposedly founded two thousand years ago | Founding claim unverified |
+| C-5410 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder Brother strong forty-four-year-old despite title | Former fighter revealed later |
+| C-5411 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder Brother greets Dog and Meribald warmly | Order interpersonal relations |
+| C-5412 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder Brother's expression changes upon hearing Hound pursuit | Possible prior knowledge inferred |
+| C-5413 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Driftwood furniture forms all sanctum household pieces | Reclaimed sea goods motif |
+| C-5414 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Estuary delivers vessels weapons cloth rusted armor and gems | Material circulation from war/trade |
+| C-5415 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder Brother reports six rubies found, waits seventh | Exact count, origins uncertain |
+| C-5416 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Rubies may be Rhaegar's Trident gems according to Elder | Attribution explicitly uncertain |
+| C-5417 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | AGOT 15 Arya/Mycah sought same scattered battle rubies | Independent motif recurrence |
+| C-5418 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Trident carries Stark Lannister Frey Darry Blackwood Bracken corpses | Faction-neutral burial duty |
+| C-5419 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Children's and women's bodies singled as most grievous | Human cost beyond knights |
+| C-5420 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Septon Bennet slain by raiders | Religious personnel mortality |
+| C-5421 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Confession exempts brothers from silence vows | Ritual silence exception |
+| C-5422 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Brothers own harpist and Seven-Pointed-Star readings at meals | Quiet not total muteness of community |
+| C-5423 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder personally treated rescued Saltpans victims | High-proximity atrocity testimony |
+| C-5424 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder reports castle spared but town burned | Matches Arwood site testimony |
+| C-5425 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder describes dying raped mutilated survivor | Medical witness to physical injury |
+| C-5426 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Dying woman blamed Quincy Cox for refusing sanctuary | Victim's own moral accounting via caregiver |
+| C-5427 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Meribald notes Cox old with absent sons and young grandsons | Practical limits to knightly duty |
+| C-5428 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Brienne thinks true knight should defend even at cost of life | Distinct oath ethic |
+| C-5429 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder admits cannot forgive Ser Quincy Cox | Guilt and mercy tension |
+| C-5430 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Fish stew honey butter cider and mead served | Self-sufficient production |
+| C-5431 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Brienne sees same large lame novice serving at dinner | Gravedigger identity clue repeat |
+| C-5432 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Podrick wants to stay with Brienne but celibate lodging prohibited | Gender rule and protector dependence |
+| C-5433 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Brienne placed alone in women's windowless round stone cottage | Private discussion context |
+| C-5434 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Saltpans night fires once visible from eastern isle slope | Visual line to ruined town |
+| C-5435 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Fisherfolk fled Saltpans after watching raid from boats | Potential direct witness network |
+| C-5436 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Survivor fishermen buried kin and resettled in Maidenpool | Displacement and future trail |
+| C-5437 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder proposes raiders sought vessel to cross Narrow Sea | Reconstructed motive not directly confessed |
+| C-5438 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | No usable ship at Saltpans according to Elder | Failure triggers alleged destructive rampage |
+| C-5439 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Brienne identifies quarry as thirteen-year-old auburn-haired Sansa | Wrong wolf inference explicitly laid out |
+| C-5440 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder says Sandor traveled with younger daughter Arya | Important on-page correction |
+| C-5441 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder identifies old Masha Heddle crossroads inn | Precise place with prior Arya/Sandor battle |
+| C-5442 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder says Arya and Sandor set course toward Saltpans | Statement consistent with ASOS 74 |
+| C-5443 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder fears Arya among Saltpans child dead | Reader knows Arya in Braavos |
+| C-5444 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder says Hound dead and buried | Explicit eyewitness claim but corpse unobserved by Brienne |
+| C-5445 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder says Sandor begged for mercy during fever | Matches prior Arya farewell |
+| C-5446 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder bound by vow not to kill again | Personal renunciation and moral choice |
+| C-5447 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder applied river water wine and poultice to Sandor | Specific claimed treatment |
+| C-5448 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder says he marked Sandor cairn with his helmet | Grave-marker provenance account |
+| C-5449 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Unknown wayfarer allegedly stole helm from cairn | Identity transfer mechanism |
+| C-5450 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Saltpans killer wore Hound helm but not Sandor per Elder | Strong insider testimony, perpetrator unknown |
+| C-5451 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Black stallion Driftwood identified as Sandor's Stranger | Physical link to wounded Sandor |
+| C-5452 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Stranger's biting and kicking consistent with warhorse training | Ordinary training explanation |
+| C-5453 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder describes Sandor hate against Gregor as chief identity | Psychological claim subject to POV limitations |
+| C-5454 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder says Gregor's poisoned fate deprived Sandor of vengeance | Motivation theory rather than witnessed reaction |
+| C-5455 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder alternates Hound died with Sandor at rest | Potential literal versus figurative language |
+| C-5456 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Very large lame novice could be Sandor in healing disguise | THEORY with incomplete identity proof |
+| C-5457 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Novice may simply be unrelated wounded penitent | Competing ordinary explanation |
+| C-5458 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder admits previous hereditary knighthood | First-person past identity |
+| C-5459 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder admits rape and drinking in former life | Moral culpability confessed |
+| C-5460 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder loved petty lord's daughter but lacked land as third son | Personal class and marriage experience |
+| C-5461 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder fought for Rhaegar through chains of fealty | Civil-war soldier agency limits |
+| C-5462 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder had thigh and foot pierced by arrows | His own battle wounds |
+| C-5463 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder horse died and head blow sent him into Trident | Near drowning and personal transformation |
+| C-5464 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder says was found naked after river carried him to Quiet Isle | Rebirth metaphor not confirmed supernatural resurrection |
+| C-5465 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder undertook ten years of monastic silence | Documented duration in self-report |
+| C-5466 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder describes his earlier life as ending at Trident | Text-internal analogy for identity death |
+| C-5467 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder predicts Tarly Frey and Darry will pacify outlaws | Unverified forecast of order |
+| C-5468 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder asks Brienne to consider Selwyn prefers living daughter | Direct moral challenge to suicidal vow |
+| C-5469 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Brienne names Galladon drowned at eight when she four | Family loss and childhood |
+| C-5470 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Brienne names Alysanne and Arianne infant sisters dead | House Tarth succession sorrow |
+| C-5471 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Brienne says sole surviving child feels unfit son or daughter | Internalized shame |
+| C-5472 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Brienne discloses Ronnet's insulting rose and Renly's gallantry | Personal source chain |
+| C-5473 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Brienne recounts Hyle wager and Renly's murder by shadow | Traumatic history disclosed to priest |
+| C-5474 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Brienne recounts Jaime's sapphires bluff bath and bear rescue | Cross-POV protective actions |
+| C-5475 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Brienne recounts Nimble Dick and deaths at Whispers | Moral injury and oath costs |
+| C-5476 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Brienne states vow to Catelyn and Jaime binds her | Recommitment after false Sansa lead |
+| C-5477 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Brienne says she must save Sansa or die trying | Deliberate risk acceptance |
+| C-5478 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Elder knows details of Brienne's mission but future discretion unknown | Information-security follow-up |
+| C-5479 | [AFFC 31](../Source/Main-Series/04-A-Feast-for-Crows/chapters/31-brienne.md) | Next day ferry to Saltpans still not observed | Chapter boundary and checkpoint |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -5482,4 +5584,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fifty-seven first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fifty-eight first-pass chapters listed in the coverage tracker.
