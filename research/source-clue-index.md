@@ -5896,6 +5896,112 @@
 | C-5794 | [AFFC 34](../Source/Main-Series/04-A-Feast-for-Crows/chapters/34-cat-of-the-canals.md) | Arya dreams of a lone wolf prowling foggy Braavosi rooftops | Unusual dream geography and pack absence |
 | C-5795 | [AFFC 34](../Source/Main-Series/04-A-Feast-for-Crows/chapters/34-cat-of-the-canals.md) | Arya wakes blind after drinking the milk | Confirmed result; cause, permanence and mechanism remain unknown |
 
+| C-5796 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | The Cinnamon Wind is a Summer Island swan ship from Tall Trees Town | Named vessel, nationality and unusual absence of Westerosi septon |
+| C-5797 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon's shipboard funeral occurs far offshore near Dorne in a dead calm | Location and ceremonial circumstances, not an Oldtown death |
+| C-5798 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam wears Night's Watch black while delivering Aemon's eulogy | Service identity visibly maintained |
+| C-5799 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam praises Aemon as both maester and faithful sworn brother | Direct obituary from someone who knew him |
+| C-5800 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam recalls Aemon declining a crown in favor of younger brother Egg | Dynastic renunciation, narrated by Sam not reproduced succession vote |
+| C-5801 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam calls Aemon a dragon whose fire is gone | Figure of speech for confirmed death, not a magical fire extinguished |
+| C-5802 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Gilly and Kojja echo Watch funeral words, latter translating into Summer Tongue | Cross-cultural shared rite |
+| C-5803 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam breaks down crying and Gilly comforts him | Real mutual care amid grief |
+| C-5804 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Summer Islanders honor elders and celebrate dead by sharing spiced rum | Ship crew rite as understood by Sam, not all-islanders universal rule |
+| C-5805 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Xhondo calls deceased maester 'old blind dragon' | Recognition of Targaryen ancestry |
+| C-5806 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam has bleeding blisters, aching limbs and exhaustion from maritime labor | Passage is physically purchased as well as funded by books |
+| C-5807 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam regrets not delivering Aemon to Citadel healers | Counterfactual aspiration, not proven medical rescue |
+| C-5808 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Xhondo's reports of Daenerys's dragons briefly roused Aemon in Braavos | Reported recovery from prior sickbed, not lasting cure |
+| C-5809 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon says earlier interpreters expected a male promised prince | Explicit textual-gender interpretation challenged |
+| C-5810 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon previously believed Rhaegar met the prophecy | His former opinion, not verified prophecy |
+| C-5811 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon associated Rhaegar's birth at Summerhall with fire and tears | Specific smoke/salt symbolism, interpretive |
+| C-5812 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon says Rhaegar later believed his son Aegon fulfilled prophecy | Rhaegar's changed reading as reported by Aemon |
+| C-5813 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon recalls a comet appearing above King's Landing when Aegon conceived | Retrospective reported celestial datum, not eyewitness vision in this chapter |
+| C-5814 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon says the prophetic language was mistranslated or misread as male-exclusive | Philological claim needing original language audit |
+| C-5815 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon invokes Septon Barth's theory that dragons can change sex | Reported dragon biology, no actual dragon observed changing sex |
+| C-5816 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon concludes Daenerys born amid salt and smoke and has living dragons | Strong character belief, not canonically proven promised identity |
+| C-5817 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon expresses desire to reach Daenerys personally | Future intent ended by his death |
+| C-5818 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | The old maester boarded Cinnamon Wind unaided after hearing dragon news | Temporary physical improvement |
+| C-5819 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam gave his sword and scabbard to Xhondo for ruined feather cloak | Specific compensation for rescue after Sam nearly drowned |
+| C-5820 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam surrendered rare Castle Black books as part payment to Quhuru Mo | High-value historical record leaves Watch custody |
+| C-5821 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Quhuru planned to resell books to Citadel at profit | Books may reach Oldtown even though Sam no longer owns them |
+| C-5822 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Captain asked for Aemon's maester chain; Sam refused | Chain retained as identity and institutional property |
+| C-5823 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Quhuru accepted exclusion of chain only after Xhondo translated repeatedly | Language barriers mattered in real negotiation |
+| C-5824 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam retained only boots, black garb, smallclothes and old broken horn after paying | Critical inventory of belongings |
+| C-5825 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Broken horn was the one Jon Snow found at Fist of First Men | Exact original artifact retained; magical identity remains THEORY |
+| C-5826 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | No one blows horn or verifies powers in this chapter | Horn of Winter inference unproven |
+| C-5827 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Party sails via Pentos where Aemon last goes on open deck | Itinerary and physical decline checkpoint |
+| C-5828 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Cinnamon Wind enters Tyrosh past Bleeding Tower with Aemon confused | Second itinerary waypoint |
+| C-5829 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon stops advocating eastward journey and returns to Oldtown/Citadel mission | Changed priority as his condition worsens |
+| C-5830 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon fears Citadel regards his letters as senile ravings | Political/institutional failure despite knowledge |
+| C-5831 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon orders Sam to report wights, Others and creeping cold | Firsthand Watch evidence must be carried to maesters |
+| C-5832 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam promises Aemon he will make archmaesters listen | Future obligation not yet fulfilled |
+| C-5833 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon worries Melisandre misidentified signs and Stannis | Explicit rebuttal from a dissenting Targaryen scholar |
+| C-5834 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon traces Baratheon dragon descent through Rhaelle, Egg's daughter | Genealogical link to Stannis and brothers |
+| C-5835 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Rhaelle remembered calling Aemon 'Uncle Maester' | Personal familial corroboration of ancestry |
+| C-5836 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon acknowledges he may have wanted Stannis to fulfill prophecy | Self-correction and motivated reasoning |
+| C-5837 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon says Stannis's sword produced light without real heat | Support for false-sword/glamour interpretation, not universal anti-magic proof |
+| C-5838 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon calls glowing sword an empty glamor | His identification, potentially corroborated by other POV fire properties |
+| C-5839 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon urges Citadel to send Daenerys a maester | Specific practical plan, not shown accomplished |
+| C-5840 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon says Daenerys needs counseling, teaching and protection | His evaluation of an endangered inexperienced claimant |
+| C-5841 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon acknowledges fear of death despite century of service | Emotional admission, not inconsistency |
+| C-5842 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon weighs Faith afterlife, horse-lord heaven and rebirth possibilities | Open theological uncertainty |
+| C-5843 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon calls wights the only travelers beyond death humans know | Rhetoric; no confirmed knowledge of conscious afterlife from wights |
+| C-5844 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Gilly comforts Aemon by singing a Craster-wife nursery song | Surviving cultural memory and human care |
+| C-5845 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon grows unconscious for long periods and repeatedly loses Sam's name | End-of-life cognitive decline witnessed by Sam |
+| C-5846 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon mentions unnamed dreams, unlit glass candle and unhatched eggs | High-priority cryptic Citadel/dragon clues without firm interpretation |
+| C-5847 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon says the sphinx is the riddle, not the riddler | Distinct enigmatic statement; no referenced person identified here |
+| C-5848 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon requests text of Septon Barth burned under Baelor | Rare lost scholarship problem and knowledge survival |
+| C-5849 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon laments he is too weak to be among three heads of the dragon | Three-heads prophecy and regretted advisory role, not identity of three |
+| C-5850 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | At Stepstones Sam mistakes Aemon for his dead siblings as his mind wanders | Illness timeline, not literal presence of dead brothers |
+| C-5851 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam blames Jon for sending 102-year-old Aemon to sea | Interested grief interpretation |
+| C-5852 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Gilly argues remaining at Wall risked Melisandre burning Aemon for royal blood | Countervailing danger, anticipated not witnessed |
+| C-5853 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Gilly confirms Jon compelled substitution of Dalla's son for her own infant | Cross-check AFFC 15 and future Jon POV |
+| C-5854 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Gilly's own child remains at Wall in place of purported royal infant | Life-threatening information asymmetry |
+| C-5855 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon died in his sleep on the voyage | Death confirmed, not merely terminal illness |
+| C-5856 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Captain forbids burning Aemon's body aboard wooden ship | Practical fire restriction versus Targaryen cremation |
+| C-5857 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Aemon's body is stored in cask of blackbelly rum for burial on reaching Oldtown | Physical remains retained, no cremation on-page |
+| C-5858 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Night before death Aemon held Dalla's infant and laughed when baby touched face | Tender last interaction reported by Gilly |
+| C-5859 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Gilly proposes naming child Aemon Battleborn/Steelsong at age two | Naming intention, not immediately recorded legal name |
+| C-5860 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Gilly attributes battle-born epithet to Dalla giving birth amid swords | Historical circumstance of Mance and Dalla's child |
+| C-5861 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam calls the same child Mance's son and Craster's grandson | Genuine original-EPUB parentage inconsistency requiring audit |
+| C-5862 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | No current primary source makes Craster Dalla's father or Mance's father | Avoid inferring new genealogy from anomalous phrase |
+| C-5863 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Social grandson through Gilly's surrogate motherhood and author error remain alternatives | Disconfirmation necessary; blood phrasing complicates adoption reading |
+| C-5864 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam says child bears none of his own timid blood | His self-judgment, and why 'grandson' wording is especially conspicuous |
+| C-5865 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Gilly insists the child not receive new name before age two | Future naming timing |
+| C-5866 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Kojja Mo takes charge of infant during funeral | Trusted alternate caregiver |
+| C-5867 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Kojja commands ship's red archers and has goldenheart bow | Summer Island naval skill and leadership |
+| C-5868 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam reports Kojja killed about dozen attacking pirates near Stepstones | Her prowess described via Sam, exact casualty tally unverified |
+| C-5869 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam's own arrows fell into sea in combat with pirates | Skill contrast and real danger on route |
+| C-5870 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Summer Islander women cherish the infant and sing in Summer Tongue | Protective network formed independent of Watch |
+| C-5871 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Gilly initially feared Kojja due unfamiliar appearance then grew to trust her | Changing prejudice through repeated humane conduct |
+| C-5872 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam recognizes Gilly's confidence in women relates to Craster's household history | Psychological inference grounded in abuse |
+| C-5873 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam recalls enjoying his sisters' kindness at Horn Hill more than boys' cruelty | Cross-character vulnerability comparison |
+| C-5874 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam and Gilly drink repeated cups to Aemon, both infants and shipmates | Shared heavy intoxication and mourning |
+| C-5875 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Gilly follows Sam to women's quarters and initiates a kiss | On-page mutual intimacy, both drinking |
+| C-5876 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam recalls Watch prohibitions on marriage and children during intimacy | Religious/institutional vow conflict |
+| C-5877 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Gilly describes herself as Sam's wife during the sexual encounter | Character claim, not performed legal marriage |
+| C-5878 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam affirmatively participates but later regards act as oathbreaking | Private consent and subsequent guilt are distinct |
+| C-5879 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam compares his disobedience to Dareon's desertion | Overbroad moral equivalence: Sam did not leave Watch here |
+| C-5880 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam notes Summer Islanders pair sexual joy with funeral mourning | Cultural interpretation, not mandate for all crew |
+| C-5881 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam considers suicide by jumping overboard from shame | Momentary danger/ideation, no attempt depicted |
+| C-5882 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam wakes in own hammock with headache and torn hand blister | Hangover and resumed ship duties |
+| C-5883 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Scent of Gilly on his Watch blacks provokes mixed gladness and guilt | Clothing embodies incompatible loyalties |
+| C-5884 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam develops fungal infection between toes | Concrete physical toll of wet ship life |
+| C-5885 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Quhuru required Sam to work passage for four in addition to book exchange | Dual payment and crew-shortage arrangement |
+| C-5886 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Xhondo oversees Sam's deck scrubbing, chains, ropes, sails, leaks, rats, fish and fruit | Diverse practical shipboard tasks |
+| C-5887 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Gilly contributes labor and is better aloft despite lingering sea fear | Independent capacity, not merely dependent refugee |
+| C-5888 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Swan ship runs swiftly under fair winds but stalls becalmed | Naval limitations, not proof invincibility |
+| C-5889 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam avoids Gilly for a working day after intercourse | Guilt creates harm despite attachment |
+| C-5890 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Xhondo physically brings Sam before Kojja rather than allowing avoidance | Crew intervention, not formal trial |
+| C-5891 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Kojja says northern Dorne is reachable only by hazardous swim and inland trek | Geographical reality used to press reconciliation |
+| C-5892 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Kojja calls shared intimacy a way to honor Aemon's life | Alternative moral framework to Westerosi vows |
+| C-5893 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Kojja touches Sam intimately while urging abandonment of shame | Nonrequested contact; distinguish advocacy from Sam's consent |
+| C-5894 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam recoils and repeats explicit vow against wife and children | Watch commitment not wholly abandoned |
+| C-5895 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Kojja says Gilly knows Sam cannot remain with her | Her claimed insight, not direct Gilly testimony |
+| C-5896 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Kojja details Gilly's loss of father/husband, sisters, mother, home and child | Explains acute need for companionship |
+| C-5897 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Kojja says Gilly asks only for Sam's limited affection | Interested third-person report, his response matters |
+| C-5898 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Sam goes to Gilly and says he would marry her but cannot under his vows | Direct conversation redefines relationship boundaries |
+| C-5899 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Gilly invokes heart-tree witness to Sam's oath but absence of trees at sea | Emotionally resonant reply, not established loophole |
+| C-5900 | [AFFC 35](../Source/Main-Series/04-A-Feast-for-Crows/chapters/35-samwell.md) | Chapter ends without Sam renouncing Watch or Sam/Gilly resolving vows | End-state contradiction deliberately open |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -5903,4 +6009,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and sixty-one first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and sixty-two first-pass chapters listed in the coverage tracker.
