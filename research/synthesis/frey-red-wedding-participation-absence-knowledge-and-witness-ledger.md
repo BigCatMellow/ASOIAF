@@ -59,6 +59,10 @@
 
 The **outdoor guests and Stark camp** also die in great numbers. That is a separate combat space from the musicians' gallery and the bridal bedding chamber. Merrett's epilogue names **Bastard Walder's camp leadership** and **Lothar's sabotaged tents**, so do not derive the precise outside operation solely from Catelyn's view of the hall.
 
+### What Merrett actually told the surviving victim — and did not tell her
+
+The [Stoneheart/Jaime evidence and hearing audit](stoneheart-jaime-red-wedding-attribution-evidence-and-hearing-audit.md) gives the **ASOS Epilogue** an important epistemic distinction. Merrett **privately thinks** that **Walder ordered** the slaughter and **Lame Lothar planned it with Roose**, including music, and recalls Lothar **personally assigning him** the Greatjon drinking task. But when the Brotherhood threatens him **in Stoneheart's presence**, Merrett **speaks** a narrower distribution of blame—**Walder, Ryman, Roose, Lothar, Bastard Walder**—claiming his own job was only drinking. **He does not name Jaime as a conspirator**, but neither formally clears him. Stoneheart **nods only when asked whether Merrett himself participated**. Her direct earlier **ASOS 51 Catelyn** memory of Robb's murderer invoking Jaime does not transform the killer's taunt into an authenticated secret order, and Merrett's thoughts cannot be treated as Stoneheart's received testimony. The reader separately sees Jaime's innocent farewell (**ASOS 44**) and shared Brienne/Jaime receipt of the news at Brindlewood (**ASOS 62**).
+
 ## 4. Outside corroboration and reliability
 
 ### Merrett's confession is unusually detailed, but he tries to save himself
