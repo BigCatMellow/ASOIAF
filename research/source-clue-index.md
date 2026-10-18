@@ -4819,6 +4819,62 @@
 | C-4729 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Fictional ship named Nymeria | Persistent Stark link |
 | C-4730 | [AFFC 22](../Source/Main-Series/04-A-Feast-for-Crows/chapters/22-arya.md) | Cat enters Braavos with iron knife and repeats names | Identity contradiction |
 
+| C-4731 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Alayne moved to larger Maiden Tower apartments after Lysa | Status and household change |
+| C-4732 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Alyssa Tears frozen with long icicles above Eyrie | Winter terrain |
+| C-4733 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Six Lords Declarant each bring roughly thousand men | Siege force estimate |
+| C-4734 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Nestor Royce garrison fewer than three hundred at Gates | Asymmetric force |
+| C-4735 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Declarants met at Runestone and condemned misrule | Six-house alliance |
+| C-4736 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Alayne Tyroshi hair dye fades exposing auburn roots | Identity vulnerability |
+| C-4737 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Eyrie granaries hold grain for a year | Food endurance limit |
+| C-4738 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Mya Stone food deliveries blocked by Belmore | Selective siege |
+| C-4739 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Robert claims Marillion still sings after purported death | Unverified death claim |
+| C-4740 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Robert says Petyr refused to cut Marillion tongue | Confession leverage |
+| C-4741 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr expects eight parley visitors including Lyn and Nestor | Delegation composition |
+| C-4742 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Lyn Corbray slew Lewyn Martell after prior wounds | Reported duel qualification |
+| C-4743 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Lyn holds Lady Forlorn instead of Lyonel | Brotherly inheritance feud |
+| C-4744 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Robert seizures growing frequent and severe | Medical concern |
+| C-4745 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Colemon uses leeches dreamwine and poppy milk | Existing treatment |
+| C-4746 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr recommends small sweetsleep dose to calm Robert | Proposed drug intervention |
+| C-4747 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Colemon cautions sweetsleep frequency and amount | Therapeutic hesitation |
+| C-4748 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr demands paternal kiss Alayne gives cheek | Manipulative boundary |
+| C-4749 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr tells Alayne avoid Tully and Arryn colors | Political disguise management |
+| C-4750 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Sansa recalls Royce at Winterfell for Waymar and Hands tourney | Recognition risk |
+| C-4751 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr assumes hair and age differences fool Royce | Expectation-based camouflage |
+| C-4752 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr stages negotiation in solar not Arryn high seat | Optical legitimacy |
+| C-4753 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr claims allies Grafton Lynderly and Lyonel Corbray | Alternative coalition claim |
+| C-4754 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Harrenhal title impractical and ruinous according Petyr | Unused fallback seat |
+| C-4755 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Harrenhal curse invoked through succession of deaths | Unverified supernatural explanation |
+| C-4756 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr expects old Robert tapestries from Cersei | Cross-POV AFFC 17 confirmation |
+| C-4757 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr hints he could eliminate Cersei from game if needed | Unproved strategic threat |
+| C-4758 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr says pieces disobey players in game of thrones | Explicit strategy principle |
+| C-4759 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Alayne relies on hospitality laws after Red Wedding | Guest right moral baseline |
+| C-4760 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Alayne organizes seating wine bread cheese and candles | Developing household competence |
+| C-4761 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Final Eyrie ascent demands basket or vertical climb | Mountain security |
+| C-4762 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Young Gilwood Hunter succession rumored suspicious | Unverified family murder |
+| C-4763 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Lyn Corbray smiles at Lothor before parley | Potential prior coordination signal |
+| C-4764 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Bronze Yohn asks Alayne whether he knows her | Narrow identity near miss |
+| C-4765 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Nestor intervenes to call Alayne Petyr daughter | Cover support |
+| C-4766 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Sansa stumbles over fabricated fourteen-year age | Identity performance slip |
+| C-4767 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Lady Waynwood rebukes Lyn and Hunter remarks | Courtly faction norms |
+| C-4768 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Nestor sits by Petyr while Lyn stands by hearth | Alliance staging |
+| C-4769 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr offers to sign hostile declaration ironically | Negotiation reframing |
+| C-4770 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Six demand Petyr depart and Robert go to Runestone | Fosterage claim |
+| C-4771 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Runestone advocates name Helliweg Sam Stone Lucos | Specific alternate caretakers |
+| C-4772 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr asks for Harrold Hardyng as ward | Unexplained dynastic interest |
+| C-4773 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Nestor defends Lysa choice of Littlefinger as protector | Royce faction division |
+| C-4774 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Templeton invokes six thousand forces and potential reinforcements | Threat to Petyr |
+| C-4775 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Lyn draws Lady Forlorn against unarmed Petyr | Staged intimidation |
+| C-4776 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Bronze Yohn insists guest right forbids steel | Faction moral fracture |
+| C-4777 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr exploits Lyn threat to discredit delegates | Negotiation maneuver |
+| C-4778 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | One-year reprieve and prospective stepdown agreed | Temporary resolution |
+| C-4779 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr promises pardons and no reprisals | Conditional political commitment |
+| C-4780 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Royce warns not everyone is fooled | Continued opposition |
+| C-4781 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Robert briefly appears dressed in Arryn colors at feast | Stage-managed normalcy |
+| C-4782 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr predicts Gilwood will die likely at Harlan hands | Interested assertion |
+| C-4783 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr asserts Harlan arranged old Eon death | No independent corroboration |
+| C-4784 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr expects to buy Belmore and win Templeton | Future infiltration plan |
+| C-4785 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr confirms secretly paying Lyn to pose as enemy | Controlled opposition |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -4826,4 +4882,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-nine first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fifty first-pass chapters listed in the coverage tracker.
