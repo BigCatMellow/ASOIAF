@@ -4555,6 +4555,51 @@
 | C-4471 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Rolland Darklyn died protecting king shortly after joining | Historical sacrifice |
 | C-4472 | [AFFC 16](../Source/Main-Series/04-A-Feast-for-Crows/chapters/16-jaime.md) | Jaime identifies Criston Cole as Kingmaker | Cross-POV AFFC 13 parallel |
 
+| C-4473 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Cersei received third false Tyrion head, latest innocent dwarf | Bounty generates innocent deaths |
+| C-4474 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Earlier mistaken head was a child | Indiscriminate search cost |
+| C-4475 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Qyburn claims citywide and overseas informer network | Coverage assertion untested |
+| C-4476 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Gregor skull cleaned and packed to send Doran | Identity provenance future test |
+| C-4477 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Balon Swann has secret second Dorne errand | Unspecified mission |
+| C-4478 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Boros Blount assigned royal food taster | Jaime personnel decision |
+| C-4479 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Harys Swyft appointed Hand to pressure Kevan via marriage | Indirect hostage rationale |
+| C-4480 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Qyburn gets Varys intelligence role | Completed court appointment |
+| C-4481 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Orton justiciar Gyles treasurer Aurane grand admiral | Completed appointments |
+| C-4482 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Sand Snake arrests have not calmed Sunspear | Unrest persists |
+| C-4483 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Estimated two thousand sparrows in city | Clerical movement reported count |
+| C-4484 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | High Septon candidates Torbert Raynard Ollidor Luceon | Election uncertain |
+| C-4485 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Cersei demands religious condemnation of Tyrion | Religious instrumentalization |
+| C-4486 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Gyles Rosby coughing up bloody phlegm | Treasurer health fragility |
+| C-4487 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Six Vale lords sign Runestone declaration | Organized anti-Petyr opposition |
+| C-4488 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Petyr asks for old Robert tapestries | Possible hidden value unresolved |
+| C-4489 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Crown opts not to support either Vale faction directly | Regency nonintervention |
+| C-4490 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Fewer than dozen royal vessels survived Blackwater | Naval weakness |
+| C-4491 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Aurane orders ten dromonds on crown funds | Fleet expansion |
+| C-4492 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Cersei suspends Faith and Iron Bank loan payments | Creditor confrontation |
+| C-4493 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Pycelle warns Iron Bank enforces debts | Risk dismissed |
+| C-4494 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Councillors do not know Greyjoy succession status | Information gap |
+| C-4495 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Sparrows blame crown for Red Wedding | Religious-political legitimacy crisis |
+| C-4496 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Qyburn proposes Frey scapegoats once Walder dead | Future intrigue proposal |
+| C-4497 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Golden Company leaves Myr contract | Repeated independent political report |
+| C-4498 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Crew report Golden Company making for Volantis | Unverified destination |
+| C-4499 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Dock rumor Golden Company hired by Stannis | Conflicting inference |
+| C-4500 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Cersei assumes Storm End Riverun and Dragonstone soon fall | Projected victory not outcome |
+| C-4501 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Wyman Manderly demands heir returned before kneeling | Hostage leverage |
+| C-4502 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Cersei reports Davos held by Wyman | Reported capture |
+| C-4503 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Cersei orders Wyman to execute Davos | Order not execution |
+| C-4504 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Cersei knows fake Arya for Ramsay is steward girl | Identity plot insider knowledge |
+| C-4505 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Cersei knows Sansa alive and thinks her killer conspirator | False culpability assertion |
+| C-4506 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Jon letter asks support and affirms Watch neutrality | Document received |
+| C-4507 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Qyburn proposes hundred infiltrators remove Jon | Covert assassination scheme |
+| C-4508 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Cersei approves covert Wall proposal | Authorized plan not accomplished |
+| C-4509 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Aurane notes eastern sailors speak of dragons | Threat warning dismissed |
+| C-4510 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Taena claims Redwyne twins romantically devoted Margaery | Unverified gossip |
+| C-4511 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Cersei recruits Osney into fabricated Margaery scandal | Intentional false evidence plot |
+| C-4512 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Osney promised Wall passage then elimination Jon | Two-stage linked plan |
+| C-4513 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Cersei expects Osmund to discover Osney with Margaery | Planned controlled witness |
+| C-4514 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Cersei directs Taena to plant admirer rumor | Information operation begun |
+| C-4515 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Taena recounts former Myrish captain lover | Potential leverage, claim only |
+| C-4516 | [AFFC 17](../Source/Main-Series/04-A-Feast-for-Crows/chapters/17-cersei.md) | Cersei closes with obsession about Tyrion head | Prophecy-related fixation |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -4562,4 +4607,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-three first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-four first-pass chapters listed in the coverage tracker.
