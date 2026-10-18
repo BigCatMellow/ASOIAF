@@ -5260,6 +5260,104 @@
 | C-5164 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Margaery says Loras protects her, triggering Cersei's incest insinuation | Cersei projection, not verified incest |
 | C-5165 | [AFFC 28](../Source/Main-Series/04-A-Feast-for-Crows/chapters/28-cersei.md) | Cersei concludes chapter promising Margaery will share her joke | Threatening private plan without execution |
 
+| C-5166 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion's Iron Victory rams Serry white-rose longship | Actual naval opening near Shield Islands |
+| C-5167 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Serry rose devices include red escutcheon and gold-on-green mast | Heraldry and house identification |
+| C-5168 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Ironborn heavy armor counters lightly armored defenders' drowning fears | Tactical material asymmetry |
+| C-5169 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Wulfe One-Ear, Ragnor Pyke and Nute Barber board with Victarion | Iron Fleet officer continuity |
+| C-5170 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Ser Talbert Serry identifies as Southshield lord's son and heir | Noble hostage or succession variable |
+| C-5171 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Talbert wounds Victarion's armored palm during disarm | Persistent injury; protection has gaps |
+| C-5172 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion casts Talbert alive into bloody sea | No confirmed corpse, immediate hostage lost |
+| C-5173 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion praises last resisting defenders but scorns those yielding | Selective martial ideology |
+| C-5174 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion's plate resists multiple sword blows except vulnerable joints | Practical advantage, not invulnerability |
+| C-5175 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Southern longships retreat toward Mander with news | Deliberate surviving warning route |
+| C-5176 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion awards a captured longship to Ragnor Pyke | Tangible military patronage |
+| C-5177 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion orders death of dying or pleading captives | Lethal military order despite respect language |
+| C-5178 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion envies Euron credit for victory fought by Iron Fleet | Command-glory split |
+| C-5179 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron's older treasure includes Valyrian steel daggers and alleged rare objects | Physical wealth versus uncertain origins |
+| C-5180 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron's gifts now augmented by permanent Shield conquest | Patronage attracts kingsmoot factions |
+| C-5181 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion feels trained to obey Balon, his sons and Euron | Psychological hierarchy vulnerability |
+| C-5182 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Tongueless dusky woman tends Victarion after intercourse | Mutilation precludes easy assessment of consent |
+| C-5183 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Blood upon woman's body comes from Victarion's wounded palm | Source explicitly distinguishes injury provenance |
+| C-5184 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Boiled vinegar used to wash Victarion's wound | Practical treatment and worsening pain |
+| C-5185 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Mander shallow enough for iron longships upstream to Bitterbridge | Navigational future raid possibility |
+| C-5186 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Shield Islands beacons and longships defend Mander mouth | Historical barrier to reavers |
+| C-5187 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Torwold Browntooth and Red Oarsman draw defenses away with 12 ships | Diversionary plan |
+| C-5188 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Evening tide, western sun and favorable wind conceal main landing | Mundane tactical explanation |
+| C-5189 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Greyshield Greenshield Southshield fall before dawn, Oakenshield later | Chronology of territorial conquest |
+| C-5190 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion blocks returning Shields fleet at Mander mouth | Prepared ambush rather than pure frontal attack |
+| C-5191 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Quellon Humble whispers Euron has three enslaved wizards on Silence | Unconfirmed wizard count and capabilities |
+| C-5192 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Some ironborn credit blood sacrifices with favorable winds | Sorcery rumor, meteorological alternative |
+| C-5193 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion considers agent to kill Euron to avoid kinslayer status | Intent and theological loophole, no order |
+| C-5194 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Aeron offers to remove the crown he placed on Euron | Post-kingsmoot religious opposition |
+| C-5195 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Aeron alleges sorcery prevented voters hearing Drowned God | Interested explanation, not demonstrated mass enchantment |
+| C-5196 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Aeron plans to mobilize commonfolk independent of kingsmoot electors | Distinct political constituency |
+| C-5197 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Aeron disappears next morning from Old Wyk | Unresolved status and last-known location |
+| C-5198 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Blacktyde tried leaving but Iron Fleet intercepted Nightflyer | Direct political detention report |
+| C-5199 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion reports Blacktyde cut into seven pieces by Euron's men | Ritualized cruelty as retrospective account |
+| C-5200 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron gifts mutilated woman under explicit threat to kill her | Coercive objectification and strategic control |
+| C-5201 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion recalls killing his own wife after Euron violated her | Victarion is actual killer; displaced blame |
+| C-5202 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Iron Victory retains Grief Lord Dagon Iron Wind Maidens Bane rear guard | Named fleet positions and potential witnesses |
+| C-5203 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Hardhand sinks from collision entanglement | Named ironborn ship loss |
+| C-5204 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion reports six own ships lost and 38 enemy hulls captured | Numerical battle outcome limited in scope |
+| C-5205 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Asha and crew reportedly leave Old Wyk the night of coronation | Victarion recollection, location later unknown to him |
+| C-5206 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Oakenshield harbor contains cogs loading loot and supplies | Logistics and appropriation |
+| C-5207 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Only sept burned among town structures as seen by Victarion | Targeted religious destruction during sack |
+| C-5208 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Survivors bury dead in streets under carrion crows | Civilian losses and ritual contrast |
+| C-5209 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Silence mouthless female figurehead has pearl eyes | Distinctive ship identity and mutilation imagery |
+| C-5210 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Captured widows and orphans bound for sale to slave markets | New royal practice and civilian harm |
+| C-5211 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion asserts thralls are never bought/sold and their children free after rite | Customary self-description, still forced labor |
+| C-5212 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron decree cited as reason for selling captives | Reported explicit policy innovation |
+| C-5213 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Nute claims thrall/slave difference insignificant to victims | Conqueror rationalization |
+| C-5214 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Rodrik Reader compares Shields to politically costly stones and trees | Strategic backlash analysis |
+| C-5215 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Dunstan Drumm cites Tarly's Heartsbane as Valyrian steel | Named sword and Reach counterforce |
+| C-5216 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion longs to claim Heartsbane as spoil | Combat pride and prize motives |
+| C-5217 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Rodrik says Euron deliberately permitted Hewett ravens | Reported instruction, intent inference |
+| C-5218 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Rodrik predicts Tyrell response and possible Euron desire for it | Risk strategy not directly confessed |
+| C-5219 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Captured feast clothing and silver tableware redistributed | Occupation spoils and court humiliation |
+| C-5220 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Nute complains Euron's land party takes disproportionate loot | Factional grievance |
+| C-5221 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Ralf Limper proposes Shield island lordship for Victarion | Susceptibility to patronage |
+| C-5222 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Hotho says Harras won Grimston through repeated single combats | Interested historical report |
+| C-5223 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Nightfall Valyrian steel at Harras Harlaw's belt | Weapon continuity from AFFC 19 |
+| C-5224 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Harras formerly close to Balon's dead son Rodrik Greyjoy | Family/loyalty bond |
+| C-5225 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Hotho expects Harras's Greyshield lordship clears Harlaw succession | Self-serving assumption requiring Reader confirmation |
+| C-5226 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Hewett bound and gagged on dais during feast | Coerced witness of family's humiliation |
+| C-5227 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Lady Hewett and seven daughters or daughters-in-law serve captors | Forced labor and abuse |
+| C-5228 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Falia Hewett bastard daughter receives Euron's favor | Unequal family status exploited |
+| C-5229 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron orders women stripped as Falia rewarded with clothing | Sexual humiliation with no freely chosen compliance |
+| C-5230 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Youngest Hewett girl cries when coerced to disrobe | Observed distress and lack of consent |
+| C-5231 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron declares Shield conquest just first morsel | Public imperial ambition |
+| C-5232 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Harras Harlaw appointed Lord Greyshield | New title not proof sustainable control |
+| C-5233 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Andrik Unsmiling appointed Lord Southshield | Dunstan Drumm lieutenant coopted |
+| C-5234 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Maron Volmark appointed Lord Greenshield | Young ruler and Black Harren ancestry |
+| C-5235 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Nute Barber appointed Lord Oakenshield | Victarion's trusted man drawn away |
+| C-5236 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion asks Nute to refuse and is ignored | Hierarchy conflict and lost lieutenant |
+| C-5237 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron orders grain water meat and livestock for voyage east | Actual provisioning instruction not completed departure |
+| C-5238 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Rodrik enumerates Redwyne Straits and Dornish coastline voyage risks | Logistical challenge to universal conquest |
+| C-5239 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Rodrik's 300 of 1000 survivors is hypothetical projection | Not observed death count |
+| C-5240 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron claims Valyria/Smoking Sea voyage | Self-asserted exotic provenance |
+| C-5241 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Reader directly challenges whether Euron really saw Valyria | Significant credibility contest |
+| C-5242 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron says slave sale in Lys or Volantis finances voyage | Direct slave-market route and economics |
+| C-5243 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Captains prefer Arbor Oldtown Highgarden to distant Slavers Bay | Evidence of contingent support for king |
+| C-5244 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron leaves feast amid cries for reachable plunder | Visible tactical withdrawal |
+| C-5245 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Lucas Codd sexually assaults Hewett daughter during feast | Actual atrocity not honorable spoils |
+| C-5246 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Young messenger son of Euron calls Victarion to chambers | Euron has living children and controls access |
+| C-5247 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron speaks of dream of flying and daring leap | Symbolic rhetoric no verified flight |
+| C-5248 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron wants entire world instead of just southern orchards | Stated ambition |
+| C-5249 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron says he held a dragon egg and killed failing Myrish hatcher | Character claim, egg not displayed |
+| C-5250 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron says he threw dragon egg into sea | Uncorroborated disposal; theory-critical |
+| C-5251 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron says hornblower Cragorn died with charred lungs | Reported medical result not dragon-binding evidence |
+| C-5252 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron decides entire fleet unfit for Slavers Bay, requests Iron Fleet | Route recalibration and command rivalry |
+| C-5253 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion secretly thinks Iron Fleet belongs to him | Internal allegiance challenge |
+| C-5254 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron offers blue-black shade of evening to Victarion | Psychoactive Qarth-linked drink |
+| C-5255 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion spits shade of evening while Euron consumes it | Distinct exposure to drug effects |
+| C-5256 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron reports taking Qartheen galleass with four warlocks | Uncorroborated prisoner identities and voyage |
+| C-5257 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron reports cannibal abuse of captive warlocks | Self-incriminating testimony requiring source check |
+| C-5258 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron demands silver-gold-haired dragon queen from Slavers Bay | Target identifiable to readers as Daenerys |
+| C-5259 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron calls his own baseborn sons unworthy to inherit | Dynastic discrimination and succession |
+| C-5260 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Euron conditionally promises Victarion Seastone Chair upon Iron Throne conquest | Future-dependent offer, not binding transfer |
+| C-5261 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion accepts journey but intends Daenerys for himself | Cross-purpose expedition set in motion |
+| C-5262 | [AFFC 29](../Source/Main-Series/04-A-Feast-for-Crows/chapters/29-the-reaver.md) | Victarion injured hand remains bleeding at final acceptance | Physical jeopardy in departure |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -5267,4 +5365,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fifty-five first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fifty-six first-pass chapters listed in the coverage tracker.
