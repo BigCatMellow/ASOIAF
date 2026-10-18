@@ -4875,6 +4875,69 @@
 | C-4784 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr expects to buy Belmore and win Templeton | Future infiltration plan |
 | C-4785 | [AFFC 23](../Source/Main-Series/04-A-Feast-for-Crows/chapters/23-alayne.md) | Petyr confirms secretly paying Lyn to pose as enemy | Controlled opposition |
 
+| C-4786 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Tommen demands Iron Throne place and council lessons | Emerging agency |
+| C-4787 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei threatens Pate whipping boy for Tommen silence | Coercion of child |
+| C-4788 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei plans to rule until Tommen majority | Explicit power motive |
+| C-4789 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Gyles Rosby coughs through treasury matters | Administrative fragility |
+| C-4790 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Aurane says first three dromonds near completion | Incomplete construction |
+| C-4791 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Aurane prefers young captains to Blackwater survivors | Patronage risk |
+| C-4792 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Merchants complain of sparrows sleeping in streets | Urban religious pressure |
+| C-4793 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Pycelle reports purported Davos head and hands displayed | Death not independently authenticated |
+| C-4794 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Freys reportedly identify Davos shortened fingers | Interested corroboration |
+| C-4795 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei orders Manderly heir released in reward | Loyalty payment |
+| C-4796 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei projects Bolton victory at Moat Cailin | Projected victory |
+| C-4797 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Mace mangonels have little effect at Storms End | Continuing siege |
+| C-4798 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Noho Dimittis insists Iron Bank be repaid | Direct creditor confrontation |
+| C-4799 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Noho has held six failed talks with Gyles | Repeated refusals |
+| C-4800 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei ends Noho audience without settlement | Completed refusal |
+| C-4801 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Only king or Hand may occupy Iron Throne itself | Formal regency boundary |
+| C-4802 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Osney made Tommen sworn shield to access Margaery | Scandal scheme |
+| C-4803 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Margaery constantly accompanied by attendants | Operational barrier |
+| C-4804 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Osney claims Margaery flirted but no affair observed | Interested secondhand claim |
+| C-4805 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Redwyne twins and singers frequent Margaery circle | Court social network |
+| C-4806 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Jalabhar Xho reportedly teaching Summer Tongue | Language instruction |
+| C-4807 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Tommen breaks quintain lance after Loras training | Mentorship bond |
+| C-4808 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei conflates Jaime jousting with Robert reputation | Intimate memory slip |
+| C-4809 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Margaery challenges Robert jousting achievement | Court challenge |
+| C-4810 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Aron Santagar master-at-arms seat vacant | Institutional gap |
+| C-4811 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei seeks Dornish trainer to rival Tyrell influence | Proposed countermove |
+| C-4812 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Qyburn reports Golden Company affects Myr war | Eastern intelligence |
+| C-4813 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Qyburn warns of Meereen slave revolt and dragons | Warning dismissed |
+| C-4814 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Qyburn reports Daemon Sand jailed by Doran | Dornish aftermath |
+| C-4815 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Qyburn reports Sylva Santagar wed elderly Estermont | Political consequence report |
+| C-4816 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei speculates Sylva wedding hides pregnancy | Unsupported inference |
+| C-4817 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei recalls Estermont marriage visit and Robert relations | Personal retrospective |
+| C-4818 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei believes Joffrey conceived at Greenstone | Retrospective timing |
+| C-4819 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Puppet tale has lions devour stag then dragon devours lions | Anti-crown satire |
+| C-4820 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei plans punish audience and puppet performers | Censorship |
+| C-4821 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Qyburn receives authorization to take captive performers | Experimentation risk |
+| C-4822 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Qyburn describes Senelle incapacitated by captivity | Concealed suffering |
+| C-4823 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Jaime reports rusted Iron Gate and battered Mud and Kings gates | Defense audit |
+| C-4824 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Jaime warns of Tyrell forces inside city | Internal military vulnerability |
+| C-4825 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei sees Gardener coin as Tyrell plot proof | Unproved coin provenance |
+| C-4826 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Tommen desires Loras as teacher and a kitten | Child priorities |
+| C-4827 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei resolves to exclude Jaime from counsel | Rift |
+| C-4828 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei deducts wardrobe losses from washerwomen pay | Punitive wage action |
+| C-4829 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Taena counsels mercy and retains Cersei trust | Trusted intermediary |
+| C-4830 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei remembers drowned Melara Hetherspoon | Prophecy-era relationship |
+| C-4831 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Tanda Stokeworth hip reportedly broken by faulty saddle | Medical prognosis |
+| C-4832 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Rosby ward refuses Stokeworth hospitality | Succession dispute |
+| C-4833 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Lollys son Tyrion provokes conflict over Bronn | Naming insult |
+| C-4834 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei alleges Bronn hides Tyrion without evidence | Manipulative accusation |
+| C-4835 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Bronn reportedly hired four swords | Small force |
+| C-4836 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei recruits Balman to arrange Bronn hunting mishap | Ordered scheme, not completed |
+| C-4837 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei promises to replace Lollys husband | Instrumental kinship |
+| C-4838 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Ollidor loses septon vote prospects after sparrow protest | Religious political influence |
+| C-4839 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Luceon near but below election threshold | Unsettled election |
+| C-4840 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Margaery gives Tommen three black kittens | Household favor |
+| C-4841 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei connects black cats with Rhaegar daughter | Bad omen association |
+| C-4842 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Tywin privately suggested Cersei Rhaegar marriage | Family expectation |
+| C-4843 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Genna said Rhaegar betrothal would be announced | Unfulfilled prospect |
+| C-4844 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Aerys rejected Tywin offer as servant marriage | Dynastic snub |
+| C-4845 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei recalls Maggy visit near tourney | Prophecy chronology |
+| C-4846 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei imagines Rhaegar would not pursue Lyanna if wed to her | Unfounded alternate history |
+| C-4847 | [AFFC 24](../Source/Main-Series/04-A-Feast-for-Crows/chapters/24-cersei.md) | Cersei resents Robert for Rhaegar death | Longlasting grievance |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -4882,4 +4945,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fifty first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and fifty-one first-pass chapters listed in the coverage tracker.
