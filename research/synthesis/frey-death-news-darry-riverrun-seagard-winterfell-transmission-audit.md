@@ -35,6 +35,10 @@ This is **strong positive evidence for transmission of Oldstones killing news in
 
 **Same name trap:** **Merrett Frey** killed at Oldstones (**ASOS Epilogue**) is **Little Walder's father**. His siblings include **Fat Walda Frey**, wife of Roose. **Hosteen Frey is Merrett's brother**, as Hosteen explicitly states in ADWD 51. This makes Little's murder a loss **inside the Bolton ruler's immediate in-law circle** and **inside the family already hit at Oldstones**; it does not show any of them connecting the two deaths in their dialogue.
 
+### What Jaime later does with the Stoneheart name — separate identity gate
+
+The [Jaime–Stoneheart–Brienne intelligence audit](jaime-stoneheart-rumor-to-brienne-pennytree-information-gates.md) carries **AFFC 30's Darry report** past this source-owner's southern family-news receipt: Jaime hears **a scarred hooded woman apparently led the Oldstones attackers**, but **Mariya does not call her Catelyn or even Stoneheart**; **AFFC 44 (Jaime)** then has **Walder Rivers explicitly name Stoneheart** as a *possible* Ryman killer, and **ADWD 48 (Jaime)** shows Jaime himself **use the name** while warning Lord Tytos Blackwood not to shelter enemies. Those are **three escalating Jaime-side information states**, **not verified recognition** of resurrected Catelyn. The **reader and Brienne** know the identity from other POV scenes, and Brienne knows **Lem's reused Hound helm**, but neither knowledge is shown transmitted to Jaime before Brienne's lone-ride invitation at Pennytree. The original **Merrett/Petyr/Black-Walder pursuit** receipts and death-news routes remain owned here.
+
 ## 2. Oldstones → Darry is a real known-reception route, not a completed courier map
 
 ### A. From Merrett's last mission to family response
