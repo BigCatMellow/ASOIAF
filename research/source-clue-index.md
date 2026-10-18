@@ -4680,6 +4680,48 @@
 | C-4593 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Hotho Harlaw Gorold Goodbrother Erik Ironmaker acclaim Euron | Named political support |
 | C-4594 | [AFFC 19](../Source/Main-Series/04-A-Feast-for-Crows/chapters/19-the-drowned-man.md) | Aeron hears crowd proclaim Euron king and returns to hinge dread | Kingsmoot outcome and trauma |
 
+| C-4595 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Dick examines decoy coin bag and leaves flour on fingers | Confirmed searching, not murder plot |
+| C-4596 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Brienne conceals real coins within clothing | Prepared precaution |
+| C-4597 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Podrick watches guide under instruction not to fight | Guard role |
+| C-4598 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Crackclaw traditions describe independent First Men enclaves | Regional report |
+| C-4599 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Visenya reportedly confirmed direct crown allegiance | Local historical claim |
+| C-4600 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Crabb names Crackclaw supporters of Rhaegar | Targaryen loyalty account |
+| C-4601 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Galladon of Morne reputedly wielded the Just Maid | Tarth legend |
+| C-4602 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Galladon allegedly defeated a dragon | Not eyewitness evidence |
+| C-4603 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Clarence Crabb heads and dragon claims | Folkloric contrast |
+| C-4604 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Squishers allegedly inhabit Crackclaw coast | Unverified creature tradition |
+| C-4605 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Septa Roelle taught Brienne to distrust apparent affection | Childhood shaping |
+| C-4606 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Brienne recalls defeating her former suitors in melee | Response to betrayal |
+| C-4607 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Brienne privately mourns failing Renly and Catelyn | Character motivation |
+| C-4608 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Podrick observes rider behind party near Dyre Den | Surveillance first sighted |
+| C-4609 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Dick has missing badge on tunic | Prior allegiance possible |
+| C-4610 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Dyre Den Brune fortress borders trackless forest | Geographic locator |
+| C-4611 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Bog nearly traps horses on Crackclaw route | Terrain hazard |
+| C-4612 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Ser Goodwin warned Brienne against fatal hesitation | Training recollection |
+| C-4613 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Brienne experiences serious lack of sleep | Risk factor |
+| C-4614 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Whispers ruin is actually present near coast | Dick location confirmed |
+| C-4615 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Cave waves create purported whispering heads | Natural sound mechanism |
+| C-4616 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Broken beacon tower ended use of cove | False shipping lead |
+| C-4617 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Freshly cut blackberry branches expose used entrance | Occupancy indicator |
+| C-4618 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Ashes of recent fire mark occupants at ruin | Occupancy indicator |
+| C-4619 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Brienne lends spare blade to Dick and draws Oathkeeper | Tactical choice |
+| C-4620 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Pyg Timeon and Shagwell await at Whispers | Brave Companions identified |
+| C-4621 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Shagwell is fool who bought false map | Not Dontos |
+| C-4622 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Shagwell kills Dick despite having bought his map | No demonstrated cooperation |
+| C-4623 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Timeon says Rorge went toward Saltpans | Attribution clue |
+| C-4624 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Timeon says Urswyck group made for Oldtown | Mercenary movement report |
+| C-4625 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Timeon reports Vargo Hoat end after Jaime bite | Unverified hearsay details |
+| C-4626 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Timeon relates old Hound Stark girl journey | Past Arya route |
+| C-4627 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Crossroads witnesses allegedly saw Hound with girl | Indirect testimony |
+| C-4628 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Brienne kills Pyg and Timeon | Combat event |
+| C-4629 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Podrick throws stones to distract Shagwell | Material combat assistance |
+| C-4630 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Shagwell digs grave for Dick beneath weirwood | Burial setting |
+| C-4631 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Shagwell attacks again while Brienne buries Dick | Attack before his death |
+| C-4632 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Brienne sobs after killing Shagwell | Emotional aftermath |
+| C-4633 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Brienne buries two dragons with Dick | Kept payment promise |
+| C-4634 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Hyle Hunt admits following under Randyll orders | Pursuit identified |
+| C-4635 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Hyle helps bury Dick as Brienne considers Hound lead | End position |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -4687,4 +4729,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-six first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-seven first-pass chapters listed in the coverage tracker.
