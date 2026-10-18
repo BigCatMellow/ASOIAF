@@ -4434,6 +4434,50 @@
 | C-4353 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arys privately vows his sword and life to Myrcella's claim and Arianne | Completed commitment, no public action |
 | C-4354 | [AFFC 13](../Source/Main-Series/04-A-Feast-for-Crows/chapters/13-the-soiled-knight.md) | Arianne's final demand concerns obtaining Myrcella | Next plot action unresolved |
 
+| C-4355 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Brienne cannot pinpoint old Jaime ambush landscape after seasonal change | Emotional memory versus location uncertainty |
+| C-4356 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Podrick father died Greyjoy Rebellion and mother abandoned him | Family history testimony |
+| C-4357 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Cedric Payne treated Podrick as servant before dying in Tywin host | Poor guardianship |
+| C-4358 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Ser Lorimer stole Tywin ham and was hanged | Baggage train incident |
+| C-4359 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Kevan spared Podrick punishment and placed him with Tyrion | Kinship protects vulnerable squire |
+| C-4360 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Santagar bread-riot death interrupted Pod sword training | Untrained squire |
+| C-4361 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Brienne begins practice drills and Pod accepts bruises | Emergent mentorship |
+| C-4362 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Farmer and wife pull cart after ox taken by supposed wolves | Wartime destitution |
+| C-4363 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Farmer reports soldiers assaulted his daughter | Reported atrocity, identity unverified |
+| C-4364 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Patrol claims Hound crossed Trident with hundred outlaws | Rumor not confirmed Sandor sighting |
+| C-4365 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Tarly patrols occupy roads and ruined inns | Military control remains precarious |
+| C-4366 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Mooton daughter to marry Dickon Tarly | Reported dynastic consolidation |
+| C-4367 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Brienne remembers deceased Caron child betrothal | Alternate life and emotional ambivalence |
+| C-4368 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Maidenpool visibly rebuilt under Tarly military labor | Material restoration |
+| C-4369 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Tommen Tarly and Mooton banners reflect unequal town control | Political iconography |
+| C-4370 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Gate serjeant underpays for eggs and orders farmer wife seized | Direct military predation |
+| C-4371 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Brienne draws sword to protect woman against group | Protective choice |
+| C-4372 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Hyle Hunt frees couple while mocking Brienne | Ambiguous helping actor |
+| C-4373 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Tarly holds court beneath gallows with decomposing corpses | Public punitive theater |
+| C-4374 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Tarly orders seven fingers removed from sept looter | Disproportionate punishment |
+| C-4375 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Tarly fines baker fifty stags with lash substitution | Wealth affects sentencing |
+| C-4376 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Tarly orders lye punishment of sex worker for reported disease | Accusation without independent proof |
+| C-4377 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Tarly exposes dice-cheating archer and punishes both men | Judicial perceptiveness plus severity |
+| C-4378 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Brienne recalls Jaime hand while seeing condemned thief | Empathy via injury memory |
+| C-4379 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Tarly blames Brienne for not saving Renly from shadow death | Impossible responsibility claim |
+| C-4380 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Tommen signed royal letter shields Brienne from detention | Document remains operational |
+| C-4381 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Tarly says Lysa dead and singer blamed; Petyr commands Eyrie | Partly true news plus false public culprit |
+| C-4382 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Brienne incorrectly dismisses Vale as Sansa refuge | Reader-known false inference |
+| C-4383 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Hyle and fellow knights wagered on taking Brienne maidenhead | Sexualized deception |
+| C-4384 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Hyle gave Brienne book supplies and training as part of wager | Exploited trust |
+| C-4385 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Dickon Tarly exposed wager and Randyll stopped contest | Protective intervention |
+| C-4386 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Randyll blames Brienne for provoking wager by wearing armor | Misogynistic victim-blaming |
+| C-4387 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Hyle says former wager participants killed or maimed in Blackwater | Casualty report |
+| C-4388 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Brienne refuses Hyle help reaching Stinking Goose | Boundary after betrayal |
+| C-4389 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Stinking Goose proprietor identifies Nimble Dick Crabb | Located information broker |
+| C-4390 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Dick says fearful fool sought passage for three | Indirect eyewitness to request |
+| C-4391 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Dick says two girls but admits never seeing them | No positive sighting |
+| C-4392 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Dick says Tarly huntsman men frightened fool | Report of pursuit response |
+| C-4393 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Dick sent fool to unused smuggler landing on Crackclaw Point | Admitted prior deception |
+| C-4394 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Whispers named as destination in Crackclaw Point | Specific lead |
+| C-4395 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Clarence Crabb giant and animated severed heads story | Folklore not magic proof |
+| C-4396 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Brienne offers six dragons if sister found two if fool found | Conditional guide contract |
+| C-4397 | [AFFC 14](../Source/Main-Series/04-A-Feast-for-Crows/chapters/14-brienne.md) | Brienne warns Dick not to betray her | Acknowledged credibility risk |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -4441,4 +4485,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-one first-pass chapters listed in the coverage tracker.
