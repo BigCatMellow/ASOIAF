@@ -4722,6 +4722,55 @@
 | C-4634 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Hyle Hunt admits following under Randyll orders | Pursuit identified |
 | C-4635 | [AFFC 20](../Source/Main-Series/04-A-Feast-for-Crows/chapters/20-brienne.md) | Hyle helps bury Dick as Brienne considers Hound lead | End position |
 
+| C-4636 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Shandystone dry well made holdfast uninhabitable | Dornish water scarcity |
+| C-4637 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Oberyn taught Tyene venom extraction at Shandystone | Childhood training |
+| C-4638 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Sarella studied archaeological mosaics at Shandystone | Early investigative curiosity |
+| C-4639 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Garin Arianne milk brother | Trust link |
+| C-4640 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Darkstar dismisses Garin the Great triumph as fatal defeat | Rhoynar historical challenge |
+| C-4641 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Arianne anticipates Darkstar rivalry with Arys | Known volatility |
+| C-4642 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Darkstar abstains from summerwine chooses lemonwater | Observed behavior |
+| C-4643 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Garin reports dragon and Golden Company eastern port rumors | Unverified external news |
+| C-4644 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Arianne links Quentyn to Golden Company without document proof | Motivated inference |
+| C-4645 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Arianne sees Nymeria star and band as ten thousand ships | Dornish celestial tradition |
+| C-4646 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Doran fostered Quentyn with Yronwood for blood debt | Father's political rationale |
+| C-4647 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Mellario opposed losing son to fostering | Household disagreement |
+| C-4648 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Quentyn disguised as merchant at Planky Town | Reported eyewitness |
+| C-4649 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Cletus Yronwood recognizable lazy eye in party | Secondhand identification |
+| C-4650 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Quentyn travels with maester skilled in languages | Secret mission logistical clue |
+| C-4651 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Stolen Quentyn documents sealed Dornish sun spear | Official provenance without contents |
+| C-4652 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Darkstar calls Myrcella coronation futile and proposes violence | Explicit alternative |
+| C-4653 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Arianne pledges Myrcella under her protection | Stated intent contradicted by risks |
+| C-4654 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Darkstar cites ancient Dayne Oakheart antagonism | Family rivalry claim |
+| C-4655 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Myrcella unaware of coronation plan and fears for Tommen | Child knowledge gap |
+| C-4656 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Arianne applies elder child Dornish inheritance to Iron Throne | Contested legal claim |
+| C-4657 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Myrcella cautious with unfamiliar supporters | Observed judgment |
+| C-4658 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Darkstar declines Sword of Morning title | Dayne status |
+| C-4659 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Arys brings news of Tywin murder and Cersei regency | Information lag corrected |
+| C-4660 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Arianne sees Cersei regency as Myrcella precedent | Misleading political analogy |
+| C-4661 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Redspots feigned to restrict Myrcella visits | Decoy pretext |
+| C-4662 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Maester Caleotte avoids examination due to alleged redspots | Dornish household vulnerability |
+| C-4663 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Rosamund Lannister doubles for Myrcella | Explicit false identity |
+| C-4664 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Myrcella helps curl Rosamund hair paint fake redspots | Active child cooperation |
+| C-4665 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Rolder dons Arys armor but three inches shorter | Kingsguard disguise risk |
+| C-4666 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Rosamund doubled Myrcella on Seaswift before | Earlier defensive precedent |
+| C-4667 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Arys does not know final route of conspiracy | Compartmentalized plan |
+| C-4668 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Arianne thinks seven riders lucky | Superstitious interpretation |
+| C-4669 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Arianne assumes Yronwoods isolated and Uller support secure | Unverified political forecast |
+| C-4670 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Orphans of Greenblood preserve Mother Rhoyne traditions | Living Rhoynar cultural continuity |
+| C-4671 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Old Man River Crab King story | Religious folklore |
+| C-4672 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Myrcella cyvasse uses dragon against Trystane elephants | Tactical aptitude |
+| C-4673 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Arys refuses heat-protective veil | Travel vulnerability |
+| C-4674 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Sandbeggar trees and canals mark return to water | Dornish route ecology |
+| C-4675 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Arianne plans Hellholt coronation via Vaith and Sandstone support | Proposed itinerary |
+| C-4676 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Hotah and concealed guards occupy expected poleboat | Prepared interception |
+| C-4677 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Hotah cites Doran orders keep Arianne Myrcella alive | Lethal boundaries of arrest |
+| C-4678 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Drey surrenders while Arys charges despite warnings | Divergent responses |
+| C-4679 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Areo Hotah kills Arys Oakheart after charge | On-page death |
+| C-4680 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Myrcella discovered with bleeding face | Injured attacker unidentified |
+| C-4681 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Hotah orders pursuit of unnamed fleeing man | Escape identity unresolved in POV |
+| C-4682 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Arianne knife was gift from Lady Nym | Small item provenance |
+| C-4683 | [AFFC 21](../Source/Main-Series/04-A-Feast-for-Crows/chapters/21-the-queenmaker.md) | Hotah says someone informed Doran | Unidentified informant |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -4729,4 +4778,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-seven first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and forty-eight first-pass chapters listed in the coverage tracker.
