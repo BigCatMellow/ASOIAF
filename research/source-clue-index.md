@@ -3818,6 +3818,169 @@
 | C-3744 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Jon asks time to consider rather than accepting or rejecting | Choice unresolved |
 | C-3745 | [ASOS 76](../Source/Main-Series/03-A-Storm-of-Swords/chapters/76-jon.md) | Stannis orders private offer kept secret | Election and fealty still pending |
 
+| C-3746 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Jaime secretly releases Tyrion from black cell after midnight | Actual rescue operation, not official pardon |
+| C-3747 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Jaime says Cersei planned execution next day at old tourney grounds | Informed report, execution not carried out |
+| C-3748 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Varys allegedly sedated four guards with sweetsleep rather than killing them | Jaime's dosing account, later recovery unknown |
+| C-3749 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Varys prepared underground river evacuation and waiting galley | Plan and agents, ship boarding not witnessed |
+| C-3750 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Jaime admits Tysha was a genuine crofter daughter never a prostitute | Overturns longstanding family lie |
+| C-3751 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Jaime says Tywin ordered him to fabricate Tysha transaction | Confession of collusion, precise Tysha feelings unavailable |
+| C-3752 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Tywin justified lie by claiming lowborn bride only wanted money | Class prejudice not factual proof |
+| C-3753 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Tyrion remembers Tysha raped by soldiers and himself compelled to participate | Actual coerced violation, not consensual paid sex |
+| C-3754 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Tyrion strikes Jaime and rejects companionship after Tysha confession | Real trust rupture following rescue |
+| C-3755 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Tyrion tells Jaime Joffrey hired Bran catspaw with Robert's dagger | Theory asserted without order witness |
+| C-3756 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Tyrion claims responsibility for Joffrey death to wound Jaime | Immediate private thoughts call statement false |
+| C-3757 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Tyrion accuses Cersei of Lancel and Osmund affairs and speculates Moon Boy | Mixed allegation and overt speculation, not proved in this dialogue |
+| C-3758 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Varys disguised as septon says queen surveilled him during trial | Interested explanation of earlier inaction |
+| C-3759 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Varys says Sansa and Dontos disappeared after serpentine steps | Claims intelligence gap despite reader knowing Littlefinger |
+| C-3760 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Varys identifies four Red Keep dungeon levels under Maegor | Architectural witness, lower torture tier |
+| C-3761 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Secret junction has three headed dragon mosaic and dragon head brazier | Actual physical route below Tower of Hand |
+| C-3762 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Tyrion climbs 230-rung ladder and travels 60-foot tunnel to third door | Precise hidden route and accessibility |
+| C-3763 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Hidden spy passage allows hearing Lum and Lester's ordinary talk | Direct eavesdropping capability |
+| C-3764 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Tyrion enters Hand bedchamber through concealed fireplace | Direct secret access demonstrated |
+| C-3765 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Shae lies naked in Tywin bed wearing Hand linked gold chain | Physical custody of chain and location |
+| C-3766 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Shae says Cersei coerced her trial testimony | Self-defense claim, full pressure not independently shown |
+| C-3767 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Tyrion strangles Shae with golden hands chain | Deliberate killing, not self-defense |
+| C-3768 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Golden chain echoes earlier Symon song about gold hands | Literary callback not proven magic |
+| C-3769 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Tyrion takes dagger and crossbow from Tywin chamber | Weapon acquisition |
+| C-3770 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Tywin claims intention to send Tyrion Wall pending Mace consent | Claim at armed confrontation not verified pardon |
+| C-3771 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Tywin says he cannot recall destination of Tysha | Her fate and location still unknown |
+| C-3772 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Tyrion shoots Tywin on privy and Tywin dies | Direct deliberate patricide |
+| C-3773 | [ASOS 77](../Source/Main-Series/03-A-Storm-of-Swords/chapters/77-tyrion.md) | Tyrion still must descend to Varys and galley to escape | Not yet arrived at ship on page |
+| C-3774 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Stannis delays summoned Watch leaders kneeling and demands immediate election | Political coercion of timing |
+| C-3775 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Slynt seeks royal endorsement for Watch command | Not achieved by request |
+| C-3776 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Aemon says 997 Lord Commanders chosen by sworn brothers previously | 998th succession baseline |
+| C-3777 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Stannis remembers Jon Arryn evidence Slynt sold gold cloak positions | Reported public corruption record |
+| C-3778 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Stannis says two potential witness officers died mysteriously | His account, no killer identified |
+| C-3779 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Stannis suspects Littlefinger benefited from Slynt corruption | Inferred political complicity not proven |
+| C-3780 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Aemon says Watch vows erase prior civil criminal liability | Legal amnesty not moral vindication |
+| C-3781 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Stannis promises not to require Watch swords in southern succession war | Declared neutrality, political pressure remains |
+| C-3782 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Stannis demands Gift land and unused castles for royal garrisons | Request, no transfer signed |
+| C-3783 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Bowen Marsh says Gift is granted in perpetuity | Title defense under pressure |
+| C-3784 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Stannis promises return three principal occupied castles to Watch | Policy statement, property settlement pending |
+| C-3785 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Stannis wants condition list and repair of abandoned Wall castles in one year | Future ambition, labor not arranged here |
+| C-3786 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Melisandre promotes nightfires and Stannis as Azor Ahai | Religious claim not authentication |
+| C-3787 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Aemon asks for prince that was promised and names war for dawn | Ancient scholarship noted |
+| C-3788 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Sam perceives king's discomfort at red priestess prophecy | Body language, belief unknown |
+| C-3789 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Stannis credits Randyll Tarly not Mace for Ashford victory | Historical witness testimony |
+| C-3790 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Stannis says Randyll killed Lord Cafferen with Valyrian steel | Reported weapon battle precedent |
+| C-3791 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Stannis notes Watch oath prevents Sam use as Randyll hostage | Political protection from oath |
+| C-3792 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Dragonstone caverns reportedly contain black green red purple dragonglass | Geological account, not dispatched supply |
+| C-3793 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Stannis orders Ser Rolland to mine dragonglass | Actual order, production and shipping unknown |
+| C-3794 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Sam says dragonglass kills Other but shatters against wight | Direct contrast of two magical enemies |
+| C-3795 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Melisandre says steel fire suffice for wight flesh but not Others | Explanatory claim |
+| C-3796 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Stannis identifies Nightfort as future seat and asks to see Black Gate | Planned inspection, Watch oath opening untested |
+| C-3797 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Lightbringer visibly glows gold orange red | Direct visual demonstration |
+| C-3798 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Aemon establishes Lightbringer provides no heat and scabbard not burned | Negative authenticity test |
+| C-3799 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Aemon refuses to appear to endorse Lord Commander candidate | Maester institutional restraint |
+| C-3800 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Cotter Pyke refuses endorse Mallister despite admitting not wanting position | Candidate rivalry |
+| C-3801 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Cotter fears Mallister too old and unable to resist Stannis | Partisan evaluation, not proof |
+| C-3802 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Denys Mallister refuses endorse Pyke citing pirate birth and reading dependence | Partisan evaluation of rival |
+| C-3803 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Mallister says withdrew for Qorgyle and Mormont previously | Past procedural precedent |
+| C-3804 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Sam suggests Jon for third-party candidate with Mormont Qhorin Noye support | Candidate coalition move |
+| C-3805 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Sam falsely tells Mallister Stannis would impose Pyke | Deliberate lie never spoken by king |
+| C-3806 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | Sam falsely tells Pyke Stannis would impose Mallister | Mirrored strategic lie, not royal statement |
+| C-3807 | [ASOS 78](../Source/Main-Series/03-A-Storm-of-Swords/chapters/78-samwell.md) | No new Lord Commander is elected within Sam 78 | Ballot outcome deferred to Jon 79 |
+| C-3808 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Jon spars with Iron Emmett while sleep deprived by Winterfell dilemma | Physical and emotional stress |
+| C-3809 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Jon remembers Robb childhood saying bastard cannot inherit Winterfell | Subjective memory, long-standing stigma |
+| C-3810 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Jon continues beating Emmett after yield until restrained | Actual training violence and loss of control |
+| C-3811 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Jon sees Catelyn's rejecting gaze in memory | Internal perspective, not present ghost |
+| C-3812 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Castle Black underground wormways link towers and baths | Real infrastructure |
+| C-3813 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Jon recalls Winterfell hot spring-heated walls and glass gardens | Architectural continuity |
+| C-3814 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Jon resists burning Winterfell heart tree for legitimization | Religious/oath objection |
+| C-3815 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Bathhouse conversation shows Alliser Bowen Othell coordinating for Slynt | Direct overheard political meeting |
+| C-3816 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Marsh says Tywin sent letter calling Slynt faithful servant | Claim about document, text not shown |
+| C-3817 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Thorne expects Tywin to beat Stannis and prefers Slynt | Pro Lannister motive |
+| C-3818 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Jon exits northern gate seeing wildling corpse pyres and prisoner pen | Postbattle accountability imagery |
+| C-3819 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Jon imagines children with Val including son Robb | Unexecuted imagined future |
+| C-3820 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Jon imagines fostering Dalla son and Gilly boy in Winterfell | Hypothetical coexistence, no baby exchange |
+| C-3821 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Jon acknowledges powerful desire for Winterfell despite shame | Actual internal motive |
+| C-3822 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Jon suddenly experiences wolf hunting appetite before Ghost arrives | Evidence of active wolf bond |
+| C-3823 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Ghost alive and returns white-furred and red-eyed from forest | Physical reunion |
+| C-3824 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Jon interprets Ghost coloring as bone and blood of heart tree | Symbolic old-gods association |
+| C-3825 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Jon recalls five dark pups and white runt as Stark and Snow pattern | Memory/inference not prophetic proof |
+| C-3826 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Jon has answer to Stannis upon Ghost arrival | Internal resolved choice, no formal audience |
+| C-3827 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Jon avoids Melisandre nightfire on return with Ghost | Observed trajectory, no explicit rejection delivered |
+| C-3828 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Stannis men bar election gathering exit and withhold supper | Time pressure on ostensibly autonomous Watch |
+| C-3829 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Dolorous Edd nominates Jon as valid sworn candidate | Actual source of nomination |
+| C-3830 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Slynt Thorne denounce warg and turncloak on Ghost arrival | Continuing rival faction |
+| C-3831 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Yarwyck withdraws and publicly shifts away from Slynt toward Jon | Key electoral realignment |
+| C-3832 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Mormont raven erupts from voting kettle and cries Snow | Observed bird behavior, placer unknown |
+| C-3833 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Sam recognizes raven and denies placing it there | Separate identity testimony and denied manipulation |
+| C-3834 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Raven lands on Jon, asks corn then kettle | Familiar learned vocabulary, interpretation open |
+| C-3835 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Arrowhead tokens overwhelm others in final vote | Dominant count qualitatively, precise numbers not printed |
+| C-3836 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Jon elected 998th Lord Commander Night Watch | Completed formal outcome |
+| C-3837 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Mallister and Pyke recognize Jon despite disappointed hopes | Postballot acceptance |
+| C-3838 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Bowen Marsh offers to continue as Lord Steward | Institutional continuity |
+| C-3839 | [ASOS 79](../Source/Main-Series/03-A-Storm-of-Swords/chapters/79-jon.md) | Jon walks out with Ghost and raven facing Stannis | New leadership crisis not resolved |
+| C-3840 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Sansa lives as Alayne Stone at Eyrie and dreams of Arya | False identity and home memory |
+| C-3841 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Sansa hears Vale Royces Waynwoods Redforts Belmores Templetons resent Petyr | Political tension secondhand |
+| C-3842 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Lord Hunter death prompts sons accusing one another | Reported unresolved inheritance crime |
+| C-3843 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Marillion remains privileged despite multiple harassment complaints | Protection through Lysa favoritism |
+| C-3844 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Early snow in Eyrie garden recalls Winterfell childhood | Memory rather than observed magic |
+| C-3845 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Eyrie godswood lacked weirwood due shallow rocky earth | Geographic/spiritual absence |
+| C-3846 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Sansa constructs detailed Winterfell snow castle | Material memory of architecture |
+| C-3847 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Petyr builds snow bridges with twig reinforcement | Skill and intimacy, not absolution |
+| C-3848 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Sansa recalls warm springs heating Winterfell walls | Physical architectural detail |
+| C-3849 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Petyr initiates unwanted kiss despite Sansa protest | Nonconsensual coercion witnessed |
+| C-3850 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Petyr conflates Sansa appeal with Catelyn when young | Psychosexual leverage not paternal care |
+| C-3851 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Robert Arryn damages snow model with giant doll | Direct physical disruption |
+| C-3852 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Sansa unintentionally tears Robert doll when trying stop him | Accident, not plotted attack |
+| C-3853 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Robert suffers seizure and Colemon administers dreamwine | Observed symptoms, precise medical cause unknown |
+| C-3854 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Colemon proposes leeching Robert as blood treatment | In-world medical judgment |
+| C-3855 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Sansa impales destroyed doll head on snow Winterfell gate | Symbolic giant-head image, prophecy unproven |
+| C-3856 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Sansa plans to refuse cousin Robert Arryn marriage | Intention, no legal refusal submitted |
+| C-3857 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Sansa imagines Nestor and Myranda Royce lower Vale refuge | Possible alternative, not contacted |
+| C-3858 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Robert Baratheon bastard daughter reportedly serves Nestor Royce | Hearsay of possible ally |
+| C-3859 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Marillion escorts Sansa and bars High Hall entrance with spear | Physical isolation before attack |
+| C-3860 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Lysa falsely blames Sansa for Petyr kiss | Contradicted by Sansa witness |
+| C-3861 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Lysa recounts Petyr drunk after Catelyn refused dance kiss | Lysa historical testimony |
+| C-3862 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Lysa recounts first sexual encounter when Petyr called her Cat | Undercuts Petyr Catelyn intimacy claim |
+| C-3863 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Lysa says Hoster forced abortifacient after Petyr pregnancy | Her personal account, ingredients named |
+| C-3864 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Moon Door bars three bronze, opens to six hundred foot void | Material assassination mechanism |
+| C-3865 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Lysa forcibly tries push Sansa through Moon Door | Direct attempted homicide |
+| C-3866 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Marillion continues song while Lysa menaces Sansa | Possible complicity, advance plan unproven |
+| C-3867 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Petyr enters via rear lord door and frees Sansa from Lysa | Immediate rescue preceding murder |
+| C-3868 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Lysa confesses putting tears into Jon Arryn wine on Petyr orders | Firsthand participant confession |
+| C-3869 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Lysa says she wrote false Lannister murder accusation to Catelyn on Petyr orders | Conspiracy misinformation confirmed |
+| C-3870 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Substance tears of Lys likely but direct chemical verification absent | Strong crosschapter inference |
+| C-3871 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Lysa says she obtained Petyr early court job through Jon Arryn | Claim of patronage |
+| C-3872 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Petyr pushes Lysa out Moon Door after declaring love only for Cat | Actual intentional killing of Lysa |
+| C-3873 | [ASOS 80](../Source/Main-Series/03-A-Storm-of-Swords/chapters/80-sansa.md) | Petyr orders Sansa blame singer Marillion for Lysa murder | Direct false accusation, Sansa witness |
+| C-3874 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Unseasonal Oldstones snowfall follows two lost harvests and portion third | Early famine concern Merrett forecast |
+| C-3875 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Oldstones contains Tristifer Mudd royal sepulcher | Historic Mudd site, no restored monarchy |
+| C-3876 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Merrett takes one hundred gold dragons to ransom Petyr Pimple | Actual mission with no promised rescue honored |
+| C-3877 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Merrett suffers lasting head pain after Kingswood mace injury | Specific disabling combat history |
+| C-3878 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Merrett was page and squire with young Jaime at Crakehall | Career crosslink to Jaime biography |
+| C-3879 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Wenda White Fawn captured and branded Merrett in Kingswood | Participant's past account |
+| C-3880 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Merrett is ninth Walder son without property approaching forty | Structural incentive for dangerous errand |
+| C-3881 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Walder near ninety two gouty and blind per Merrett | His status, death future |
+| C-3882 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | After Stevron death Ryman heir followed by Edwyn and Black Walder | Succession branch |
+| C-3883 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Lothar and Edwyn Black Walder hostility forecast Frey civil conflict | Merrett speculation, no war yet |
+| C-3884 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Walda Merrett daughter married Roose because fat dowry as Walder joked | Family account, Roose motive inferred |
+| C-3885 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Lothar planned Red Wedding in detail with Roose Bolton | Insider operational admission |
+| C-3886 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Walder ordered Red Wedding according Merrett | Participant firsthand attribution |
+| C-3887 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Lothar chose timing and songs for attack | Specific coordination |
+| C-3888 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Merrett deliberately gave Greatjon Umber excessive wine | Admitted conspiratorial act |
+| C-3889 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Greatjon resisted eight captors, one dead two wounded and Haigh ear injured | Participant recount, no external tally |
+| C-3890 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Lothar rigged tents to fall and arranged crossbows amid musicians | Merrett details attack logistics |
+| C-3891 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Bastard Walder led raid on camps | Named participant command from insider |
+| C-3892 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Merrett invokes guest slight as Frey justification | Claimed vengeance not exculpation |
+| C-3893 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Merrett says Freys lost around fifty men and Grey Wind tore hounds apart | Interested casualty report |
+| C-3894 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Singer at Oldstones sings Jenny's song by ancient grave | Memorial theme, exact singer name unstated |
+| C-3895 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | One-eyed Jack and yellow cloak Lem appear among outlaws | Named actors, neither Beric shown |
+| C-3896 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Outlaws take ransom but have already hanged Petyr Pimple | False assurance of rescue |
+| C-3897 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Brotherhood investigates Sandor and child through Trident ferrymen | Hound pursuit, later fate unknown |
+| C-3898 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Outlaws promise ambiguous release then order Merrett hanged | Entrapment, procedural degradation |
+| C-3899 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Merrett denies shooting anyone but admits role weakening Greatjon | Compartmentalized guilt |
+| C-3900 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Merrett recalls Raymund Frey cut Catelyn throat at Twins | Named killer insider testimony |
+| C-3901 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Catelyn corpse was stripped and dumped in river after day and night | Eyewitness Frey recollection |
+| C-3902 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Catelyn appears alive-moving with pale water-damaged flesh and injured face | Direct revival witness, method unknown |
+| C-3903 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Catelyn remains voiceless through cut throat but can nod | Altered capacity and agency |
+| C-3904 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Catelyn nods confirming Merrett involved in massacre | Direct decision role |
+| C-3905 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Merrett is hoisted and hangs under Catelyn's authority | On-page execution, no later corpse check |
+| C-3906 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Revival origin not narrated by Merrett POV | Do not prematurely credit Beric or Thoros |
+| C-3907 | [ASOS Epilogue](../Source/Main-Series/03-A-Storm-of-Swords/chapters/epilogue.md) | Brotherhood now ransoms falsely and executes Freys | Changed faction conduct, membership consensus unshown |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -3825,4 +3988,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and twenty-two first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and twenty-seven first-pass chapters listed in the coverage tracker.
