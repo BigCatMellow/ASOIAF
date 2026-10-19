@@ -3,7 +3,7 @@
 - Record role: `RESEARCH / EVIDENCE ROUTER`
 - Authority: `ADVISORY / NONE`; owner of **which source junctions to investigate next**, not owner of story outcomes
 - Status: `EXPANDING — EARLY CHAPTER INTAKE`
-- Updated: 2026-10-18
+- Updated: 2026-10-19
 - Source and epistemic standard: [SOURCES.md](../SOURCES.md); reading coverage: [tracker](../Source/Main-Series/CLOSE-READING-STATUS.md)
 
 **Interpretation rule:** A detail is not a clue just because it is unusual. Preserve narrative context and at least one ordinary explanation; distinguish directly observed action from a character's private inference, folk history or external fan idea. `TEST` means investigate, not accept.
@@ -6709,6 +6709,257 @@
 | C-6603 | [AFFC 42](../Source/Main-Series/04-A-Feast-for-Crows/chapters/42-brienne.md) | Brienne begins asphyxiating and sees Podrick strangling | Near-death bodily peril, reader not told outcome |
 | C-6604 | [AFFC 42](../Source/Main-Series/04-A-Feast-for-Crows/chapters/42-brienne.md) | Brienne screams a word as chapter stops, word not revealed | Mandatory uncertainty: no accept/refuse/rescue/certain death claimed |
 
+| C-6605 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Moelle appears escorted by six rainbow-shielded Warrior's Sons | Faith now possesses armed enforcement separate from the queen. |
+| C-6606 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei stages public outrage at Margaery's detention beneath the Iron Throne | Court performance, not proof of protective motive. |
+| C-6607 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Faith refuses to release accused women absent proof of innocence | Reversal of normal presumption and jurisdictional struggle. |
+| C-6608 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Megga and Elinor accused of fornication and treason; Alla of concealment | Allegation, not established acts. |
+| C-6609 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Margaery accused additionally of adultery and high treason | Core prearranged prosecution. |
+| C-6610 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Moelle identifies Osney Kettleblack as confessor before High Septon | Earlier AFFC39 establishes Cersei scripted this false allegation. |
+| C-6611 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Courtiers leave throne room during revelations | Public damage to Tyrell reputation is immediately observable. |
+| C-6612 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Osfryd instructed to record those who leave | Cersei treats flight as political information. |
+| C-6613 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Moelle claims bodily examination of Margaery and cousins | Condition of hymen cannot establish timing, consent or adultery. |
+| C-6614 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Moelle names septas Aglantine, Melicent and Nysterica as witnesses | Nysterica's confinement creates pressure on testimony. |
+| C-6615 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Pycelle says he repeatedly supplied Margaery with moon tea | His speech is audible, but actual users, causes and sexual partners unverified. |
+| C-6616 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei savors the uproar and disperses the court | Conscious manipulation of public opinion. |
+| C-6617 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Boros, Meryn and Osmund are three Kingsguard currently in city | Physical availability shapes Cersei's later legal trap. |
+| C-6618 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei imagines Maggy's younger-queen and valonqar predictions defeated | Her inference is unsupported by prophecy's untested outcome. |
+| C-6619 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Orton Merryweather warns city is fond of Margaery | Advisor accurately identifies mass-politics risk. |
+| C-6620 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Aurane Waters asks permission to launch remaining dromonds | He receives maritime initiative from Cersei. |
+| C-6621 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei imagines dromonds preventing Tyrell crossings like Tyrion once blocked Stannis | Her tactical inference may exceed Aurane's true intent. |
+| C-6622 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei assumes Redwyne fleet is returning toward Arbor | Fleet return reported, not witnessed from capital. |
+| C-6623 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Harys warns of Mace Tyrell's fury | A plausible danger discounted by Cersei. |
+| C-6624 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei proposes a personal visit to Great Sept | She believes it will advance her plot. |
+| C-6625 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei hopes Faith rather than secular court will try Margaery | Jurisdictional choice is part of her plan. |
+| C-6626 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Tommen plays at fishing for cats with a fur mouse | King shown as child, not deliberating sovereign. |
+| C-6627 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei sheds tears while thinking Tommen safe | A real emotional response alongside abuse of power. |
+| C-6628 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei insists lions never cry | Denial of visible vulnerability. |
+| C-6629 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Tommen signs and seals warrants while their names are blank | Major legal instrument of manufactured authorization. |
+| C-6630 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei inserts ten defendants after signature | Royal authority laundered through child's stamp. |
+| C-6631 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | The ten named include Tallad, Jalabhar, Hamish, Hugh, Mark, Bayard, Lambert, Redwyne twins and Wat | Record who is implicated and who is deliberately exempted later. |
+| C-6632 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Osfryd and other Kettleblacks cannot read | Vulnerability in warrant and testimony chain. |
+| C-6633 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei says some prisoners may be innocent | Direct admission she tolerates unjust arrests. |
+| C-6634 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Redwyne twins are to be cleared to make other verdicts seem fair | Selective exoneration planned, not evidence of guilt in others. |
+| C-6635 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Crowd of roughly a hundred calls for Margaery outside Sept | Political support for Margaery visible on the ground. |
+| C-6636 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei orders city gates closed to all without her leave | Her purge triggers broader movement restrictions. |
+| C-6637 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Tallad wounds three gold cloaks during arrest | Actual violence and foreseeable mortal danger. |
+| C-6638 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Redwyne twins are housed comfortably; others sent to dungeons | Differential conditions dictated by strategic fleet needs. |
+| C-6639 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Qyburn reports Hamish breathing poorly and requesting maester | State custody jeopardizes prisoner's life. |
+| C-6640 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei withholds medical attention until confession | Coercive practice irrespective of guilt. |
+| C-6641 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Qyburn agrees to help Hamish remember alleged performances | Explicit intention to shape testimony. |
+| C-6642 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Taena helps choose humble brown clothing for the Sept visit | Disguise of piety and expectation of kneeling. |
+| C-6643 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Taena is tasked to win Alla's accusation while avoiding listeners | Further fabrication attempt. |
+| C-6644 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei avoids bringing Osmund because mob might associate him with Osney | She anticipates exposure of familial conspiracy. |
+| C-6645 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei and Taena discuss trial by combat and Kingsguard-only champions | Own restriction later rebounds on Cersei. |
+| C-6646 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Loras injured, Arys and Balon in Dorne, Jaime at Riverrun, Osmund conflicted | Narrower plausible pool of champions. |
+| C-6647 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei aims to leave only Boros or Meryn against Osney | A premeditated mismatch, not impartial trial. |
+| C-6648 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Taena resists bringing Russell to court until danger passes | Independent sign of her caution; motive unknown. |
+| C-6649 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei promises Margaery's head will roll | Execution intent, not yet judicial sentence. |
+| C-6650 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Septa guards and Theodan the True guide Cersei into Sept | Faith controls her route and physical security. |
+| C-6651 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Margaery confined alone barefoot in roughspun in eight-by-six-foot cell | Real custodial hardship and isolation. |
+| C-6652 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Margaery says septas strip and interrogate cousins | Character report consistent with visible captivity. |
+| C-6653 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Margaery reports hourly sleep-interrupting demands to confess | Institutional coercion, not voluntary evidence. |
+| C-6654 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Margaery openly worries about Megga and Alla | Familial loyalty and vulnerability. |
+| C-6655 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei reveals arrests and proposed trial to Margaery | Her supposed help becomes recognizable trap. |
+| C-6656 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Margaery knows Boros, Meryn and maimed Jaime are weak options | She understands trial-by-combat calculus. |
+| C-6657 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Margaery asks for Garlan, who is not Kingsguard | Protective alternative barred by Cersei's legal insistence. |
+| C-6658 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Margaery identifies Cersei's effort to keep Tommen to herself | On-page accusation supported by Cersei's private intentions. |
+| C-6659 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei maintains outward courtesy because septas may be listening | Difference between public performance and private intent. |
+| C-6660 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | High Septon meets Cersei in subterranean seven-sided chamber | He holds court below the Sept rather than as a puppet in Red Keep. |
+| C-6661 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Jeweled eyes of carved Seven unsettle Cersei | Psychological reaction, not proof living statues or surveillance. |
+| C-6662 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | High Septon accepts proposed holy seven-judge court, three women among them | Institutional recapture of judgment claimed in contrast to Jaehaerys era. |
+| C-6663 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | High Septon endorses Kingsguard-only champion | Same procedure will bind Cersei. |
+| C-6664 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | High Septon refuses Cersei's request to remove Osney to castle | Decisive assertion of independent custody. |
+| C-6665 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Osney is found chained, naked and extensively scourged | Direct physical evidence of Faith's torture. |
+| C-6666 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | High Septon distrusts Osney's eagerness to confess | Faith independently probes fabricated story. |
+| C-6667 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Osney recants touching Margaery under torture | Coerced retraction not automatically more reliable than first confession. |
+| C-6668 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Osney tells Cersei she promised him the Wall | Links scripted deal from AFFC39 to exposure. |
+| C-6669 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Osney alleges intercourse with Cersei and killing prior High Septon with pillow | Accusation given under torture; earlier narrative supports her responsibility but judicial claim needs care. |
+| C-6670 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei attempts to flee and imagines replacing this High Septon too | Conscious intent toward political violence. |
+| C-6671 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei panics that Taena knows details of her plotting | Cersei's trust in confidante turns into vulnerability. |
+| C-6672 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Septa women and Silent Sisters physically arrest Cersei at Mother altar | Regent's coercive force does not prevent her confinement. |
+| C-6673 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei destroys her shift, ewer and chamber pot in resistance | Prison conditions partly worsened by her own choices. |
+| C-6674 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Unella repeatedly interrupts sleep seeking confession | Abusive interrogation of Cersei mirrors Margaery's report. |
+| C-6675 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Outside crowd chants Margaery's name rather than Cersei's | Public legitimacy split visible to prisoner. |
+| C-6676 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Qyburn visits near second dawn; says Cersei faces murder, treason and fornication charges | Actual announced legal predicament. |
+| C-6677 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Qyburn confirms Tommen alive, isolated and unaware of full accusation | Child-king's knowledge remains restricted. |
+| C-6678 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Blue Bard transferred to Faith; Qyburn reports his tortured story unchanged so far | False evidence may still affect Margaery despite Cersei's downfall. |
+| C-6679 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Osfryd removed from City Watch; Humfrey Waters appointed | Loss of loyal coercive institution. |
+| C-6680 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Pycelle and Harys now govern through Tommen's signatures | Council uses same pliable royal seal Cersei exploited. |
+| C-6681 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Kevan invited to return as regent | Invitation made, arrival not confirmed. |
+| C-6682 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Qyburn reports Mace returning from Storm's End and Randyll moving from Maidenpool | Character reports, not arrival at capital. |
+| C-6683 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Merrywaters resigned and fled to Longtable; Taena carried first alarm | Departure known through Qyburn, inner motive of Taena unknown. |
+| C-6684 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Aurane sails royal fleet away without authority to seize it permanently | Departure is reported, ultimate destination unknown. |
+| C-6685 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Pycelle and Harys disagree whether Aurane joins Stannis or pirates Stepstones | Explicit competing speculation, neither confirmed. |
+| C-6686 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Qyburn says an unbeatable unnamed champion stands ready | Candidate's identity, condition and eligibility not named here. |
+| C-6687 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei realizes queen-champion rule makes unnamed man unusable | Self-inflicted legal constraint. |
+| C-6688 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei sends Jaime a message pledging love three times | Message requested here; his reception awaits AFFC44. |
+| C-6689 | [AFFC 43](../Source/Main-Series/04-A-Feast-for-Crows/chapters/43-cersei.md) | Cersei refuses to believe Jaime's lost sword hand means he might lose | Psychological denial, not combat capability. |
+| C-6690 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Riverrun has surrendered before the first paragraph | Capitulation after AFFC38 hostage coercion, not a battle. |
+| C-6691 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Emmon claims Edmure acted falsely by allowing Brynden's escape | A disputed interpretation of surrender terms. |
+| C-6692 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Edmure says he surrendered castle but never promised to surrender uncle | Textually distinct promises. |
+| C-6693 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime has searched castle three times without locating Blackfish | Brynden absent; no body or capture. |
+| C-6694 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Edmure says Blackfish went by water | Unusual but mundane swimming escape. |
+| C-6695 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Water Gate portcullis lifted only three feet under surface | Specific hidden exit mechanism. |
+| C-6696 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Brynden swam under lowered grille and likely besiegers' boom at night | First action reported by Edmure, second Jaime's inference. |
+| C-6697 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Edmure delayed lowering Stark wolf until later in day | Time bought for uncle before discovery. |
+| C-6698 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime privately threatens Casterly Rock oubliette and Roslin alongside Edmure | Continued coercion after nominal bloodless victory. |
+| C-6699 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Edmure invokes Jaime's promise of honorable treatment | Gap between pledge and threat is deliberate. |
+| C-6700 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Addam Marbrand and Dermot search opposite banks | Named pursuit sectors. |
+| C-6701 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime doubts riverlords would deliver Blackfish | Their formal submission is not personal loyalty. |
+| C-6702 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Blackfish left castle provisioned | Siege failure was political rather than immediate starvation. |
+| C-6703 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Emmon has two hundred-man garrison | Occupation choice against insecurity. |
+| C-6704 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Genna says Frey lord must hold castle himself | Legal title cannot provide popular allegiance. |
+| C-6705 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Edmure describes Hoster's solar, Cat reading, childhood with Littlefinger | Family memories persist behind strategic contest. |
+| C-6706 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime orders Edmure fed after dispute | Limited restraint after threat. |
+| C-6707 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime first plans escort with hundred then doubles and doubles again | Final convoy four hundred men. |
+| C-6708 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jeyne Westerling arrives with Lady Sybell | Materially important living Robb widow. |
+| C-6709 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jeyne about fifteen or sixteen, chestnut-haired and narrow-hipped in Jaime's sight | Physical description is a POV estimate; do not declare a replacement bride. |
+| C-6710 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jeyne has scab on forehead from crown dispute with mother | Visible injury plus Sybell explanation. |
+| C-6711 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jeyne grieves and calls Robb's small crown hers | Independent memory and agency. |
+| C-6712 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Sybell attempts to strike daughter; Jaime intervenes | Momentary protection despite imprisonment. |
+| C-6713 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime questions whether Jeyne is pregnant by Robb | Successor risk drives treatment. |
+| C-6714 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Sybell asserts she ensured Jeyne is not pregnant on Tywin's orders | Her claim, not witnessed method or proof of medical result. |
+| C-6715 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Tywin granted Westerling pardon and Rolph Castamere | Tangible political reward. |
+| C-6716 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Sybell demands marriages for Jeyne and younger daughter | Private bargain exchanges family control for status. |
+| C-6717 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime requires Jeyne wait two years to remarry | Prevents disputed paternity claims whether pregnancy exists or not. |
+| C-6718 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Sybell says Raynald knew nothing of her Tywin understanding | Mother's assertion, no independent access to his knowledge. |
+| C-6719 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Sybell seeks Raynald's rescue from Twins and marriage to Joy | A trade for a boy who may be dead. |
+| C-6720 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Joy Hill is Gerion Lannister's young natural daughter | Reject claim that marriage to Joy grants legitimacy. |
+| C-6721 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime calls Sybell turncloak and rejects slight to Joy | Personal attachment and moral revulsion. |
+| C-6722 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime wonders if Gawen Westerling knew wife's conspiracy | Knowledge of husband explicitly unresolved. |
+| C-6723 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime orders archers ready to kill Edmure if he flees | Safe arrival preferred but escape deemed worse than death. |
+| C-6724 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime also orders Jeyne watched as twice as dangerous | Dynastic symbol valued above immediate military threat. |
+| C-6725 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jeyne deliberately tears fine clothing in mourning | Resists mother's control through material sign. |
+| C-6726 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime wonders if Cersei would mourn his death similarly | Growing skepticism of their relationship. |
+| C-6727 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Edwyn Frey accuses Jaime of enabling Ryman's death | Blame follows Jaime's order sending him home. |
+| C-6728 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Walder Rivers reports Ryman and entourage hanged two leagues south of Fairmarket | Murder reported, not seen by Jaime. |
+| C-6729 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Ryman had three knights and a dozen men-at-arms | Small escort explains vulnerability and possible intelligence leak. |
+| C-6730 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Edwyn blames Black Walder for ambush | Intra-Frey theory without proof. |
+| C-6731 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Walder Rivers notes Black Walder at Seagard | Geographic counterargument, not alibi against remote conspiracy. |
+| C-6732 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime knows Edwyn and Black Walder both use spies | Fact about rivalry, not murderer identification. |
+| C-6733 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime repeats royal demand to turn over Red Wedding captives | Demand made; Frey compliance unconfirmed. |
+| C-6734 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Walder Rivers describes Raynald releasing captured direwolf despite injuries | Strong corroboration of loyal Raynald, not confirmed corpse. |
+| C-6735 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Raynald reported hit in shoulder and belly, jumped in Green Fork | Survival physically possible but unproven. |
+| C-6736 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | No identified Raynald corpse among recovered dead | Frey testimony preserves uncertainty. |
+| C-6737 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime orders Ryman's gallows and siege engines burned | Symbolic and material demobilization. |
+| C-6738 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime plans to resolve Blackwood siege without tower | Not yet proven negotiated outcome. |
+| C-6739 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime trains with Ilyn Payne three hours nightly | Sustained left-hand rehabilitation. |
+| C-6740 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Payne kills Jaime twice in favorable session; usually more | Competence still far below prior mastery. |
+| C-6741 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime treats mute Payne as confidant about Cersei and desire for revenge | Speech to silent listener not proof Payne shares judgment. |
+| C-6742 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime considers punishments for Osmund Kettleblack via past Kingsguard scandals | Historical analogies to Lucamore and Terrence Toyne. |
+| C-6743 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime explicitly rejects killing Cersei because of Tommen's welfare | No immediate plan to murder his sister. |
+| C-6744 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Dermot reports hundreds of wolves, led by huge she-wolf | Testimonial evidence of possible Arya-Nymeria pack connection. |
+| C-6745 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Pack killed armed sentries and horses | Immediate physical peril, not ordinary tame wolves. |
+| C-6746 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime wonders whether direwolf from Joffrey's old incident | Recognition hypothesis; no visual identification by Jaime. |
+| C-6747 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Vance says Tytos Blackwood may surrender for Jaime, not Jonos Bracken | Personal authority and feud modify politics. |
+| C-6748 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Strongboar departs to hunt outlaws and Hound | Unaware Rorge impersonated Hound and was killed in AFFC37. |
+| C-6749 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime wants Beric brought alive to die visibly | Jaime lacks Thoros's AFFC42 report of Beric's final death. |
+| C-6750 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime refuses Genna's proposal to torture Tully garrison | Maintains promise of unharmed release. |
+| C-6751 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime privately remembers threatening Edmure's infant with trebuchet | Not unqualified proof of chivalry. |
+| C-6752 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime wishes he could separate Tommen from Cersei and reform council | Planned regency conflict, never attempted here. |
+| C-6753 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime thinks of Kevan, Prester, Crakehall, Rowan, even Littlefinger as Hand | His assessment of Baelish as nonthreatening is demonstrably limited by information. |
+| C-6754 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime considers telling Tommen he is his biological father | Hypothetical choice, not disclosure. |
+| C-6755 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Garrison released stripped of arms, provisioned for three days after oath | Hundreds of disarmed men remain in war-torn land. |
+| C-6756 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Genna expects only one of ten to keep oath | Character prediction, not measured rate. |
+| C-6757 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Desmond Grell and Robin Ryger choose Night's Watch | Two specific exceptions to departing garrison. |
+| C-6758 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime permits Grell and Ryger armor and arms | Different from general disarmament. |
+| C-6759 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Rafford the Sweetling leads escort toward Maidenpool | Risk to travelers from former Mountain's men. |
+| C-6760 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Emmon delivers long unpopular speech to castle staff | Occupation legitimacy does not follow legal instrument. |
+| C-6761 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Green-clad singer who served Ryman seeks to remain at Riverrun | New actor inside occupation household. |
+| C-6762 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Singer explicitly identifies himself as Tom of Sevenstreams, Tom o' Sevens | Known Brotherhood-associated minstrel from earlier book, Jaime fails to recognize danger. |
+| C-6763 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Tom knows far more than the coercive Rains of Castamere | Musical agent has operational and narrative range. |
+| C-6764 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime dreams of veiled green-eyed gold-haired woman resembling Joanna Lannister | Implied mother; dream not certified ghost. |
+| C-6765 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Dream asks who Jaime is and makes him count one hand | Core identity challenge. |
+| C-6766 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Dream describes Tywin's fear of ridicule and goals for twins | Potential psychological insight, not privileged supernatural report. |
+| C-6767 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Dream ends with apparent Joanna departing in sadness | Grief symbol, not proven external visitation. |
+| C-6768 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime wakes to first snow entering open window | Physical winter signal witnessed. |
+| C-6769 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Snow deepens and frost threatens remaining harvest | Concrete agricultural and logistics consequences. |
+| C-6770 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Vyman arrives with letter from King's Landing rather than white raven | Winter visible; formal Citadel declaration not supplied by this bird. |
+| C-6771 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Letter repeats Cersei's threefold love and demand for rescue | AFFC43 request reaches Jaime. |
+| C-6772 | [AFFC 44](../Source/Main-Series/04-A-Feast-for-Crows/chapters/44-jaime.md) | Jaime tells Peck to burn the letter without replying | On-page decision rejects Cersei's rescue plea at chapter endpoint. |
+| C-6773 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Redwyne Straits occupied by ironborn longships despite proximity to Oldtown | Physical blockade, not mere rumor. |
+| C-6774 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Ironborn have sacked Ryamsport and taken Vinetown and Starfish Harbor | Narrated state of regional war. |
+| C-6775 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Cinnamon Wind sights three hostile longships on final approach | Practical risk remains despite earlier escape. |
+| C-6776 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Kojja's goldenheart archers loose one volley at about two hundred yards | Strong deterrence without boarding fight. |
+| C-6777 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Sam believes his own arrow reached enemy ship | His belief is not confirmed observed injury or kill. |
+| C-6778 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Three Towers identified as Costayne seat from water | Coastal geography before Oldtown. |
+| C-6779 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Gilly nurses Dalla and Mance's infant lovingly | Adoptive attachment despite swapped-son grief. |
+| C-6780 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Corpses, burned villages and wrecked ships litter Whispering Sound | Battle evidence extends into supposedly sheltered water. |
+| C-6781 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Sam observes damaged dromonds as well as local craft and longships | Both sides have material naval losses. |
+| C-6782 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Broken longship flies red eye, black pupil and iron crown upheld by two crows | Heraldic clue points toward Euron's faction; Sam lacks identification. |
+| C-6783 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | War galley Huntress and two escorts bear Tommen and Hightower symbols | Loyalist naval patrol operating locally. |
+| C-6784 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Huntress captain inspects merchant ship for disguises | Counterintelligence response to infiltration risk. |
+| C-6785 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Captain reports fake Tyroshi merchants using dyed whiskers | A reported prior plot, not directly witnessed by Sam. |
+| C-6786 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | False Tyroshi were exposed by oarsmaster speaking actual Tyroshi | Language competence defeated a disguise. |
+| C-6787 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Captain describes hundreds rather than usual handful of ironborn raiders | Major strategic escalation by report. |
+| C-6788 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Named ironborn bases include Shield Islands, Stonecrab Cay and Isle of Pigs | Concrete geography for future attacks. |
+| C-6789 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Captain names Mermaid's Palace, Horseshoe Rock and Bastard's Cradle as nests | Minor island and shoal details worth map check. |
+| C-6790 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Captain says Redwyne fleet absent and local swords cannot solve sea attack | Military asymmetry rather than lack of foot soldiers. |
+| C-6791 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Leyton Hightower reportedly secluded atop tower with Mad Maid studying spells | Captain's claim; actual magic not witnessed here. |
+| C-6792 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Baelor reportedly building galleys, Gunthor holding harbor, Garth training recruits | Distributed Hightower defense command. |
+| C-6793 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Humfrey reportedly sent to Lys to recruit sellsails | Plan, not evidence hired fleet arrived. |
+| C-6794 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Captain mentions Hightower sister as means of Lys financing or recruitment | Familial lead uncertain, avoid invented allegiance. |
+| C-6795 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Captain angrily blames Cersei for detaining Paxter's fleet | Local anti-capital sentiment and naval priority conflict. |
+| C-6796 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Sam worries Horn Hill could be overrun as Winterfell was | Analogy from past surprise capture, not imminent witnessed assault. |
+| C-6797 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Sam weighs leaving Gilly at Horn Hill, Citadel or Summer Isles | Mutually risky options, not settled safety. |
+| C-6798 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Sam still recognizes binding Night's Watch vows | Romantic attachment has not annulled oath. |
+| C-6799 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Sam chooses to inspect Horn Hill and personally bring Gilly if safe | Future plan, not actual arrival there. |
+| C-6800 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Oldtown's fog leaves Hightower beacon most visible | Strong navigational and defensive landmark. |
+| C-6801 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Harbor boom links two dozen old hulks behind anchored defenses | Specific protected entry. |
+| C-6802 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Honor of Oldtown four-deck banner ship and three dromonds guard port | Named defensive maritime asset. |
+| C-6803 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Gunthor inspects ship and speaks Summer Tongue to Quhuru | Multilingual inspection and private conference. |
+| C-6804 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Sam intends to report Aemon's death and give Jon's letters to Citadel | Declared mission not yet accomplished. |
+| C-6805 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Sam expects Citadel to collect Aemon's body | Expectation; corpse retrieval unshown. |
+| C-6806 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Gilly remains on Cinnamon Wind with Kojja's permission | Present whereabouts at chapter endpoint. |
+| C-6807 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Quhuru intends to sell books to maesters | Potential route for Aemon's earlier library, actual sale pending. |
+| C-6808 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Sam navigates Honeywine road toward Citadel amid unease about father | Randyll's social network threatens Sam despite distance. |
+| C-6809 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Citadel gate sphinxes combine lion, eagle and serpent forms with gendered faces | Physical sphinx imagery precedes verbal riddle. |
+| C-6810 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Scribe's Hearth and book and map stalls serve public | Knowledge circulation outside maesters. |
+| C-6811 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Statue of Daeron I at fork carries gulls on head and sword | Historical icon undercut by mundane birds. |
+| C-6812 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Weeping Dock connects to Bloody Isle by boat | Precise island geography. |
+| C-6813 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Sam imagines false name and earlier Citadel escape from Randyll | Identity motif distinct from actual disguise. |
+| C-6814 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Novice punished in stocks for kitchen theft | Institutional discipline and humiliation. |
+| C-6815 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Lorcas delays noble Sam at Seneschal's Court | Gatekeeping susceptible to bribe. |
+| C-6816 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Alleras describes bribe of copper penny or silver stag | Specific mundane access exploit. |
+| C-6817 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Alleras appears light-brown skinned, black-curled, speaks with Dornish accent | Supports but does not prove Sarella identification. |
+| C-6818 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Alleras explicitly called Sphinx and introduces himself to Sam | Connects Aemon's enigmatic saying to real scholar. |
+| C-6819 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Alleras says Sphinx saying sounds like riddle | No interpretation of Aemon's intent confirmed. |
+| C-6820 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Seneschal position rotates annually among archmaesters by lot | Decentralized administrative procedure. |
+| C-6821 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Walgrave drew black stone but forgetfulness led Theobald to act for him | Memory impairment and substituted authority. |
+| C-6822 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Alleras knows Aemon as oldest living maester and historical witness | Aemon would have been valuable Citadel informant. |
+| C-6823 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Sam tells Alleras of Others, wights, Coldhands, Jon, Stannis, dragons and prophecy | Major classified intelligence shared with non-Watch acolyte. |
+| C-6824 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Sam withholds Bran's journey and infant substitution | Information compartments preserved under vows. |
+| C-6825 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Alleras warns Theobald may dismiss much of Sam's story | Belief barrier, not proven full Citadel censorship. |
+| C-6826 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Alleras diverts Sam to Isle of Ravens to meet another archmaester | Sam has not yet delivered letters officially. |
+| C-6827 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Ravenry old pirate castle allegedly from Age of Heroes | Local history framed as tradition. |
+| C-6828 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Ancient weirwood on island has overgrown carved face and dying boughs | Magical/religious tree amid maester institution. |
+| C-6829 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Black ravens and white ravens kept apart because they fight | Practical note about seasonal courier infrastructure. |
+| C-6830 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Alleras says Walgrave in west tower; leads Sam to north tower | Deliberate diversion toward Marwyn. |
+| C-6831 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Leo Tyrell sits studying an ordinary-looking candle flame | Not yet proof of his magical success; he mocks Sam. |
+| C-6832 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Leo makes racist and ableist insults and claims Randyll said Sam dead | Hostile childhood recognition, father story not independently verified. |
+| C-6833 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Marwyn summons Sam and Alleras inside personally | Interception is planned rather than chance. |
+| C-6834 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Marwyn's room contains maps, scrolls and a burning tall black candle | Physical convergence of magical and scholarly sources. |
+| C-6835 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Glass-candle flame stays still when door slams and papers move | On-page unnatural observable phenomenon. |
+| C-6836 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Its light intensifies white, yellow, red and deepens black shadows | Sensory detail unlike ordinary flame. |
+| C-6837 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Pasty-faced novice says candle is obsidian; Marwyn calls it dragonglass | Direct material identification by characters. |
+| C-6838 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Marwyn says candle burns without being consumed | Claim; absence of visible wax loss is compatible with seen flame. |
+| C-6839 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Marwyn describes transcontinental sight, dream entry and distant communication | Historical powers claimed, only current burning directly observed. |
+| C-6840 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Marwyn already knows much of Sam's account before he speaks | Possible intelligence source; not every claim proven true. |
+| C-6841 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Marwyn cites Gorghan warning prophecy is treacherous | Explicit skeptical alternative to deterministic prophecy readings. |
+| C-6842 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Aemon's Daenerys interpretation reaches Marwyn by Sam's testimony | Hope is character belief, not established fulfillment. |
+| C-6843 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Marwyn alleges maesters would kill Aemon to suppress dragons and sorcery | Severe institutional conspiracy **claim**, not fact. |
+| C-6844 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Marwyn points to Aemon's Targaryen blood as reason for Wall posting | Potential bias; Aemon's life decisions require alternative historical reading. |
+| C-6845 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Marwyn decides to sail to Slaver's Bay on Cinnamon Wind | Immediate declared plan, arrival not depicted. |
+| C-6846 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Marwyn believes orthodox maesters will send rival emissary | Prediction; unnamed actual agent unshown. |
+| C-6847 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Marwyn urges Sam to forge chain quickly for future Wall duty | Sam's intended education becomes strategic. |
+| C-6848 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Marwyn tells Sam to conceal dragons and prophecy when speaking to Citadel | Precaution could be justified or paranoid, not proof of poison conspiracy. |
+| C-6849 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Alleras admits Marwyn sent him to intercept Sam before Theobald | Independent admission of planned interception. |
+| C-6850 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Alleras points toward glass candle as reason Marwyn knew Sam coming | Implied clairvoyance, exact viewing method not demonstrated. |
+| C-6851 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Pasty youth offers Sam cell near Walgrave with access to raven tower | Access to message system and compromised keeper's quarters. |
+| C-6852 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Pasty youth calls himself Pate like pig boy | Strong impostor signal after prologue's apparent lethal poisoning. |
+| C-6853 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Original Pate had sold Walgrave's key to alchemist and collapsed | Earlier on-page event; exact method, alchemist identity and impostor's origin unresolved. |
+| C-6854 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Sam ends chapter unaware of prologue reader's evidence | Concealed intelligence asymmetry. |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -6716,4 +6967,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and sixty-nine first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and seventy-two first-pass chapters listed in the coverage tracker.
