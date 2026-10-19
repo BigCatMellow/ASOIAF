@@ -23,7 +23,7 @@ The EPUB was opened locally on 2026-10-15. Its five title sections, navigation e
 | [ADWD](05-A-Dance-with-Dragons/NOTES.md) | 73 | 60 (Prologue, 1–59) | 13 |
 | **TOTAL** | **344** | **331** | **13** |
 
-**Important:** The three hundred and twenty files are *first-pass* source-grounded interpretive notes, **not certification that every line has undergone an independent microdetail audit**. Some cross-book chapters received focused checks in earlier work; those checks are not counted as completed sequential chapter notes. The earlier 45 short-fragment quote matches were a distinct narrow verification, not 45 extra reviewed chapters.
+**Important:** The three hundred and forty-four files are *first-pass* source-grounded interpretive notes, **not certification that every line has undergone an independent microdetail audit**. Some cross-book chapters received focused checks in earlier work; those checks are not counted as completed sequential chapter notes. The earlier 45 short-fragment quote matches were a distinct narrow verification, not 45 extra reviewed chapters.
 
 The source contains approximately 1,751,065 whitespace-delimited words by the local paragraph extractor; this is a processing count, not a claim of completed reading. AFFC's additional TOC 'Chapter 46' is a non-narrative author afterword and is deliberately excluded from the 46 narrative units.
 

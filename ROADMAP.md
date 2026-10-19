@@ -133,11 +133,11 @@ The project owner explicitly requested **comprehensive per-book notes**, retaini
 - [x] Inspect all five section boundaries and 344 narrative-unit locators.
 - [x] Create [close-reading method/coverage tracker](Source/Main-Series/CLOSE-READING-STATUS.md) and [cross-book clue queue](research/source-clue-index.md).
 - [x] First-pass notes for five prologues and all AGOT (Prologue, 1–72), giving 77/344 units; [AGOT forest-and-trees synthesis](Source/Main-Series/01-A-Game-of-Thrones/BOOK-ONE-SYNTHESIS.md) completed as book-level first pass, independent challenge open.
-- [ ] Continue sequentially with **ACOK 7 (Catelyn)** after the new ACOK 1–6 notes and existing ACOK Prologue; log future unit coverage by volume.
+- [x] Complete the sequential first pass across all 344 narrative units; the tracker records 344/344 as of 2026-10-19.
 - [ ] Audit subtle clues against later chapters and strong ordinary alternatives; connect to canonical character/theory owners.
 - [ ] Independently challenge consequential literary findings and confirm internal links/source locators before marking whole-book research complete.
 
-**Scope warning:** The structural EPUB extraction covers 344 units; that is a corpus inventory, **not** completed literary review. Eighty-three chapter files exist, 261 sequential chapter files remain to create. Earlier targeted source checks are distinct and cannot inflate this count.
+**Scope warning:** The structural EPUB extraction covers 344 units, and all now have first-pass chapter notes. This is not a completed independent literary review: line-level challenge, cross-book reconciliation, and theory/character integration remain separate work.
 
 ## Character-led checkpoint — 2026-10-15 (Robb/Cersei/Oldtown)
 
@@ -150,7 +150,7 @@ The project owner explicitly requested **comprehensive per-book notes**, retaini
 - [ ] Deepen Margaery's actual Faith-trial posture, the Oldtown fleet balance and Victarion's horn control before projecting outcome.
 - [ ] Recheck downstream character/continuity documents for any old unearned future assumptions.
 
-**Nearest next step:** the sequential five-novel reading stream is only in its early chapters; continue that thorough pass while maintaining these character files as canonical cross-book research. No speculative trial, ship battle, Other pact, dragon binding or succession has been adopted.
+**Nearest next step:** reconcile the completed sequential reading with canonical character and continuity files, beginning with end-of-ADWD knowledge, dispatch, and timing constraints. No speculative trial, ship battle, Other pact, dragon binding or succession has been adopted.
 
 ## Parallel story synthesis checkpoint — 2026-10-15
 
