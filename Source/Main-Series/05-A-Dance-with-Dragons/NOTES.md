@@ -260,3 +260,7 @@ Do not read Melisandre's snow as a death report, Plumm's survival argument as a 
 - [52 Daenerys](chapters/52-daenerys.md): **Daznak's pit reveals the limits of Dany's reforms; Drogon returns, is wounded, and carries her from Meereen.** 60 observations (C-10135–C-10194).
 
 The chapter verifies flight, not Dany's destination or dependable dragon control. Meris's Windblown account and Hizdahr's motives remain competing interpretations.
+
+## Sequential close-reading first pass — 2026-10-19 (ADWD 53)
+
+- [53 Jon](chapters/53-jon.md): **Tormund's costly admission pact, Selyse's rejected religious terms, and Marsh's explicit treason objection.** 50 observations (C-10195–C-10244).

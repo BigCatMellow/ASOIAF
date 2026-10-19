@@ -10317,6 +10317,57 @@
 | C-10193 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Destination remains unknown | See chapter ledger for evidence status and verification question |
 | C-10194 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany's absence ruptures Meereen politics | See chapter ledger for evidence status and verification question |
 
+| C-10195 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Tormund accepts Jon's negotiated terms | See chapter ledger for evidence status and verification question |
+| C-10196 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Payment includes wealth and 100 boys | See chapter ledger for evidence status and verification question |
+| C-10197 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Tormund gives ancestral armbands | See chapter ledger for evidence status and verification question |
+| C-10198 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Tormund reports a wighted son | See chapter ledger for evidence status and verification question |
+| C-10199 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Entry is planned in three days | See chapter ledger for evidence status and verification question |
+| C-10200 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Jon keeps parley force small | See chapter ledger for evidence status and verification question |
+| C-10201 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Raven and Ghost behavior | See chapter ledger for evidence status and verification question |
+| C-10202 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Val proves field competence | See chapter ledger for evidence status and verification question |
+| C-10203 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Jon refuses marriage to Val | See chapter ledger for evidence status and verification question |
+| C-10204 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Val receives guarded freedom | See chapter ledger for evidence status and verification question |
+| C-10205 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Camp starvation and sickness | See chapter ledger for evidence status and verification question |
+| C-10206 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Hardhome remains uncertain | See chapter ledger for evidence status and verification question |
+| C-10207 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Val becomes political intermediary | See chapter ledger for evidence status and verification question |
+| C-10208 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Jon publicly calls this peace | See chapter ledger for evidence status and verification question |
+| C-10209 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Jon convenes opponents | See chapter ledger for evidence status and verification question |
+| C-10210 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Selyse gives conditional sanctuary | See chapter ledger for evidence status and verification question |
+| C-10211 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Jon preserves Wall gate | See chapter ledger for evidence status and verification question |
+| C-10212 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Selyse demands religion and kingship | See chapter ledger for evidence status and verification question |
+| C-10213 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Val predicts forced revolt | See chapter ledger for evidence status and verification question |
+| C-10214 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Selyse threatens later judgment | See chapter ledger for evidence status and verification question |
+| C-10215 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Val's greyscale claim | See chapter ledger for evidence status and verification question |
+| C-10216 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Monster custody concern | See chapter ledger for evidence status and verification question |
+| C-10217 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Jon hopes Mance finds Arya | See chapter ledger for evidence status and verification question |
+| C-10218 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Wall officers meet directly | See chapter ledger for evidence status and verification question |
+| C-10219 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Population estimate conflict | See chapter ledger for evidence status and verification question |
+| C-10220 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Other free-folk camps remain | See chapter ledger for evidence status and verification question |
+| C-10221 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Jon includes Weeper in principle | See chapter ledger for evidence status and verification question |
+| C-10222 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Weeper crimes remain cited | See chapter ledger for evidence status and verification question |
+| C-10223 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Settlement plan disperses newcomers | See chapter ledger for evidence status and verification question |
+| C-10224 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Food is key constraint | See chapter ledger for evidence status and verification question |
+| C-10225 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Eastwatch trade plan | See chapter ledger for evidence status and verification question |
+| C-10226 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Jon refuses disarmament | See chapter ledger for evidence status and verification question |
+| C-10227 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Service oath lasts to spring | See chapter ledger for evidence status and verification question |
+| C-10228 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Leathers invokes old gods | See chapter ledger for evidence status and verification question |
+| C-10229 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Mance is Marsh's distrust precedent | See chapter ledger for evidence status and verification question |
+| C-10230 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | One hundred boy hostages | See chapter ledger for evidence status and verification question |
+| C-10231 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Hostage execution threat | See chapter ledger for evidence status and verification question |
+| C-10232 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Boys will train at arms | See chapter ledger for evidence status and verification question |
+| C-10233 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Marsh calls plan treason | See chapter ledger for evidence status and verification question |
+| C-10234 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Jon defines realms of men | See chapter ledger for evidence status and verification question |
+| C-10235 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Officers give no answer | See chapter ledger for evidence status and verification question |
+| C-10236 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Others are strategic threat | See chapter ledger for evidence status and verification question |
+| C-10237 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Jon assigns implementation | See chapter ledger for evidence status and verification question |
+| C-10238 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Marsh complies verbally | See chapter ledger for evidence status and verification question |
+| C-10239 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Daggers-in-dark warning | See chapter ledger for evidence status and verification question |
+| C-10240 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Wight testimony shared danger | See chapter ledger for evidence status and verification question |
+| C-10241 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Selyse is not Stannis | See chapter ledger for evidence status and verification question |
+| C-10242 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Greyscale remains unproven | See chapter ledger for evidence status and verification question |
+| C-10243 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Hostages create tradeoff | See chapter ledger for evidence status and verification question |
+| C-10244 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Entry and resistance remain unresolved | See chapter ledger for evidence status and verification question |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
