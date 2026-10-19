@@ -7922,6 +7922,181 @@
 | C-7810 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos counts twenty-three war galleys | Concrete naval strength no longer speculative |
 | C-7811 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos presents seal ribbon to postern guard demanding private Manderly audience | Action begun, no actual meeting this chapter |
 
+| C-7812 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro arrives on Silken Cloud with thirteen attendant galleys | A real logistical opportunity is physically present |
+| C-7813 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Daenerys wears revealing Qartheen gown to flatter visiting merchant | Diplomacy performed through foreign custom |
+| C-7814 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro pays more attention to dancers than Daenerys | Dany doubts romantic professions |
+| C-7815 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Daario's messenger reports Stormcrows returning from Lhazar with friendship | Potential food-trade alliance reported, arrival pending |
+| C-7816 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro speaks as an old friend while pressing for influence | Personal history does not eliminate commercial leverage |
+| C-7817 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Meereen historically depends on slave trade and lacks alternative export industry | Underlying structural economic crisis |
+| C-7818 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Copper deposits exist but low prices constrain revenue | Specific commodity limitation |
+| C-7819 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Historic cedar felling and dragon wars degraded soil and trade | Environmental legacy from Green Grace's interpretation |
+| C-7820 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro already knows of Harpy assassinations | Outside political intelligence reaches Qarth |
+| C-7821 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Skahaz's Brazen Beasts now patrol masked as beasts | New mixed freedman/shavepate watch is operational |
+| C-7822 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Brazen Beasts hide faces because insurgents threaten families | Security depends on anonymity and fear |
+| C-7823 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Aggo, Jhoqo and Rakharo are busy securing hinterlands | Dany's strongest personal escorts dispersed |
+| C-7824 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Barristan remains as royal protector | Material protective capacity distinct from mere flattery |
+| C-7825 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro again proposes marriage and feigns romantic grief | A negotiation tactic, not established affection |
+| C-7826 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro admits dancers are enslaved trained from childhood | Dehumanizing labor behind beautiful performance |
+| C-7827 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Dany says she would free the dancers | Refuses treating ownership as artistic necessity |
+| C-7828 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro argues forced labor supports leisure, culture and craft | Explicit ideological defense of slavery |
+| C-7829 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Dany rejects analogy equating slavery with rain | Personal memory of having been sold grounds her objection |
+| C-7830 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro cites merchant forced into irrigation-ditch labor | Complicates abolition with coerced public works |
+| C-7831 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Dany says man receives food and shelter as wages | Not proof free consent or equivalent pay |
+| C-7832 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro claims former merchant begged to be sold back into slavery | Reported preference, not universal argument for slavery |
+| C-7833 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Dany allows Xaro to buy former merchant | Potential exception in anti-slavery policy |
+| C-7834 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Meereen offers salt, wine and copper; Xaro is unimpressed | Few marketable imports for distant Qarth |
+| C-7835 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Former olive groves were burned by retreating slavers | Economic damage caused deliberately in war |
+| C-7836 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Olives require about seven years to bear and thirty for full production | Rebuilding cannot supply immediate trade |
+| C-7837 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro wants slaves and would pay gold for them | Material aim behind his bargaining |
+| C-7838 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Daenerys refuses to restore Meereen's slave exports | Firm political line despite food crisis |
+| C-7839 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro warns Cleon's Astapor losing to Yunkai at Horns of Hazzat | Character military report concordant with other rumors |
+| C-7840 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro says New Ghis supplied legions and sellswords will multiply | Threat estimates, not a personally witnessed muster |
+| C-7841 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | He lists Company of the Cat, Long Lances, Windblown and perhaps Golden Company | Rumored mercenary alignment; Golden Company's allegiance not demonstrated |
+| C-7842 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Tolos and Mantarys reportedly allied with Yunkai | Potential western encirclement, testimony unconfirmed |
+| C-7843 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Daenerys's envoys to those cities have not returned | Information deficit real |
+| C-7844 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Dany threatens to destroy Yunkai if it assaults Meereen | Possible escalation beyond defending freedmen |
+| C-7845 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro observes the dragons absent from Dany's shoulders | Counter to assumed operational control of dragons |
+| C-7846 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Dany hides uncertainty over Drogon and chained brothers | Strategic bluff against well-informed visitor |
+| C-7847 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro offers thirteen galleys for nominally no price | Price is effectively her departure |
+| C-7848 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | He requires immediate sworn return to Westeros | Conditional offer, not genuine free gift |
+| C-7849 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Dany requests independent ship inspection | Checks seaworthiness before commitment |
+| C-7850 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro warns she will die if she stays | Implicit coercion beyond friend advice |
+| C-7851 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro says Pyat Pree and three warlocks departed Qarth seeking Dany | Character warning, no on-page encounter |
+| C-7852 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Barristan advises examining hulls and crews | Reasonable due diligence |
+| C-7853 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Dany remembers red door and longs for Westeros | Personal goal conflicts with Meereen responsibilities |
+| C-7854 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Mezzara, Merreq's daughter, serves breakfast as elite hostage | Children already held under euphemism of attendants |
+| C-7855 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Ghael of Astapor asks for Unsullied to defend Cleon's city | Dany refuses to weaken Meereen for slaver-king |
+| C-7856 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Ghael spits at Daenerys and is violently subdued by Belwas | Criticism and despair not equivalent to military attack |
+| C-7857 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Dany prevents additional harm to Ghael | One act of restraint amid physical intimidation |
+| C-7858 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Groleo reports galleys serviceable with individual repairs | Verification of Xaro's offer's actual material |
+| C-7859 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Pureborn Princess worm-eaten, Narraqqa needs rudder, Banded Lizard oars | Three specific ship defects for future tracking |
+| C-7860 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Galley rowers enslaved; Groleo proposes paid jobs and replacement crews | Changing legal status affects maritime labor |
+| C-7861 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Freedmen commanders say thirteen ships cannot carry queen's people | Logistical rebuttal of apparent solution |
+| C-7862 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Rommo objects that Dothraki need mounts and cannot ride ships | Cultural and transportation constraint |
+| C-7863 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Overland route by Mantarys demon road feared lethal | Alternate migration plan is severe risk |
+| C-7864 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Reznak fears re-enslavement if Dany leaves | Potentially self-serving, also plausible |
+| C-7865 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Marselen vows Mother’s Men will follow her | Group allegiance tested by shipping feasibility |
+| C-7866 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Barristan argues Westeros awaits her while freedmen must defend themselves | Divergent duty priority |
+| C-7867 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Dany refuses to abandon Meereen to Astapor's fate | Decisive on-page choice; no westbound voyage |
+| C-7868 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro gifts antique map depicting pre-Doom Valyria as non-island | Ancient geographic source, dating claimed not independently confirmed |
+| C-7869 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro refuses thirteen ships when she will not promise departure | Reveals political condition |
+| C-7870 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Xaro threatens death and mentions Pureborn who once urged her killing | Prior hospitality no longer assures safety |
+| C-7871 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Dany cites guest right and expels Xaro by dawn | Diplomatic rupture |
+| C-7872 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Thirteen galleys remain in bay after Xaro's flagship leaves | Threat moves from diplomacy to offshore military posture |
+| C-7873 | [ADWD 16](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/16-daenerys.md) | Bloodied glove on black pillow formally signals war | On-page declaration, not just predicted future hostility |
+| C-7874 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Wormways connect Castle Black's underground vaults | Winter mobility and rat presence |
+| C-7875 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Bowen Marsh and Wick Whittlestick audit stores with locked door keys | Administrative record and theft risk |
+| C-7876 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Wick marks each cask as counted with chalk | Reproducible inventory method |
+| C-7877 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Grain roots salted meats cheeses dried fruits and nuts are stocked | Apparent abundance without accounting for increased population |
+| C-7878 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Three hundred hams and three thousand black sausages hang below smokehouse | Quantitative perishable-stock record |
+| C-7879 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Inside Wall cold store keeps skinned deer elk cattle and other carcasses | Passive freezer with unusual intensity of cold |
+| C-7880 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Jon's bare skin sticks and tears from frozen venison | Physical evidence ice store dangerously cold |
+| C-7881 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Food had been expected to last three years, four with thrift | Previous baseline population estimate |
+| C-7882 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Stannis's men and admitted free folk exhaust stores much faster | Political and humanitarian choices have immediate cost |
+| C-7883 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Mole's Town adds roughly a thousand mouths | Concrete population burden |
+| C-7884 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Marsh says new people continue arriving daily | Rate of consumption rising |
+| C-7885 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Marsh predicts vitamin deficiency with bleeding gums and loose teeth | Scurvy foreseen; lime juice stores depleted |
+| C-7886 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | He advises winter rations despite it still being autumn | Early austerity proposal |
+| C-7887 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Jon orders quarter reduction in each man's ration | Real order creating future Watch resentment |
+| C-7888 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Marsh urges slaughtering animals except breeders | Choice between feed and future livestock |
+| C-7889 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | They lack coin and willing merchants to import grain by sea | Dual financing and procurement obstacle |
+| C-7890 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Jon imagines seeking fertile unwasted Vale supplies | Potential diplomacy, not accomplished transaction |
+| C-7891 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Marsh opposes sending hunters beyond Wall | Safety versus food sourcing |
+| C-7892 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Half the Watch favors sealed gates; rangers oppose isolation | Internal strategic division visible |
+| C-7893 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Jon notes even Stannis could seize food by arms if denied | Material coercive hierarchy at Wall |
+| C-7894 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Devan Seaworth summoned Jon to Stannis's war council | Specific Davos family member serves king |
+| C-7895 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Ghost frightens Devan and is sent away | Wolf close to Jon but not controlled in all interactions |
+| C-7896 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Horpe and Massey have returned from reconnaissance south | Information about Bolton movements |
+| C-7897 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Rattleshirt present manacled with large ruby on wrist | Suspect glamour/control signal; physical gem observed |
+| C-7898 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Melisandre's throat ruby and Rattleshirt's wrist ruby pulse together | On-page correlated magical-like phenomenon |
+| C-7899 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Melisandre claims gem binds man to her blood and soul | Character claim, not independently demonstrated mechanism |
+| C-7900 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Stannis offers Rattleshirt to Jon as ranger | Planned use, not proven loyalty |
+| C-7901 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Rattleshirt offers knowledge of songs as well as scouting | Identity/behavior clue in light of Mance singing |
+| C-7902 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Stannis asks about one-eyed Mors Umber Crowfood | Northern clan intelligence sought |
+| C-7903 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Mors lost an eye to crow that picked him for dead | Local biographical tale from Jon |
+| C-7904 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Mors's sons killed at Trident, daughter carried off by free folk | Grievance affects bargaining and wildling plan |
+| C-7905 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Mors asks for purported Mance skull and pardon for brother Hother | Half Umber support conditional |
+| C-7906 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Hother Whoresbane rides with Boltons while Greatjon captive | Split allegiance under hostage leverage |
+| C-7907 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Melisandre sees north banners in flames (Hornwood Cerwyn Tallhart Ryswell Dustin) | Prophetic intelligence, specific true marching host unverified here |
+| C-7908 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Jon warns Mors won't attack his brother under any standard | Northern family constraint |
+| C-7909 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Godry Farring urges destroying Last Hearth for half homage | Counterproductive coercive proposal |
+| C-7910 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Jon explains northern children take inheritance before uncles | Rebuts Godry's assumed usurpation motive |
+| C-7911 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Stannis plans to seize thinly defended Dreadfort while Ramsay at Moat Cailin | Declared offensive concept |
+| C-7912 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Arnolf Karstark reports fewer than fifty Dreadfort defenders | Character report, hidden reliability uncertain |
+| C-7913 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Jon says raven and beacon signals will warn Dreadfort before army arrives | Information superiority and geography matter |
+| C-7914 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Jon predicts Ramsay and Roose reunite after Moat Cailin falls | Strategic timeline inference |
+| C-7915 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Moat Cailin stronger against army from south than north/east | Terrain-specific military distinction |
+| C-7916 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Dreadfort took Harlon Stark two years to starve out in former revolt | Historical precedent for impossible quick siege |
+| C-7917 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Stannis intends to use captured free folk as first-wave fighters | Explicit proposed deployment |
+| C-7918 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Stannis intends to hold women and children as hostages | Political exploitation of settlement arrangement |
+| C-7919 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Magnar Sigorn would command three hundred of free-folk men | Planned command not yet battle order |
+| C-7920 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Stannis requests spears helmets and possibly armor from Watch | Further burden on institution's resources and neutrality |
+| C-7921 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Jon offers old spears and rusty helmets but balks at mail | Limits weapon transfer despite risk |
+| C-7922 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Jon warns Mors will object to wildlings marching through his land | Conflict between two prospective northern allies |
+| C-7923 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Stannis considers Massey Horpe or Arnolf for Winterfell | Dynastic rewards as recruitment tool |
+| C-7924 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Stannis repeats offer to make Jon Stark Lord of Winterfell | Jon refuses because vowed to Watch |
+| C-7925 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Jon mentions sister Sansa's prior claim | He remains unaware of Vale cover identity |
+| C-7926 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Stannis says no news from Davos and assumes White Harbor lost | Dramatic information lag, reader knows Davos visited |
+| C-7927 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Jon proposes swapping three hundred free-folk fighters for 2–3k mountain clansmen | Practical bargain changes invasion route |
+| C-7928 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | King accepts free folk and leaves Val at Watch under Jon's custody | Stannis promises exchange, not yet seen marching |
+| C-7929 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Jon names Flints Wulls Norreys Liddles and two score clans | Granular northern political geography |
+| C-7930 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Winning Old Flint and Big Bucket Wull may bring rest | Jon's political judgment, not automatic fealty |
+| C-7931 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | He instructs Stannis to visit chiefs and share hospitality personally | Social legitimacy rather than imposed law |
+| C-7932 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Stannis fears paths through mountains slow his army | Real movement limitation |
+| C-7933 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Jon recommends attacking wooden Deepwood Motte instead of stone Dreadfort | Specific revised target, easier surprise |
+| C-7934 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Deepwood held by ironborn and surrounded by woods | Opportunity to win northern support through liberation |
+| C-7935 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Jon offers guides and surefooted garrons | Concrete Watch aid to a realm's military campaign |
+| C-7936 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Melisandre says she will remain with Jon at Wall | Continued potential tension and magical warning |
+| C-7937 | [ADWD 17](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/17-jon.md) | Jon privately calculates he now cannot feed his admitted wildlings | Bargain success creates new resource crisis |
+| C-7938 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Shy Maid travels dense fog with poles because sail would be useless | Actual navigational loss of visibility |
+| C-7939 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Lemore prays, Griff arms himself, Tyrion tends brazier | Defined survival roles |
+| C-7940 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Ysilla says Sorrows fog is supernatural and people get lost | Local belief, not observed cause |
+| C-7941 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Huge submerged stone hand emerges from ruins under river | Material antiquity in drowned Chroyane |
+| C-7942 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Haldon says stone men suffer hunger and rely on Volantis mercy ships three times yearly | Living quarantined group, not animated stone |
+| C-7943 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Ysilla describes Garin's curse after Valyria enslaved Rhoynar | Legend about source of disease |
+| C-7944 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Tyrion says greyscale can be treated in children with poultices baths or prayer | Books and claims, not clinical proof for adult cases |
+| C-7945 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Tyrion says childhood greyscale survivors resist mortal strain | In-world maester consensus as relayed, not independent clinical proof |
+| C-7946 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Haldon says Shrouded Lord title has multiple successors | Mundane rival to immortal curse figure |
+| C-7947 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Duck recounts statue animated by grey woman's cold kiss | Folklore, unverified account |
+| C-7948 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Young Griff scoffs at danger and is rebuked by Lemore | Youthful bravado against real threat |
+| C-7949 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Chroyane contains broken stairs temples drowned statues and roots | Physical collapse after Rhoynar defeat |
+| C-7950 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Winged pale thing flashes overhead and vanishes | Unidentified fleeting sighting, no species established |
+| C-7951 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Unseen Kingfisher crew announces coming Volantene war | Waterborne intelligence, speaker unverified |
+| C-7952 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Crew says triarchs Nyessos and Malaquo cooperating, elephants gain stripes | Potential political coalition despite old faction division |
+| C-7953 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Griff admits Illyrio paid Nyessos enormous sums | Bribery doesn't ensure loyalty when dragons threaten |
+| C-7954 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Pirates were avoided on Dagger Lake at night | Actual transit without encounter |
+| C-7955 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Tyrion still keeps poisonous mushrooms from Illyrio's manse | Tracked object and potential murderous intent toward Griff |
+| C-7956 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Shy Maid passes enormous ruined Palace of Love now Palace of Sorrow | Geographic and emotional association with Tysha |
+| C-7957 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Tyrion remembers Tywin's crossbow death and Jaime's betrayal about Tysha | Past trauma shadows ruin |
+| C-7958 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Fog and river deepen so poles fail to touch bottom | No steering power beyond current at critical point |
+| C-7959 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Crew sees row of lamps at Bridge of Dream | First confirmed approach |
+| C-7960 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Bridge appears populated by sick greyscale stone men | Actual living sufferers, not wights |
+| C-7961 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Griff orders torches to deter touch infection | Practical precaution |
+| C-7962 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Griff orders Young Griff below with Lemore | Protective rank distinction |
+| C-7963 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Young Griff refuses and wants to prove his fighting ability | Potential reckless claimant |
+| C-7964 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Party safely passes beneath bridge first time | Observable first transit |
+| C-7965 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Tyrion tells boy he is central to entire plan | Explicit inference from exceptional training and protection |
+| C-7966 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Young Griff reacts that Tyrion knows his identity | Accidental confirmation that hidden identity exists |
+| C-7967 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Tyrion identifies himself to party as Tyrion Lannister | Concealment ends |
+| C-7968 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Tyrion claims kingslayer as well as kinslayer and liar | Self-description partly false regarding Joffrey |
+| C-7969 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | He argues Young Griff is Rhaegar's supposed infant Aegon | On-page deduction, not independently proved biological origin |
+| C-7970 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | He names Griff as Jon Connington, Rhaegar's friend and former Hand | Specific identification accepted uneasily, needs verification |
+| C-7971 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Tyrion notes Rhaegar's real infant was displayed dead in crimson cloak | Core contradiction secret-preservation plan must explain |
+| C-7972 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Bridge lights reappear upstream-seeming after leaving them astern | All aboard witness apparent impossible repetition |
+| C-7973 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Haldon protests rivers flow one way | Normal physics explicitly invoked as rival |
+| C-7974 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Yandry says Mother Rhoyne runs how she wills | Religious gloss, no demonstrated mechanism |
+| C-7975 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Second crossing is unavoidable in current | Crew cannot reverse course |
+| C-7976 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Stone men leap from bridge onto vessel during second passage | Real attack rather than vague apparition |
+| C-7977 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Duck pushes first attacker from stern with pole | Defensive action |
+| C-7978 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Griff cuts another stone man's arm and crew forces him overboard | Infected person can suffer severe injury but retain movement |
+| C-7979 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Third stone man lands with shattered leg behind Tyrion | Unanticipated attacker |
+| C-7980 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Attacker reaches for Young Griff as boy freezes | Claimant vulnerability despite training |
+| C-7981 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Tyrion trips Young Griff out of reach and drives attacker back with fire | Direct rescue |
+| C-7982 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Attacker's grasped torch splits skin and he flings it into river | Fire causes some tissue injury but not full immolation |
+| C-7983 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Tyrion tackles stone man off boat to save prince | Immediate decision with high infection and drowning risk |
+| C-7984 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Stone man seizes Tyrion under water with unyielding grip | Narrator ends before rescue, no confirmed Tyrion death |
+| C-7985 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Tyrion thinks no one would mourn him and imagines posthumous haunting | Suicidal grief persists amid protective act |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -7929,4 +8104,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and eighty-seven first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and ninety first-pass chapters listed in the coverage tracker.

@@ -160,3 +160,11 @@ Revelations and theories are distinguished from each POV's contemporaneous knowl
 - [15 Davos](chapters/15-davos.md): **White Harbor's hidden fleet, Frey leverage, northern refugees and the disputed Manderly bargain.** 64 observations, character and source-knowledge limits, rival readings, falsification tests.
 
 Whole-chapter source reading only; all findings remain research, not accepted fan-theory verdicts.
+
+## Sequential first-pass close reading — 2026-10-19 (ADWD 16–18)
+
+- [16 Daenerys](chapters/16-daenerys.md): **Xaro’s ultimatum, the price of remaining in Meereen, and Qarth’s declaration of war.** 62 observations and cross-book theory tests.
+- [17 Jon](chapters/17-jon.md): **Winter food crisis, ruby-bound Rattleshirt, and the mountain-clan alternative for Stannis.** 64 observations and cross-book theory tests.
+- [18 Tyrion](chapters/18-tyrion.md): **The twice-encountered Bridge of Dream, Aegon revelation, and Tyrion's plunge.** 48 observations and cross-book theory tests.
+
+Interpretations distinguish direct events from contested genealogy, sorcery, medicine and witness reports.
