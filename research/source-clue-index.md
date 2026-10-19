@@ -7180,6 +7180,230 @@
 | C-7072 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Melisandre warns of smiling enemies, daggers and frozen blood | Foreshadowing candidate, no specific attacker proven here. |
 | C-7073 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Melisandre urges Jon to keep his wolf close | Operational caution in context of possible future assault. |
 
+| C-7074 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Hodor carries Bran in a basket and wields rusty Winterfell crypt sword | The old weapon continues north of the Wall |
+| C-7075 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Jojen trembles and dwindles physically | Cold and hunger threaten him; no proved mystical cause |
+| C-7076 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Coldhands wears black, rides an elk and hides lower face behind scarf | Appearance leaves personal identity unknown |
+| C-7077 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Coldhands's extremities are black, rigid and cold | Later self-description supports postmortem state |
+| C-7078 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Summer still limps from his Queenscrown arrow wound | Direct injury continuity |
+| C-7079 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Bran uses Summer's body more often than his own | Growing animal identification and risk |
+| C-7080 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Bran sometimes inhabits Hodor despite Hodor's whimpers and head-thrashing | Reduced resistance does not imply consent |
+| C-7081 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Summer wants to attack and eat the party's elk | Wolf appetite must be controlled by Bran |
+| C-7082 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | A small group of ravens scouts by day and many return after sunset | Coordinated watch beyond normal individual birds |
+| C-7083 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Some ravens communicate with Coldhands | Possible animal intelligence and control, exact mechanism unknown |
+| C-7084 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Summer smells dry blood, decay and cold on Coldhands | Organic evidence against normal living physiology |
+| C-7085 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Coldhands identifies human pursuers distinct from distant wolf pack | Two different threats |
+| C-7086 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Coldhands leaves to confront pursuers with four ravens | Danger is removed off-page rather than directly shown |
+| C-7087 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Meera suspects they have crossed same river twice | Navigation uncertainty, no proved malicious diversion |
+| C-7088 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Meera observes ranger neither eating nor drinking nor seeming cold | Extends death evidence beyond appearance |
+| C-7089 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Bran notices the scarf does not ice from breathing | Coldhands seemingly exhales no warm air |
+| C-7090 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Bran remembers Old Nan's claim that monsters cannot cross the Wall | Folklore, not complete proven magic rule |
+| C-7091 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Bran says Coldhands saved Sam and Gilly from wights | Protective behavior complicates monstrous label |
+| C-7092 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Jojen trusts guide despite failing strength | Need and greendream conviction need separating |
+| C-7093 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Frozen lake shore and islands blur landmarks under snow | Mundane source of directional confusion |
+| C-7094 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Bran uses Summer to locate old fireplace ash by smell | Skinchanging saves group from missed shelter |
+| C-7095 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Abandoned village has stone huts and a longhall but no food | Settlement depopulated, cause of departure unknown |
+| C-7096 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Travel stores were exhausted ten days earlier | Quantified starvation danger |
+| C-7097 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Meera caught no fish in the last three days | Actual nutritional deficit |
+| C-7098 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Group eats crushed bitter acorns and raw fish where available | Survival costs are mundane and severe |
+| C-7099 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Jojen refuses food and asserts he will not die this day | Claim may be foreknowledge or reassurance, not proof |
+| C-7100 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Fire at night was forbidden because light might draw hostile beings | Trade-off of stealth against cold |
+| C-7101 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Bran again rides Summer to investigate smell of recent human kill | Direct skinchanging perception not a conventional dream |
+| C-7102 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Three wolves include one-eyed old male, female and younger male | Strong match to Varamyr's One Eye, Sly and Stalker |
+| C-7103 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Varamyr's dying consciousness enters One Eye in ADWD Prologue | Cross-chapter basis for second-life identification |
+| C-7104 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Summer's old opponent is not afraid despite size disadvantage | Possible warg identity but no verbal confirmation |
+| C-7105 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | A brief warg recognition coincides with pack confrontation | Suggestive, does not show minds conversing |
+| C-7106 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Summer fights one-eyed leader until old wolf exposes belly | New pack dominance after combat |
+| C-7107 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Other two wolves accept Summer's leadership | Submissive behavior does not prove permanent warging authority |
+| C-7108 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Corpses wear torn black Night's Watch clothing | Human prey is identified by Bran |
+| C-7109 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | One slain man is missing a hand at the wrist and holds black iron | Potential identification mark pending separate lookup |
+| C-7110 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Summer consumes blood and human flesh from the corpses | Direct human-eating event in a wolf body |
+| C-7111 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Haggon's ban on wargs eating human flesh applies as ethical comparator | Bran crosses a teaching from Varamyr's prologue |
+| C-7112 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Bran thinks of Ghost, Nymeria, Shaggydog and other siblings | Information about their exact whereabouts remains limited |
+| C-7113 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Bran returns to a newly lit fire and roasting fresh meat | New food source appears unexpectedly |
+| C-7114 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Coldhands says he found a sow | Claim only; no direct pig carcass or kill verified |
+| C-7115 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Meera, Hodor, Jojen eat meat while Coldhands abstains | Human-meat hypothesis remains possible but unproved |
+| C-7116 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Coldhands says pursuers will no longer trouble them | Supports successful intervention but not exact murder actions |
+| C-7117 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Bran confronts guide about corpses of black brothers | Coldhands neither denies nor recounts killing them |
+| C-7118 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Coldhands explains cessation of heartbeat and congealing extremity blood | Direct verbal admission of physiological death |
+| C-7119 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Coldhands refuses to unveil his face or reveal a name | Identity still unknown, Benjen hypothesis not established |
+| C-7120 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Coldhands calls three-eyed crow the last greenseer and his friend | Claim of allegiance, not identity proof |
+| C-7121 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Coldhands labels himself Bran's monster and raven echoes the word | Ambiguous protective undead agent |
+| C-7122 | [ADWD 4](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/04-bran.md) | Jojen states return to Wall would kill them | Continued reliance on Coldhands coerced by survival prospects |
+| C-7123 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio conceals Tyrion even while leaving Pentos | Operational secrecy, not proof nobody saw them |
+| C-7124 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio reports ship that brought Tyrion has gone toward Asshai | Character account, not independent voyage witness |
+| C-7125 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio chooses slow overland route over direct sea passage | Storm, pirate and exposure risks offered as reasons |
+| C-7126 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio confirms stone men inhabit the Rhoyne | Practical disease danger ahead |
+| C-7127 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Food and wine travel in extensive accompanying train | Material luxury and slow progress |
+| C-7128 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio says Griff will receive Tyrion and assist Daenerys | Planned rendezvous, not yet executed |
+| C-7129 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Tyrion challenges why Pentoshi magister cares about a Westerosi crown | Central motive puzzle |
+| C-7130 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio claims philanthropy rather than profit motivates restoration | Claim unverified by conduct |
+| C-7131 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio says he doubted Daenerys would survive Khal Drogo's people | Early high-risk political bargain |
+| C-7132 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio alleges Viserys tried to force sexual access to Daenerys before marriage | First-person account from Illyrio, not separately witnessed here |
+| C-7133 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio says guards prevented Viserys reaching her | Protection claim, not exoneration of earlier marriage exchange |
+| C-7134 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Tyrion accuses Illyrio of selling Daenerys to Drogo | Moral framing Illyrio evades through Dothraki semantics |
+| C-7135 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio calls Daenerys transformed by blood and fire | Character interpretive framing |
+| C-7136 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio predicts Daenerys will advance toward Volantis from Meereen | Forecast contradicted by reader's current Daenerys governance |
+| C-7137 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Meereen–Volantis distance estimated 550 leagues as dragon flies | Real geographic limit on rendezvous |
+| C-7138 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Tyrion challenges Volantis with alleged five slaves per free citizen | Hostility to abolition undermines Illyrio's plan |
+| C-7139 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Tyrion accuses Illyrio of benefiting from slave trade | Material-interest contradiction |
+| C-7140 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio recounts Viserys offering him Master of Coin | Past bargain void of proven future enforceability |
+| C-7141 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio mentions powerful debts of affection and friendship | Possible nonfinancial motive, identity of beneficiary unknown |
+| C-7142 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio says Varys fled Myr and they met as poor youths in Pentos | Historical self-report |
+| C-7143 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio worked with Varys to take profits from city thieves | Details origin of deceptive partnership |
+| C-7144 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Varys recruited poor children as mice and taught them to read | Intelligence work relies on exploited vulnerable children |
+| C-7145 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Mice copied information in letters and ledgers without removing valuables | Mechanics of Varys's spy network |
+| C-7146 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio's first marriage to a prince's cousin brought status | Network rose from crime to politics |
+| C-7147 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio claims King Aerys recruited Varys amid paranoia | Secondary account of court appointment |
+| C-7148 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Tyrion remembers boyhood wish to own a dragon | Longstanding desire, not lineage evidence |
+| C-7149 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Tygett and Gerion reacted differently to Tyrion's youthful dragon wish | Concrete childhood recollection |
+| C-7150 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio says slaying Tywin helped Daenerys | Political assessment, not moral exoneration |
+| C-7151 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Tyrion dreams Daenerys takes him for Jaime and feeds him to dragons | Anxiety and brother rivalry, no prophecy demonstrated |
+| C-7152 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Valyrian road fused stone sheds water and admits three wagons abreast | Engineering survives centuries after Doom |
+| C-7153 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Tyrion questions Valyria's absence from mainland Westeros | Historical unknown, not secret treaty proof |
+| C-7154 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio assumes Daenerys has left Meereen | Direct information asymmetry |
+| C-7155 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio calls Griff a trusted Westerosi sellsword | Identity not yet revealed |
+| C-7156 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio says Golden Company broke Myr contract and moves to Volantis | Plan/report, not troop position directly observed |
+| C-7157 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio distinguishes ink contract from blood contract | Possible dynastic obligation, open interpretation |
+| C-7158 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Tyrion recalls Bittersteel founding Company after Blackfyre defeat | Historical root of anti-Targaryen loyalties |
+| C-7159 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Tyrion asks why Blackfyre exiles now fight for Daenerys | Directly acknowledged ideological contradiction |
+| C-7160 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio dismisses Black versus red dragon distinction | Rhetorical answer, not evidence loyalty fully reconciled |
+| C-7161 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio says Maelys death ended Blackfyre male line | Does not exclude female-line descent |
+| C-7162 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio says exiles want to return home under a dragon | Plausible ordinary alternative to dynastic fraud |
+| C-7163 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Tyrion remembers Barristan Selmy slew last male Blackfyre pretender | Potential future ideological conflict |
+| C-7164 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Road goes through Andalos and historical Hugor region | Ancient genealogy and geography interwoven |
+| C-7165 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio claims Rhoynar taught Andals ironwork | Alternative to seven-pointed sacred origins, not archaeological confirmation |
+| C-7166 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Tyrion recalls wishing to be High Septon as boy | Complex childhood piety unlike current cynicism |
+| C-7167 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio shows silver locket portrait of Serra with light silver-gold hair | Physical romantic object; phenotype not proof bloodline |
+| C-7168 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio says he wed Lysene former sex worker Serra | Relationship and origin from his account |
+| C-7169 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio says Serra marriage cost him Pentoshi court access | Political sacrifice consistent with affection |
+| C-7170 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio says a grey plague from Braavosi galley killed Serra | Character testimony, no independent death record |
+| C-7171 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio says he preserves Serra's hands in bedchamber | Ominous memento whose actual condition is unseen |
+| C-7172 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Tyrion associates Serra loss with Tysha memories | Parallel grief, no family evidence |
+| C-7173 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio owns peasants bound to land in supposedly free Pentos | Distinction between formal slavery and practical servitude |
+| C-7174 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio says buying off khalasars cheaper than fighting them | Contrasts Tywin's preference for iron |
+| C-7175 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Illyrio reports Griff has beloved son called Young Griff | Important first introduction to another claimant-associated figure |
+| C-7176 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Tyrion sees stone circle attributed to giants | Illyrio's traditional attribution only |
+| C-7177 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Valyrian sphinx shaped like woman-headed dragon stands by road | Physical three-headed/dragon icon recurrence |
+| C-7178 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Male dragon sphinx reportedly stolen and carried to Vaes Dothrak | Missing counterpart ordinary theft or symbolism |
+| C-7179 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Tyrion remembers Shae's death by golden Hand chain | Direct culpability in his own recollection |
+| C-7180 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Tyrion dreams he fights alongside Bittersteel and Barristan | Dream not historical or future event |
+| C-7181 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Dream Tyrion has two noseless heads, one laughing and one weeping | Split emotion, not biological clue |
+| C-7182 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Tyrion dreams killing Tywin again and then Jaime | Violence of dream, not plan completed |
+| C-7183 | [ADWD 5](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/05-tyrion.md) | Chapter ends before any encounter with Griff or Daenerys | Prevents premature convergence |
+| C-7184 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Adventure has sixty oars but reeks of waste, sickness and wounded bodies | Operational and health risk |
+| C-7185 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Quentyn's mission is to seek Daenerys as bride | Personal intention is not Daenerys's consent |
+| C-7186 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Dornish party uses wineseller and servant disguises | Secrecy extends across multiple voyages |
+| C-7187 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Quentyn originally played merchant, Cletus in Lys, Gerris now master | Role rotation follows cover and casualties |
+| C-7188 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Captain readily identifies Westerosi origin from Gerris's speech | Cover is fragile |
+| C-7189 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Captain knows Daenerys ended slavery and fighting pits at Meereen | Abolition harms old merchant and captain interests |
+| C-7190 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Captain says Yunkai hires Long Lances, Windblown and Company of Cat | Incoming hostile mercenary pressure is a report |
+| C-7191 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Captain also says Golden Company marches east | Independent character report paralleling Illyrio |
+| C-7192 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Near hundred captains have refused passage to Meereen | Quentyn's rough estimate of maritime blockade |
+| C-7193 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Planned three-day stay at Volantis became twenty days | Specific mission delay |
+| C-7194 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Fawn captain avoids Slaver's Bay because of war risk | Ordinary commercial rationale for refusal |
+| C-7195 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Doran warned Varys informants may reach Sunspear | Secrecy matters politically, not evidence of spy at every location |
+| C-7196 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Doran warned mission's discovery could make Dorne bleed | Recognized treason and regional risk |
+| C-7197 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Innkeeper characterizes Adventure captain as smuggler and slaver | Unverified reputation |
+| C-7198 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Gerris offers triple fare for passage and captain accepts quickly | Contract proposed, not journey accomplished |
+| C-7199 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Quentyn suspects captain would kill and rob them at sea | Inference, no robbery yet |
+| C-7200 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Gerris proposes another possibility: forced rowing under chains | Competing slaver-danger hypothesis |
+| C-7201 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Travel between docks and inn uses ornamental elephant-drawn hathay | Status-constrained urban movement |
+| C-7202 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Slave driver has wheel tattoo; other slave occupations signaled by tattoos | Direct evidence of institutional slave roles |
+| C-7203 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Kedry estimated five slaves per free person in Volantis | Approximation from dead maester, not census |
+| C-7204 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Six Dornish travelers departed, only Quentyn Gerris Archibald remain | Exact attrition |
+| C-7205 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Corsairs attacked Meadowlark anchored near Disputed Lands before dawn | Observed in Quentyn's retrospective narration |
+| C-7206 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Twelve Meadowlark crew died repelling pirates | Broader deaths beyond named companions |
+| C-7207 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Cletus Yronwood died, having been Quentyn's dear friend | Emotional burden and lost witness |
+| C-7208 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Willam Wells died with Cletus | Third survivor group faces reduced arms |
+| C-7209 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Maester Kedry died, taking vital language and counsel expertise with him | Logistics suffer from scholarly loss |
+| C-7210 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Crew looted enemy dead but prepared comrades for sea burial | Contrasting treatment of bodies |
+| C-7211 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Gerris gave false funeral speech to protect travelers' identity | Political lies persist at intimate moment |
+| C-7212 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Archibald Yronwood suffers severe seasickness | Explains overland preference |
+| C-7213 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Quentyn deems demon road too slow and perilous | Choice between measured hazards |
+| C-7214 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Quentyn fears Tywin will send men to assassinate Daenerys | Character is uninformed that Tywin is dead |
+| C-7215 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Quentyn refuses to return to Dorne for fear of dishonor and disappointment | Duty narrows legitimate options |
+| C-7216 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Quentyn recalls former interest in Ynys Yronwood | Ordinary private life displaced by mission |
+| C-7217 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Drinkwater twins and twelve-year-old Gwyneth had interested Quentyn | Youth and relationship expectations before journey |
+| C-7218 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Quentyn calls himself Dorne and expects Dany to value political alliance | Marriage theory is instrumental |
+| C-7219 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Quentyn worries Dany may not love or even like him | Self-awareness under entitlement |
+| C-7220 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Quentyn says he did not ask for this assignment | Doran's political decisions impose risk on son |
+| C-7221 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Black Wall restricts entry to Old Blood district by invitation | Political segregation rather than urban wall as defense alone |
+| C-7222 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Quentyn says only eligible landholding freeborn elect triarchs | Volantene franchise excludes slaves and many others |
+| C-7223 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Triarchs ride elephants; feet not supposed to touch ground in office | Status symbolism |
+| C-7224 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Windblown recruiters openly seek fighters for Slaver's Bay | Actual mobilization visible on streets |
+| C-7225 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Recruiters promise spoils and sexual violence | Exploitation, not neutral employment opportunity |
+| C-7226 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Quentyn can read High Valyrian but has difficulty with Volantene speech | Specific limitations of practical diplomacy |
+| C-7227 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Gerris suggests watching a dwarfs-on-dogs-and-pigs mock joust | Comic scene amid anxiety and loss |
+| C-7228 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Quentyn is eighteen and Gerris is six years older | Youth highlights father-imposed undertaking |
+| C-7229 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Archibald guards possessions at Merchant's House | Immediate whereabouts of third surviving companion |
+| C-7230 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Archibald proposes riding demon road despite risks | Internal group disagreement |
+| C-7231 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Gerris admits return home could be prudent | Moral alternative before irreversible decisions |
+| C-7232 | [ADWD 6](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/06-the-merchant-s-man.md) | Gerris conceives faster dishonorable plan at chapter end | Content and execution unshown |
+| C-7233 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon hesitates to sign neutral Watch appeal to Tommen | Legitimacy crisis from assisting Stannis |
+| C-7234 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Gilly nurses two infants and reports enough milk | Comparable ages allow substitution |
+| C-7235 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon fears Melisandre could sacrifice Dalla and Mance's son for king's blood | Prospective threat, no sacrifice order shown here |
+| C-7236 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Gilly protests infant innocence and asks Jon to protect both | Mother's agency and ethical objection |
+| C-7237 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon orders Gilly to take Dalla's baby and leave her own at Castle Black | Actual required substitution |
+| C-7238 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Gilly volunteers to take both children | Alternative dismissed by Jon as unsafe |
+| C-7239 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon forces Gilly to expose hand to candle flame | Physical coercion makes risk vivid |
+| C-7240 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon promises her own boy will be raised safely and might find her as adult | Promises, not actual future upbringing |
+| C-7241 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon threatens her own boy with death if she refuses to go | Explicit threat against innocent infant |
+| C-7242 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Gilly flees his room overwhelmed and in tears | No free consent to bargain |
+| C-7243 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Mormont's raven echoes language of death and obedience | Observable speech repetitions, not certain prophetic intent |
+| C-7244 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Ghost lies nearby beneath anvil with ox bone | Physical proximity |
+| C-7245 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon believes Bran and Robb dead while remembering Bran besting Tommen | Stark information asymmetry |
+| C-7246 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon considers Tywin the active Lannister political decision maker | Already outdated after Tywin's death |
+| C-7247 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Sam says Watch letter is a paper shield against Lannister retaliation | Strategic protection rather than alliance with Lannisters |
+| C-7248 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon says Watch provided Stannis Nightfort, food and Gift concessions | Specific neutrality tension |
+| C-7249 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon signs appeal and seals letter for Aemon to dispatch | Document prepared, receipt by Tommen not confirmed |
+| C-7250 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon lies to Sam about why Gilly was weeping | Conceals the swap's coercion |
+| C-7251 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Sam suggests goat milk while new wet nurse sought | Practical infant feeding contingency |
+| C-7252 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Sam warns oldest surviving histories written long after First Men and Long Night | Historiographical uncertainty |
+| C-7253 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Sam finds oldest Lord Commanders list with 674 names, not declared 998 | Quantified historical discrepancy |
+| C-7254 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Sam reports children of forest gave Watch one hundred obsidian daggers per year | Source-mediated tradition, not present practice |
+| C-7255 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Old texts link Others and cold in ambiguous direction of cause | Climate and entity relation unresolved |
+| C-7256 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Some accounts describe undead animal mounts and giant ice spiders | Partly corroborated by wight horse, spiders still unseen |
+| C-7257 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Sam recounts blade called dragonsteel in last hero story | Weapon claim from legend, not tested |
+| C-7258 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon and Sam suspect dragonsteel is Valyrian steel | Explicit hypothesis, not canonical equivalence |
+| C-7259 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Sam cannot identify Others' origin, motives or purposes | Major limits on wider pact theories |
+| C-7260 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon orders Sam and Aemon to go to Oldtown with Gilly | Sets up AFFC sea travel |
+| C-7261 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Aemon is one hundred and two and vulnerable at sea | Known mortal risk of evacuation |
+| C-7262 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon fears Melisandre might seek Aemon's royal blood | Preventive motive, no witnessed demand |
+| C-7263 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Clydas is aging steward with fading eyesight, not maester | Medical and raven vulnerability at Wall |
+| C-7264 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Dareon to join at Eastwatch and recruit by song | Intended mission later subverted in Braavos |
+| C-7265 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Blackbird will carry party to Braavos before Oldtown | Actual planned route, not guaranteed completion |
+| C-7266 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Sam proposes Horn Hill for Gilly under fiction baby is his bastard | Expected protection not established |
+| C-7267 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Sam fears healing education, corpses and Randyll's ban on sons as maesters | Plausible psychological limits |
+| C-7268 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon orders Sam to forge chain and stop calling himself craven | Duty imposed on reluctant Watch brother |
+| C-7269 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon credits Sam with engineering election to lord command | Power dynamics and acknowledgment |
+| C-7270 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Aemon once told Egg to kill the boy within to become King Aegon | Historical counsel, not sanctioned cruelty |
+| C-7271 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Aemon gives same counsel to Jon | Traces command ethos and moral burden |
+| C-7272 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Richard Horpe and Justin Massey travel south as unexplained envoys | Specific actors and disputed destination |
+| C-7273 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Davos and Salladhor Saan reported to have sailed for White Harbor | Separate diplomatic mission |
+| C-7274 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon dreams he mutilates and swaps the infants | Nightmare reflecting guilt, not actual violence |
+| C-7275 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | At dawn party has two covered wagons, Black Jack Bulwer and twelve rangers | Physical convoy composition |
+| C-7276 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon cannot tell which bundled infant Gilly carries | Observation limit on actual switch |
+| C-7277 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Gilly tells Jon to find wet nurse for the other baby | Strong evidence she did perform swap |
+| C-7278 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Gilly warns not to name infant before second birthday | Specific free folk tradition |
+| C-7279 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Aemon leaves marked Jade Compendium by Colloquo Votar for Jon | Concrete written clue left at Castle Black |
+| C-7280 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Sam, Aemon and Gilly depart as snow falls | Actual relocation, AFFC timeline precedes later voyage |
+| C-7281 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon assesses hundred-league Wall as too long for available staffing | Operational weakness |
+| C-7282 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon makes Bedwyck commander of Icemark with twenty Watch and ten king's men | Mixed-command implementation of earlier compromise |
+| C-7283 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon proposes two emergency ravens and a beacon-chain network | Communication plan not completed |
+| C-7284 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon assigns Janos Slynt to Greyguard with thirty men from three sources | Operational separation from Alliser Thorne |
+| C-7285 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon recalls Slynt's complicity in Ned's death | Possible private revenge motivation |
+| C-7286 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Greyguard is forty leagues away and needs rebuilding | Hard mission, not merely honorific appointment |
+| C-7287 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Slynt refuses Jon's order and relies on political friends | First direct insubordination |
+| C-7288 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon allows Slynt overnight opportunity to comply | Meaningful chance before death sentence |
+| C-7289 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Slynt publicly repeats refusal before Watch, queen's and king's men | Public command challenge |
+| C-7290 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Alliser Thorne briefly reaches for sword then releases it | Resistance potential not actual attack |
+| C-7291 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon initially orders Slynt hanged | First planned method |
+| C-7292 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon stops hanging and orders block so he can wield Longclaw | Takes direct execution responsibility |
+| C-7293 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Slynt begs for mercy and finally says he will comply | Late reversal not accepted |
+| C-7294 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Jon personally beheads Slynt | Killing observed and conclusive |
+| C-7295 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Owen immediately asks for Slynt's boots | Resources and dark humor amid death |
+| C-7296 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Stannis watches, nods to Jon and departs | Recognition gesture, not formal agreement with every decision |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -7187,4 +7411,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and seventy-five first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and seventy-nine first-pass chapters listed in the coverage tracker.

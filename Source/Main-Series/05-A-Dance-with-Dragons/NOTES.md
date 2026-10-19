@@ -128,3 +128,12 @@ Owners: [Cersei/Faith](../../../research/characters/cersei-faith.md), [Ironborn]
 - [3 Jon](chapters/03-jon.md): **Complete first-pass reading.** Ghost's wolf dream suggests surviving sibling connections. Lyanna Mormont defies Stannis, while Jon refuses to grant Wall castles to southern lords, offers Watch-led garrisons, and hears Melisandre's warning of hidden knives. This is earlier in-world than Sam's AFFC45 arrival in Oldtown.
 
 These chapters are separate from earlier targeted cross-book audits; neither thread counts the same chapter twice.
+
+## Sequential first-pass close reading — 2026-10-19 (ADWD 4–7)
+
+- [4 Bran](chapters/04-bran.md): **Coldhands, Watchmen, possible Varamyr wolves and the ethics of skinchanging.** 49 chronological source observations, plus causal, epistemic and disconfirmation review.
+- [5 Tyrion](chapters/05-tyrion.md): **The Golden Company's Blackfyre past, Illyrio's Serra, and misleading promises.** 61 chronological source observations, plus causal, epistemic and disconfirmation review.
+- [6 The Merchant's Man](chapters/06-the-merchant-s-man.md): **Quentyn's compromised mission in Volantis.** 49 chronological source observations, plus causal, epistemic and disconfirmation review.
+- [7 Jon](chapters/07-jon.md): **Coerced baby swap, false histories, Watch reorganization and Janos Slynt's execution.** 64 chronological source observations, plus causal, epistemic and disconfirmation review.
+
+These are complete sequential first passes separate from targeted earlier theory audits.
