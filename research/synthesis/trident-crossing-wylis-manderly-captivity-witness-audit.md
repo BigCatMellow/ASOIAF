@@ -167,3 +167,41 @@ This is particularly relevant because the **ADWD 51 (Theon)** sortie order sends
 **Primary text audit:** case-insensitive full EPUB search for Wylis, Ronnel Stout, Kyle Condon, Donnel Locke, Owen Norrey, Norrey, Burley, Locke and related hostage/crossing passages; the narrator scenes above were reread, and relevant repository chapter paths were retrieved on main. This audit cannot independently reconstruct orders absent from the text.
 
 **Independent-review gate:** no second reviewer has yet accepted the theory disposition. Subsequent findings should adjust the witness map rather than silently upgrading `CHARACTER CLAIM` to `POV-OBSERVED`.
+
+## 8. New cross-chapter check: Aenys's departure and the changing Ruby Ford
+
+This pass tests the obvious comparator without upgrading it into testimony. **Aenys never gives an on-page account of his crossing**: no chapter records which banners crossed with him, his boat or ford choice, the water level he personally observed, or a conversation in which he disputes Roose. The point of comparison instead comes from two **separate POV checkpoints** that narrow the chronology and terrain claim.
+
+| Checkpoint | Evidence | What it independently supports | What it does **not** establish |
+| --- | --- | --- | --- |
+| **Aenys at Harrenhal before withdrawal** | In **ACOK 64 (Arya)**, Arya personally hears Aenys urge departure because a huge castle, ruined country and absent harvest make a siege/logistics crisis; Roose answers that he does not mean to be besieged. Aenys is also visibly present when Roose assumes Harrenhal in **ACOK 47 (Arya)**. | `POV-OBSERVED DIRECT SPEECH`: Aenys had a conventional, stated reason to want the northern host out of Harrenhal. It supplies a non-conspiratorial motive for an early Frey departure. | That Aenys chose the later route, issued a crossing order, knew Roose's boat allocation, or approved a rear guard. |
+| **Three-day lead, before the reported attack** | In **ASOS 44 (Jaime)**, Jaime narrates that Aenys had marched **three days before**, northeast toward the kingsroad, while Roose tells Jaime the Trident is in flood and even the Ruby Ford will be difficult. Jaime and Roose then leave Harrenhal that morning. | `POV-NARRATED MOVEMENT / DIRECT SPEECH BEFORE OUTCOME`: the early departure and a difficult flooded crossing are present in the text **before** Roose later explains the losses to Robb. This is modest corroboration for the broad temporal/terrain premise, not merely a retrospective excuse invented at the Twins. | That Aenys successfully crossed; that the water worsened by a measured amount; that Roose departed exactly when he claims; any actual ferry order or a causal link between delay and Gregor's strike. The flood assessment remains **Roose's statement**, even though it is made to Jaime before the later accounting. |
+| **Roose's later account** | **ASOS 49 (Catelyn)**: Roose says Aenys crossed at the Ruby Ford several days ahead, “not without difficulty,” while his later force met a torrent and too few boats. | `CHARACTER CLAIM`, now consistent with the preceding Jaime checkpoint. | Independent confirmation that Aenys crossed, suffered no losses, saw the later force, or could expose deliberate allocation. Consistency between two Bolton statements is not an external witness. |
+| **Ford after the Red Wedding and after waters subside** | In **ASOS 74 (Arya)**, Sandor sees Polliver, a known Gregor man, at the inn and **infers** that Gregor holds the Ruby Ford as well as Harrenhal; Arya later observes the Trident returned to its usual channel, its flood rage gone. They deliberately avoid the ford. | `POV-OBSERVED` river conditions are no longer flood conditions; `CHARACTER INFERENCE` connects Gregor's men to present ford control. This supplies a later environmental and military checkpoint. | Whether Gregor himself is at the ford, when he seized it, whether the 600 fought, withdrew, defected or died, or whether Sandor's inference is correct. It cannot retrospectively prove or disprove Roose's claimed blocking deployment during the flood. |
+
+### Aenys's incentives are visible; his river knowledge is not
+
+Aenys is not merely a silent name in Roose's story. Arya hears him argue that Harrenhal cannot feed or withstand the army, and he warns that Lannister reach has undone commanders who thought Tywin distant (**ACOK 64**). He is also a Frey participant in the post-Harrenhal command environment and, later, a Bolton-aligned Frey at Winterfell (**ADWD 32, 46, 51**). These facts make him a **potentially interested** witness, not a neutral one.
+
+The most defensible reading is narrow:
+
+`AENYS LEFT HARRENHAL EARLIER / ROOSE WARNED JAIME OF A FLOODED, DIFFICULT FORD BEFORE THE REPORTED DISASTER / AENYS'S ACTUAL CROSSING ACCOUNT UNKNOWN.`
+
+That result cuts two ways. It weakens the claim that flood difficulty was fabricated only after losses, because Roose gives Jaime the same broad warning in advance. It also leaves the central question untouched: an early party's ability to proceed under difficult conditions gives no evidence about which later companies were ordered to wait, whether boat shortages were avoidable, or whether Roose could have protected Wylis's rear guard.
+
+### Revised five-book disposition
+
+- `INDEPENDENT / LIMITED`: Aenys's earlier march and Roose's pre-disaster flood warning occur in Jaime's POV chronology (**ASOS 44**).
+- `POV-OBSERVED / LIMITED`: Arya later sees that the river has subsided (**ASOS 74**).
+- `CHARACTER CLAIM`: Aenys crossed successfully; Roose's exact departure delay, ferry numbers, two-thirds figure, rear-guard composition and defensive 600-man implementation (**ASOS 49**).
+- `CHARACTER INFERENCE`: Sandor's conclusion that Gregor holds the ford from the presence of Gregor's men (**ASOS 74**).
+- `UNKNOWN`: Aenys's own account; the operational fate of Ronnel Stout, Kyle Condon and their command; any independent witness to Roose's crossing order or intent.
+
+This is a **corroboration boundary**, not an exoneration. It strengthens the ordinary-military explanation that flood conditions were genuinely difficult while preserving the unanswered allocation question on which a deliberate-sacrifice theory must stand.
+
+### Added source navigation
+
+- [ACOK 47 (Arya)](../../Source/Main-Series/02-A-Clash-of-Kings/text/048-arya.md)
+- [ACOK 64 (Arya)](../../Source/Main-Series/02-A-Clash-of-Kings/text/065-arya.md)
+- [ASOS 44 (Jaime)](../../Source/Main-Series/03-A-Storm-of-Swords/text/045-jaime.md)
+- [ASOS 74 (Arya)](../../Source/Main-Series/03-A-Storm-of-Swords/text/075-arya.md)
