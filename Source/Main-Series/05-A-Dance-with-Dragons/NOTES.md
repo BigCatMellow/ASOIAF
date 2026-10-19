@@ -237,3 +237,12 @@ Doran's elephant fleet is not treated as proof Daenerys has arrived; Gregor's de
 - [45 The Blind Girl](chapters/45-the-blind-girl.md): **Arya skinchanges a cat, uncovers Hardhome trafficking and regains sight.** 69 chronological observations, C-9669–C-9737, agency analysis, source distinctions, rival readings and tests.
 
 Important reconciliations: the missing crypt swords have a witnessed mundane explanation in ACOK 69; the lake campsite is not itself proof of the Night Lamp hypothesis; the historical Braavosi marriage pact does not bind Daenerys to Quentyn; Tycho's Watch credit is distinct from prospective bank backing of Stannis; Arya's Lysene slave intelligence is not yet known to Jon.
+
+
+## Sequential close-reading first pass — 2026-10-19 (ADWD 46–48)
+
+- [46 A Ghost in Winterfell](chapters/46-a-ghost-in-winterfell.md): **Unexplained Winterfell killings, northern faction rupture, and Theon's possible weirwood contact.** 70 observations (C-9738–C-9807), major arc, rivals and future source tests.
+- [47 Tyrion](chapters/47-tyrion.md): **Tyrion and Penny sold to Yezzan, Jorah branded, and Brown Ben Plumm drawn into cyvasse.** 67 observations (C-9808–C-9874), major arc, rivals and future source tests.
+- [48 Jaime](chapters/48-jaime.md): **Blackwood-Bracken surrender, hostage bargains, ancient feud and Brienne's unverified Arya claim.** 75 observations (C-9875–C-9949), major arc, rivals and future source tests.
+
+Do not convert the unseen horn into proof Stannis is at Winterfell; in ADWD 42 his main army is snowbound at the lakes. Tyrion's sale and emerging Brown Ben connection do not establish his rescue. ADWD 48 ends with Brienne's **unverified** invitation to Jaime, not with Jaime following her.

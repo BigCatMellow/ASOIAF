@@ -9857,6 +9857,219 @@
 | C-9736 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Bread relieves the burning sensation | Immediate remedy |
 | C-9737 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Next morning Arya sees a candle on waking | Sight restored; exact mechanism unknown |
 
+| C-9738 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | A Ryswell soldier is found dead at base of inner wall | Cause disputed between accident and killing |
+| C-9739 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Ramsay's dogs expose body after snow buried it | Physical discovery sequence |
+| C-9740 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Roger Ryswell suggests drunken fall while urinating | Convenient explanation without witness |
+| C-9741 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Theon finds nighttime wall visit suspicious | Inference, not proof homicide |
+| C-9742 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Soldiers speculate Stannis has an agent inside | Rumor intensifies mistrust |
+| C-9743 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Heavy snow builds against walls and battlements | Movement and visibility impaired |
+| C-9744 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Ropes guide people between buildings through storm | Extreme conditions inside fortress |
+| C-9745 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Hosteen Frey loses an ear to frostbite | Northern weather injures riverlanders |
+| C-9746 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Stabled horses are crowded while outdoor horses suffer | Bolton army has its own attrition |
+| C-9747 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Lord Locke interprets storm as divine punishment | Religious claim, not observed agency |
+| C-9748 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Freerider openly imagines Stannis's fiery god warming his army | Dangerous political speech |
+| C-9749 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Ramsay has the speaker whipped and hurled from inner battlements | Terror used to police speculation |
+| C-9750 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Battlements Gate leads onto outer wall approach but not all the way outside | Distinct gate geometry |
+| C-9751 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Freerider is reported limping away after fall and arrow hit | His final fate not shown |
+| C-9752 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Whoresbane and Ryswell mock Ramsay's claim of imminent death | Factions speak with growing insolence |
+| C-9753 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Dustin says Stannis is dead or dying in the storm | Her strategic judgment, no confirmation |
+| C-9754 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Common men get peas and bread while nobles retain ham | Ration inequality |
+| C-9755 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Holly approaches Theon and asks about crypts | Repeated covert-seeming attention by Abel's group |
+| C-9756 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | She offers to bring Abel to explain request | Possible intelligence collaboration |
+| C-9757 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Theon speculates group wants escape route | His hypothesis, not proven mission |
+| C-9758 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Theon climbs outer-facing battlements and thinks of jumping | Suicidal escape thought |
+| C-9759 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | He remembers Ramsay's dogs would track him | Coercion inhibits flight |
+| C-9760 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Aenys Frey's squire is found naked and dead in lichyard | Unexplained exposure death |
+| C-9761 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | A Flint crossbowman is found in stable with broken skull | Declared horse kick, possibly bludgeoned |
+| C-9762 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Theon compares deaths to victims during his own Winterfell occupation | Recognizes recurring murder pattern |
+| C-9763 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Hosteen Frey urges army march out to fight Stannis | Frustrated commander |
+| C-9764 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Other northmen object to marching blindly | Weather matters |
+| C-9765 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Scouts no longer return through Hunter's Gate | Possible enemy action or storm losses |
+| C-9766 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Wyman offers White Harbor cavalry in Hosteen's rear | Provocation of Frey suspicion |
+| C-9767 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Hosteen asks after missing brothers or kin from White Harbor | Continued unresolved disappearance |
+| C-9768 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Manderly corrects claim that those Freys returned Wylis alive | Wylis versus Wendel distinction |
+| C-9769 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Wyman lists vanished Freys and guest gifts at parting | Self-protective alibi |
+| C-9770 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Hosteen challenges Manderly to combat | Open conflict in lord's hall |
+| C-9771 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Manderly's knights stand ready | Violence nearly erupts |
+| C-9772 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Ryswell and Dustin calm both factions | Northern lords act as buffers |
+| C-9773 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Roose shows visible unease rather than indifference | Internal order threatened |
+| C-9774 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | New stables collapse under snow | Non-human cause of casualties |
+| C-9775 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Twenty-six horses and two grooms die in collapse | Verified material losses |
+| C-9776 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Remaining horses are crowded into Great Hall | Sanitation and fire hazards |
+| C-9777 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Yellow Dick found dead with genitals cut off and forced into mouth | Explicit homicide, calculated humiliation |
+| C-9778 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Roose orders secrecy and disposal of corpse | Attempts containment |
+| C-9779 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Ramsay publicizes killing and offers gold for murderer | Father-son response differs |
+| C-9780 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Hall becomes filthy with human and animal waste | Siege living conditions |
+| C-9781 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Common and noble diners now eat slaughtered horsemeat | Scarcity equalizes portions for once |
+| C-9782 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Theon's broken teeth make horsemeat hard to chew | Torture affects nourishment |
+| C-9783 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Bastard's Boys threaten Theon's lips after wedding work | Current personal danger |
+| C-9784 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | A hooded man calls Theon kinslayer in snow | Personal accusation, identity unknown |
+| C-9785 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Theon reveals his mutilated hand to defuse threat | Visual evidence of punishment |
+| C-9786 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Roose interrogates Theon over suspicious wandering | Suspect screening |
+| C-9787 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Dustin makes Theon display mutilated fingers | Independent inspection |
+| C-9788 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Aenys thinks remaining fingers might hold a blade | Weak theory unsupported by strength |
+| C-9789 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Dustin and Ryswell dismiss Theon as likely killer | Physical capacity constraint |
+| C-9790 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Aenys proposes Manderly's retainers as murderers | Plausible faction, no direct proof |
+| C-9791 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Dustin lists multiple northern houses that lost kin at Red Wedding | Shared grievances |
+| C-9792 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Dustin declares northern memory of betrayal in Frey's presence | Threatening political signal |
+| C-9793 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Roose warns Theon wandering may bring another death | Threat persists |
+| C-9794 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | A warhorn and steady drum sound outside Winterfell | Source unseen |
+| C-9795 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Defenders collectively presume Stannis is near | Misidentification risk |
+| C-9796 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Visibility is too poor to see force beyond walls | No direct sight of army |
+| C-9797 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | A sentry mentions Horn of Joramun in a joke | Legendary comparison, not literal sighting |
+| C-9798 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Theon reasons Roose may welcome fight to reduce uncertain vassals | Strategic inference |
+| C-9799 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Theon again hopes for death in battle | Identity recovery linked to mortality |
+| C-9800 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | At heart tree Theon hears a whisper of his name | Possible greenseer contact |
+| C-9801 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | He remembers Stark wardship while pleading to die as Theon | Selfhood under extreme distress |
+| C-9802 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Tree appears to whisper Bran's name | Potential cross-POV link |
+| C-9803 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Theon perceives Bran-like face in trunk for a moment | Vision or trauma, not independent confirmation |
+| C-9804 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | He admits two slain boys were miller's sons not Bran and Rickon | Hidden truth repeated |
+| C-9805 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Holly Rowan and another woman interrupt his confession | Infiltration threat |
+| C-9806 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Holly shows blade and offers killing Theon | Demonstrates readiness for violence |
+| C-9807 | [ADWD 46](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/46-a-ghost-in-winterfell.md) | Rowan says they will not kill him until he speaks with Abel | Operational extraction, outcome next chapter |
+| C-9808 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Auction occurs near Skahazadhan outlet into Slaver's Bay | Geographical proximity to Meereen |
+| C-9809 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tyrion and Penny are offered jointly with dog and pig | Chattel commodification |
+| C-9810 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Seamen from damaged ship sell individually for hundreds of silvers | Slave market prices vary by skill |
+| C-9811 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Free shipmates hold ransom binder from Widow of Waterfront | Legal and commercial protection |
+| C-9812 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Fiery Fingers may be bought out by red temple | Religion can provide ransom |
+| C-9813 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tyrion and Penny have no such outside guarantor | Isolation |
+| C-9814 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Slavers forbid pair to speak at auction | Control through threat |
+| C-9815 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tyrion is whipped for defiant jokes | Visible punitive force |
+| C-9816 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Bidders include local elites and sellswords | Interlocking siege economy |
+| C-9817 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Penny hopes they will remain together | Personal survival motive |
+| C-9818 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Prospective buyer suggests breeding dwarfs for profit | Reproductive coercion |
+| C-9819 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Mock joust is demanded to increase bids | Humiliation as commodity |
+| C-9820 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Pretty Pig is trained but Tyrion falls in exhibition | Physical risk during spectacle |
+| C-9821 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Fat Yunkish buyer dominates bidding | Yezzan emerges as new owner |
+| C-9822 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | An older brown-skinned sellsword bids competitively | Later identified Brown Ben Plumm |
+| C-9823 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tyrion suspects bidder recognizes him as Lannister | His inference, not yet admitted |
+| C-9824 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tyrion bids for himself despite having no capital | Disruptive strategic performance |
+| C-9825 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tyrion boasts of cyvasse and Casterly Rock debts | Claims meant to raise his price |
+| C-9826 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Auctioneer sells pair to corpulent bidder | Actual transaction, not Tyrion's imaginary bid |
+| C-9827 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Penny worries new owner will be kind | Childlike hope despite brutality |
+| C-9828 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tyrion calculates nearby Meereen gates could mean freedom | Physical route blocked by guards |
+| C-9829 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Escape with Penny's animals seems much harder | Moral choice complicates flight |
+| C-9830 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tyrion calls himself Yollo to overseer | Continuing alias |
+| C-9831 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Overseer is called Nurse by enslaved servants | Infantilizing control |
+| C-9832 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Yezzan zo Qaggaz is their master | Named holder |
+| C-9833 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Jorah appears beaten and branded with demon mask | Severe post-capture injury |
+| C-9834 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Jorah killed three slavers before capture | Reported earlier combat |
+| C-9835 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Slavers chained him to oar and whipped him | Punishment for resistance |
+| C-9836 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Few bid for Jorah as fighter because he is brutalized | Value depends on condition |
+| C-9837 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Guards tell slaves Dany married Hizdahr and pits will reopen | Some reports corroborated by ADWD 43 |
+| C-9838 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Other captives doubt Dany would compromise emancipation | Competing beliefs |
+| C-9839 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tyrion retains dangerous mushrooms hidden in boot | Possible future means of harm or escape |
+| C-9840 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | A cheap fighting-pit owner seeks Jorah | Danger of quick death |
+| C-9841 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tyrion lies that Jorah is needed for bear act | Instrumental compassionate intervention |
+| C-9842 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Nurse convinces Yezzan to purchase Jorah | All three same master |
+| C-9843 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Jorah is sold at a low price compared with dwarfs | Market hierarchy |
+| C-9844 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Jorah gives little response after marriage news | Psychological collapse inferred by Tyrion |
+| C-9845 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Yunkish siege lines comprise many different camps | No single orderly force |
+| C-9846 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Imported lumber supports six huge trebuchets | Explicit siege materiel |
+| C-9847 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Trebuchets have six distinctive names | Potential landmarks for later battle |
+| C-9848 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tyrion notices chains on armed slaves | Coerced military labor |
+| C-9849 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Disease and dead men are visible in camps | Bloody flux threatens besiegers |
+| C-9850 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Nurse forces them to watch slingers kill escaped slaves | Terror deterrent |
+| C-9851 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tolosi sling bullets inflict catastrophic injuries | Distinct battlefield weapon |
+| C-9852 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Yezzan's pavilion has nine roof peaks with harpies | Huge master household |
+| C-9853 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tyrion Penny and Jorah receive gilded iron slave collars | Formal ownership sign |
+| C-9854 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Jorah is chained outside tent, dwarfs housed among curiosities | Differentiated status |
+| C-9855 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Other treasures include bearded woman, goat-legged boy and two-headed girl | Exploitative exhibition |
+| C-9856 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Sweets is bilingual/multilingual and identifies as both man and woman | Specific companion and potential information source |
+| C-9857 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Sweets says Nurse is true monster of household | Firsthand warning |
+| C-9858 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Sweets reports Yezzan is ill following voyage to Sothoryos | Character medical report |
+| C-9859 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tyrion's wounds are treated and both dwarfs cleaned | Investment in performing assets |
+| C-9860 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Supreme Yunkish commander Yurkhaz zo Yunzak visits Yezzan | Elite audience |
+| C-9861 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Brown Ben Plumm attends as Second Sons captain | Potential diplomatic link |
+| C-9862 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Their dwarf joust wins laughs from master and elite guests | Humiliation repeated |
+| C-9863 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Both must serve guests afterward despite injuries | Forced labor continues |
+| C-9864 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | A Yunkishman requests sexual display by dwarf pair | Ongoing threat |
+| C-9865 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tyrion defeats one boastful Yunkish player in cyvasse | Demonstrated tactical skill |
+| C-9866 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Brown Ben challenges Tyrion at board | Direct contact |
+| C-9867 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Ben offers to buy Tyrion if he wins | Potential recruitment attempt |
+| C-9868 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Yezzan substitutes gold stakes for ownership | Master refuses sale |
+| C-9869 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tyrion wins first game, Ben second | Each is capable of adjustment |
+| C-9870 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tyrion identifies Ben's defensive reluctance to take risks | Psychological inference |
+| C-9871 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Tyrion wins series, winning Yezzan gold | Makes slave useful to master |
+| C-9872 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Master falls asleep drunk during late games | Limited supervision |
+| C-9873 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Nurse announces dwarfs will perform at Daznak's Pit | Consequential next assignment |
+| C-9874 | [ADWD 47](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/47-tyrion.md) | Event is to celebrate new peace, with very large crowd | Timing ties to Daenerys's public choices |
+| C-9875 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Raventree is old with square towers predating newer siege engineering | Architectural chronology |
+| C-9876 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Blackwood Vale has few surviving trees after ancient deforestation | Environmental history |
+| C-9877 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime sees burned farms, mills and human remains along road | Consequences of Tywin's campaign |
+| C-9878 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Bracken besieges Raventree with about five hundred men | Limited encirclement |
+| C-9879 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Bracken lacks engines and waits to starve Blackwood out | Slow pressure rather than assault |
+| C-9880 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime regards Raventree as last remnant of Robb's Riverlands war | Strategic completion goal |
+| C-9881 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | He recalls burning Cersei's desperate letter at Riverrun | Refused rescue call |
+| C-9882 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | He doubts he could save her from Faith trial with one hand | Practical limitation |
+| C-9883 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime interrupts Jonos Bracken having sex with Hildy | Introduces camp follower and power imbalance |
+| C-9884 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jonos calls Hildy prize of war after killing her previous companion | Coercive context |
+| C-9885 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Hildy speaks boldly and tests Jaime's vows | Social encounter |
+| C-9886 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime thinks of Myrcella's false official paternity | Dynastic secrecy |
+| C-9887 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jonos notes Blackfish escape but has no direct capture | Open fugitive situation |
+| C-9888 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime proposes terms and pardon for Tytos | Political peace effort |
+| C-9889 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Blackwood must disavow Stark and Tully allegiance | Surrender condition |
+| C-9890 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime requires financial payment and hostage | Coercive peace mechanism |
+| C-9891 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Bracken asks territory reportedly promised by Tywin | Reward dispute |
+| C-9892 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Proposed additions would enlarge Bracken holdings substantially | Feudal incentive |
+| C-9893 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Pennytree is excluded as royal fief | Political jurisdiction |
+| C-9894 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime sees Bracken has not actually captured castle | Leverage to reduce reward |
+| C-9895 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jonos admits Lannister forces killed relatives and ruined holdings | Grievance beneath shifting fealty |
+| C-9896 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime agrees to smaller land concessions | Negotiated rather than absolute punishment |
+| C-9897 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Tytos Blackwood receives Jaime under truce | No new assault |
+| C-9898 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Blackwood refuses to kneel to Bracken, agrees to crown | Local honor distinction |
+| C-9899 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime avoids public humiliation in wet yard | Deliberate chivalric concession |
+| C-9900 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Ancient immense godswood weirwood is leafless | Direct tree appearance |
+| C-9901 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Tytos says Brackens poisoned it long ago | Partisan historical report |
+| C-9902 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Tytos says ravens still fill bare tree at dusk | Reported unexplained long-term behavior |
+| C-9903 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | He says weirwood wood does not rot | Cultural botany claim |
+| C-9904 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Blackwood asks after Edmure and Brynden Tully | Rival lord's whereabouts |
+| C-9905 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime confirms Edmure sent captive to Casterly Rock | Custody under Lannisters |
+| C-9906 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Roslin and infant to join Edmure after birth | Projected family transport |
+| C-9907 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Blackwood sees Edmure's surrender as coerced by child threats | Alternative ethical reading |
+| C-9908 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime believes that reading justified | Rare self-critical thought |
+| C-9909 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Tytos says Blackfish is not present | Claim without search |
+| C-9910 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime and Blackwood agree confession, pardon and payments | Concluded terms |
+| C-9911 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Blackwood cedes limited holdings including Lord's Mill | Precise economic concession |
+| C-9912 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Mills collect part of grain as lord's tax | Explains territorial value |
+| C-9913 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime demands daughter Bethany as hostage first | Child used as guarantee |
+| C-9914 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Tytos pleads for replacement by a son | Fear for young girl |
+| C-9915 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Blackwood's son Lucas died at Red Wedding | Continued war trauma |
+| C-9916 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Younger son Robert died of illness nine days earlier | Other death, not battle |
+| C-9917 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime chooses bookish Hoster as hostage | Less cruel option than eight-year-old Bethany |
+| C-9918 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Tytos requests return of Lucas's bones from Freys | Corpse custody remains open |
+| C-9919 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime promises to seek bones | Future obligation |
+| C-9920 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | He threatens Hoster's head if Blackwoods harbor rebels | Continued serious hostage coercion |
+| C-9921 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Tytos replies Kingslayer, recognizing hard bargain | Trust fragile |
+| C-9922 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime tells Jonos final concessions outside walls | Both sides accept peace publicly |
+| C-9923 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime also requires one Bracken daughter to court | Parallel hostage to constrain the other side |
+| C-9924 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | He travels home by alternate route to watch for Blackfish or outlaws | Military reconnaissance |
+| C-9925 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Hoster guides group across Widow's Wash | Young hostage useful |
+| C-9926 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Hills near Pennytree once called Mother's Teats | Place-name evolution |
+| C-9927 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Hoster says Aegon IV renamed them after Barba Bracken, then Melissa Blackwood | Historical erotic politics |
+| C-9928 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Melissa Blackwood is called Missy and commemorated in godswood | Bloodraven maternal genealogy junction |
+| C-9929 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Hoster explains mutually biased Blackwood-Bracken chronicles | Provenance matters |
+| C-9930 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | He presents competing Andals dates thousands of years apart | Chronology uncertain |
+| C-9931 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | He says many marriages and treaties failed to heal feud | Long-horizon political failure |
+| C-9932 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime recalls Tywin's extermination response to Reynes and Tarbecks | Alternative terrible peace model |
+| C-9933 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Hoster notes slain people's children perpetuate revenge | Counterargument |
+| C-9934 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime thinks of Rhaegar's murdered children | Traumatic cross-generational violence |
+| C-9935 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime acknowledges Eddard's daughters still live as he understands | Character knowledge limited |
+| C-9936 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | He wonders where Brienne is and whether she found Sansa | Persistent quest |
+| C-9937 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Pennytree is partially rebuilt with strong civilian holdfast | Survival adaptation |
+| C-9938 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | A great oak carries hundreds of nailed copper pennies | Unexplained local ritual |
+| C-9939 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Villagers hide when Lannister soldiers arrive | No trust in kings' men |
+| C-9940 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | A villager reports rape and slaughter by rival armies | Civilians reject faction distinctions |
+| C-9941 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime forbids pillage and declines to storm holdfast | Demonstrable restraint |
+| C-9942 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Hoster and Peck share evening food with Jaime | Changed household relation |
+| C-9943 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Scouts bring injured Brienne near midnight | Physical reunion |
+| C-9944 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | She still carries Oathkeeper given by Jaime | Symbolic fidelity |
+| C-9945 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Jaime notices wound on her face, which she calls bite | Material continuity with prior encounter |
+| C-9946 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Brienne claims to have found the girl | Unverified statement |
+| C-9947 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | She proposes a one-day ride and demands Jaime alone | Potential ambush risk |
+| C-9948 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Brienne says Hound will kill girl otherwise | Possible coerced threat, no direct Hound sight |
+| C-9949 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Chapter ends before Jaime chooses to follow | Important cliffhanger boundary |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -9864,4 +10077,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the three hundred and seventeen first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the three hundred and twenty first-pass chapters listed in the coverage tracker.
