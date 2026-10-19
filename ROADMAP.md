@@ -12,6 +12,10 @@
 
 A sourced, contradiction-aware, character-led basis for two unofficial further novels. No fixed ending receives authority just because it appeared in an earlier conversation.
 
+## Adaptation-evidence boundary — 2026-10-19
+
+The owner authorized using documented television-series endpoint disclosures as **non-canonical possibilities**. [Adaptation evidence](research/adaptation/README.md) is source-tiered: Martin’s own statements and showrunner reports can identify questions worth testing, but never override five-book causality, character knowledge, logistics, or alternative branches.
+
 ## Working method: THINK → PLAN → DO → CHECK
 
 **THINK (question framing):** For each character or plot knot, identify the real decision, separate narrated facts from interpretations, decompose conflicting loyalties, map assumptions, seek one counterexample, and retain two or three viable next paths. Borrow from [Pilot THINK](https://github.com/BigCatMellow/Pilot_Projects/blob/main/complete-ai-work-system/roadmaps/03-THINK-CREATIVITY-AND-IDEA-ECOLOGY.md), *not* its unvalidated search machinery.
