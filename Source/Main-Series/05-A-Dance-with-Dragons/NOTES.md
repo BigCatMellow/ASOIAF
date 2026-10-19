@@ -168,3 +168,11 @@ Whole-chapter source reading only; all findings remain research, not accepted fa
 - [18 Tyrion](chapters/18-tyrion.md): **The twice-encountered Bridge of Dream, Aegon revelation, and Tyrion's plunge.** 48 observations and cross-book theory tests.
 
 Interpretations distinguish direct events from contested genealogy, sorcery, medicine and witness reports.
+
+## Sequential first-pass close reading — 2026-10-19 (ADWD 19–21)
+
+- [19 Davos](chapters/19-davos.md): **Manderly's public rejection, the Freys' Red Wedding lie, and Wylla's Stark oath.** 52 chronological source observations plus agency, rival readings and theory disconfirmation tests.
+- [20 Reek](chapters/20-reek.md): **Moat Cailin falls by Theon's coerced parley; Ramsay massacres the garrison; Jeyne Poole is identified.** 60 chronological source observations plus agency, rival readings and theory disconfirmation tests.
+- [21 Jon](chapters/21-jon.md): **Carved roadside gods, Mole's Town shortages, and sixty-three free-folk recruits.** 64 chronological source observations plus agency, rival readings and theory disconfirmation tests.
+
+The apparent Davos sentence is not counted as a witnessed execution. Jeyne Poole's impersonation is verified as Theon's on-page identification; north-house complicity remains to test.

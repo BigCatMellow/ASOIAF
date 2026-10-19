@@ -8097,6 +8097,183 @@
 | C-7984 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Stone man seizes Tyrion under water with unyielding grip | Narrator ends before rescue, no confirmed Tyrion death |
 | C-7985 | [ADWD 18](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/18-tyrion.md) | Tyrion thinks no one would mourn him and imagines posthumous haunting | Suicidal grief persists amid protective act |
 
+| C-7986 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Marlon Manderly escorts Davos from guarded chamber to Wyman's court | Davos is honored as guest in space but kept prisoner |
+| C-7987 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Merry Midwife waited four days then left without Davos | Davos's immediate return passage now unavailable |
+| C-7988 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Another fortnight elapses before he gains audience | Precise diplomatic delay |
+| C-7989 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Marlon identifies as Wyman's cousin and garrison commander | Specific enforcement authority |
+| C-7990 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | New Castle hall features giant sea-creature and ship murals | Manderly maritime identity materially displayed |
+| C-7991 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Women at court outnumber fighting-age men substantially | Male workforce at war or under strain, exact numbers unknown |
+| C-7992 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | A dozen Freys attend in blue-silver heraldry | Public diplomatic audience has hostile witnesses |
+| C-7993 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Wyman appears grey, exhausted and frail despite size | Davos's impression, illness cause unknown |
+| C-7994 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Maester Theomore introduces Manderly titles and asks Davos to kneel | Ceremonial effort to subordinate Stannis's envoy |
+| C-7995 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Davos refuses kneeling as Hand of a king | Maintains equality of sovereignty despite danger |
+| C-7996 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Leona Woolfield Manderly ridicules Davos's fingers and lost fleet | Spouse of captive Wylis has personal reason to fear war |
+| C-7997 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Davos requests confidential audience and is refused | Cannot test Wyman's private intentions |
+| C-7998 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Davos accuses Frey guests of killing Wendel at Red Wedding | Accusation grounded in known event |
+| C-7999 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Jared Frey claims Robb turned into wolf and killed Jinglebell and Wendel | False on established ASOS account; propaganda |
+| C-8000 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Jared says warg bites spread to Stark bannermen | Invented supernatural exoneration of Frey violence |
+| C-8001 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Wyman claims Wendel died a hero protecting Freys | Public acceptance at odds with Davos and prior facts |
+| C-8002 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Davos directly calls Jared liar | Clear refusal to participate in false history |
+| C-8003 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Jared draws steel and demands trial by combat | Threat escalates within host's hall |
+| C-8004 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Wyman orders blade sheathed and prevents bloodshed in court | Retains control over public violence |
+| C-8005 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Wyman's careful reference to Iron Throne loyalty is audible | Public diplomatic stance not proof inner intent |
+| C-8006 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Theomore argues Tommen born to Robert and male child outranks brother | Relies on contested paternity premise |
+| C-8007 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Davos argues Jaime fathered Tommen and Joffrey | True to reader's Cersei/Jaime POVs; not proven to court |
+| C-8008 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Theomore demands independent evidence beyond Stannis's word | Legal evidentiary challenge even if truth is known to reader |
+| C-8009 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Davos thinks of Edric Storm but concealed him from Melisandre | Witness/possible proof unavailable for his negotiation |
+| C-8010 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Freys demand his tongue or head for treason | Threat from external faction |
+| C-8011 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Leona demands security and condemns Melisandre's influence | Her spouse Wylis remains Lannister hostage |
+| C-8012 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Davos says most of Stannis's supporters, himself included, worship Seven | Complicates blanket claim Stannis imposes R'hllor |
+| C-8013 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Wyman lists Tywin's pardon and 3000-dragon ransom for Wylis | Specific transaction under coercion |
+| C-8014 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Roose demands withdrawal of Manderly Hornwood claims | Land settlement part of forced peace |
+| C-8015 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Walder Frey offers marriage arrangements including Wyman and granddaughters | Kinship instruments of domination |
+| C-8016 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Davos answers Stannis offers chance to do duty | Honest but weak compared with concrete security terms |
+| C-8017 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Marlon asks number of Stannis's supporters and castles held | Rational appraisal of armed leverage |
+| C-8018 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Davos names Arnolf Karstark, whose authority as castellan Marlon minimizes | Stannis's political reach limited |
+| C-8019 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Marlon notes Stannis holds Nightfort and vulnerable distant Storm's End Dragonstone | Important asymmetry in fortification |
+| C-8020 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Davos knows Stannis brought only about 1500 men north | Size not disclosed to hostile room |
+| C-8021 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Davos invokes vengeance for Red Wedding and his Blackwater sons | Appeal grounded in real loss |
+| C-8022 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Green-braided granddaughter Wylla supports avenging Eddard Catelyn Robb | Explicit on-page dissenter |
+| C-8023 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Wyman threatens to silence Wylla and force marriage | A performative or real coercion, not decoded yet |
+| C-8024 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Wylla invokes oath at Wolf's Den made when Starks sheltered exiled Manderlys | Historical loyalty claim against current Frey bargain |
+| C-8025 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Theomore confirms oath was sworn but says House Stark extinct | Formal truth of ancient promise partially corroborated |
+| C-8026 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Rhaegar Frey claims true Stark daughters survive and one will marry Ramsay | Instrumentalizes false Arya marriage for succession |
+| C-8027 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Wylla insists Ramsay Snow and recalls Lady Hornwood's starvation | She directly challenges Bolton's legitimacy and safety |
+| C-8028 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | A local courtier corroborates rumors of Ramsay's cruelty | Widespread dread beyond one family's grievance |
+| C-8029 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Rhaegar repeats allegation Robb himself caused Red Wedding | Revisionist narrative persistent despite challenge |
+| C-8030 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Wyman gazes at Rhaegar with apparent concealed disgust before endorsing him | Possible duplicity, inference from Davos's perception |
+| C-8031 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Rhaegar Frey says betrothed is Little Walder Frey | Specific proposed match with Wylla |
+| C-8032 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Older granddaughter pressures Wylla to accept marriage | Public family discipline |
+| C-8033 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Leona pulls protesting Wylla from hall by her braid | Physical repression of girl's objection |
+| C-8034 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Wyman states protecting living Wylis outweighs Stannis's claims | Official rationalization, genuine hostage leverage |
+| C-8035 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Wyman publicly orders Davos's head and hands removed | Sentence, not on-page execution |
+| C-8036 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | Wyman specifies Wolf's Den as destination for sentence | Custody moved to named site, actual delivery not seen |
+| C-8037 | [ADWD 19](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/19-davos.md) | He orders onion forced into mouth of displayed head | Theatrical symbolic humiliation planned, not completed |
+| C-8038 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Ramsay gives Theon cloak horse banner and public freedom for mission | Illusion of liberty under credible recapture threat |
+| C-8039 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Damon Dance-for-Me warns he will be hunted if he fails | Operational coercion rather than voluntary diplomacy |
+| C-8040 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Bolton armies camp north and south of Moat Cailin | Ironborn defenders cut off between forces |
+| C-8041 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Theon rejects escape into Neck swamps and northern shore | Fear, illness and environment constrain choices |
+| C-8042 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Robb's old plank causeway remains visible in bog | Direct continuity of Stark army passage |
+| C-8043 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Theon recalls arriving once with Robb and Greatjon | Memory resurfaces beneath enforced Reek name |
+| C-8044 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Moat Cailin has Drunkard's Tower, Children's Tower, Gatehouse Tower | Specific defensive architecture |
+| C-8045 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Theon recalls former Stark allocations of towers to Karstark, Umber, Robb | Personal memory challenges degradation to Reek |
+| C-8046 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Childrens Tower associated with legend of children calling Hammer of Waters | Lore claim not proof of historical hydraulic magic |
+| C-8047 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Towers command narrow causeway against southward attack | Asymmetrical fortification and terrain |
+| C-8048 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Bog devils of Neck target ironborn with poisoned shafts | Local resistance militarily significant |
+| C-8049 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Stark-era barracks and causeway have degraded | Battlefield full of ruin and bodies |
+| C-8050 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Dead men, half-buried corpses and blood-blooms surround approach | Actual siege attrition and marsh ecology |
+| C-8051 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Theon conceals missing fingers in wool-filled gloves | Ramsay's disguise attempts to restore princely credibility |
+| C-8052 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | An arrow penetrates Theon's peace banner near his face | Cease-fire attempt dangerous, archer identity unknown |
+| C-8053 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Dying ironborn guard admits Theon into Gatehouse Tower | Garrison leadership and discipline collapsed |
+| C-8054 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Guard recognizes Balon's son's face only with difficulty | Theon's altered identity and bodily ruin |
+| C-8055 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Guard says comrades die from foul water, poor sanitation | Disease siege as important as swords |
+| C-8056 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | He reports dead bodies left in hall and flooded cellar | Medical/sanitary collapse |
+| C-8057 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Long water snakes and rats inhabit flooded vaults | Terrifying mundane threat |
+| C-8058 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Guard reports men in Children's Tower resorted to eating dead | Secondhand cannibalism, not personally witnessed |
+| C-8059 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Dagon Codd allegedly killed last two survivors there | Guard report, outside Theon's observation |
+| C-8060 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Kenning commands but guard has not seen him for days | Command collapse |
+| C-8061 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Ralf Kenning is feverish with swollen limb, worms and infected arrow graze | Severe untreated wound and sepsis apparent |
+| C-8062 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Theon kills Kenning with borrowed sword across swollen throat | Direct mercy killing, full consent impossible |
+| C-8063 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Theon recalls dying horse Smiler burned during Winterfell capture | Trauma trigger reveals past Theon memory |
+| C-8064 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Two dozen ironborn drinking in hall, some Codd heraldry | Garrison demoralization |
+| C-8065 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Theon tells garrison Euron won kingsmoot and Victarion will not return | Links AFFC election to northern consequences |
+| C-8066 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | He uses title Balon's son though internally calls himself Reek | Coerced performance of former identity |
+| C-8067 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Ramsay's written offer promises food and safe departure to Stony Shore | Signed/parchment pledge; later broken |
+| C-8068 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Ironborn cannot read and keep wax seal intact | Important vulnerability to false safe conduct |
+| C-8069 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Dagon Codd refuses surrender, draws sword | Immediate internal disagreement |
+| C-8070 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | One-armed Adrack Humble throws axe into Dagon's forehead | Killing turns faction to surrender |
+| C-8071 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Theon persuades survivors to lay down arms and leave | Agreement achieved before battle |
+| C-8072 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Gatehouse has 47 men and Drunkard's Tower 18 | At most 65 remaining including incapacitated |
+| C-8073 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Two near death and five too weak to walk | Explains why many could not fight |
+| C-8074 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Theon calculates 58 fit to fight and costly if stormed | Actual avoided Bolton battle losses |
+| C-8075 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Prisoners transport five incapacitated by stretchers or carrying | Trust in promise of mercy motivates exit |
+| C-8076 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Adrack Humble has rock wife three salt wives and expects children at home | Individual stakes, not faceless invaders |
+| C-8077 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Ryswell rider says three earlier assaults were repulsed | Outside confirmation of defenders' military effectiveness |
+| C-8078 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Ramsay publicly orders wine, food and treatment for wounded | Hospitality performance before betrayal |
+| C-8079 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Ramsay praises Theon then privately asks if he wants freedom | Trauma-based trap disguised as choice |
+| C-8080 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Theon asks only for wine and continued service | Coerced response, not authentic political loyalty |
+| C-8081 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Ramsay orders collar and hound kennel bedding for Theon | Dehumanization follows successful mission |
+| C-8082 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Theon eats chicken while competing with hunting dogs | Cruel mockery of reward |
+| C-8083 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Theon hears men screaming that night as he lies drunk | Strong link to massacre, not witnessed kills |
+| C-8084 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Next morning 63 ironborn corpses displayed impaled along causeway | Direct proof pledged safety violated |
+| C-8085 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | One impaled corpse lacks part of arm | Strong identification of Adrack Humble |
+| C-8086 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Another has unbroken wax-sealed parchment in mouth | Likely the surrender document; symbol of broken pledge |
+| C-8087 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Ramsay sends riders south to report passage open | Strategic effect enabling Bolton reinforcement |
+| C-8088 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Roose host arrives three days later led by four hundred mounted Freys | Specific vanguard scale |
+| C-8089 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Hosteen Frey described fierce fighter and Aenys skilled commander | Two named military actors |
+| C-8090 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Theon estimates only two in ten of Robb's northern host returned | POV rough count; catastrophic regional losses |
+| C-8091 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Roose travels in closed defended wagon while proxy wears his armor | Concrete anti-assassination precaution |
+| C-8092 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Roose introduced new wife Walda Frey from wagon | Bolton-Frey marriage alliance personally present |
+| C-8093 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Ramsay initially angered at armored decoy | Tension between father and son visible |
+| C-8094 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Roose unveils intended Arya bride and orders Ramsay greet her | Marriage is dynastic weapon |
+| C-8095 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Theon recognizes girl is Jeyne Poole, steward's daughter and Sansa's friend | Explicit on-page identification, not mere fan theory |
+| C-8096 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Theon's proof includes non-Stark eye color and memories of real Arya | Internal source evidence beyond wishful recognition |
+| C-8097 | [ADWD 20](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/20-reek.md) | Jeyne dutifully kneels and promises sons to Ramsay | Her compliant speech under coercive arrangement, not freely chosen love |
+| C-8098 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon sleeps over rare books fetched from unsorted Castle Black vaults | Research infrastructure strained without Sam |
+| C-8099 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Sam's knowledge needed for proper cataloguing | Intellectual labor cannot simply be assigned to illiterate stewards |
+| C-8100 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Eastwatch reports wrecked galley near Skagos with identity unknown | Not evidence Blackbird or Aemon/Sam actually dead |
+| C-8101 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon fears he sent Gilly and the two travelers to watery death | Actual uncertainty and guilt |
+| C-8102 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon leaves untouched three-meat stew by desk | Physical exhaustion and distraction |
+| C-8103 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | He refuses occupying Stannis's former quarters | Avoid signal king will not return |
+| C-8104 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Stannis has already marched south from Castle Black | Change from planning in ADWD17 to underway |
+| C-8105 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Castle Black has burned hall and unrepaired towers | Structural vulnerabilities |
+| C-8106 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Iron Emmett drills Hop-Robin despite disability | Long-term force development |
+| C-8107 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon declines personal bodyguard Ty but takes Longclaw and Ghost | Command risk acceptance |
+| C-8108 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Bowen opposes expedition south to Mole's Town | Cultural/political disagreement remains |
+| C-8109 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon notes Mormont murdered by his own sworn brothers | Immediate internal-threat precedent |
+| C-8110 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Food convoy guarded by a dozen spearmen and a dozen archers | Measured escort after previous trouble |
+| C-8111 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Snow starts falling en route along kingsroad | Seasonal pressure visible |
+| C-8112 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Twisted ash tree half-mile from Wall now has carved face | New old-gods image on non-weirwood tree |
+| C-8113 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Edd compares image to his face in dark humor | Emotional contrast with Jon's security worries |
+| C-8114 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon says Melisandre should not be told about carvings | Avoid religious clash rather than remove symbol |
+| C-8115 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Carver eluded stationed guards | Potential covert access and Watch security gap |
+| C-8116 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Second face carved into chestnut tree by bridge | Pattern is deliberate, not isolated prank |
+| C-8117 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Raven on chestnut calls corn and responds to Jon's whistle | Behavioral detail from bird under Old Bear's associations |
+| C-8118 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Third angry face carved into oak near Mole's Town | Three successive road markers |
+| C-8119 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Fresh tree wounds indicate recent work | Temporal evidence ritual may follow forced conversion |
+| C-8120 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon interprets carvings as refusal to abandon old gods | Cultural endurance, not proof supernatural surveillance |
+| C-8121 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Mole's Town aboveground homes burned during Thenn raid | Physical destruction constrains winter housing |
+| C-8122 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Cellars and underground tunnels now hold free folk | Settlement at far greater density than designed |
+| C-8123 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | About thousand refugees shelter where town once housed roughly hundred | Severe sanitation and living-conditions crisis |
+| C-8124 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon condemns brothers' jokes about wildling smell | Recognizes conditions, not inherent identity |
+| C-8125 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Women outnumber men roughly three to one in gathered group | Gender imbalance matters to labor and safety |
+| C-8126 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Most infant refugees did not survive journey or stockade | High mortality inferred by Jon's observation |
+| C-8127 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Three hundred combat-age men were official count but many mutilated | Nominal manpower overstates usable strength |
+| C-8128 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Thenns remain distinct in bronze armor and refuse to line up | Group identity under Sigorn |
+| C-8129 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Halleck brother of Harma Dogshead is visible among crowd | Possible social influence |
+| C-8130 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Hornfoot men remain barefoot even in snow | Cultural or physical difference, not explanation of disease |
+| C-8131 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon recalls Val's claim freefolk no more all good or bad than kneelers | Anti-stereotype counsel |
+| C-8132 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Supply wagon offers salted meat cod flour roots apples and onions | Details of present aid |
+| C-8133 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Hairy Hal requires each recipient to choose apple or onion | Scarcity creates harsh ration bureaucracy |
+| C-8134 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Mother wants separate apple for sick boy but is denied | Individual hardship vs equitable distribution |
+| C-8135 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | She is shoved, dropping food into mud and snow | Queue disorder destroys scarce supplies |
+| C-8136 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Other lines threaten violence and bowmen prepare arrows | Potential lethal escalation |
+| C-8137 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Rory blows horn and temporarily quiets riot | Nonlethal command tool successful |
+| C-8138 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Mormont raven echoes hunger and Jon's authority from shoulder | Another coincidence of speech with crisis |
+| C-8139 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon explains Wall now protects free folk from wights | Strategic common enemy message |
+| C-8140 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Halleck accuses crows of rationing while eating sufficiently | Material trust problem |
+| C-8141 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon offers better provisions to people willing to serve defense | Food conditional on labor; potential coercion |
+| C-8142 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Sigorn says he would rather kill Jon than serve him | Open Thenn hostility |
+| C-8143 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Some free folk suspect Watch vow service is slavery | Cultural history of enmity |
+| C-8144 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon explains service does not require vows or lifetime oath | Legal arrangement separate from formal Watch membership |
+| C-8145 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon will accept boys over twelve with fighting skills | Military role includes minors |
+| C-8146 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Girl challenges stricter age sixteen for female recruits | Points out gender double standard |
+| C-8147 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon revises criterion to accept knowledgeable girls aged twelve too | On-page correction prompted by applicant |
+| C-8148 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon offers civilian tasks to elders wounded and disabled | Wider value than frontline strength |
+| C-8149 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | He allows any religion unlike Stannis's conversion ceremony | Religious autonomy helps recruiting |
+| C-8150 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon promises commanders and punishment by beheading for disobedience | Watch-style hierarchy despite no vows |
+| C-8151 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Young unnamed spearwife daughter first to volunteer | Individual choice under hunger and danger |
+| C-8152 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | One-eyed veteran, wounded man, spearwives and children follow | Social diversity, not just fighters |
+| C-8153 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Halleck then volunteers, unlocking followers of his reputation | Freefolk allegiance operates through chosen leaders |
+| C-8154 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | About twenty spearwives among eventual group | Women's military participation concretely counted |
+| C-8155 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | None of the Thenns join, Sigorn returns belowground | Recruitment does not dissolve factional opposition |
+| C-8156 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Convoy returns sixty-three stronger than arrival | Confirmed net recruited humans, not all fighters |
+| C-8157 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon plans to arm train and send them to Eastwatch Shadow Tower Icemark Greyguard | Actual proposed distribution, not yet verified deployments |
+| C-8158 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon proposes reopening three more Wall forts | Further future staffing and supply burden |
+| C-8159 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Marsh explicitly fears rapes and fights between women and Watch brothers | Real safety risks, Jon's assurance women have knives incomplete |
+| C-8160 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Marsh notes more mouths and uncertain loyalty to Tormund or Weeper | Unresolved risk against competing wildling command |
+| C-8161 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon calculates nominal sixty-two gain after possible one Watch loss | Simplistic arithmetic omits food, trust, and ability costs |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -8104,4 +8281,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and ninety first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and ninety-three first-pass chapters listed in the coverage tracker.
