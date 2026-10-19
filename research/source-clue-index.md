@@ -9220,7 +9220,7 @@
 | C-9101 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Ghost scents something in woods and leaves patrol | Animal autonomy and possible surveillance |
 | C-9102 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon assigns Tom Barleycorn as forward scout | Local terrain knowledge |
 | C-9103 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon discusses reopening empty forts with Iron Emmett | Administrative plan still underway |
-| C-9104 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon expects Green Lake? No, Deep Lake and Sable Hall still unfit for people | Logistical constraint on decentralizing new wildlings |
+| C-9104 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon notes Deep Lake and Sable Hall remain unfit for habitation | Logistical constraint on decentralizing new wildlings |
 | C-9105 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | He considers Sigorn mistrustful and refuses premature command | Thenn faction remains separate |
 | C-9106 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Iron Emmett advises give Thenns an assignment to avoid trouble | Political counsel |
 | C-9107 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Halleck's follower cut off builder's ear in yard | Actual violence validating Marsh warnings |

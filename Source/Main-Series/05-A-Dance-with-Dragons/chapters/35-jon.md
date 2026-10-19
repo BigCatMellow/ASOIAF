@@ -22,7 +22,7 @@
 12. **Ghost scents something in woods and leaves patrol** — Animal autonomy and possible surveillance
 13. **Jon assigns Tom Barleycorn as forward scout** — Local terrain knowledge
 14. **Jon discusses reopening empty forts with Iron Emmett** — Administrative plan still underway
-15. **Jon expects Green Lake? No, Deep Lake and Sable Hall still unfit for people** — Logistical constraint on decentralizing new wildlings
+15. **Jon notes Deep Lake and Sable Hall remain unfit for habitation** — Logistical constraint on decentralizing new wildlings
 16. **He considers Sigorn mistrustful and refuses premature command** — Thenn faction remains separate
 17. **Iron Emmett advises give Thenns an assignment to avoid trouble** — Political counsel
 18. **Halleck's follower cut off builder's ear in yard** — Actual violence validating Marsh warnings
