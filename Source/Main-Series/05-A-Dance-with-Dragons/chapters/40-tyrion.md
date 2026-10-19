@@ -1,4 +1,4 @@
-# ADWD 40 — Tyrion: undefined
+# ADWD 40 — Tyrion: Penny's joust, destructive storm and Moqorro's disappearance
 
 - Role: `RESEARCH / SEQUENTIAL CLOSE READING`; state `FIRST PASS COMPLETE — INDEPENDENT CHALLENGE OPEN`.
 - Primary source: original supplied five-book EPUB, checked against [ADWD 40 text](../text/041-tyrion.md), 2026-10-19.

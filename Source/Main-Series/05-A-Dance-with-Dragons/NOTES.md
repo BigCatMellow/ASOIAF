@@ -226,3 +226,14 @@ Provisional and important boundaries: Arnolf's trap is Roose's testimony, not wi
 - [40 Tyrion](chapters/40-tyrion.md): **undefined.** 44 chronological observations (C-9354–C-9397), causal analysis, rival readings and follow-up tests.
 
 Doran's elephant fleet is not treated as proof Daenerys has arrived; Gregor's delivered skull is not independent death certification; Theon's wedding testimony is coerced; Moqorro is missing at sea rather than confirmed dead.
+
+
+## Sequential close-reading first pass — 2026-10-19 (ADWD 41–45)
+
+- [41 The Turncloak](chapters/41-the-turncloak.md): **Theon's isolation, Winterfell's crypt swords and Lady Dustin's divided loyalties.** 62 chronological observations, C-9398–C-9459, agency analysis, source distinctions, rival readings and tests.
+- [42 The King's Prize](chapters/42-the-king-s-prize.md): **Stannis's army becomes snowbound between two lakes after a punishing march.** 74 chronological observations, C-9460–C-9533, agency analysis, source distinctions, rival readings and tests.
+- [43 Daenerys](chapters/43-daenerys.md): **Quentyn reveals Doran's Braavosi marriage pact as Daenerys weds Hizdahr.** 65 chronological observations, C-9534–C-9598, agency analysis, source distinctions, rival readings and tests.
+- [44 Jon](chapters/44-jon.md): **Tycho funds the Watch and Alys Karstark exposes Arnolf's impending betrayal.** 70 chronological observations, C-9599–C-9668, agency analysis, source distinctions, rival readings and tests.
+- [45 The Blind Girl](chapters/45-the-blind-girl.md): **Arya skinchanges a cat, uncovers Hardhome trafficking and regains sight.** 69 chronological observations, C-9669–C-9737, agency analysis, source distinctions, rival readings and tests.
+
+Important reconciliations: the missing crypt swords have a witnessed mundane explanation in ACOK 69; the lake campsite is not itself proof of the Night Lamp hypothesis; the historical Braavosi marriage pact does not bind Daenerys to Quentyn; Tycho's Watch credit is distinct from prospective bank backing of Stannis; Arya's Lysene slave intelligence is not yet known to Jon.

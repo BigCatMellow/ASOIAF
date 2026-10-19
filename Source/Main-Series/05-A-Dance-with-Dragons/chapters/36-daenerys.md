@@ -1,4 +1,4 @@
-# ADWD 36 — Daenerys: undefined
+# ADWD 36 — Daenerys: Plague among Astapori, Meereen's compromise and Brown Ben's defection
 
 - Role: `RESEARCH / SEQUENTIAL CLOSE READING`; state `FIRST PASS COMPLETE — INDEPENDENT CHALLENGE OPEN`.
 - Primary source: original supplied five-book EPUB, checked against [ADWD 36 text](../text/037-daenerys.md), 2026-10-19.

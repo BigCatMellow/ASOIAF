@@ -1,4 +1,4 @@
-# ADWD 39 — Jon: undefined
+# ADWD 39 — Jon: Val's Tormund mission, Wun Wun and Hardhome's possible dead
 
 - Role: `RESEARCH / SEQUENTIAL CLOSE READING`; state `FIRST PASS COMPLETE — INDEPENDENT CHALLENGE OPEN`.
 - Primary source: original supplied five-book EPUB, checked against [ADWD 39 text](../text/040-jon.md), 2026-10-19.

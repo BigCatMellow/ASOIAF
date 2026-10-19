@@ -9516,6 +9516,347 @@
 | C-9396 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | A large galley arrives with oars | Hope of relief |
 | C-9397 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Jorah identifies it as slaver vessel and draws sword | New threat unresolved |
 
+| C-9398 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | First snow becomes an obscuring blizzard | Weather and timing |
+| C-9399 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Roose publicly calls storm a punishment from northern gods | Political interpretation, not magical verification |
+| C-9400 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Winterfell has shelter, fires and half a year of fuel | Relative logistical advantage |
+| C-9401 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Frey men do not cheer Roose's speech | Different faction incentives |
+| C-9402 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Three Freys remain missing from journey south of White Harbor | Existing unresolved northern murders |
+| C-9403 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Wyman eats breakfast without enthusiasm | Ambiguous behavior after wedding pies |
+| C-9404 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Theon receives plain porridge, not knightly additions | Temporary status at wedding has ended |
+| C-9405 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Bolton guards bar every gate without lordly leave | Escape difficult even without torture memories |
+| C-9406 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Theon fears any escape offer could repeat Kyra trap | Psychological captivity |
+| C-9407 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | He considers ruined Winterfell his remaining home | Lost belonging |
+| C-9408 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Abel adapts a song about a northern daughter | Provocative coded performance possible |
+| C-9409 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Ramsay's laugh licenses courtiers' laughter | Fear-backed hierarchy |
+| C-9410 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Jeyne is hidden in chambers since wedding | Marriage functions as imprisonment |
+| C-9411 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Ramsay orders Theon to arrange her frequent baths | Continuing coerced service |
+| C-9412 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Maids witnessing baths can see Jeyne's bruises | Abuse has multiple potential witnesses |
+| C-9413 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Theon denies her suffering is Ramsay's fault | Internalized justification under torture |
+| C-9414 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | He violently insists Jeyne call him Reek | Damaged identity |
+| C-9415 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | He expects Ramsay to resume torturing him | Future fear, not certain schedule |
+| C-9416 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Ramsay's dogs bear names of murdered victims | Specific pattern of cruelty |
+| C-9417 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Theon eats alone, physically distanced from soldiers | Outcast status |
+| C-9418 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Rowan approaches and uses Theon's original name | Her probe targets suppressed identity |
+| C-9419 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Rowan asks how he captured Winterfell | Tactical intelligence interest |
+| C-9420 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | She asks whether a secret entrance was involved | Potential infiltration aim |
+| C-9421 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Theon internally remembers ropes and grapnels | Earlier conquest method |
+| C-9422 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Rowan names herself and claims Abel's trust | Possible ally, but motive unproven |
+| C-9423 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Theon rejects her as probable Bolton bait | Past punishment blocks help |
+| C-9424 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Squires build armed snowmen on battlements | Mock defense amid siege preparation |
+| C-9425 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Ramsay earlier destroyed stables; improvised housing now holds horses | Earlier destruction harms his father's war effort |
+| C-9426 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Theon revisits Luwin's turret, old bedroom, forge and sept | Traumatic physical memory |
+| C-9427 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Ravens linger in ruined turret | Possible but unproved supernatural watcher |
+| C-9428 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Winterfell has high older inner wall and lower thick outer wall | Specific defense geometry |
+| C-9429 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Moat has frozen over, yet walls remain hard to storm | Frozen water not automatic victory |
+| C-9430 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Bolton army's stores came from Dustin, Manderly and south | Finite supply coalition |
+| C-9431 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Theon believes both Stannis and defenders might starve | Conditional strategic appraisal |
+| C-9432 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Godswood remains thawed and misty around heart tree | Hot-spring microclimate |
+| C-9433 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | He begs for mercy or strength before the weirwood | Religious and identity turning point |
+| C-9434 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | He hears sobs whose source he cannot identify | No proof of Bran's direct speech |
+| C-9435 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Scouts say Stannis's large horses founder while clan garrons persist | Partial corroboration from outside the castle |
+| C-9436 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Dustin commands access to ancient Stark crypts | Targeted dynastic interest |
+| C-9437 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Entrance near burned First Keep is concealed by snow and rubble | Physical access obstacle |
+| C-9438 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Theon remembers Bran's fall and that Bran may live | Secret threat to Bolton succession claim |
+| C-9439 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Crypt air is less cold than snow above | Underground temperature difference |
+| C-9440 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Dustin says Jeyne's weeping undermines northern support | Bolton legitimacy is conditional |
+| C-9441 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | She says Whoresbane Umber is kept loyal by Greatjon hostage | Apparent obedience may be coerced |
+| C-9442 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | She invokes Ramsay's prior wife's death | Ramsay's reputation makes bride's sobs explosive |
+| C-9443 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Theon can name several northern kings from Luwin's teaching | Historical memory |
+| C-9444 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Theon recalls Bloodraven-era Stark conflict with Dagon Greyjoy | Historical anchor, not prophecy |
+| C-9445 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | An unidentified crypt statue lacks iron sword | Theon sees evidence, not who removed sword |
+| C-9446 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Rickard Stark's sword is also gone | ACOK 69 identifies Meera as bearer |
+| C-9447 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Brandon Stark's sword is missing | ACOK 69 identifies Bran as bearer |
+| C-9448 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Theon fears sword loss may free ghosts | Character superstition |
+| C-9449 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Dustin says his feeling for Starks resembles her hatred | Contrasting emotional attachments |
+| C-9450 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Theon admits he wanted to become a Stark | Direct suppressed confession |
+| C-9451 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Dustin describes youthful affair with Brandon Stark | Interested personal memory |
+| C-9452 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | She says Brandon did not want Catelyn marriage | Uncorroborated remembered assurance |
+| C-9453 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Dustin says Rickard chose southern marriage to improve alliances | Her account of father's motives |
+| C-9454 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Dustin remembers husband William going to Robert's Rebellion | Cause of grievance |
+| C-9455 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | She says Ned returned William's horse while leaving his body in Dorne | Asymmetric treatment of remains |
+| C-9456 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Dustin resents Lyanna's bones being brought home | Explicit comparison |
+| C-9457 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | She says Catelyn dispatched Ned's remains north before Red Wedding | Reported chain of custody |
+| C-9458 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | She says she will feed Ned's bones to dogs at Barrowton | Threat, not accomplished action |
+| C-9459 | [ADWD 41](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/41-the-turncloak.md) | Dustin warns Theon to keep her words secret | He remains controlled by threat |
+| C-9460 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Army departs Deepwood in disciplined order | Initial military cohesion |
+| C-9461 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Northern clansmen lead with local garrons and camouflage | Terrain expertise |
+| C-9462 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | A mile-long supply convoy follows fighting men | Baggage determines march speed |
+| C-9463 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Asha is confined in wagon with iron fetters | Precise hostage status |
+| C-9464 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Alysane Mormont guards Asha night and day | Northern opponent in close contact |
+| C-9465 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Asha's ankle is still painfully damaged from ambush | Physical escape handicap |
+| C-9466 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Stannis means to parade Greyjoy captive at Winterfell | Political messaging |
+| C-9467 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | One hundred leagues to Winterfell is given as intended distance | March scale |
+| C-9468 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Southron knights optimistically estimate fifteen days | Baseline later falsified |
+| C-9469 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Asha recounts surrender and asking safety for men | Choice to save followers |
+| C-9470 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Stannis spared nine survivors of Asha's contingent | Specific mercy, limited scope |
+| C-9471 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Qarl and Tris remain at Deepwood with other captives | Asha separated from allies |
+| C-9472 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Asha assumes Euron would not ransom her | Political inference, not verified intent |
+| C-9473 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Justin Massey opposed northward march from the start | Strategic dissent in king's camp |
+| C-9474 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Northern chiefs demand Winterfell and Ned's daughter | Different war aim from southrons |
+| C-9475 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Massey observes storming two walls and moat is hard | Practical siege concern |
+| C-9476 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Army lacks adequate provisions for prolonged siege | Military constraint |
+| C-9477 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Supporters expect forces from Arnolf and Mors Umber | Information asymmetry |
+| C-9478 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Big Bucket Wull says Deepwood cannot sustain overwintering host | Retreat or stay also difficult |
+| C-9479 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Stannis rejects comparison with Robert and commits to march | Direct decision |
+| C-9480 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Justin hopes Bolton supporters will defect after first defeat | Forecast not established |
+| C-9481 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Justin brings food to Asha repeatedly | Possible courtship and influence effort |
+| C-9482 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Alysane interprets Justin's attention as desire | Character inference |
+| C-9483 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Asha suspects suitor wants Pyke through her | Dynastic instrumentalization |
+| C-9484 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Alysane is Bear Island heiress with two children | Matriarchal martial household details |
+| C-9485 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Alysane jokes that a bear fathered her children | Skinchanger lore, not confirmed fact |
+| C-9486 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Bear Island women fear ironborn attacks from childhood | Longstanding interregional hostility |
+| C-9487 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Asha remembers her failed attempt to rescue Theon from Winterfell | Earlier personal knowledge of route |
+| C-9488 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Advance covers 22 and 24 miles on first two days | Actual early pace |
+| C-9489 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Third day reaches only fourteen miles as wagon paths narrow | Terrain delays |
+| C-9490 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Religious queen's men pray near central fire | Factional R'hllor adherence |
+| C-9491 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Massey says Melisandre stayed at Castle Black | No active priestess with Stannis |
+| C-9492 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Godry Farring leads militant worship | Risk of faith-based coercion |
+| C-9493 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Asha offers Stannis Torrhen's Square through Dagmer | Speculative bargaining asset |
+| C-9494 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Stannis considers only Winterfell strategically essential | Refusal of trade |
+| C-9495 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Asha offers her intelligence and service | Potential former enemy ally |
+| C-9496 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Stannis refuses to make Asha his man because she is a woman | Explicit gender prejudice |
+| C-9497 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Massey tells Asha mention of Robert alienates Stannis | Royal familial resentment |
+| C-9498 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | King's meal exceeds soldiers' rations | Rank privilege under dwindling food |
+| C-9499 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Snow begins on fourth day of march | Weather timeline |
+| C-9500 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Snow continues for many days, slowing progress | Attrition cumulative |
+| C-9501 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Northern garrons outperform southern destriers | Breed and climate matter |
+| C-9502 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Clans use wooden snowshoes called bear-paws | Local winter technology |
+| C-9503 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Heavy horses resist adaptations and one breaks an ankle | Technology not transferrable |
+| C-9504 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Vanguard separates from wagons, splitting army | Cohesion collapses |
+| C-9505 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Frozen hidden pond traps horses and rescuers | Natural hazard without enemy action |
+| C-9506 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Harwood Fell is rescued from water but later dies | Post-immersion fatality |
+| C-9507 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Queen's men suggest burning an unbeliever to end storm | Sacrifice proposed, not yet ordered |
+| C-9508 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Stannis remains quiet while officers speak | Leadership under pressure |
+| C-9509 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Wet firewood causes camp fires and ritual nightfire to weaken | Practical fuel crisis |
+| C-9510 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Big Bucket calls this only first taste of winter | Experienced northern perspective |
+| C-9511 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Two squires murder fellow soldier over warmth | Discipline deteriorates |
+| C-9512 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | A tent burns through accident | Cold itself induces danger |
+| C-9513 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Fallen horses are butchered for food | Mobility converted to rations |
+| C-9514 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Stannis refuses to halt for weather | Determination with mounting cost |
+| C-9515 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Massey reports Stannis explicitly refuses human burnings | Actual position at this moment |
+| C-9516 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Asha prays to Drowned God despite weak prior piety | Fear changes her behavior |
+| C-9517 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | March speed falls to five then three then two miles | Material collapse |
+| C-9518 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Commanders conduct daily cold counts of men and horses | Systematic attrition recording |
+| C-9519 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Northern clans lose far fewer than southrons | Uneven exposure and expertise |
+| C-9520 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Fifteenth day ends before army reaches midpoint | Plan has failed |
+| C-9521 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Asha loses her wagon on day twenty and must walk | Mobility pain compounded |
+| C-9522 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Vegetables run out on day twenty-six | Specific shortage marker |
+| C-9523 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Grain and fodder run out on day thirty-two | Specific shortage marker |
+| C-9524 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Scout Branch estimates three days still remain | Potentially optimistic location report |
+| C-9525 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Peasebury accuses Wull of misleading king for Bolton | Open faction fracture |
+| C-9526 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Wull says he would rather fight for Ned's daughter than freeze | Northern motive is personal loyalty |
+| C-9527 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Morgan Liddle supports Wull | Mountain clan solidarity |
+| C-9528 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Scouts find empty crofter settlement between two frozen lakes | Potential future battle terrain |
+| C-9529 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Huts, longhall and watchtower offer limited shelter | Campsite infrastructure |
+| C-9530 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Horpe halts army early rather than continue | Orders yielded to reality |
+| C-9531 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Northmen plan to cut holes in lakes to fish | Food-seeking tactic, not proven trap |
+| C-9532 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Stannis commands march the following morning | Intention versus possibility |
+| C-9533 | [ADWD 42](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/42-the-king-s-prize.md) | Morning comes without horns or movement | Snowbound endpoint |
+| C-9534 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany stays awake beside Daario as wedding draws near | Private dread beneath public obligation |
+| C-9535 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | She suspects Daario loves her crown more than her private self | Her psychological inference |
+| C-9536 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Daario proposes marriage despite Ghiscari settlement | Personal alternative |
+| C-9537 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany says physical intimacy must end at wedding | Declared boundary |
+| C-9538 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Daario had dropped an enemy lord's head before Dany | Reckless public violence |
+| C-9539 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Barristan intervened when Daario publicly kissed queen | Court tension |
+| C-9540 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Daario presses Dany to hold court for freed people | Surprising civic argument |
+| C-9541 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | He reports Westerosi deserters now serving Stormcrows | Link to Quentyn's staged defection |
+| C-9542 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dornish recruit called Frog insists on personal gift | Secret entry to court |
+| C-9543 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Missandei heard Dany screaming in the night | Emotional spillover |
+| C-9544 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Outside armies land ships and build siege engines | Slow blockade and bombardment likely |
+| C-9545 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany fears hunger and disease more than direct assault | Strategic appraisal |
+| C-9546 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | She dreams Hizdahr has blue lips and cold body | Ambiguous nightmare, not magical proof |
+| C-9547 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | She thinks Meereen can never truly be her home | Alienation |
+| C-9548 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany finally resumes public hearings | Restores accessibility |
+| C-9549 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Green Grace publicly challenges Daario's improprieties | Political rebuke |
+| C-9550 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany deflects complaint by speaking of Brown Ben | Defensive tactic |
+| C-9551 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Court petitioners crowd for much of day | Accumulated governance backlog |
+| C-9552 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany notices new Westerosi fighters including Pretty Meris | Former Windblown reach city |
+| C-9553 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Three disguised Dornish are named Greenguts Gerrold Frog | Operational cover |
+| C-9554 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Gerrold reports six originally left Dorne, only three survive | Mission attrition |
+| C-9555 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Barristan challenges their claims of knighthood | Verification under contested titles |
+| C-9556 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Three seek privacy for real identities | Protection of diplomatic secret |
+| C-9557 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Skahaz empties court except counselors | Confidential audience |
+| C-9558 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Gerrold reveals name Gerris Drinkwater | Identity confirmed by self-presentation |
+| C-9559 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Greenguts is Archibald Yronwood | Second cover dissolved |
+| C-9560 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Frog extracts sealed parchment hidden in boot | Protected documentary evidence |
+| C-9561 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Daario seizes pact but cannot read Common Tongue script | Threat and ignorance |
+| C-9562 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Barristan orders parchment given to Dany | Guard asserts authority |
+| C-9563 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany recognizes Ser Willem Darry's signature | Link to exile childhood |
+| C-9564 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Document says Darry agreed in Braavos for Targaryens | Recorded commitment |
+| C-9565 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Oberyn signed for Dorne before Sealord of Braavos | Political guarantors named |
+| C-9566 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | The agreement proposed Viserys wedding Arianne | Original parties identified |
+| C-9567 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany infers secrecy spared Dorne Robert's retaliation | Plausible but inferred strategy |
+| C-9568 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Frog reveals himself Quentyn Martell, Doran's son | Diplomatic identity |
+| C-9569 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Quentyn suggests himself and Dany as new marriage partners | Offer substitutes for deceased Viserys |
+| C-9570 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | He claims Dorne has fifty thousand spears | Claimed numbers, unverified |
+| C-9571 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Daario insults Quentyn as unfit husband | Rival influence |
+| C-9572 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany demands courteous treatment of envoy | Protects diplomatic channel |
+| C-9573 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany insists wedding Hizdahr is imminent | No immediate acceptance of pact |
+| C-9574 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Barristan says alliance could change everything | Adviser inference |
+| C-9575 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany says nothing changes now | Continued Meereen commitment |
+| C-9576 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | She associates pact's Braavos origin with red door memories | Potential memory puzzle |
+| C-9577 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Quaithe's sun's son warning comes to mind | Possible Quentyn referent |
+| C-9578 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | She recalls danger from perfumed seneschal | Separate unidentified symbol |
+| C-9579 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany wonders dream could be warlock sending | Her anxiety, no confirmation |
+| C-9580 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Daario insists on sortie wedding morning | Refusal of queen's restraint |
+| C-9581 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Missandei says Dany can cancel wedding | Choice still available socially |
+| C-9582 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany says marriage will bind freedmen and city elites | Explicit peace theory |
+| C-9583 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Ghiscari tokar hinders riding horseback | Ceremonial restrictions |
+| C-9584 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany prefers sedan chair to borne enclosed palanquin | Small autonomy within ritual |
+| C-9585 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany's pyramid contains three elephants | Local asset, not Aegon's fleet |
+| C-9586 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Quentyn privately pleads one last time | Offer still open before ceremony |
+| C-9587 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany promises future friendship with Dorne | Political channel survives refusal |
+| C-9588 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Barristan recalls Rhaella's youthful love for an unnamed stormlands knight | Court history |
+| C-9589 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | He says knight became deeply pious after Rhaella marriage | Identity still unstated |
+| C-9590 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Barristan recounts Aerys's humiliating sexual remark about Joanna | Evidence of Tywin-Aerys hostility |
+| C-9591 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Barristan recounts Aerys's liberties during bedding | Reported misconduct, no proven paternity |
+| C-9592 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany fantasizes Daario intervening at wedding | Not an actual plan |
+| C-9593 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | She notes Graces missing from procession | Possible epidemic losses, cause uncertain |
+| C-9594 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Bloody flux has spread to freedmen, beasts and Dothraki | Refugee exclusion did not contain disease |
+| C-9595 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Dany knows of no sick Unsullied yet | No proven permanent immunity |
+| C-9596 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Hizdahr publicly washes Dany's feet | Observed Ghiscari ritual |
+| C-9597 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Priests officiate among old Ghiscari gods | Local legitimacy |
+| C-9598 | [ADWD 43](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/43-daenerys.md) | Ceremony lasts four hours and ends in gold-chain union | Marriage completed |
+| C-9599 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Queen Selyse arrives from Eastwatch with daughter Shireen | Royal presence adds Watch burden |
+| C-9600 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Melisandre foretold arrival shortly before Eastwatch raven | Specific limited foreknowledge |
+| C-9601 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon meets queen with Satin Bowen and guards | Watch protocol |
+| C-9602 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Selyse is surprised young Jon is lord commander | Age-related condescension |
+| C-9603 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Shireen has visible greyscale scars | Healed marks not active infection shown |
+| C-9604 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Axell Florent travels with royal retinue | Faithful court faction |
+| C-9605 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Patchface wears horned bells | Distinct ominous fool |
+| C-9606 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Tycho Nestoris arrives as Iron Bank emissary | External creditor intervention |
+| C-9607 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Tycho came on three Braavosi vessels | Transport capacity |
+| C-9608 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Selyse demands lodging in unfinished Nightfort | Unrealistic facility expectation |
+| C-9609 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon suggests Eastwatch is safer and warmer | Pragmatic objection |
+| C-9610 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Selyse predicts danger from sea at Eastwatch | Unproven attack warning |
+| C-9611 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | She names Shireen Stannis's rightful heir | Succession claim |
+| C-9612 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Wun Wun kneels and uses some Common Tongue | Cultural learning |
+| C-9613 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Shireen wants to touch him, queen recoils | Contrasting reactions |
+| C-9614 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon names giant guest like Selyse | Equal hospitality principle |
+| C-9615 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Patchface sings of dancing dead | Cryptic statement, no certain fulfillment |
+| C-9616 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Giant laughs at Patchface falling | Nonviolent response |
+| C-9617 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Ser Patrek prepares to attack giant with sword | Misunderstanding threatens bloodshed |
+| C-9618 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon invokes northern guest right and separates them | Direct protection of giant |
+| C-9619 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Leathers leads Wun Wun away | Language mediation |
+| C-9620 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon prohibits wine for giant after previous excess | Practical safety policy |
+| C-9621 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Tycho says his principal mission concerns Stannis | Separate from Watch |
+| C-9622 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Tycho reports Crown ceased Robert-era debt repayments | Bank position |
+| C-9623 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Bank considers current throne holder responsible for debts | Institutional enforcement |
+| C-9624 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Tycho proposes approaching Stannis about possible support | Contingent political lending |
+| C-9625 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon offers supplies and guidance to reach Stannis | Potentially hazardous aid |
+| C-9626 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon requests Tycho's three ships for one voyage | Hardhome logistics |
+| C-9627 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon requests winter food loan | Institutional survival |
+| C-9628 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Tycho initially declares terms impossible | Negotiating stance |
+| C-9629 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Both negotiate for hours and sign written agreement | Binding Watch undertaking |
+| C-9630 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | The ships increase Eastwatch fleet to eleven | Concrete capacity |
+| C-9631 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Fleet includes commandeered Ibbenese and Pentoshi hulls | Mixed ship inventory |
+| C-9632 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Three former Salladhor Saan ships have been repaired | Weather-damaged resources |
+| C-9633 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon plans Hardhome rescue women and children first | Ethical priority |
+| C-9634 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | He fears free folk may not board Watch ships | Trust barrier |
+| C-9635 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Tycho reports freezing canals in Braavos | Far-reaching weather |
+| C-9636 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon asks about Sam Aemon Gilly's voyage | Limited information about friends |
+| C-9637 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Tycho knows no firsthand news of them | Unknown fate from banker perspective |
+| C-9638 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Tycho reports unknown ships near Stepstones | Potential cross-theater movement |
+| C-9639 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | He distinguishes Saan and Redwyne from strange sails | Identification incomplete |
+| C-9640 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Tycho says Braavos is descended from Valyrian escaped slaves | Historical aversion to dragons |
+| C-9641 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Axell asks where captive wildling princess Val is | Marriage interest |
+| C-9642 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon denies Val is a princess by free folk law | Competing political categories |
+| C-9643 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Axell demands to inspect her and threatens queen's authority | Coercive conduct |
+| C-9644 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon refuses access to Val | Protective stand |
+| C-9645 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon fears Val's secret departure is already known | Risk of conflict |
+| C-9646 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon rereads signed loan and worries about repayment | Debts outlast winter |
+| C-9647 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | He recalls bank's history of replacing defaulting princes | Potential geopolitical leverage |
+| C-9648 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | He speculates Stannis may obtain a war chest | Not yet a completed bank-Stannis deal |
+| C-9649 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon decides to order eleven ships to Hardhome | Future action |
+| C-9650 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon falls asleep exhausted | Leadership strain |
+| C-9651 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Mully says girl discovered on dying horse south of Mole's Town | Prophecy-like report |
+| C-9652 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon assumes girl must be Arya | Motivated misinterpretation |
+| C-9653 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | He considers concealing her from Stannis and Melisandre | Protective familial instinct |
+| C-9654 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | He plans possible Braavosi refuge for imagined Arya | Hypothetical relocation |
+| C-9655 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Girl is nearly sixteen and initially resembles Arya | Physical mismatch corrects assumption |
+| C-9656 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | She recognizes Jon and calls him kin | Shared Stark/Karstark connection |
+| C-9657 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Jon identifies girl as Alys Karstark | Actual identity |
+| C-9658 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Alys recalls early proposed marriage to Robb | Past alliance attempt |
+| C-9659 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Alys says Harrion is rightful current lord | Brother's succession priority |
+| C-9660 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | He was last reported captive at Maidenpool | Status unknown |
+| C-9661 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Alys says she inherits before Arnolf if Harrion dies | Inheritance rule as she understands |
+| C-9662 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Alys says she was pledged to Daryn Hornwood before death | Earlier lost alliance |
+| C-9663 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Alys fears forced marriage to Cregan, Arnolf's son | Dynastic coercion |
+| C-9664 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | She notes Cregan has buried two wives | Danger signal, no proof he killed them |
+| C-9665 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | She says Arnolf hopes Lannisters execute Harrion | Motive to seize Karhold |
+| C-9666 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Alys reports Arnolf pledged secretly to Roose | Corroboration of Bolton intelligence |
+| C-9667 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | She warns Arnolf plans to turn on Stannis from inside army | High-value actionable warning |
+| C-9668 | [ADWD 44](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/44-jon.md) | Alys begs Jon for shelter in Ned's name | Neutrality and conscience conflict |
+| C-9669 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Arya dreams through Nymeria hunting across snowy Riverlands | Strong distant wolf link |
+| C-9670 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Wolf pack kills dogs sheep and a human shepherd | Victim unnamed in POV dream |
+| C-9671 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Awake Arya remains blind | Wolf dream vision not human sight |
+| C-9672 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | She maintains private list of enemies | Past Stark revenge identity persists |
+| C-9673 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | She corrects herself that list belongs to night wolf | Conscious identity division |
+| C-9674 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Distinctive mismatched socks help dressing by touch | Practical adaptive method |
+| C-9675 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Smell guides her through temple to breakfast | Sensory training |
+| C-9676 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | She recognizes kindly man's orange-rind scent | Identifiable nonvisual signature |
+| C-9677 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Priest offers to restore eyes every morning | Order controls blindness |
+| C-9678 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Arya refuses so she may remain in training | Acceptance with institutional pressure |
+| C-9679 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | She uses Blind Beth as street name | Old Winterfell memory echoes |
+| C-9680 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Priest demands three new facts each morning | Rigorous evidence training |
+| C-9681 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Sealord is still sick, which is not a new observation | Difference between old and new facts |
+| C-9682 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Tormo Fregar as next Sealord is only tavern rumor | Do not call election won |
+| C-9683 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Priest notes other taverns favor other candidates | Competing sources |
+| C-9684 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Arya hides that she knows Riverlands weather from dreams | Unreported magical knowledge |
+| C-9685 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | She reports a pregnant prostitute's uncertain paternity | Attributed local intelligence |
+| C-9686 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | She reports appointment of new poor young courtesan | Braavosi social facts |
+| C-9687 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Priest challenges her claiming girl's looks without eyes | Limits of evidence |
+| C-9688 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Waif brings bitter milk each evening | Unexplained treatment |
+| C-9689 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Waif says darkness training lasts until usable | Stated learning criterion |
+| C-9690 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Arya learns step counts and tactile wall markings | Nonvisual navigation |
+| C-9691 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Poisons and potions are taught in afternoons | Occupational training |
+| C-9692 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Arya suffers burns and illness from chemicals | Physical toll |
+| C-9693 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | High Valyrian Lyseni Pentoshi languages are taught | Cross-city infiltration capacity |
+| C-9694 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Lying-game training uses tone and face-muscle touch | Lie detection |
+| C-9695 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Syrio's balance lessons prevent serious stair fall | Earlier teacher's lasting influence |
+| C-9696 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | She identifies people through gait smell and air currents | Adapted perception |
+| C-9697 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Priests can still approach silently without her hearing | Skill gap |
+| C-9698 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Arya finds two corpses in temple this morning | Observed mortality |
+| C-9699 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | One young man lies dead without visible injury | Cause unknown |
+| C-9700 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Old woman smiles on dreaming couch | Voluntary death scene |
+| C-9701 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Special candles are said to produce dreamlike memories | Priestly account, effect unknown |
+| C-9702 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Arya inventories bodies, garments and foreign coins | Routine forensic work |
+| C-9703 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | She finds four Westerosi gold dragons on young corpse | Cross-sea material trace |
+| C-9704 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Unknown voice attacks her with training stick | Surprise combat exercise |
+| C-9705 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | She parries sometimes but takes multiple blows | Early blind-combat limits |
+| C-9706 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | She misses the Cat of the Canals identity and friends | Training does not erase affection |
+| C-9707 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Blindness was assigned after killing Dareon | Punishment and curriculum linked |
+| C-9708 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Priest says normally she would be blinded much later | Accelerated training |
+| C-9709 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Priest forbids judging whether victim deserves death | Core doctrine |
+| C-9710 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | He recounts first Faceless Man's slave bargain and murder | Order-origin tale, not verified history |
+| C-9711 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Arya says she understands while privately disagreeing | Internal moral independence |
+| C-9712 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Waif disguises Beth with mole scars and shaved head | Practical street disguise |
+| C-9713 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Arya conceals three knives under rags | Self-protection beyond formal training |
+| C-9714 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | She remembers Ned and Jon's approval of her looks | Family memory persists |
+| C-9715 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Braavosi harbor talk sometimes mentions Jon as Watch bastard | News reaches Arya |
+| C-9716 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | She avoids acquaintances of former identity | Counter-surveillance |
+| C-9717 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Starry Wisdom acolytes worship near route | Religious detail, not proven conspiracy |
+| C-9718 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Nearby red priests pray at braziers | Separate cult community |
+| C-9719 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Arya navigates inns by distinctive scents | Sensory mapping |
+| C-9720 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | A friendly cat sits in her lap in Pynto's tavern | Potential surrogate eyesight |
+| C-9721 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Three Lyseni sailors from Goodheart converse | Specific eyewitness source |
+| C-9722 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Goodheart is said seized for bringing slaves to Braavos | Braavosi anti-slavery enforcement |
+| C-9723 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Arya hears private sailors' discussion | Useful spy skill |
+| C-9724 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | She apparently sees sailors through cat's eyes | Strong skinchanging inference |
+| C-9725 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Sailors name companion vessel Elephant | Specific cross-theater ship |
+| C-9726 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Hardhome gathered thousands on promise of rescue | Overlaps Mother Mole reports |
+| C-9727 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Lyseni purported to carry women and children to safety | False rescue bargain |
+| C-9728 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Passengers were reportedly tied up for sale as slaves | Trafficking information |
+| C-9729 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Goodheart entered Braavos damaged after storm | Reported mechanism for interception |
+| C-9730 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Elephant's destination is uncertain | Not confirmed in Lys |
+| C-9731 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Sailors suspect further voyages for profitable captives | Prospective danger, no verified mission |
+| C-9732 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Next morning Arya reports slave-taking evidence to priest | Information transfer |
+| C-9733 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | She surprises kindly man and strikes his fingers | Identifies secret attacker |
+| C-9734 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Arya conceals cat-based source of her knowledge | Agency and secret power |
+| C-9735 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | That night new draught burns her mouth and throat | Treatment change |
+| C-9736 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Bread relieves the burning sensation | Immediate remedy |
+| C-9737 | [ADWD 45](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/45-the-blind-girl.md) | Next morning Arya sees a candle on waking | Sight restored; exact mechanism unknown |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -9523,4 +9864,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the three hundred and twelve first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the three hundred and seventeen first-pass chapters listed in the coverage tracker.

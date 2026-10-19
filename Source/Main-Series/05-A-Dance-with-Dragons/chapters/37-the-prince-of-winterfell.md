@@ -1,4 +1,4 @@
-# ADWD 37 — The Prince of Winterfell: undefined
+# ADWD 37 — The Prince of Winterfell: Jeyne Poole's coerced wedding, Winterfell's politics and Manderly's pies
 
 - Role: `RESEARCH / SEQUENTIAL CLOSE READING`; state `FIRST PASS COMPLETE — INDEPENDENT CHALLENGE OPEN`.
 - Primary source: original supplied five-book EPUB, checked against [ADWD 37 text](../text/038-the-prince-of-winterfell.md), 2026-10-19.

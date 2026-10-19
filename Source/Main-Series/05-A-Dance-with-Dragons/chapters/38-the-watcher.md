@@ -1,4 +1,4 @@
-# ADWD 38 — The Watcher: undefined
+# ADWD 38 — The Watcher: Gregor's skull, Trystane plot and Doran's Sand Snake missions
 
 - Role: `RESEARCH / SEQUENTIAL CLOSE READING`; state `FIRST PASS COMPLETE — INDEPENDENT CHALLENGE OPEN`.
 - Primary source: original supplied five-book EPUB, checked against [ADWD 38 text](../text/039-the-watcher.md), 2026-10-19.
