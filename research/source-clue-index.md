@@ -10419,6 +10419,47 @@
 | C-10293 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Cersei chooses partial truth and Qyburn | See chapter ledger for evidence status and verification question |
 | C-10294 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | External reports require challenge | See chapter ledger for evidence status and verification question |
 
+| C-10295 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Hizdahr displaces Dany's allies | See chapter ledger for evidence status and verification question |
+| C-10296 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Dany's network is fragmented | See chapter ledger for evidence status and verification question |
+| C-10297 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Pit fighters guard Hizdahr | See chapter ledger for evidence status and verification question |
+| C-10298 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Grey Worm refuses transfer | See chapter ledger for evidence status and verification question |
+| C-10299 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Barristan remains military commander | See chapter ledger for evidence status and verification question |
+| C-10300 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Bloody flux affects city and camps | See chapter ledger for evidence status and verification question |
+| C-10301 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Dany death rumors remain unverified | See chapter ledger for evidence status and verification question |
+| C-10302 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Pit panic casualty count reported | See chapter ledger for evidence status and verification question |
+| C-10303 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Drogon flew north, destination unknown | See chapter ledger for evidence status and verification question |
+| C-10304 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Missandei opens Skahaz channel | See chapter ledger for evidence status and verification question |
+| C-10305 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Barristan fears trap | See chapter ledger for evidence status and verification question |
+| C-10306 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Consort duty is unclear | See chapter ledger for evidence status and verification question |
+| C-10307 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Captive dragons receive sheep | See chapter ledger for evidence status and verification question |
+| C-10308 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Skahaz claims Beast loyalty | See chapter ledger for evidence status and verification question |
+| C-10309 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Confectioner claim needs testing | See chapter ledger for evidence status and verification question |
+| C-10310 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Skahaz alleges sham peace and Volantis | See chapter ledger for evidence status and verification question |
+| C-10311 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Re-enslavement is Skahaz theory | See chapter ledger for evidence status and verification question |
+| C-10312 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Freedmen factions need Unsullied | See chapter ledger for evidence status and verification question |
+| C-10313 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Enemy weakness is intelligence report | See chapter ledger for evidence status and verification question |
+| C-10314 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Barristan refuses unauthorized breach | See chapter ledger for evidence status and verification question |
+| C-10315 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Freedmen appeal to Dany's purpose | See chapter ledger for evidence status and verification question |
+| C-10316 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Barristan demands proof | See chapter ledger for evidence status and verification question |
+| C-10317 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Skahaz offers limited pledge | See chapter ledger for evidence status and verification question |
+| C-10318 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Barristan rejects torture | See chapter ledger for evidence status and verification question |
+| C-10319 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Only investigation is authorized | See chapter ledger for evidence status and verification question |
+| C-10320 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Aerys memories inform Barristan | See chapter ledger for evidence status and verification question |
+| C-10321 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Barristan trains future knights | See chapter ledger for evidence status and verification question |
+| C-10322 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Trainees are not Queensguard | See chapter ledger for evidence status and verification question |
+| C-10323 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Barristan reads dragonriding precedent | See chapter ledger for evidence status and verification question |
+| C-10324 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Scorpions reportedly ring city | See chapter ledger for evidence status and verification question |
+| C-10325 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Dothraki search risk is withheld | See chapter ledger for evidence status and verification question |
+| C-10326 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Cat mask enables secrecy | See chapter ledger for evidence status and verification question |
+| C-10327 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Hizdahr conduct has rival readings | See chapter ledger for evidence status and verification question |
+| C-10328 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Disease is not permission to rebel | See chapter ledger for evidence status and verification question |
+| C-10329 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | No formal succession protocol | See chapter ledger for evidence status and verification question |
+| C-10330 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Age causes self-doubt | See chapter ledger for evidence status and verification question |
+| C-10331 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Action has not begun | See chapter ledger for evidence status and verification question |
+| C-10332 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Claims need independent challenge | See chapter ledger for evidence status and verification question |
+| C-10333 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Dany absence changes political claims | See chapter ledger for evidence status and verification question |
+| C-10334 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Barristan chooses preparation | See chapter ledger for evidence status and verification question |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
