@@ -8274,6 +8274,210 @@
 | C-8160 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Marsh notes more mouths and uncertain loyalty to Tormund or Weeper | Unresolved risk against competing wildling command |
 | C-8161 | [ADWD 21](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/21-jon.md) | Jon calculates nominal sixty-two gain after possible one Watch loss | Simplistic arithmetic omits food, trust, and ability costs |
 
+| C-8162 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion dreams Tywin as Shrouded Lord seeking grey kiss | Trauma after drowning not proof magical encounter |
+| C-8163 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Haldon finds Tyrion alive after rescue | ADWD 18 apparent drowning is not death |
+| C-8164 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Griff pulled Tyrion from Rhoyne after stone man's grip | Independent companion report, scene occurred off page |
+| C-8165 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Lemore expelled river water from Tyrion's lungs | Specific life-saving treatment |
+| C-8166 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Lemore rubbed Tyrion with vinegar to try avoiding greyscale | Folk prevention not demonstrated effective |
+| C-8167 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Yandry proposed throwing Tyrion back; Young Griff forbade it | Claimant saved unwanted passenger |
+| C-8168 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Haldon conducts pain-prick check of toes and fingers | Immediate screening for numbness |
+| C-8169 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion feels pain and bleeds on finger and toe tests | Current peripheral sensation intact |
+| C-8170 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Haldon cautions internal disease could develop without visible symptoms | Negative early test does not establish long-term clearance |
+| C-8171 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Shy Maid moored at Selhorys east bank of Rhoyne | New confirmed position and regional vulnerability |
+| C-8172 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Haldon reports Dothraki patrols and Volantene slave-soldier ships nearby | Local invasion preparations are real reports |
+| C-8173 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Selhorys eastern-bank position uniquely exposes it to Dothraki | Strategic geography |
+| C-8174 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion suggests riders could feint at town then strike Volantis | Hypothetical tactic, no enacted battle |
+| C-8175 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Young Griff resents being confined to boat for his safety | Limited princely experience and impatience |
+| C-8176 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Lemore replaces Westerosi septa robes with merchant garb | Active concealment of nationality |
+| C-8177 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Lemore says she too must conceal something from authorities | Her former identity remains unknown |
+| C-8178 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion wonders whether Lemore was genuine septa or has personal bond to Aegon | Unverified identity question |
+| C-8179 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Young Griff initially fronts dragon elephant heavy horse in cyvasse | Bold opening matches rash political temperament |
+| C-8180 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion warns prince against deploying dragon too early | On-page lesson later intentionally reversed |
+| C-8181 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion identifies Griff as Jon Connington and his charge as Prince Aegon | Disclosure accepted within group but genealogy not independently tested |
+| C-8182 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Aegon says Rhaegar and Connington were squires together | Knowledge conveyed by presumed claimant |
+| C-8183 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Aegon explains infant substitute as tanner's child from Pisswater Bend | Concrete baby-switch account only from purported survivor |
+| C-8184 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Aegon says Varys paid father a jug of Arbor gold and gave infant to Elia | Character claim, not independent witness of swap |
+| C-8185 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Aegon describes alleged slain infant as separate boy in Lannister sack | Central answer to historical corpse anomaly, not established truth |
+| C-8186 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion notes purported Aegon's succession claim outranks Daenerys's | Legal motive that may strain their alliance |
+| C-8187 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Aegon assumes Daenerys will readily marry him | He does not consider her choice initially |
+| C-8188 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion describes Dany's trauma, conquests and autonomy from known reports | Reasoning about her likely refusal not firsthand consultation |
+| C-8189 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion urges Aegon land in Dorne instead of begging at Meereen | Alternative geopolitical plan made on-page |
+| C-8190 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion cites Cersei's weakness, Tywin's death and splintered Westeros | Window of political opportunity, may close quickly |
+| C-8191 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | He suggests claiming throne first would meet Daenerys as equal | Rhetorical leverage, not guaranteed reaction |
+| C-8192 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | He invokes Dany's rescuer identity as reason she might come west | Speculative character forecast |
+| C-8193 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion moves dragon and defeats prince by tricking him during cyvasse | Concrete game outcome with manipulation |
+| C-8194 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Aegon kicks over board and orders Tyrion to pick up pieces | Impulsive reaction and hierarchical entitlement |
+| C-8195 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Yandry and Ysilla return with fresh food and alarming town rumors | External information arrives while Griff off ship |
+| C-8196 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | They report Daenerys still in Meereen and Volantis moving to oppose her | Contradicts Illyrio's and Griff's planned east-west meeting |
+| C-8197 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Ysilla performs protective gesture when she sees exposed Tyrion | Contact with stone man makes him feared as infection vector |
+| C-8198 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | She forbids Tyrion touching communal food | Social quarantine before any symptoms |
+| C-8199 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Griff sends Haldon and Tyrion to identify truth from Qavo | Intelligence operation, not casual tavern trip |
+| C-8200 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Griff says late arrivals should go on to Golden Company | Specific contingency rendezvous |
+| C-8201 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion travels under alias Yollo/Hugor with silver from Illyrio | Both mobility and disguise persist |
+| C-8202 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Volantene city guards called tigers use metal claw gauntlets | Elite faction militarization |
+| C-8203 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | A guard touches Tyrion's head without consent for good luck | Casual reduction of dwarf to talisman |
+| C-8204 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Selhorys features red temple, nightfire and Horonno headless statue | Religious and political memory coexist |
+| C-8205 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Haldon reports tyrant Horonno ruled forty annual terms then claimed office for life | Historical anti-tyranny claim |
+| C-8206 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | He says elephant factions decapitated tiger statues | Factional iconoclasm, not current election rule |
+| C-8207 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion sees tattooed slaves dominate red-temple crowd | Approximately four of five by his observation |
+| C-8208 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Red priest calls Daenerys Azor Ahai returned using Benerro's proclamation | Competing identity to Stannis's claim, not verified prophecy |
+| C-8209 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Priest predicts those fighting for Daenerys shall rise again | Belief of R'hllor sect, not observed mass resurrection |
+| C-8210 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Benerro is High Priest of Volantis red temple | Named source of religious mobilization |
+| C-8211 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Qavo Nogarys revealed as Selhorys customs official and cyvasse adept | Specific intelligence broker |
+| C-8212 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Qavo reports Yunkai bribed Triarch Nyessos with wealth and enslaved youths | Character report of influence campaign |
+| C-8213 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Qavo says Malaquo remains tiger and Doniphos will lose next election | Predicted leadership shift, actual result pending |
+| C-8214 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Qavo retells lurid anti-Daenerys slaver propaganda | Document hostile disinformation not objective Dany behavior |
+| C-8215 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Qavo identifies abolition as material threat to all Volantene master classes | Mechanism of elite opposition |
+| C-8216 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Qavo says even poor free citizens preserve status above slaves | Possible broader anti-emancipation incentive |
+| C-8217 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Qavo says slave populations and red priests openly revere Daenerys | Potential internal Volantene uprising coalition |
+| C-8218 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Qavo reports sectarian street fighting between Benerro's followers and others | Instability despite official military plans |
+| C-8219 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | He says Benerro warned Volantis will burn if it fights dragon queen | Conditional prophecy, not assured result |
+| C-8220 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Qavo's military array names New Ghis Tolos Elyria and Dothraki | External force prediction, varying reliability |
+| C-8221 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion loses cyvasse wager when Qavo captures his dragon | Chess piece parallels vulnerability to coalition |
+| C-8222 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion seeks Westerosi-speaking sex worker after Haldon departs | Deviates from restricted travel for personal urge |
+| C-8223 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Brothel workers have tattooed tears identifying enslaved sex work | Structural impossibility of free consent to service |
+| C-8224 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion picks young freckled woman who does not understand Common Tongue | Language barrier compounds coercion |
+| C-8225 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | He has sex with enslaved woman with no freely given consent evidenced | Moral violation; paid service does not establish consent |
+| C-8226 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion notices extensive lash scars on her back and emotional withdrawal | Direct consequences of slavery |
+| C-8227 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion repeats sex after seeing her fear and indifference | Escalating exploitation despite own self-reproach |
+| C-8228 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Tyrion becomes drunk and vomits, recognizes woman may be punished | Acknowledges external costs of his actions |
+| C-8229 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | He pays brothel owner for ruined carpet and requests girl not be blamed | Limited reparative act not remedy to sexual exploitation |
+| C-8230 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | Broad man with black bear on surcoat recognizes Tyrion and draws sword | Strong Jorah Mormont identification, not spoken name |
+| C-8231 | [ADWD 22](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/22-tyrion.md) | The knight says he will deliver Tyrion to the queen | Destination ambiguous between queens; completion not shown |
+| C-8232 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Green Grace arrives escorted by dozen noble White Graces | Religious influence embedded in elite families |
+| C-8233 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Qezza and Grazhar, Green Grace kin, serve Dany as hostages | Humanizes political hostages as children |
+| C-8234 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Barristan trains hostage boy Grazhar in western chivalry | Cultural integration, not harmlessness of detention |
+| C-8235 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Three Qartheen galleys sailed upriver under darkness | Naval blockade extends into Skahazadhan |
+| C-8236 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Mother's Men used fire arrows and burning pitch but failed to stop them | Freedmen defense not sufficient to open river |
+| C-8237 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Three New Ghiscari galleys and Tolosi carrack join enemy fleet | Confirmed reported foreign coalition |
+| C-8238 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Tolosi rejected alliance and insulted Dany | Explicit diplomatic rebuff |
+| C-8239 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Mantarys sent back preserved heads of three Dany envoys | Direct presentation of murdered envoys, not mere rumor |
+| C-8240 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Harpy killers raped and murdered three former-slave weavers | Specific targeted civilian atrocity |
+| C-8241 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Green Grace applauds Dany for sparing elite child hostages | Moral pressure alongside elite self-interest |
+| C-8242 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Skahaz demands one hostage executed per dead Brazen Beast | Collective retaliatory murder proposal |
+| C-8243 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany has argued repeatedly against Shavepate killing hostages | Firm resistance in this chapter |
+| C-8244 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany acknowledges hostages innocent of Harpy murders | Explicit distinction from their families |
+| C-8245 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Astapor's first Cleon killed by soldiers after suicidal sortie order | Reported leadership collapse |
+| C-8246 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | A second Cleon murdered after eight-day reign | Rapid unstable succession |
+| C-8247 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | New King Cutthroat and Queen Whore contest Astapori control | Competing local claims |
+| C-8248 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Yunkai camps outside Astapor rather than relieving suffering | Ongoing pressure on free city |
+| C-8249 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Green Grace urges Dany to marry locally | Structural peace strategy |
+| C-8250 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Green Grace argues Meereen sees her as foreign conqueror | Legitimacy differs from Dany's liberated-subject narrative |
+| C-8251 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Priestess specifically proposes Hizdahr zo Loraq | Particular elite marriage agenda |
+| C-8252 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | She rejects Skahaz's Kandaq ancestry in favor of Loraq historical blood | Old Ghiscari lineage and inter-house rank affect marriage |
+| C-8253 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Green Grace proposes dragon-harpy child fulfilling prophecy | Dynastic symbolic unification claim |
+| C-8254 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany remembers Mirri's infertility prediction | Character takes prophecy as current barrier, not fertility diagnosis |
+| C-8255 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany thinks of dead freedmen as her children | Ethical motivation for considering loveless marriage |
+| C-8256 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | She weighs loss of Skahaz's favor against Hizdahr's local respect | Coalition tradeoff |
+| C-8257 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Hizdahr already waiting below by prior arrangement | Religious intermediary coordinates proposal |
+| C-8258 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Hizdahr openly admits craving crown, gold influence, legitimacy | Self-interested but more credible candor |
+| C-8259 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Hizdahr reports two children of his own despite never marrying | Potential heirs and existing family obligations |
+| C-8260 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany asks whether he is Sons of the Harpy; he denies it | Denial cannot prove innocence |
+| C-8261 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | He jokes he could falsely confess under Skahaz's torture | Valid critique of coerced interrogations |
+| C-8262 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Hizdahr offers negotiations to permit Yunkai continue external slavery | Peace terms protect Meereenese freedom but abandon others |
+| C-8263 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany notes slaves outside city would still bleed | Moral cost recognized |
+| C-8264 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Hizdahr praises Dany for ending ossified Meereenese rule | Support for innovation can coexist with profit |
+| C-8265 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | His kiss leaves Dany unmoved | Romantic mismatch |
+| C-8266 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany demands he stop killing, not woo her | Behavior test instead of romantic declaration |
+| C-8267 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | She establishes 90 days and nights without murder as condition of wedding | On-page measurable test |
+| C-8268 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Hizdahr accepts and predicts marriage on day 91 | Conditional promise, not settled wedding |
+| C-8269 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany wonders if Green Grace Hizdahr and Reznak trap her | Suspicion, no direct proof conspiracy |
+| C-8270 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Barristan dislikes Hizdahr but accepts Dany's duty motive | Adviser concerns distinct from monarch's choice |
+| C-8271 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Barristan argues Westeros her actual realm | Opposing strategic priority |
+| C-8272 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany says 90-day respite would buy defensive preparation even if test fails | Marriage negotiation has intermediate value |
+| C-8273 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Barristan calls Elia Martell kind, clever and Rhaegar fond of her | Supports affection but not proof passionate marriage |
+| C-8274 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Barristan says Aerys and Rhaella wed under Jaehaerys II's command | Dynastic marriage shaped by prophecy |
+| C-8275 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | A woods witch predicted promised prince would descend from that pair | Highly consequential origin of bloodline fixation |
+| C-8276 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Barristan says woods witch accompanied Jenny of Oldstones | Specific source and court entry |
+| C-8277 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Jenny thought witch one of children of forest | Identification is Jenny's belief, no verification |
+| C-8278 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Barristan connects witch's fate with Summerhall | One-word source link, does not say full catastrophe details |
+| C-8279 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Daario returns from Lhazar while Dany meets Hizdahr | Timing heightens emotional conflict |
+| C-8280 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Daenerys eagerly changes clothing and dismisses Barristan to meet him | Personal preference conflicts with formal duty |
+| C-8281 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Daario claims killed two Stormcrow serjeants caught stealing diplomatic gifts | Harsh discipline within own company |
+| C-8282 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Stormcrows lost nine men against Long Lances but recruited twelve | Reported net gain of three |
+| C-8283 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany warns new defectors may spy for Yunkai | Diligent vetting concern |
+| C-8284 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Daario boasts he will execute suspicious recruits if commanded | Murderous obedience not proof loyalty |
+| C-8285 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | He reports Lhazareen will send grain by river and goods by caravan | Possible supply route constrained by blockade |
+| C-8286 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany reports naval blockade seized third of fishing fleet and drove third away | Food-security effects quantify pressure |
+| C-8287 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | She says Viserion broke chain in dragon pit | Dragons growing beyond control |
+| C-8288 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany reports vault iron doors once glowed red with heat | Threat of fiery breakout |
+| C-8289 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany hears Drogon rumored north of river | Dragon whereabouts still uncertain |
+| C-8290 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Daario repeats Astapori cannibalism rumor from captured mercenary | Character report of catastrophic famine |
+| C-8291 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | He admits cutting captive's tongue out and feeding it to dog | Actual brutality, cruelty rationalized by absurd lie-detector |
+| C-8292 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Daario advises striking weakest foe and escaping siege | Offensive doctrine |
+| C-8293 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany reveals pending Hizdahr peace test | Lover and strategic rival react |
+| C-8294 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Daario offers to stop deaths in nine days through violence | Different definition of peace |
+| C-8295 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Daario urges murdering noble houses on suspicion without proof | Indiscriminate retaliatory terror |
+| C-8296 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany objects their guilt is unproved | Explicit evidence standard |
+| C-8297 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Daario suggests wedding feast as massacre trap | Red Wedding parallel on-page plan, not executed |
+| C-8298 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany rejects murder plot, calls him dangerous | Ethical boundary despite attraction |
+| C-8299 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | He mocks that she could simply be passive queen and mother of sons | Taunt aimed at Dany's identity |
+| C-8300 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany sends Stormcrows to patrol hinterlands and guard caravans | Actual new order, deployment pending |
+| C-8301 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Daario must report to Barristan, not enter Dany's presence | Dany attempts to separate private influence from governance |
+| C-8302 | [ADWD 23](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/23-daenerys.md) | Dany regrets banishment and calls them both monsters | Self-judgment, not factual equivalence of crimes |
+| C-8303 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Connington fears Haldon may have been captured after losing Tyrion in Selhorys | Confirms bear knight's seizure disrupted escort |
+| C-8304 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Shy Maid moored beside mummers' barge at Volon Therys | Geographic checkpoint on lower Rhoyne |
+| C-8305 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Golden Company camp three miles south of town | Actual army position |
+| C-8306 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Triarch Malaquo brings five thousand foot and thousand horse to block delta road | Concrete Volantene coercive force |
+| C-8307 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Daenerys remains in Meereen and all earlier convergence assumptions fail | Major information change |
+| C-8308 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Lemore warns revealing Aegon to sellswords jeopardizes long secrecy | Security argument credible |
+| C-8309 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Connington decides risk now necessary since Aegon is adult | Revised timetable |
+| C-8310 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Lemore reminds him company leader Blackheart Toyne has died | Old personal guarantor absent |
+| C-8311 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Jon dreams Battle of Bells at Stoney Sept seventeen years earlier | Lingering psychological wound |
+| C-8312 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | He blames himself for not killing Robert during battle | Counterfactual guilt, not proof would prevent all war |
+| C-8313 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Connington identifies Rhaegar as his silver prince | Personal attachment central motive |
+| C-8314 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | He regrets Illyrio's repeated errors and shifting plans | Political mistrust of patron |
+| C-8315 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Haldon returns with three horses made costly by Dothraki panic | Market effect of approaching armies |
+| C-8316 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Connington fears false death hoax and rescue trust made Tyrion dangerous | His perspective different from reader knowledge |
+| C-8317 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Aegon wears dyed dark-blue hair and three square rubies on black iron chain | Concealment and dragon emblem through jewels |
+| C-8318 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Connington explicitly remembers natural hair now grey after former red | His dyed false identity durable |
+| C-8319 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Young Aegon questions legitimacy of bought sellsword allegiance | Tyrion's skepticism influencing decisions |
+| C-8320 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Connington counsels measured trust, not total cynicism | Contrasts Aerys paranoia |
+| C-8321 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Golden Company fortified camp with ditch stakes and sentries | Command discipline maintained |
+| C-8322 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Company elephants graze by river, roughly two dozen visible | Specific war asset |
+| C-8323 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Franklyn Flowers recognizes Connington despite twelve years' absence | Direct confirmation of past connection |
+| C-8324 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Flowers says mother raped by Fossoway at Cider Hall | Personal motive behind hatred of Fossoways |
+| C-8325 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Connington's false backstory says he stole company funds, became drunk and died in Lys | Concealment tactic designed by Varys |
+| C-8326 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Connington resents humiliation and privately vows vengeance on Varys | Personal motive can undermine alliance |
+| C-8327 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Company headpieces display gilded skulls of former captains | Institutional Blackfyre identity material |
+| C-8328 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Maelys the Monstrous and nameless brother heads among skulls | Direct record of Blackfyre legacy |
+| C-8329 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Bittersteel's gilded skull raised as rallying standard | Original founder memory persists |
+| C-8330 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Myles Toyne Blackheart died four years earlier | Leadership chronology |
+| C-8331 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Connington served company five years as Toyne's right hand | Military authority from experience |
+| C-8332 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Golden Company officers include Strongs Peakes Mudds Coles Mandrake Lothston | Exile names may be assumed rather than authentic genealogies |
+| C-8333 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Each arm ring represents a year of service | Visible veteran tenure system |
+| C-8334 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Black Balaq commands archers; Gorys Edoryen paymaster | Specific command structure |
+| C-8335 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Lysono Maar is Lysene spymaster with white-gold hair and lilac eyes | Phenotype alone no claimant descent proof |
+| C-8336 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Captain-general Harry Strickland has foot blisters and aversion to reckless fighting | Political conservatism but camp discipline still high |
+| C-8337 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Strickland's forebear joined Black Dragon rebellion | Explicit lineage of Blackfyre cause in leadership |
+| C-8338 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Company has ten thousand men, 500 knights and 500 squires | Unit numbers reported in council |
+| C-8339 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Company requires huge shipping capacity for men horses and elephants | Logistics disfavor eastbound improvisation |
+| C-8340 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Connington publicly proclaims Aegon Rhaegar and Elia's son | On-page formal claim, not proven ancestral truth |
+| C-8341 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Officers largely already knew claimant identity via Strickland | Security breach contrary to Lemore's assumption |
+| C-8342 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Myles Toyne agreed to secret pact with Illyrio and Varys | Agreement known to Connington, contents still incomplete |
+| C-8343 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Strickland entertained Yunkish bribe: double pay and one slave each | Specific incentive to desert claimant |
+| C-8344 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Some Yunkish bonuses promise enslaved youths to officers | Morally compromising rival contract |
+| C-8345 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Strickland has not formally accepted Yunkish deal | No signed new allegiance |
+| C-8346 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Company refuses two consecutive broken contracts if possible | Reputation and contractual norms |
+| C-8347 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Daenerys's blockade means ships to Meereen scarce despite Volantis port | Material barrier to planned rendezvous |
+| C-8348 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Demon road deemed suicidal and likely to cause desertion | Overland alternative rejected |
+| C-8349 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Aegon boldly says company should support him directly | Decision initiates independent invasion plan |
+| C-8350 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Young Aegon says Daenerys can come to him in Westeros | Tyrion's counsel echoed explicitly |
+| C-8351 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Franklyn Flowers Tristan Rivers Lysono Maar favor revised plan | Winning elite support |
+| C-8352 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Strickland protests no dragons and lack of recognized pedigree proof | Risk of being labeled fraud acknowledged by insiders |
+| C-8353 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Connington insists Dorne will back alleged son of Elia | Forecast, no Martell treaty concluded |
+| C-8354 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Laswell Peake says Company retains friends in Reach after century | Explicit hidden political-network clue, unspecified houses |
+| C-8355 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Tristan says Illyrio initially planned Viserys plus fifty thousand Dothraki | Major reconstructive source for network's original plan |
+| C-8356 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Tristan recounts second plan: Daenerys and hatchling dragons arriving Pentos | Conspirators repeatedly revised assumptions |
+| C-8357 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Company officers unanimously in scene eventually kneel and offer swords | Confirmed transfer of loyalty to Aegon as public commander |
+| C-8358 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Aegon remains Young Griff until they sail, to minimize leak | Secrecy still operational |
+| C-8359 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Connington sends for Lemore Duck and Illyrio's chests | Transport of financial and armor resources to camp |
+| C-8360 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Yandry and Ysilla discharged after river mission | Different support agents not necessarily involved in invasion |
+| C-8361 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Connington wants home at Griffin's Roost and peace from bells memories | Private benefit intertwined with dynastic loyalty |
+| C-8362 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Connington removes glove and finds middle fingernail black with greyscale | Direct infection evidence on right hand |
+| C-8363 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Ring finger tip greying and no pain when pricked | Clinically distinctive loss of sensation by scene |
+| C-8364 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Connington expects slow death and conceals disease | Threat to force and ward, not proof exact duration |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -8281,4 +8485,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and ninety-three first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and ninety-six first-pass chapters listed in the coverage tracker.

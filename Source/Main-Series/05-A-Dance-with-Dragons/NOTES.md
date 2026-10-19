@@ -176,3 +176,11 @@ Interpretations distinguish direct events from contested genealogy, sorcery, med
 - [21 Jon](chapters/21-jon.md): **Carved roadside gods, Mole's Town shortages, and sixty-three free-folk recruits.** 64 chronological source observations plus agency, rival readings and theory disconfirmation tests.
 
 The apparent Davos sentence is not counted as a witnessed execution. Jeyne Poole's impersonation is verified as Theon's on-page identification; north-house complicity remains to test.
+
+## Sequential first-pass close reading — 2026-10-19 (ADWD 22–24)
+
+- [22 Tyrion](chapters/22-tyrion.md): **Aegon’s alleged baby switch, Tyrion's westward plan, Volantene slavery, and Jorah's capture.** 70 chronological observations plus causal, epistemic and rival-theory tests.
+- [23 Daenerys](chapters/23-daenerys.md): **Marriage bargain with Hizdahr, 90-day peace test, Jenny's woods witch, and Daario's return.** 71 chronological observations plus causal, epistemic and rival-theory tests.
+- [24 The Lost Lord](chapters/24-the-lost-lord.md): **Connington reveals Aegon to Golden Company, chooses westward invasion, and hides greyscale.** 62 chronological observations plus causal, epistemic and rival-theory tests.
+
+The claimed boy's bloodline remains unverified, even though Connington's personal identity and greyscale are independently confirmed on page.
