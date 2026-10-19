@@ -37,3 +37,5 @@
 ## Next reconciliation test
 
 Any proposed battle sequence must identify: initial sighting, command signal, factional switch if any, prisoner/hostage custody, and the first surviving messenger. Independent challenge remains open.
+
+**Gardening follow-up (2026-10-19):** [Meereen battle decision test](../gardening/decision-tests-meereen-battle.md) develops reversible choices for Barristan, Tyrion, and Victarion without choosing a battle result.
