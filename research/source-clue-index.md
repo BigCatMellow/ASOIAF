@@ -8478,6 +8478,163 @@
 | C-8363 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Ring finger tip greying and no pain when pricked | Clinically distinctive loss of sensation by scene |
 | C-8364 | [ADWD 24](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/24-the-lost-lord.md) | Connington expects slow death and conceals disease | Threat to force and ward, not proof exact duration |
 
+| C-8365 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Word that Daenerys rides south to Yunkai passes through Windblown gossip chain | Specific multistep hearsay, not actual Dany departure |
+| C-8366 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Tattered Prince orders army to break camp and march next morning | Confirmed relocation, separate from rumor's content |
+| C-8367 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Quentyn passes as Frog, squire to Archibald Yronwood called Greenguts | Covert identities continue from Volantis |
+| C-8368 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Gerris Drinkwater uses name Dornish Gerrold or Drink | Alias occasionally exposed by companions' slips |
+| C-8369 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Three Dornishmen serve as ordinary Windblown among approximately two thousand | Little institutional power inside company |
+| C-8370 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Tattered Prince's true name and motives concealed | Unresolved leadership identity |
+| C-8371 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Tattered Prince said to have fled being Pentoshi prince at age twenty-three | Dick Straw's lore, no independent proof |
+| C-8372 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Windblown founded roughly thirty years ago by six comrades, now one survives | Company history via gossip |
+| C-8373 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Quentyn fears Daenerys as alleged murderous queen based on camp propaganda | Contradicts reader's direct Dany POV for many tales |
+| C-8374 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Books calls Dany mad and claims she killed Drogo | Misrepresentation of causal history |
+| C-8375 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Quentyn wonders if Doran considered risk his prospective bride is tyrant | Mission information vacuum |
+| C-8376 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Quentyn saw corpse-choked river and starving children in captured Astapor | Direct testimony of horrific siege conditions |
+| C-8377 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Astapori priestess lies impaled amidst flies | Concrete civilian atrocity |
+| C-8378 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Children fight over cooked dog meat amid collapse | Evidence of extreme hunger |
+| C-8379 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Dead Cleon was torn apart by hungry hounds in pit | The recollection needs disentangling from staged armored Cleon |
+| C-8380 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Astapor's remaining pyramids burn and ashes reach camp | Visible destruction continues after siege |
+| C-8381 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Quentyn wears used company armor instead of noble arms | Disguise forces equipment disadvantage |
+| C-8382 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | The trio abandoned their better armor and gold in Volantis | Proof sacrificed resources for access |
+| C-8383 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Tattered Prince rides silver-grey mount under patchwork cloak | Distinct leader costume |
+| C-8384 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Company marches behind Bloodbeard's Company of Cat | Hostile mercenary forces moving together |
+| C-8385 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | From Astapor to Yunkai is about hundred leagues by road | Logistical temporal scale |
+| C-8386 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Another fifty leagues from Yunkai to Meereen | Battle and defection distance |
+| C-8387 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Free companies faster than slave legions and Ghiscari forces | Strategic army dispersion |
+| C-8388 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Yurkhaz zo Yunzak commands Yunkai expedition from enormous palanquin | Formal commander above competing officers |
+| C-8389 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Yunkish generals use personalized nicknames among sellswords | Hierarchy and cultural contempt |
+| C-8390 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Yellow Whale wealthy and keeps enslaved grotesques | Elite commodification of disabled and atypical bodies |
+| C-8391 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Little Pigeon reportedly breeds tall human slaves as giant Herons | Character report of eugenic slave production |
+| C-8392 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Heron troops wear stilts and themed uniforms | Materially impractical ceremonial warfare |
+| C-8393 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Clanker Lords chain soldiers wrist and ankle in groups of ten | Demonstrable bodily enslavement and tactical liability |
+| C-8394 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Yunkish host fragmented among petty commanders | Coordination failure is observable |
+| C-8395 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Yunkai troops lag about two and half miles over three-mile stretch | Extreme poor marching discipline |
+| C-8396 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Mercenaries distinguish Astapor's novice mutilated child soldiers from real Unsullied | Institutional difference of training |
+| C-8397 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Quentyn recalls Astapor's garrison sortie against unready Yunkish siege camp | Full recent battle, not a mere rumor |
+| C-8398 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | An armored figure called Cleon rode in front of novice Unsullied | Used as moral symbol |
+| C-8399 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Yunkai lines nearly shattered before hired companies and New Ghis legion intervened | Local successes of desperate defenders |
+| C-8400 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Caggo sliced armor-clad Cleon in single blow with Valyrian steel arakh | Definitive weapon performance; details secondhand to Quentyn |
+| C-8401 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Cleon was a corpse strapped on a horse to inspire troops | Staged dead leader, no supernatural resurrection |
+| C-8402 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | After figure fell, Astapori trainees routed and gates locked behind them | Disaster for young soldiers |
+| C-8403 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Quentyn participated in slaughter of fleeing teenage Unsullied | Direct guilt despite dutiful mission |
+| C-8404 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Quentyn thinks he murdered boys his own age | Recognition of morally indefensible battle |
+| C-8405 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | He contemplates deserting before he must fight Daenerys | Moral conflict between oath and Doran's mission |
+| C-8406 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Gerris counsels wait until north of Yunkai before flight | Better chance of provisions and evading pursuit |
+| C-8407 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Archibald increasingly fraternizes with other fighters | Emotional bond makes later desertion harder |
+| C-8408 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Gerris warns captured deserters may lose feet or be delivered to Meris | Specific enforcement terror |
+| C-8409 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Quentyn fears Pretty Meris for harsh reputation | Fear not an actual confrontation |
+| C-8410 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Serjeant Hugh Hungerford summons all three Dornishmen to command | Apparent surveillance, actual order unexpected |
+| C-8411 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Hungerford has lost three fingers after stealing from company pay | Discipline by mutilation |
+| C-8412 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Tattered Prince tent includes about twenty Westerosi or Westeros-descended soldiers | Selection by language/appearance deliberate |
+| C-8413 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Pretty Meris Lewis Lanster Dick Straw Hugh Hungerford among chosen | Specific infiltration personnel |
+| C-8414 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Denzo D'han and Caggo attend as senior captains | Command-level involvement |
+| C-8415 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Caggo carries rare Valyrian arakh | Another Valyrian weapon with outsider owner |
+| C-8416 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Yurkhaz commands companies drive Astapori refugees away from Yunkai | Order treats civilians as hazard |
+| C-8417 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Astapori survivors have starvation and flux | Refugee and infectious disease emergency |
+| C-8418 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Half Windblown force assigned patrol fifty groups of twenty | Specific dispersion plan |
+| C-8419 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Bloodbeard's Company of Cat receives similar refugee-exclusion order | Potential threat to defectors |
+| C-8420 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Tattered Prince selects western-appearance subgroup to swing toward Meereen | Secret departure staged amid genuine patrols |
+| C-8421 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | He orders them to drive refugees or kill resisters if encountered | Humanitarian harm remains part of mission |
+| C-8422 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | He explicitly instructs chosen patrol to defect to Daenerys's men | Operational deception rather than spontaneous moral switch |
+| C-8423 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Quentyn privately welcomes apparent alignment with own plan | Irony: his mission now coincides with commander trick |
+| C-8424 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Hungerford asks if acting as spies, assassins, envoys, or genuine new allies | Critical future role not fully specified |
+| C-8425 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Denzo says Tattered Prince wants ability to profit whichever side wins | Hedging explanation from subordinate |
+| C-8426 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Meris named patrol leader because Daenerys may trust a woman | Gender stereotype used tactically |
+| C-8427 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Tattered Prince recites genuine grievances inflicted on recruits as credible cover | Best lies contain actual history |
+| C-8428 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Meris endured sexual violence in other mercenary company | Coercive past not disproof she is dangerous now |
+| C-8429 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Dick Straw whipped frequently; Hungerford lost fingers | Actual claims used to sell defection |
+| C-8430 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Lanster lost favored boy at Prince's hand, Lucifer deprived of abused slave | Personal grievances heterogeneous |
+| C-8431 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Prince calls each of them a defector with plausible reason | Constructed legend creates operational credibility |
+| C-8432 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Only council knows defection is feigned, patrol warned of execution if uncovered | Compartmentalized secrecy |
+| C-8433 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Quentyn realizes fellow native tongue speakers make private planning riskier | New constraint on covert Dornish mission |
+| C-8434 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Archibald greets order as dragon hunt, Quentyn remains uneasy | Optimism and danger differ across companions |
+| C-8435 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha occupies Galbart Glover's longhall in Deepwood Motte | Ironborn garrison of captured northern castle |
+| C-8436 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Maester delivers Bolton letter from Barrowton sealed pink | Communication of enemy military change |
+| C-8437 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Ramsay styles himself Lord of Winterfell | Self-proclaimed title, legitimacy disputed |
+| C-8438 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Letter signed by Lady Dustin Cerwyn four Ryswells and Umber-mark | Political display, no proof all willing loyalists |
+| C-8439 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Text claims Moat Cailin fallen and northern Warden returning | Consistent with direct Reek chapter |
+| C-8440 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Ramsay writes letter allegedly in ironborn blood | Threat performance; composition not independently tested |
+| C-8441 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Letter encloses leathery patch of Theon's skin | Asha recognizes brother endangered, alive status indirectly indicated |
+| C-8442 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha burns skin and refuses reply | Private grief and overt political silence |
+| C-8443 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Lady Sybelle Glover spends time praying in godswood | Captive lady's uncertainty about family |
+| C-8444 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Sybelle's children remain at Ten Towers in Asha's care | Hostages, physically offsite |
+| C-8445 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha says infant girl too weak for return voyage | Reported protective judgment |
+| C-8446 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Robett Glover and Galbart presumed dead by Asha | Mistaken information: reader knows Robett is active in White Harbor |
+| C-8447 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Torrhen's Square held by Dagmer Cleftjaw | Other northern ironborn position |
+| C-8448 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha knows Moat Cailin blocked mainland Bolton return | Military chokepoint lost |
+| C-8449 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Euron abandoned Balon's northern occupation for dragon schemes | Political divergence confirmed by earlier kingsmoot |
+| C-8450 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Victarion follows Euron at sea | Asha believes, his exact private route unknown |
+| C-8451 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha has just four longships and fewer than two hundred men | Quantified weakness |
+| C-8452 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha's fighters want glorious death at Torrhen Square rather than retreat | Cultural bravado versus survival |
+| C-8453 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Terrain separates Deepwood from Dagmer by forest hills rivers and defenders | Joining not simple |
+| C-8454 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Qarl initiates sex against Asha's initial explicit refusal and restrains her | Consent initially violated; later narration includes pleasure and resumed intimacy |
+| C-8455 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha later initiates further intimacy with Qarl | Complex prior relationship does not retroactively erase initial force |
+| C-8456 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha anticipates needing moon tea after intercourse | Pregnancy risk despite imposed political marriage |
+| C-8457 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Qarl is lowborn descendant of a thrall, preventing publicly approved marriage | Class barrier to chosen partner |
+| C-8458 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha remembers earlier happy voyage trading fruit and visiting Arbor with Qarl | Personal past and alternative life |
+| C-8459 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Qarl known as Maid for smooth cheeks and youth | Explains nickname, not lack of adult relationship |
+| C-8460 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha grieves Balon's death Theon's abuse and Alannys's deterioration | Dramatic personal constraints |
+| C-8461 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha regards woods as unnatural whispering compared to sea | Unsettling perception not proven supernatural observation |
+| C-8462 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Deepwood has wooden palisade ditch and towered gates | Relatively vulnerable fortification |
+| C-8463 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha's captured fields lost crops to battle and frost | Food production destroyed |
+| C-8464 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha recalls thirty-ship initial occupation now dwindled to four | Strategic loss after kingsmoot |
+| C-8465 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Rodrik Harlaw Reader previously urged her flee Euron's coronation | Protective counsel |
+| C-8466 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Rodrik says challenging kingsmoot after participating violates custom | Legal obstacle to Asha's succession |
+| C-8467 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Rodrik warns Euron will kill or forcibly marry rival niece | Foreseeable risk |
+| C-8468 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha escaped on Black Wind hidden apart from kingsmoot | Practical contingency |
+| C-8469 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Her mother Alannys repetitively asks where Theon is | Ongoing grief |
+| C-8470 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Lady Gwynesse insists seniority entitles her Ten Towers | Local inheritance obsession |
+| C-8471 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Euron married absent Asha by proxy to aged Erik Ironmaker | Actual political act reported after flight |
+| C-8472 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha hears a seal stood in for her at marriage | Lack of personal consent, contestable ritual form |
+| C-8473 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Euron names Erik regent of Iron Islands while he hunts dragons | Legitimacy and control maneuver |
+| C-8474 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Tris Botley abandoned Euron's fleet to join Asha | Demonstrated personal devotion but return danger |
+| C-8475 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Tris proposes escape and peaceful trading voyage to Jade Sea | Nonviolent alternate life plan |
+| C-8476 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha refuses conventional marriage to Tris, says she loves Qarl | Private commitment, not public legal status |
+| C-8477 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha considers ruling Sea Dragon Point instead | Political alternative to claims on Pyke |
+| C-8478 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha lists timber harbors salmon seals and otters on Sea Dragon Point | Specific potential maritime economy |
+| C-8479 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Tris points out lack of population grain metals and trade to make kingdom | Realistic limits of colony fantasy |
+| C-8480 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha considers returning to Pyke to oppose Euron with Aeron | Tentative strategy |
+| C-8481 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Aeron Damphair missing since kingsmoot | Factual absence, fate unknown to Asha |
+| C-8482 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Tris reports Erik's men hunting Drowned Men and shackling priests | Suppression of rival religious legitimacy |
+| C-8483 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Tris believes Euron may already have killed Aeron and hidden it | Speculation, not confirmed body |
+| C-8484 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Tris recalls Torgon Latecomer, a Greyiron absent from kingsmoot | Historical legal exception to election binding |
+| C-8485 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Torgon returned and challenged election because he had no chance to stand | Material precedent for missing dynastic claimant |
+| C-8486 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Badbrother Goodbrother was deposed and torn apart; Torgon reigned forty years | Narrated precedent from Tris, requires historic verification |
+| C-8487 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha immediately recognizes usefulness of Torgon story | Potential to use absent Theon, not yet stated formal petition |
+| C-8488 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Warhorn interrupts before she explains thought | Open plot thread |
+| C-8489 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Five northerners try scaling east wall in foliage camouflage | Scout/infiltration vanguard |
+| C-8490 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | A wounded attacker identifies himself as Flint | Mountain-clan tie, not necessarily all northerners |
+| C-8491 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Man claims they intended to rescue Lady Glover | Stated motive, not comprehensive operation |
+| C-8492 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha tortures wounded Flint by twisting impaling spear | On-page cruelty despite desire to protect hostages |
+| C-8493 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Under pain he claims three or four thousand attackers | Coerced statement potentially unreliable, later force appears large |
+| C-8494 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha kills prisoner by thrusting spear through throat | Confirmed killing |
+| C-8495 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Lady Sybelle requests return of her two children for safe surrender | Hostage leverage over northern household |
+| C-8496 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Maester says Asha treated them with honor and offers to intercede | Partial mitigating assessment from captive |
+| C-8497 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha doubts ordinary ironborn will receive ransom or mercy | Reason to avoid surrender despite offers |
+| C-8498 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Crew chooses resistance in bailey rather than negotiated surrender | Collective choice shaped by command |
+| C-8499 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha sees northern figures camouflaged in pine branches moving across forest | Human soldiers, not demonstrated walking trees |
+| C-8500 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | She recalls children of forest animated trees in legend | Lore association, not evidence greenseer assault |
+| C-8501 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | She decides wooden Deepwood cannot hold and orders retreat to ships | Tactical adaptation |
+| C-8502 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Some ironborn longships held offshore to preserve an escape option | Pre-planned contingency |
+| C-8503 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Attackers use ram on north gate and trumpets | Combined arms force, suggest Stannis involvement |
+| C-8504 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha orders south gate opened and men evacuated | Actual execution of retreat |
+| C-8505 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Hagen hit by arrow descending watchtower and falls | Severe injury, fate uncertain |
+| C-8506 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha orders red-haired daughter brought on horses | Attempt to protect captive noncombatant/crew family |
+| C-8507 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha's host moves south and southwest first rather than north directly | Attempt to throw pursuers off route |
+| C-8508 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Quenton's horse falls into hidden pit and must be killed | Terrain and travel cost |
+| C-8509 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha halts in dark woodland till dawn to avoid torches drawing pursuers | Temporary stop exposes force |
+| C-8510 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Rolfe the Dwarf and Rustbeard scout and fail to return safely | Pursuers outmaneuver rearguard |
+| C-8511 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Rolfe's severed head thrown into Asha's camp | Direct proof scout killed |
+| C-8512 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Northerners ambush in camouflage without torches | Knowledge of forest grants advantage |
+| C-8513 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha kills several attackers personally with throwing axe and dirk | On-page combat, not blanket accounts of victory |
+| C-8514 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Her cousin Quenton dies from axe at skull base after saving her | Named ironborn casualty |
+| C-8515 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Hagen's daughter joins fight after escape, attacks northern soldiers | Individual agency under violent chaos |
+| C-8516 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Asha becomes isolated from Qarl Tris and companions | Outcomes for several named people unknown |
+| C-8517 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | A large northern fighter traps Asha against tree and strikes at temple | Severe head injury, death not explicitly shown |
+| C-8518 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Sound of trumpet interrupts apparent killing blow | Military force arrival timing |
+| C-8519 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | She perceives red burning hearts and black stag with fiery antlers | Possible Stannis-associated banner/dream; explicit identity not given |
+| C-8520 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Chapter ends without confirming Asha dies, survives or is captured | Cliffhanger requires later evidence |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -8485,4 +8642,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and ninety-six first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and ninety-eight first-pass chapters listed in the coverage tracker.

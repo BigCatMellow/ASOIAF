@@ -184,3 +184,10 @@ The apparent Davos sentence is not counted as a witnessed execution. Jeyne Poole
 - [24 The Lost Lord](chapters/24-the-lost-lord.md): **Connington reveals Aegon to Golden Company, chooses westward invasion, and hides greyscale.** 62 chronological observations plus causal, epistemic and rival-theory tests.
 
 The claimed boy's bloodline remains unverified, even though Connington's personal identity and greyscale are independently confirmed on page.
+
+## Sequential first-pass close reading — 2026-10-19 (ADWD 25–26)
+
+- [25 The Windblown](chapters/25-the-windblown.md): **Quentyn witnesses Astapor's collapse and joins a secret feigned defection toward Daenerys.** 70 source observations, competing interpretations, and disconfirmation work.
+- [26 The Wayward Bride](chapters/26-the-wayward-bride.md): **Asha receives Theon's flayed skin, discovers Latecomer precedent, and is routed at Deepwood.** 86 source observations, competing interpretations, and disconfirmation work.
+
+Quentyn's intended genuine desertion is not conflated with the Windblown's staged defection. Asha's last blow is not counted as a witnessed death, and the Latecomer precedent remains an untested legal reading.
