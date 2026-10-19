@@ -221,3 +221,21 @@ Therefore Bartimus may help explain a durable personal tie between Wyman and an 
 ### Added source navigation
 
 - [ADWD 29 (Davos)](../../Source/Main-Series/05-A-Dance-with-Dragons/text/030-davos.md)
+
+## 10. Later control outcome: Gregor eventually seizes the Ruby Ford
+
+One Lannister-side checkpoint is stronger than Sandor's inference. In **ASOS 60 (Tyrion)**, Tyrion's strategic survey says that **Ser Gregor Clegane crossed the Trident and seized the Ruby Ford, then captured Harrenhal**. This is `POV-NARRATED LANNISTER-SIDE OUTCOME`, not a Bolton explanation and not merely a scout rumor.
+
+**What it changes:** the Ford did not remain demonstrably under Ronnel Stout and Kyle Condon's reported command through the later Riverlands endgame. By the time of Tyrion's summary, Gregor has taken it. That is compatible with Roose's narrow prediction—he said Gregor would not cross *so long as the river ran high*—and with Arya's later observation that the river had returned to its normal channel (**ASOS 74**).
+
+**What it cannot settle:** Tyrion gives no date, direction or tactical account of Gregor's crossing. He does not name Ronnel, Kyle, Hornwood archers, Stout/Cerwyn men, captives or casualties. Therefore the statement cannot establish whether the 600 withdrew on orders, were defeated, were bypassed, dispersed after the water fell, or ceased to exist as a coherent force. Nor does it show whether Gregor crossed at the Ruby Ford itself, or crossed the Trident elsewhere and subsequently occupied the Ford.
+
+The updated evidence chain is deliberately modest:
+
+`ROOSE SAYS HE POSTS 600 WHILE FLOOD HOLDS (ASOS 49) → LATER TYRION REPORTS GREGOR HAS CROSSED AND SEIZED RUBY FORD (ASOS 60) → ARYA SEES SUBSIDED RIVER AND SANDOR AVOIDS A PROBABLY CLEGANE-HELD FORD (ASOS 74).`
+
+This establishes a **later change of control**, not a casualty ledger. It removes the weak assumption that Roose's reported blocking force held permanently, but supplies no proof that Roose intended it to fail or that its disappearance was a deliberate sacrifice.
+
+### Added source navigation
+
+- [ASOS 60 (Tyrion)](../../Source/Main-Series/03-A-Storm-of-Swords/text/061-tyrion.md)
