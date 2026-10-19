@@ -38,3 +38,5 @@
 - A Watch succession analysis that separates formal office, armed control, wildling loyalty, and Melisandre’s influence.
 
 Independent challenge remains open.
+
+**Gardening follow-up (2026-10-19):** [Castle Black aftermath decision test](../gardening/decision-tests-wall-aftermath.md) offers reversible first-report, hostage-custody, and communication choices without selecting Jon’s fate or a successor.
