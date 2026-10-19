@@ -26,7 +26,7 @@
 16. **Boat's shallow draft and sail aid passage over shallow tributaries** — Transport design matters for escape
 17. **Yandry says pirate groups and hidden escaped slaves occupy upper reaches** — Geographic governance gap
 18. **Duck practices arms with Young Griff on afterdeck** — Active martial training
-19. **Young Griff has pale? No, dark blue eyes that look violet in certain light** — Targaryen-associated phenotype not proof parentage
+19. **Young Griff has dark blue eyes that look violet in certain light** — Targaryen-associated phenotype not proof parentage
 20. **Young Griff handles swords better than mace or axe** — Specific tactical strength and weakness
 21. **Young Griff lands many blows but Duck's strikes are heavier** — Different skill/strength profiles
 22. **Young Griff shoves Duck into river during bout** — Moment of combat initiative

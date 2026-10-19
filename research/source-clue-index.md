@@ -7808,7 +7808,7 @@
 | C-7696 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Boat's shallow draft and sail aid passage over shallow tributaries | Transport design matters for escape |
 | C-7697 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Yandry says pirate groups and hidden escaped slaves occupy upper reaches | Geographic governance gap |
 | C-7698 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Duck practices arms with Young Griff on afterdeck | Active martial training |
-| C-7699 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Young Griff has pale? No, dark blue eyes that look violet in certain light | Targaryen-associated phenotype not proof parentage |
+| C-7699 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Young Griff has dark blue eyes that look violet in certain light | Targaryen-associated phenotype not proof parentage |
 | C-7700 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Young Griff handles swords better than mace or axe | Specific tactical strength and weakness |
 | C-7701 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Young Griff lands many blows but Duck's strikes are heavier | Different skill/strength profiles |
 | C-7702 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Young Griff shoves Duck into river during bout | Moment of combat initiative |
