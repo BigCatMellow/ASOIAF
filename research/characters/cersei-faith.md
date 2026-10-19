@@ -48,3 +48,5 @@
 **Next:** trace the Faith's actual institutional rules, Margaery's independent testimony and Tommen's personal agency. Keep Cersei's trial and future dragon-wildfire disaster speculative until depicted choices support them.
 
 **Disposition:** `FIRST PASS COMPLETE / TRIAL AND POWER TRANSFER UNKNOWN`.
+
+**Reconciliation update (2026-10-19):** [Southern claimants endpoint handoff audit](../reconciliation/southern-claimants-endpoint-handoff.md) distinguishes the privately witnessed Varys murders from the court’s unshown reaction, and Cersei’s release from acquittal or restored government control.

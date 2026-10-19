@@ -58,3 +58,5 @@
 - Re-open any preferred alliance if Arianne recognizes a material contradiction with her claim or the protection of Dornish children.
 
 **Disposition:** **FIRST PASS COMPLETE; choices OPEN.** No Aegon coronation, Quentyn funeral news, Arianne marriage or Dornish civil war is established.
+
+**Reconciliation update (2026-10-19):** The [southern claimants endpoint handoff audit](../reconciliation/southern-claimants-endpoint-handoff.md) confirms that Connington’s letter is only prepared on-page; neither Doran nor Arianne has a shown receipt.

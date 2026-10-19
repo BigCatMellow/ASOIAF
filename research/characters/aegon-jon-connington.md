@@ -90,3 +90,5 @@ Source check: ADWD 22 (Tyrion), 24 (The Lost Lord), 61 (The Griffin Reborn), and
 3. **Connington chooses speed over logistics:** Losses or a hostage confrontation can compel a retreat, harsher measures, or politically costly negotiation. Greyscale and guilt make choices harder; they do not dictate one outcome.
 
 **Next audit:** trace precise stormlord responses and landing/muster times; compare Ronnet's position with Griffin's Roost hostages; place Arianne's reliable knowledge on a separate timeline. Do not use released TWOW scenes as if they occur in the five-book ending.
+
+**Reconciliation update (2026-10-19):** [Southern claimants endpoint handoff audit](../reconciliation/southern-claimants-endpoint-handoff.md) separates prepared, received, and merely reader-visible developments. It does not grant Dorne a received Aegon letter or the capital knowledge of Varys’s role.
