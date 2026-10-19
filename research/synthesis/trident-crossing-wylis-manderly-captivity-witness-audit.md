@@ -239,3 +239,21 @@ This establishes a **later change of control**, not a casualty ledger. It remove
 ### Added source navigation
 
 - [ASOS 60 (Tyrion)](../../Source/Main-Series/03-A-Storm-of-Swords/text/061-tyrion.md)
+
+## 11. Independent court-side confirmation: Wylis is an active political hostage
+
+**AFFC 17 (Cersei)** supplies an additional Lannister-side check on the White Harbor constraint. In council, Cersei says Wyman will not bend the knee until his heir is returned; when asked whether they actually possess the heir, she answers that he should be at Harrenhal if alive and attributes his capture to Gregor Clegane. The council is also aware that Wyman has passed on Stannis's approaches while avoiding commitment.
+
+This is not a battle report and it does not replace Jaime's later direct sighting. Its value is narrower: `POV-OBSERVED COURT DELIBERATION` shows the Crown understands Wylis as a live bargaining instrument in its White Harbor policy. It independently aligns with Wyman's account of Tywin's coercive correspondence (**ADWD 29**) and explains why public Manderly defiance or a public allegation against Roose could be dangerous while the heir remains in enemy hands.
+
+Limits remain essential:
+
+- Cersei's “if he is still alive” shows uncertainty rather than a current jail record.
+- Her statement that Gregor took him is court knowledge/assumption, not her eyewitness account of the Ruby Ford.
+- The scene does not show Wylis's first release, an interview with Wylis, a report from Wylis to Wyman, or any White Harbor decision based on the crossing.
+
+The resulting custody/political sequence is stronger than either side's isolated claim: `Wyman says Tywin conditions release (ACOK 16) → Crown treats Wylis as leverage (AFFC 17) → Jaime personally finds him among Gregor's Trident captives and orders release (AFFC 27) → Wyman reports him home (ADWD 29)`. It verifies the **hostage pressure**, while leaving the lost first-captivity transition and Wylis's unrecorded testimony unresolved.
+
+### Added source navigation
+
+- [AFFC 17 (Cersei)](../../Source/Main-Series/04-A-Feast-for-Crows/text/018-cersei.md)
