@@ -6960,6 +6960,226 @@
 | C-6853 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Original Pate had sold Walgrave's key to alchemist and collapsed | Earlier on-page event; exact method, alchemist identity and impostor's origin unresolved. |
 | C-6854 | [AFFC 45](../Source/Main-Series/04-A-Feast-for-Crows/chapters/45-samwell.md) | Sam ends chapter unaware of prologue reader's evidence | Concealed intelligence asymmetry. |
 
+| C-6855 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion is hidden below decks during a narrow-sea crossing | Ship's destination deliberately concealed from him. |
+| C-6856 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion drinks heavily and cannot keep food down | Physical danger and psychological distress from escape. |
+| C-6857 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Captain forbids Tyrion to go above decks | Lack of travel autonomy, not proof passenger consent. |
+| C-6858 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Cabin boy refuses to answer questions about destination | Secrecy persists even in mundane interactions. |
+| C-6859 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion imagines backing Myrcella's claim under Dornish succession law | Possible dynastic revenge, not an endorsed lawful Iron Throne claim. |
+| C-6860 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion doubts Doran will support Oberyn's earlier provocation | Recognizes political gap after Red Viper's death. |
+| C-6861 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion considers Night's Watch but mistakenly imagines Janos Slynt commander | His knowledge of recent Wall politics is obsolete. |
+| C-6862 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion struggles to communicate in Free City dialects | Linguistic competence uneven despite reading High Valyrian. |
+| C-6863 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion remembers Tywin's final remark about Tysha | Specific phrase haunts him and shapes later decisions. |
+| C-6864 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion recalls killing Tywin with crossbow and Shae by strangulation | Self-confession to Varys, not rumors. |
+| C-6865 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion says Tywin was rising when he shot | Presents subjective account of self-defense, not moral exoneration. |
+| C-6866 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Varys says Tyrion should not have climbed ladder | Varys expected an escape rather than patricide. |
+| C-6867 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion considers killing Varys but refrains | Murder impulse remains despite rescue. |
+| C-6868 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Varys took Tyrion through a tunnel to Blackwater | Physical flight route remembered in fragments. |
+| C-6869 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion remembers descending 230 ladder rungs only in reconstruction | Stressed, intoxicated recollection has gaps. |
+| C-6870 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion considers deaths of innocent shipmates if storm sinks vessel | Capacity for concern despite self-destruction. |
+| C-6871 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion is packed into a wine cask at arrival | Concealment humiliates and physically endangers him. |
+| C-6872 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | A large merchant opens cask in private cellar | Movement avoids public recognition. |
+| C-6873 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Host identifies himself as Illyrio Mopatis and speaks Common Tongue | Direct introduction of Varys ally. |
+| C-6874 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio offers bath, clean bed and food | Hospitality doubles as containment. |
+| C-6875 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion recognizes Illyrio's dependence on Varys | Trust is guarded and transactional. |
+| C-6876 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Pentos visible from window beyond high manse wall | Location now directly established. |
+| C-6877 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Naked blond boy with sword appears to stand on pool before proving marble statue | Perception check and odd imagery, not witnessed magic. |
+| C-6878 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion sees impressive city harbor and major religious building | City scale and departure opportunities. |
+| C-6879 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion recognizes Pentoshi climate from barren trees and chill | Seasonal setting, not exact date. |
+| C-6880 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio says servants will not refuse Tyrion's sexual access | Coercive power despite nominal anti-slavery law. |
+| C-6881 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio states Braavosi treaty forbids slavery in Pentos | Legal ban contrasts with servants' freedom in practice. |
+| C-6882 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio forbids Tyrion to pass walls or be publicly known | He is protected guest and de facto confined asset. |
+| C-6883 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio says prince summoned magisters to session | Political access, unspecified agenda. |
+| C-6884 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion worries Illyrio would betray him for larger reward | Inference from motive not proven intent. |
+| C-6885 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion recalls forced assault of Tysha by his father's guards | Traumatic recognition of his own complicity. |
+| C-6886 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion cannot remember how many guards assaulted Tysha | Horrific detail and memory uncertainty. |
+| C-6887 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion remembers being compelled to give Tysha gold | Family honor code perverted through abuse. |
+| C-6888 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio outfits Tyrion in child's ill-fitting finery | Body and identity are poorly accommodated despite wealth. |
+| C-6889 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Servant cooks seem not to understand Tyrion's questions | Language barrier or strategic silence uncertain. |
+| C-6890 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion finds huge diverse wine cellar including old Runceford Redwyne stock | Long-distance trade and Illyrio resources. |
+| C-6891 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion fantasizes about killing Cersei and Jaime | Vindictive thoughts, not planned accomplished violence. |
+| C-6892 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Manse has three gates, guarded by eunuchs and tall spiked walls | Physical escape constraints. |
+| C-6893 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion privately seeks ropes and grapnel for escape | Exit plan remains unexecuted. |
+| C-6894 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion tells washerwoman about Dornish Myrcella scheme and Wall | Potential intelligence leak if woman understands Westerosi speech. |
+| C-6895 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion spots seven pale mushrooms with blood-red gills | Identifies potentially lethal wild fungi. |
+| C-6896 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion wraps picked mushrooms in glove and pockets them | Physical custody established, purpose unresolved. |
+| C-6897 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Serving girl says she was bought to please a king | Account from servant, identity of king unverified here. |
+| C-6898 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion rebuffs attempt to learn serving girl's name | Dehumanizing withdrawal after Tysha/Shae trauma. |
+| C-6899 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion threatens to strangle same servant to make her fear him | On-page abuse and risk to powerless woman. |
+| C-6900 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion notes servant fears but despises him | Perception not objective inner testimony. |
+| C-6901 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio appears amid extraordinary gems and costly meal | Wealth and performative dominance. |
+| C-6902 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio reports Astapor and Meereen have fallen | Secondhand news; Tyrion has not met Daenerys. |
+| C-6903 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio describes interconnected political-economic web | Pentos stake in distant slave-city outcomes. |
+| C-6904 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio offers mushrooms after Tyrion's poisoned-specimen discovery | Intentional psychological test appears likely but not proven preparation. |
+| C-6905 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion refuses food expecting poisoning | Trauma, suspicion and recent own poison access. |
+| C-6906 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio explains guests desiring death might be obliged with poison | Direct confrontation with Tyrion's apparent suicidality. |
+| C-6907 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio eats mushrooms, showing served dish not poisoned | Does not establish safety of mushrooms Tyrion pocketed. |
+| C-6908 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion insists he wants to live without stating why | Central unresolved desire. |
+| C-6909 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio says Tyrion presently has nothing but could gain purpose | Recruitment pitch. |
+| C-6910 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio says Cersei offered lordship for Tyrion's head | Reported bounty, not proof any specific pursuer located him. |
+| C-6911 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion calls Casterly Rock his patrimony as Tywin's son | Claim conflicts with attainder and politics. |
+| C-6912 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio suggests Stannis could recognize Tyrion's inheritance | Legal possibility cannot erase treason and kinslaying. |
+| C-6913 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion learns Stannis is at the Wall | New information corrects his earlier false assumption about Wall. |
+| C-6914 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Tyrion again proposes Myrcella coup in Dorne | Continued interest despite risks. |
+| C-6915 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio warns crowning Myrcella would likely kill her | A credible causal challenge to spite-driven scheme. |
+| C-6916 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio says there is an alternate route to Casterly Rock through a new king | Political promise, no guarantee. |
+| C-6917 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio describes Pentoshi prince's ritual duties and potential execution | Comparative account of precarious formal rulership. |
+| C-6918 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio invokes hunger, insecurity and need for savior | Social conditions as claimant's opening. |
+| C-6919 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio rejects Stannis and Myrcella as his intended solution | Does not identify exact alternative. |
+| C-6920 | [ADWD 1](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/01-tyrion.md) | Illyrio calls intended savior a dragon with three heads | Ambiguous claimant/dragon symbolism; not automatically Daenerys, Aegon or literal three-rider proof. |
+| C-6921 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Barristan advises queen not to inspect the murdered Unsullied | Dany insists on witnessing cost of her rule. |
+| C-6922 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Daenerys awakens from dream of house with red door | Recurring desire for home beneath royal obligations. |
+| C-6923 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | She clutches Drogo's white-lion pelt | Physical token of past attachment. |
+| C-6924 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Unsullied Stalwart Shield lies mutilated before ebon throne | Direct murder consequence. |
+| C-6925 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Blood-painted harpy marks the alley | Faction-signature observed through Barristan's report. |
+| C-6926 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Unsullied normally patrol in pairs at Dany's order | Victim off duty, not breach of patrol pairing. |
+| C-6927 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Grey Worm reports victim visited brothel for companionship | Eunuch's desires not reducible to sexual organ status. |
+| C-6928 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Grey Worm says victim paid women simply to hold him | Specific human connection amidst violence. |
+| C-6929 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany learns name Stalwart Shield, one self-selected after emancipation | Naming and personhood under emancipation. |
+| C-6930 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Barristan estimates at least six killers from wounds | Expert inference, not witnessed headcount. |
+| C-6931 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Stalwart Shield held empty scabbard when found | Possible struggle and missing short sword. |
+| C-6932 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Killers mutilated cheeks and forced goat genitals into throat | Orchestrated insult aimed at Unsullied's castration. |
+| C-6933 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany calls this first murder of soldier by Sons of the Harpy | Escalation from attacks on vulnerable freedmen. |
+| C-6934 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany personally closes corpse's eyes | Refuses Dothraki handmaids' taboo. |
+| C-6935 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany orders proper burial with shield and spears | Personhood and military honor. |
+| C-6936 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany orders wounds checked at Blue Graces temple | Possible diagnostic path to perpetrators. |
+| C-6937 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany offers reward for missing sword and recent goat castrations | Specific investigatory leads, no culprit yet. |
+| C-6938 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany prohibits lone soldiers after dark | Targeted tactical response. |
+| C-6939 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Barristan argues Unsullied are field formation soldiers not investigators | Skills mismatch, not incompetence in battle. |
+| C-6940 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Barristan admits his trainees require years before being knights | Immediate security shortage. |
+| C-6941 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dothraki bloodriders are out pacifying surrounding estates | Rural control remains unstable. |
+| C-6942 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Brown Ben Plumm and Second Sons guard Yunkish frontier | Limited available forces in city. |
+| C-6943 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Daario and Stormcrows seek to open Lhazar trade through Khyzai Pass | Uncertain diplomatic mission for food. |
+| C-6944 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | City's storehouses retain but consume finite staples | Urgent wartime supply constraint. |
+| C-6945 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany watches hot white Viserion and sees unpredictable dragons | Living weapons neither reliably managed nor full-grown. |
+| C-6946 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Rhaegal has snapped at Irri; Viserion burned Reznak's garment | Escalating domestic danger. |
+| C-6947 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany imagines riding dragons when they grow | Aspirational, not demonstrated ability yet. |
+| C-6948 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany wears costly crown with ivory, onyx and jade dragon heads | Material three-headed dragon emblem and physical burden. |
+| C-6949 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Ghiscari tokar impedes movement and signals privilege | Cultural concession creates visible social hierarchy. |
+| C-6950 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Green Grace and Brown Ben argue she must dress as Meereenese | Advice, not universal consent to foreign ruler. |
+| C-6951 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany recalls 163 crucified children and equal number of executed masters | Numerical reprisal, not individualized attribution of guilt. |
+| C-6952 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany observes freed slaves employed at near-subsistence wages | Formal emancipation not equivalent to economic independence. |
+| C-6953 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany notes elderly, young, disabled freed people cast into streets | Abolition without welfare produces crisis. |
+| C-6954 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Shavepates signal renunciation of older Meereen identity | New power faction, motives include survival and ambition. |
+| C-6955 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Skahaz blames old slaver houses for assassinations | Accusation, not proof each family ordered a killing. |
+| C-6956 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany remembers Pahl relatives killed during Meereen conquest | Possible cause of retaliation, not guilt proof. |
+| C-6957 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany raises Harpy informant bounty hundred to thousand honors | Incentivizes testimony but raises false-accusation risk. |
+| C-6958 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Skahaz demands collective executions of great families after attacks | Proposed repressive policy Dany does not accept here. |
+| C-6959 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Reznak claims killers will turn out baseborn | Class prejudice and political incentive. |
+| C-6960 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany fears her third betrayal might be among any advisers | Qarth prophecy drives suspicion without selecting culprit. |
+| C-6961 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Freedmen and former masters stand apart in audience hall | Spatial evidence of unresolved caste conflict. |
+| C-6962 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Astapor envoy Ghael brings too-small gilded slippers from Cleon | Symbolically ill-fitting diplomatic flattery. |
+| C-6963 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Cleon offers alliance to war against Yunkai | Proposal, no new war joined by Dany here. |
+| C-6964 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany knows Cleon restored slavery with former slaves now ruling | Reversed owners not true emancipation. |
+| C-6965 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany says Astapor is starving and Cleon should feed citizens | Practical challenge to war plans. |
+| C-6966 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Yunkai resumed slavery and is seeking allies against her | Dany's earlier failure to hold Yunkai has consequences. |
+| C-6967 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Hizdahr returns to seek fighting pit opening for sixth time | Sustained political conflict not sudden conversion. |
+| C-6968 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Hizdahr has acquired devalued pit shares after closure | Large private financial incentive. |
+| C-6969 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany can recite cultural, religious and fiscal defense of pits | She understands rival case without endorsing it. |
+| C-6970 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany refuses sixth petition despite tax argument | Current explicit decision. |
+| C-6971 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany considers Hizdahr a possible Meereenese husband | Political option, not engagement. |
+| C-6972 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Skahaz has offered to put aside wife to wed Daenerys | Family transfer threatened by ambition, Dany recoils. |
+| C-6973 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Green Grace's cousin Grazdan demands cut from freed girls' weaving | Attempt to turn ownership of past teacher into perpetual profit. |
+| C-6974 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Grazdan scarcely remembers late enslaved tutor's name | Reveals extraction without personal regard. |
+| C-6975 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany refuses him profits and orders him buy women a new loom | Specific labor justice decree. |
+| C-6976 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany alternates petitions of freedmen and masters | Deliberate procedural accommodation. |
+| C-6977 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Widow demands restoration of house taken by brothel during sack | Competing property and housing claims. |
+| C-6978 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany awards widow jewels but not abandoned house | Judgment unfavorable to some former owners. |
+| C-6979 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Former slave's husband asks gelding and gold for noble's prior rape | Past coercion meets present marital claim. |
+| C-6980 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany grants payment but refuses gelding citing legal property status then | Political/legal explanation does not make abuse morally consensual. |
+| C-6981 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | A noble boy recounts murder of family and assault of mother in sack | Victims exist on both sides of class divide. |
+| C-6982 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany denies justice because of blanket pardon for sack crimes | Peace-building policy has tangible innocent victims. |
+| C-6983 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Boy charges her but trips in impractical tokar | Garment motif returns in moment of anger. |
+| C-6984 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany spares boy and fears Harpy has gained another Son | Psychological inference, no confirmation he becomes insurgent. |
+| C-6985 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Sculptor offers to recast harpy's head as Dany | Dany refuses leader-cult artifact. |
+| C-6986 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Fisherman gifts huge pike and smith offers copper battle mail | Mundane court errands show breadth of rulership. |
+| C-6987 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany notes dragon-herd compensation claims can be fraudulent | Burnt animal bones not uniquely dragon kills. |
+| C-6988 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany still orders payment after holy oath at Temple of Graces | Balances accessibility with fraud reduction. |
+| C-6989 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Petitioners show little gratitude for payout announcement | Reported mood, possible alienation. |
+| C-6990 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | One man presents cracked charred bones of child | Actual material evidence of a catastrophic dragon incident. |
+| C-6991 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Man says black winged shadow descended | Testimony naming Drogon-like attacker, specific event not directly witnessed. |
+| C-6992 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Barristan rejects Reznak's suggestion bones are sheep | Independent witness assessment of remains. |
+| C-6993 | [ADWD 2](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/02-daenerys.md) | Dany silently recognizes child bones and reacts in horror | Chapter ends before containment order or compensation response. |
+| C-6994 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon dreams in white wolf's embodied sensory perspective | Strong skinchanging evidence while sleeping. |
+| C-6995 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Wolf hears far packmates including large black brother hunting goat | Potential Shaggydog connection; dream scene not human verified. |
+| C-6996 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Wolf hears little sister with many ordinary wolves hunting in warmer hills | Strong Nymeria-pack link, independent of Jaime's wolf report in AFFC44. |
+| C-6997 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Wolf senses grey brother smelling of summer beyond Wall | Resonance with Bran and Summer; physical location inferred by wolf. |
+| C-6998 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Ghost recalls once six pups and now missing bonds | Dream does not map exact spiritual fate for every sibling. |
+| C-6999 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Mormont's raven repeatedly calls Snow and wakes Jon physically | Audible behavior not automatically human-directed magic. |
+| C-7000 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Dolorous Edd serves Jon as steward | Jon adjusting to changed rank. |
+| C-7001 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon notes some guards sexually exploit captive free-folk women | Explicit danger and abuse of prison power. |
+| C-7002 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Guards have been placed over guards at stockades | Direct response to coercive behavior. |
+| C-7003 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Around a thousand wildlings imprisoned beyond Wall | Reported scale and food burden. |
+| C-7004 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Wildling mother arrives with daughter and dead infant | Starvation/exposure stakes not abstract. |
+| C-7005 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Edd says infant was burned | Potential wight safety measure, not sacrifice here. |
+| C-7006 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon fears queensmen burning Mance and infant to wake dragons | Belief based on overheard formula, not yet proved plan. |
+| C-7007 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Aemon previously warned Stannis might covet king's blood | Character warning that motivates baby swap. |
+| C-7008 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon knows Robb and Grey Wind dead but believes Bran and Rickon killed | His information about living Starks is partly wrong. |
+| C-7009 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon remembers wolf at Queenscrown saving him | Strong past connection with Summer, not public proof Bran survived. |
+| C-7010 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon's wolf dreams stronger and remembered after waking | Development of gift. |
+| C-7011 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Raven ate Mormont's face after lord commander's death | Observed recollection, unsettling raven behavior. |
+| C-7012 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon works from Donal Noye's modest rooms after tower burned | Material circumstances of leadership. |
+| C-7013 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Noye left specific tools, coins, brooch and stag doublet | Former smith's identity recalled through objects. |
+| C-7014 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Unsealed Stannis grant sits under Noye's silver cup | Constitutional decision delayed, not signed. |
+| C-7015 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis explores Wall forts, stockades and surrounding villages | Visible pressure and strategic reconnaissance. |
+| C-7016 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis and Melisandre walk Wall nightly | Routine access to height and possible ritual significance, no magic shown. |
+| C-7017 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Iron Emmett trains recruits despite Cotter Pyke's displeasure | Command allocation affects Watch. |
+| C-7018 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon identifies Hop-Robin's clubfoot and fear as limits in arms training | Possible steward redeployment, not expulsion. |
+| C-7019 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Godry Farring boasts of slaying fleeing giant from behind | Heroic title contradicted by circumstances. |
+| C-7020 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon declines Godry's sword challenge | Restraint due to duty, not proven fear. |
+| C-7021 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Wall stair reconstruction urgent because winch alone limits access | Concrete military infrastructure bottleneck. |
+| C-7022 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Castle Black hall and towers badly damaged | Defense and capacity constraints. |
+| C-7023 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon promises better gloves to shivering king's men | Practical compassion even toward political guests. |
+| C-7024 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Sam is still at Castle Black carrying letter for Stannis | Important AFFC/ADWD nonlinear chronology; before Sam sails. |
+| C-7025 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis breaks seals personally, Sam says he should not reveal contents | Information control at court. |
+| C-7026 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Sam practices archery and struggles with blisters | Training before later Cinnamon Wind archery. |
+| C-7027 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon disarms before entering Stannis's chamber | Royal security asserts authority over Watch commander. |
+| C-7028 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis holds Lyanna Mormont's defiant letter | Physical receipt of named correspondence. |
+| C-7029 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Lyanna reportedly around ten and daughter of Maege | Jon's knowledge, not register-proof exact age. |
+| C-7030 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Lyanna rejects all but Stark King in North | Direct words read aloud by Stannis. |
+| C-7031 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis asks Jon to conceal defiant letter | Political embarrassment and information suppression. |
+| C-7032 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis says some forty appeals brought mostly silence or rejection | His summary of diplomacy, not exhaustive responses. |
+| C-7033 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Arnolf Karstark pledged Stannis by raven | Allegiance reported; later ADWD44 raises double-agent allegation. |
+| C-7034 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon privately recognizes Karstark has reasons to seek protection | Incentive hypothesis distinct from sincerity. |
+| C-7035 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon argues northern lords fear Boltons, Tywin and another failed war | Practical explanation for delayed support. |
+| C-7036 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Melisandre says Stannis alone aided the Wall | Politically true recent military rescue, not proof universal fealty. |
+| C-7037 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis needs gold for Salladhor Saan; Watch collects goods not coin | Finance constrains naval contract. |
+| C-7038 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon suggests wealthy White Harbor and Manderly as source | Actionable local political insight. |
+| C-7039 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Wyman's letter cites age and infirmity, not an oath | Potential delay tactic; true motive unproven here. |
+| C-7040 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis and Melisandre treat Val as hereditary princess | Free-folk political category misapplied. |
+| C-7041 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon says Val cannot confer leadership through marriage | Important challenge to King's bargaining plan. |
+| C-7042 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon says only Mance has capacity to unite many wildlings | Political judgment, not guarantee Mance can act. |
+| C-7043 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis wants Mance burned to deter deserters and king claimants | Explicit policy; execution not yet shown here. |
+| C-7044 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon counters no hereditary King-Beyond-the-Wall | Resists false dynastic baby leverage. |
+| C-7045 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis demands use of abandoned Wall castles | Central negotiation. |
+| C-7046 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Nightfort already ceded to Stannis | Specific authorized prior grant. |
+| C-7047 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Nightfort requires at least months of rehabilitation | Yarwyck's reported engineering forecast. |
+| C-7048 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Nineteen Wall forts exist, Watch mans only three | Specific security gap. |
+| C-7049 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis wants castles for his displaced noble followers | Prospective southern feudal redistribution. |
+| C-7050 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon warns northern support would collapse if southrons awarded castles | Plausible but unverified political forecast. |
+| C-7051 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis had offered Jon Winterfell and Stark legitimization earlier | Refusal now governs bitter dialogue. |
+| C-7052 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon insists Sansa has legitimate prior Stark claim | He is uninformed of full Vale identity arrangements. |
+| C-7053 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis refuses Lannister-associated Sansa | Political succession prejudice. |
+| C-7054 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon says Gilly reports forts for Rattleshirt and Thenn | Castle gossip, not confirmed royal grants. |
+| C-7055 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Melisandre says Gilly nurses Dalla's and her own child | Before infant exchange actually implemented. |
+| C-7056 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon starts separating babies by disparaging Gilly's own son | Protective deception with stigma toward Gilly and Craster. |
+| C-7057 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis responds contemptuously to Craster incest | Shows how Jon can manipulate his prejudices. |
+| C-7058 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon promises to send Gilly south | Departure intended, not yet undertaken in this chapter. |
+| C-7059 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon has fed, clothed and housed king's force at Watch's expense | Material obligation and winter stores. |
+| C-7060 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon offers builders and wildling settlement on Gift | Substantial existing concessions. |
+| C-7061 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon refuses alienation of forts as hereditary seats | Protects Watch autonomy while supporting garrisons. |
+| C-7062 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis displays glowing Lightbringer | Brightness witnessed, source of fire or heat not determined here. |
+| C-7063 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon proposes king's troops garrison forts under Watch officers without taking black | Distinct workable compromise offered. |
+| C-7064 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis refuses subjecting knights to poachers and peasants | Status conflict impedes defense. |
+| C-7065 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon invokes Davos's smuggler past | Counterexample to status purity. |
+| C-7066 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis threatens replacement of Jon and seizure of empty forts within year | Actual coercive ultimatum not executed on page. |
+| C-7067 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Jon asserts election by brothers over king's sufferance | Organizational independence publicly defended. |
+| C-7068 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Stannis mentions challenge to Jon's election by Alliser and Slynt | Opposition persists after vote. |
+| C-7069 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Melisandre says her flame visions may be misinterpreted by priests | Explicit human fallibility beneath prophecy claim. |
+| C-7070 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Melisandre proposes seeking Tormund in flames | Future divination, not location obtained now. |
+| C-7071 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Melisandre states Wall's ice contains ancient spells | Character claim, not independently demonstrated new spell in this scene. |
+| C-7072 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Melisandre warns of smiling enemies, daggers and frozen blood | Foreshadowing candidate, no specific attacker proven here. |
+| C-7073 | [ADWD 3](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/03-jon.md) | Melisandre urges Jon to keep his wolf close | Operational caution in context of possible future assault. |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -6967,4 +7187,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and seventy-two first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and seventy-five first-pass chapters listed in the coverage tracker.

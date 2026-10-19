@@ -118,3 +118,13 @@ Cross-book canonical readings: [Arya](../../../research/characters/arya-stark.md
 - **ADWD 56 and 63 (Victarion):** Moqorro enters the Iron Fleet's story and translates the dragon horn's apparent fatal inscription. His theory of blood ownership remains **unproven by a dragon-binding event**.
 
 Owners: [Cersei/Faith](../../../research/characters/cersei-faith.md), [Ironborn](../../../research/characters/euron-victarion-aeron.md), [Oldtown](../../../research/continuity/oldtown-ironborn-threat.md). These are targeted reading notes outside the numbered sequential-first-pass coverage.
+
+## Sequential first-pass close reading — 2026-10-19
+
+- [1 Tyrion](chapters/01-tyrion.md): **Complete first-pass reading.** Tyrion arrives by secret cask in Illyrio's Pentos manse, struggles with grief, threatened violence and intoxication, retains seven possibly toxic mushrooms, and receives a promise of a dragon-backed political return. Illyrio does not identify the dragon candidate in this chapter.
+
+- [2 Daenerys](chapters/02-daenerys.md): **Complete first-pass reading.** An Unsullied is murdered by the Harpy; Daenerys refuses collective executions and reopening fighting pits while navigating competing claims of former slaves and owners. A petitioner's charred child bones implicate a black dragon, an unwitnessed but grave harm.
+
+- [3 Jon](chapters/03-jon.md): **Complete first-pass reading.** Ghost's wolf dream suggests surviving sibling connections. Lyanna Mormont defies Stannis, while Jon refuses to grant Wall castles to southern lords, offers Watch-led garrisons, and hears Melisandre's warning of hidden knives. This is earlier in-world than Sam's AFFC45 arrival in Oldtown.
+
+These chapters are separate from earlier targeted cross-book audits; neither thread counts the same chapter twice.
