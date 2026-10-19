@@ -22,6 +22,16 @@
 - [64 — The Ugly Little Girl](chapters/64-the-ugly-little-girl.md): Arya completes an indirect Faceless Men assignment and begins a new apprenticeship.
 - [65 — Cersei](chapters/65-cersei.md): Cersei reaches the Red Keep after atonement; Qyburn supplies Ser Robert Strong.
 
+## ADWD 66–Epilogue
+
+- [66 — Tyrion](chapters/66-tyrion.md): Tyrion joins the Second Sons.
+- [67 — The Kingbreaker](chapters/67-the-kingbreaker.md): Barristan arrests Hizdahr.
+- [68 — The Dragontamer](chapters/68-the-dragontamer.md): Quentyn is burned in the pit.
+- [69 — Jon](chapters/69-jon.md): Watch brothers stab Jon.
+- [70 — The Queen’s Hand](chapters/70-the-queen-s-hand.md): Barristan prepares Meereen for battle.
+- [71 — Daenerys](chapters/71-daenerys.md): Jhaqo’s khalasar finds Daenerys.
+- [Epilogue — Kevan](chapters/72-epilogue.md): Varys murders Pycelle and Kevan.
+
 ## Reading questions
 
 The Wall, Stannis's camp, Meereen, Aegon's invasion and unresolved reports.
