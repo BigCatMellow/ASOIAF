@@ -144,3 +144,12 @@ These are complete sequential first passes separate from targeted earlier theory
 - [9 Davos](chapters/09-davos.md): **Sisterton guest right, Salladhor Saan's defection, Manderly rumors and Ned Stark's disputed bastard.** 60 source observations with causal, competing-interpretation and falsification review.
 
 The two new notes maintain chapter-boundary information and do not equate reported identities or rumors with facts.
+
+## Sequential first-pass close reading — 2026-10-19 (ADWD 10–13)
+
+- [10 Jon](chapters/10-jon.md): **The burning of the seeming Mance, forced conversion, and Jon's isolation.** 71 sequential source observations, ordinary competing explanations, and disconfirmation tests.
+- [11 Daenerys](chapters/11-daenerys.md): **Harpy reprisals, Quaithe's warning, free pit fighters and chained dragons.** 80 sequential source observations, ordinary competing explanations, and disconfirmation tests.
+- [12 Reek](chapters/12-reek.md): **Theon's captivity, Ramsay's flaying regime, and the threatened Arya marriage.** 47 sequential source observations, ordinary competing explanations, and disconfirmation tests.
+- [13 Bran](chapters/13-bran.md): **Wights at the cave, Leaf, the ward, and the one-eyed greenseer.** 65 sequential source observations, ordinary competing explanations, and disconfirmation tests.
+
+Revelations and theories are distinguished from each POV's contemporaneous knowledge. Four chapter notes completed; microdetail review remains open.

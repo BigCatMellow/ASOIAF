@@ -7526,6 +7526,270 @@
 | C-7416 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric's father ordered story of visit concealed if Stark lost | Survival through deniability |
 | C-7417 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Davos says he, like Ned, was never there | Covert bargain at chapter endpoint |
 
+| C-7418 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Godry Farring leads bound apparent Mance Rayder toward wooden fire cage | Actual prisoner identity is not independently established by Jon |
+| C-7419 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Apparent Mance wears thin tunic rather than distinctive mended crimson cloak | Departure from identifying clothing and earlier Mance portrayal |
+| C-7420 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon told Stannis Mance knew the forest and Tormund and fought Others | Strategic argument for preserving him |
+| C-7421 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon asserts Mance had Horn of Joramun but did not sound it | Jon's belief, horn's authentic provenance unproven |
+| C-7422 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Stannis rejects Jon's plea on Night's Watch deserter principle | Law offered as justification |
+| C-7423 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Melisandre frames ceremony as forced binary of light and darkness | Religious coercion rather than free choice |
+| C-7424 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Cage woven from saplings and weirwood boughs is hung over kindling | Old gods' wood turned to sacrificial instrument |
+| C-7425 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Prisoner recoils from burning and says he is not king | Direct identity anomaly, not proof of substitute in this chapter alone |
+| C-7426 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Godry chokes and drags prisoner when he resists | Physical mistreatment before flames |
+| C-7427 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Melisandre displays eight-foot black horn with old-gold First Men rune bands | Concrete physical artifact requiring authenticity test |
+| C-7428 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Melisandre calls horn destructive to Wall and Long Night risk | Priestess assertion, no sounding demonstration |
+| C-7429 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon remembers Ygritte claimed Mance never found real horn | Contradiction between character accounts |
+| C-7430 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | One thousand free folk in stockade are visibly cold and malnourished | Choice of submission under survival threat |
+| C-7431 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Horn is set alight with yellow and green flames | Observed destruction of displayed artifact, not every possible Horn of Winter |
+| C-7432 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Gold runes briefly seem to float above burning horn | Transitory perception can be fire effect or magic |
+| C-7433 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Prisoner increasingly denies his kingship and begs for mercy | Unusual reversal of remembered Mance demeanor |
+| C-7434 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon displays two hundred armed Watchmen, including boys and elders | Deliberately inflated deterrent |
+| C-7435 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon thinks about Ygritte, Gilly, Sam and Aemon amid fear of sea storms | Personal costs of earlier command decisions |
+| C-7436 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon prearranges four archers to shorten condemned man's burning | Deliberate mercy killing motive, target identity still uncertain |
+| C-7437 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Three arrows strike prisoner in chest, abdomen and throat | Physical lethal wounds witnessed |
+| C-7438 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Fourth arrow lodges in wooden cage and burns | Specific missed target |
+| C-7439 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon speaks former Watch farewell over apparent Mance | Mourns condemned as deserter brother |
+| C-7440 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Stannis visibly scowls at Jon's intervention | Disapproval of changing spectacle, no new penalty |
+| C-7441 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Melisandre makes flaming fingers display before assembly | Visible magic-like feat, actual technique unspecified |
+| C-7442 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Stannis's Lightbringer shines far brighter than Jon had seen before | Intense light witnessed, no heat established |
+| C-7443 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Stannis commands free folk bend knee in return for food land justice | Terms of conditional settlement |
+| C-7444 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Watch and king's men open stockade and Wall gate | Administrative crossing begins |
+| C-7445 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Each compliant free folk captive receives piece of weirwood | Forced sacrilege integrated into entry procedure |
+| C-7446 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Converts burn wooden old-gods branches in fire pit | Submission not proof sincere change of faith |
+| C-7447 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | A mother escapes to forest with two children | Some choose likely starvation or freedom over coerced ritual |
+| C-7448 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Greybeard uses branch as weapon and is killed | Religious ritual can become lethal encounter |
+| C-7449 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon estimates perhaps one tenth abandon the ceremony | Approximate observed fraction, not exact census |
+| C-7450 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Sigorn new Magnar of Thenn first leader to kneel | Politically consequential individual allegiance |
+| C-7451 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Apparent Rattleshirt kneels in bone armor with unappealing features | Jon's perception, not independently verified identity |
+| C-7452 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Hornfoot chiefs, Milkwater wise woman, Alfyn Crowkiller's son and Halleck kneel | Varied local leadership across wildling groups |
+| C-7453 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon previously advised Stannis not to demand kneeling | Predicts humiliation can undermine loyalty |
+| C-7454 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Food, fresh clothing, straw and fires await those entering Gift | Practical integration provision established |
+| C-7455 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon fears Tormund attack and possible divided new loyalties | Future risk, not witnessed betrayal |
+| C-7456 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Tunnel passage slow due old, sick and injured | Throughput matters for mass migration |
+| C-7457 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Around forty linger including four giants and one mammoth | Non-human accessibility and family loyalties affect choices |
+| C-7458 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Giants refuse to separate from mammoth | Compassion and logistical constraint rather than refusal of all peace |
+| C-7459 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Stannis releases last unconverted survivors to carry his message | Ends ceremony without killing every dissenter |
+| C-7460 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Val and Watch do not join one-god one-king chant | Visible dissent without open revolt |
+| C-7461 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon orders stockade dismantled as firewood and corpses burned | Resources and wight safety used together |
+| C-7462 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Bowen Marsh challenges meaning of dead men at Gorge if wildlings admitted | Reasonable institutional grievance, not just malice |
+| C-7463 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Thorne expects hostile response from Westerosi lords | Political forecast |
+| C-7464 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon has assigned Greyguard to Shadow Tower steward rather than Thorne | After Slynt death, separation management continues |
+| C-7465 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Marsh proposes permanently sealing tunnels with stone and water | Physically plausible defensive option |
+| C-7466 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Marsh cites tiny casualty count atop Wall and Donal Noye dying at gate | Evidence-based defensive argument |
+| C-7467 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon objects sealed gates would stop ranging and information gathering | Strategy of intelligence versus static defense |
+| C-7468 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Marsh says last Great Ranging cost Watch quarter of men | Costs of intelligence and exposure real |
+| C-7469 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Marsh warns Watch might be accused of joining doomed rebel Stannis | Internal political opposition to Jon |
+| C-7470 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon has now heard Tywin is dead via road reports | Knowledge has advanced from prior chapters |
+| C-7471 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon observes Tommen's nominal legitimacy accepted by most | Political perception is not biological certainty |
+| C-7472 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon promises Marsh he will consider counsel | Actual answer short of agreement |
+| C-7473 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Edd comments on burnt gods versus nourishing onion soup | Religious violence and pragmatic survival contrast |
+| C-7474 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Pyp mocks Melisandre's prayer with turnips at supper | Cultural friction among Watch and king's men |
+| C-7475 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon rebukes jokes for risking conflict without stopping Melisandre's insults | Asymmetric command authority |
+| C-7476 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Grenn invites Jon to eat with friends; Jon declines | Self-isolation is chosen to preserve rule distance |
+| C-7477 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon recalls Ned's warning leader cannot stay friend to those he judges | Command ethic and its psychological cost |
+| C-7478 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Val confined in King's Tower and has tried escaping three times | She is not free despite designation princess |
+| C-7479 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Val stabbed careless guard in neck with stolen dagger | Dangerous self-defense attempt, not courtly submission |
+| C-7480 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon considers forfeited alternative of Val and Winterfell | Personal cost of Watch commitment |
+| C-7481 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Ghost returns with warm steaming breath and apparent taste of blood | Strong wolf-human sensory intrusion |
+| C-7482 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Clydas offers spiced wine and discusses execution rumors | New adviser after Aemon departure |
+| C-7483 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon reads Aemon's marked Jade Compendium passage about Azor Ahai | Actual engagement with source left in ADWD7 |
+| C-7484 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Book says true Lightbringer stayed warm and boiled slain creature's blood | Secondary legend of Nissa Nissa sword |
+| C-7485 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon contrasts cold Stannis blade with hot legendary Lightbringer | Strong counterexample to simple sword identity |
+| C-7486 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon sends letters to Denys Mallister and Cotter Pyke | Actual communication prepared, receipt pending |
+| C-7487 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon assigns Halder and Toad west, Grenn and Pyp east | Dismantles his own social support network |
+| C-7488 | [ADWD 10](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/10-jon.md) | Jon ends evening alone with Ghost and the raven | Isolation explicitly recognized as enduring leadership burden |
+| C-7489 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Daenerys dreams of living with Daario in house with red door | Longing for ordinary safety mixed with forbidden intimacy |
+| C-7490 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Irri calls weeping Missandei her slave and Dany insists servant | Language reform does not guarantee safety or equal power |
+| C-7491 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Nine victims killed overnight in Harpy shadow campaign | Sharp escalation of organized violence |
+| C-7492 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Unsullied patrol pairs are attacked by crossbows and falling masonry | Multiple tactics, possible coordination |
+| C-7493 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Black Fist and Cetherys slain in Mazdhan's Maze | Named casualties |
+| C-7494 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Mossador and Duran crushed beneath river wall | Named casualties, Mossador Missandei's brother |
+| C-7495 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Eladon Goldenhair and Loyal Spear poisoned at routine wine shop | Habitual patrol stop exploited |
+| C-7496 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Grey Worm holds wine shop owner and his daughters | Suspects not identified as killers |
+| C-7497 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany initially orders owner and daughters separately questioned gently | Shows initial uncertainty |
+| C-7498 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Rylona Rhee, Yunkish freedwoman leader, found murdered and fingers severed | Targeted political terror against former slave representative |
+| C-7499 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Moneylender and cobbler also slain in homes | Harpy murders affect civilian freedmen |
+| C-7500 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany changes to sharp questioning after rage | Escalation not linked to new proof of suspect guilt |
+| C-7501 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Skahaz suggests torturing daughters in front of father to extract names | Explicit threatened coercive harm to innocent or unproven suspects |
+| C-7502 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany delegates choice of violent methods to Skahaz | Responsibility cannot be omitted because subordinate executes order |
+| C-7503 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Unsullied withdrawn to palace/wall guarding rather than routine patrol | Security strategy shifts after ambush |
+| C-7504 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany forms new Watch half shaved-head nobles half freedmen | Power shift with potentially divergent loyalties |
+| C-7505 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany authorizes number of recruits Skahaz asks for | Budget and coercive apparatus enlarged |
+| C-7506 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | New blood tax takes hundred gold from each pyramid per freedman killed | Collective punishment finances policing |
+| C-7507 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Skahaz reports Zhak and Merreq noble houses preparing to leave | Reported intention not evidence joining enemies |
+| C-7508 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany allows departure but confiscates gold, food and most goods | Preemptive seizure of private resources |
+| C-7509 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Reznak suggests nobles fear for children | Plausible non-insurgent explanation rejected |
+| C-7510 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany demands hostage boy and girl from each great family | Material hostage policy despite calling them pages/cupbearers |
+| C-7511 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Skahaz explicitly labels them hostages and smiles | Subordinate understands implicit threat |
+| C-7512 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Missandei recalls Mossador catching fish and resting with butterflies | Individualizes dead Unsullied beyond battlefield role |
+| C-7513 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany offers Missandei passage to Naath | Offer, not actual travel |
+| C-7514 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Missandei chooses to remain fearing renewed slaver capture | Choice constrained by external violence |
+| C-7515 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany compares caring for Missandei with her own childhood insecurity | Moral self-understanding |
+| C-7516 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Missandei names Dany mother to freed people, not only dragons | Responsibility exceeds magical weapons |
+| C-7517 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany recognizes she can kill enemies but not feed or heal all subjects | Limits of military power |
+| C-7518 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Daario's status unknown and absence prompts third-betrayal suspicion | Prophecy anxiety not evidence of his betrayal |
+| C-7519 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Quaithe appears by persimmon tree during Daenerys bath | Daenerys's solitary perception; presence not corroborated by guards |
+| C-7520 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Quaithe claims guards would deny that she is present | Telepresence, projection, deception or private vision unresolved |
+| C-7521 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Quaithe announces glass candles burning | Cross-book consistency with observed AFFC Samwell candle |
+| C-7522 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Quaithe predicts pale mare followed by others | Cryptic plague or horse symbolism not yet confirmed |
+| C-7523 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Quaithe names kraken and dark flame | Potential Greyjoy/cleric link, no identity explicitly supplied |
+| C-7524 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Quaithe names lion and griffin | Potential Tyrion/Connington link, not proved by cryptic titles |
+| C-7525 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Quaithe names sun's son and mummer's dragon | Potential Quentyn/Young Griff link, separate identities must be tested |
+| C-7526 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Quaithe commands trust none of them | Unqualified warning may be biased or manipulative |
+| C-7527 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Quaithe warns against perfumed seneschal | Reznak candidate, but title could have alternative referent |
+| C-7528 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Daenerys asks Quaithe to speak plainly and gets no explanation | Practical value of prophecy limited |
+| C-7529 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Quaithe reiterates Undying prophecies | Secondary prompt to existing anxiety |
+| C-7530 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Missandei returns and sees no Quaithe | Independent observation challenges literal physical presence |
+| C-7531 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Daenerys fears inherited madness and briefly doubts her senses | Acknowledged uncertainty, not proof hallucination |
+| C-7532 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany considers arresting Reznak preemptively then rejects it | Resists prophecy-driven persecution in this instance |
+| C-7533 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Guilds accuse former slaves of stealing work through lower prices | Economic conflict after formal emancipation |
+| C-7534 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany preserves protected guild titles only if freed people can enter based on skill | Conditional reform rather than unrestricted guild monopoly |
+| C-7535 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Hizdahr submits seventh plea to reopen pits | Persistence and changing political framing |
+| C-7536 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Hizdahr cuts hair and shaves beard to appear accommodating | Visible adjustment, intent inferred |
+| C-7537 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Reznak, Green Grace, Skahaz and Strong Belwas favor pits for distinct reasons | Multiple institutions and incentives |
+| C-7538 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Barristan proposes safer tourneys as alternative | Compromise Dany thinks public will reject |
+| C-7539 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Seven previously enslaved gladiators ask to fight voluntarily | Challenges simple freedom-means-no-fighting position |
+| C-7540 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Named fighters include Khrazz, Barsena, Camarron, Goghor, Spotted Cat, Ithoke, Belaquo | Individual voices rather than generic mass |
+| C-7541 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Goghor refuses transfer to Dany's army and insists fighting for self | Agency assertion within oppressive legacy |
+| C-7542 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Spotted Cat contrasts luxurious slave life with hungry free poverty | Freedom without livelihood is materially precarious |
+| C-7543 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Hizdahr promises half gate takings to victors | Financial incentive; contract not yet proven enforced |
+| C-7544 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany asks what losers get and hears memorial inscription | Risk asymmetry persists |
+| C-7545 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany postpones decision, does not reopen pits yet | No approval accomplished |
+| C-7546 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Barristan tells of dismissal by Joffrey and escape through two city gates | Character first-person history with identifiable sequence |
+| C-7547 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Barristan says he originally meant to serve Viserys not Dany | Dynastic calculation shifts by events |
+| C-7548 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Barristan says Ned opposed Robert's plan to kill pregnant Dany | Direct contradicts Dany's association of all rebels |
+| C-7549 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany equates rebel group with killers of Rhaenys and Aegon | Emotionally understandable but factually indiscriminate |
+| C-7550 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Mention of slain children makes Dany recall Hazzea | Moral causal connection to dragon harm |
+| C-7551 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Daenerys descends servant stair to pyramid underground pit | Underground physical dragon containment |
+| C-7552 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Rhaegal and Viserion are visibly chained by neck and feet | Captivity not voluntary |
+| C-7553 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Viserion attempts to fly but heavy chains violently slam him down | Growth and suffering amid restraint |
+| C-7554 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Rhaegal breaths hot yellow flame illuminating vault | Observed dragon power and hazard |
+| C-7555 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Chains, collar and pit once held human prisoners | Shared architecture of domination |
+| C-7556 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany fears captive dragons may weaken, fight or become impossible to contain | Open dangers, not outcomes |
+| C-7557 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Hazzea named four years old by father | His claim, not independent birth record |
+| C-7558 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Shavepate says father or Harpy may have burned child to frame dragon | Rival hypothesis from political adviser |
+| C-7559 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany reasons father's private timing makes propaganda less likely | Evidence-weighted assessment, not witness of Drogon attack |
+| C-7560 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany pays blood price a hundred times value of a lamb | Attempt at material reparation cannot restore life |
+| C-7561 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany orders memorial candles and yearly support for surviving children | Concrete attempted restitution |
+| C-7562 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany forbids father to tell dragon-killing story | Suppresses information to protect political rule |
+| C-7563 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Reznak proposes false cover stories like snakebite or wolf | Public deception directed at bereaved family |
+| C-7564 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Viserion was lured into pit with oxen and chained asleep | Specific earlier capture method |
+| C-7565 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Rhaegal required heavy net and three days of struggle; six burned men | Actual human cost of chaining dragon |
+| C-7566 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Drogon avoided three traps; forty men tried and four died | Known dragon casualties beyond Hazzea |
+| C-7567 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Drogon last seen flying north toward Dothraki sea | Physical location unresolved at chapter end |
+| C-7568 | [ADWD 11](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/11-daenerys.md) | Dany weighs her identity as mother of dragons against human deaths | Central moral and strategic conflict |
+| C-7569 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Reek bites into a living rat in dungeon from desperate hunger | Direct starvation and animal consumption |
+| C-7570 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Prisoner's jaw has holes where teeth were pulled | Mutilation affects speech and eating |
+| C-7571 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | He says he has gone two or three days without food but cannot count time | Confinement prevents reliable chronology |
+| C-7572 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | He remembers Lady Hornwood starved and eaten her fingers | Ramsay's established precedent of torture |
+| C-7573 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Prisoner hides rat fearing further mutilation | Conditioned trauma |
+| C-7574 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Other cells contain people heard screaming, especially women | Wider torture system, not only protagonist |
+| C-7575 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Two boys enter with keys and torch and mock prisoner | Predatory behavior learned by Frey children |
+| C-7576 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Boys identify him as Reek after he cannot remember name | Identity imposed through fear |
+| C-7577 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Both boys are eight and named Walder Frey | Big Walder physically little, Little Walder bigger |
+| C-7578 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Prisoner remembers he once bore another name | Narrative creates false-name tension |
+| C-7579 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | He considers overpowering children but assumes it is trap | Severe learned helplessness, capacity reduced |
+| C-7580 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | He remembers prior flight attempt with Kyra | Retrospective reconstruction of Ramsay's control |
+| C-7581 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Kyra said she'd stolen keys and knew unguarded postern | Escape opportunity staged |
+| C-7582 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Gaoler appeared drunk and gate open | Controlled environment enabled trap |
+| C-7583 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Prisoner and Kyra cross Weeping Water and kiss in apparent freedom | Hope deliberately generated before pursuit |
+| C-7584 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Ramsay hunted pair with hounds and caught them by dawn | Sadistic use of human quarry |
+| C-7585 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Kyra throws stone at Ramsay as he orders punishment | Resistance but fate after seizure unshown here |
+| C-7586 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Prisoner blames Kyra for not separating rather than hunter | Internalization of abuse and guilt |
+| C-7587 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Frey boys say Ramsay enjoys Reek's stench | Dehumanization used for court spectacle |
+| C-7588 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Ramsay was legitimated from Snow to Bolton by Tommen | Political regime publicly validates torturer |
+| C-7589 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Reek fears accidentally calling him Snow | Triggers threatened retaliation |
+| C-7590 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Prisoner reflects lost track of years but notes boys still eight | Internal clock inference rather than exact elapsed months |
+| C-7591 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Moon rises above Dreadfort triangular merlons | Specific setting and weather |
+| C-7592 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Prisoner is reduced to skeletal hands and torn clothes | Physical deprivation plainly observed |
+| C-7593 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Ramsay's hall has skeletal-hand torches and rows of armed retainers | Institutional terror architecture |
+| C-7594 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Named favorites include Ben Bones, Damon Dance-for-Me, Grunt, Sour Alyn, Skinner, Yellow Dick | Potential perpetrators and witnesses |
+| C-7595 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Grunt lost tongue for speech to Roose Bolton | Lord father's harsh discipline also evident |
+| C-7596 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Two visiting old lords sit with Ramsay | Audience creates political utility for captive |
+| C-7597 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Ramsay wears pink, black and blood-drop garnet | House imagery emphasizes torture theme |
+| C-7598 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Ramsay has very pale nearly colorless eyes | Physical likeness to Roose |
+| C-7599 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Ramsay falsely calls prisoner long-serving Reek assigned by his father | Cover story, incompatible with actual Theon timeline |
+| C-7600 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Mail-clad lord recognizes Stark's former ward | Direct identity confirmation of captive as Theon Greyjoy |
+| C-7601 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Crooked lord also recognizes formerly smiling ward | Independent social recognition |
+| C-7602 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Ramsay boasts he has removed some of Theon's teeth | Admission of torture as entertainment |
+| C-7603 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Reek verbally says he was bad and deserves punishment | Coerced self-description, not reliable adjudication |
+| C-7604 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Ramsay describes rat as property of his father | Control extends even to prisoner's survival food |
+| C-7605 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Prisoner enumerates two fingers missing left and one right | Specific anatomical losses |
+| C-7606 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Prisoner has lost three toes left and one right | Specific anatomical losses, not merely generic mutilation |
+| C-7607 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Ramsay flays digits then waits for victim to beg amputation | Structured technique of coercion and pain |
+| C-7608 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Attempting to end pain by biting own finger cost additional toe | Punishment for exercising bodily control |
+| C-7609 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Prisoner repeatedly asserts Ramsay merciful despite evidence | Obvious trauma-driven rationalization |
+| C-7610 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Mail-clad lord recommends executing prisoner for betraying Starks | Stark-ward identity remains political liability |
+| C-7611 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Ramsay announces his upcoming marriage to a girl he calls Arya Stark | Court announcement, not verified bride identity |
+| C-7612 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Theon remembers real Arya's appearance and childhood names | Potential basis for later detecting impersonation |
+| C-7613 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Ramsay says bride to be Lady of Winterfell under his rule | Stark legitimacy appropriated through marriage |
+| C-7614 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Ramsay promises better food, washing and clothes for assignment | Conditional restoration of health for coercive use |
+| C-7615 | [ADWD 12](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/12-reek.md) | Ramsay says he is riding to war to fetch his virgin bride | Future operation, neither marriage nor journey yet completed |
+| C-7616 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Coldhands detects hostile presence near hillside as daylight fails | Sense of Others or wights without naming exact detection mechanism |
+| C-7617 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Summer fears unseen enemy and ravens cry warning | Multiple animal alarms |
+| C-7618 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Coldhands says approaching cold draws dead and warmth attracts them | Character tactical knowledge, specific mechanisms untested |
+| C-7619 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Coldhands says second cave entrance three leagues north via sinkhole | Alternative impractical for wounded party |
+| C-7620 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Entrance high between two weirwoods above steep snow-covered slope | Detailed spatial challenge |
+| C-7621 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Coldhands says cave is warded and enemies cannot enter | Claim later supported by survival inside, exact perimeter unknown |
+| C-7622 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Coldhands cannot pass same cave ward | Limit applies to undead ally too, not only hostile wights |
+| C-7623 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Coldhands says Others leave no tracks in snow | Specific character lore, not independent measurement |
+| C-7624 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Only about twelve ravens remain from earlier large murder | Attrition or reconnaissance deployment uncertain |
+| C-7625 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Jojen cannot stand unassisted and Meera carries him | Severe deterioration preceding arrival |
+| C-7626 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Elk died twelve days previously after repeated collapse | Concrete travel chronology |
+| C-7627 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Coldhands slit dying elk's throat with foreign-language blessing | Mercy killing and ambiguous ritual |
+| C-7628 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Elk supplied seven days of food and Bran ate in both human and Summer skin | Known animal meat distinct from prior ambiguous sow |
+| C-7629 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Bran grieves for elk and perceives helplessness as disabled boy | Emotion and dependence |
+| C-7630 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Meera stays behind with Jojen while Hodor takes Bran uphill | Party splits under attack risk |
+| C-7631 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Coldhands catches Hodor when he slips | Direct aid despite undead nature |
+| C-7632 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Summer smells danger at eighty yards from entrance | Close-range defensive foreshadowing |
+| C-7633 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Faint fire appears inside cave as darkness falls | Visible sanctuary and lure |
+| C-7634 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Wight's hand emerges from under untouched snow and grabs Hodor's leg | Ambush, showing footprints insufficient detector |
+| C-7635 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Hodor and Bran tumble with Bran's basket crushed | Human vulnerability under attack |
+| C-7636 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Multiple wights rise beneath snow wearing skins, black and no clothing | Coordinated corpses including Watch clothing |
+| C-7637 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | All observed hostile wights have blue luminous eyes and black hands | Clear distinction from living human attackers |
+| C-7638 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Three wights attack Coldhands, who cuts with longsword | Undead-versus-undead conflict |
+| C-7639 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | A Watch-cloaked wight grabs Bran | Former black brother reanimated as enemy |
+| C-7640 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Summer tears off wight arm and throat | Damage does not necessarily stop animated limb |
+| C-7641 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Detached wight hand continues wriggling | Undead animation persists post-disarticulation |
+| C-7642 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Bran crawls toward entrance unable to rely on legs | Physical bravery and survival autonomy |
+| C-7643 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Bran skinchanges Hodor abruptly amid combat | Nonconsensual possession used to preserve party |
+| C-7644 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Hodor's mind whimpers within as Bran takes control | Direct unwilling human consciousness persists |
+| C-7645 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Bran wields Hodor's rusty crypt sword against dead man | Old object becomes weapon |
+| C-7646 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Bran severs wight's head but disembodied hands continue attacking | Decapitation not equivalent to fire termination |
+| C-7647 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Meera stabs wights with frog spear and rescues brother | Ordinary steel temporarily checks but does not kill them |
+| C-7648 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Bran inside Hodor lifts Jojen and follows Meera uphill | Possession simultaneously protective and ethical violation |
+| C-7649 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Bran briefly wants to tell Meera he loves her while in Hodor's body | Crucial identity slippage and bodily autonomy danger |
+| C-7650 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Bran sees his own body abandoned face down in snow | Split-body vulnerability and second-life anxiety |
+| C-7651 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Flaming wights appear above from torch-bearing rescuer | Fire power effective against corpse assault |
+| C-7652 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | A small figure initially mistaken for Arya darts through flames | Projected familial longing, not actual Arya |
+| C-7653 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Cave ravens stream outward during rescue | Possible surveillance/defense coordination |
+| C-7654 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Falling snow from tree covers Bran near burning wight | Coincidental protection or controlled tree movement unresolved |
+| C-7655 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Bran wakes within cave on pine needles beside fire | Safe arrival confirmed |
+| C-7656 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Rescuer says fire burns dead and appears young female | Speech indicates long-lived nonhuman actor |
+| C-7657 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | She has dappled skin, slit gold-green eyes and leaves for cloak | Characteristic child-of-the-forest traits |
+| C-7658 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | She rejects First Men term children as misleading | Cultural name belongs to outside group |
+| C-7659 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | She says her people's name means singers of earth | Self-designation, not proof universe's literal creation song |
+| C-7660 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | She claims ten-thousand-year singing history | Chronology from participant claim |
+| C-7661 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | She says she lived among men for two centuries and was born in time of dragon | Exceptional lifespan report, not independently dated |
+| C-7662 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | She switches into Common Tongue specifically for Bran | Cross-cultural mediation |
+| C-7663 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | She says Coldhands cannot accompany them because he died long ago | Independent explicit undead confirmation |
+| C-7664 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | She directs party down branching underground caves | Transition from surface danger to hidden sanctuary |
+| C-7665 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Jojen wakes and says he had strange dream | Dream content withheld |
+| C-7666 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Underground roots are white, thick and pervasive | Weirwood system physically present beneath cave |
+| C-7667 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Hidden watching eyes appear in side passages | Other children or animal watchers not individually identified |
+| C-7668 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Cave contains animal, human, giant and small nonhuman bones | Evidence of multiple historic deaths, not sacrifice proof |
+| C-7669 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Roots thread through skulls and skeletal remains | Unusual integration of bodies and tree ecology |
+| C-7670 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Natural rock bridge spans chasm with subterranean rushing river | Constrained physical access to final chamber |
+| C-7671 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Torchlight shifts and gives way to black-white coloration | Possible magic, perception and light interaction unknown |
+| C-7672 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Pale one-eyed lord is entwined by roots on living weirwood throne | Actual greenseer finally encountered |
+| C-7673 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | One eye is red while other socket contains growing white root | Bloodraven identification clue, not personal name given |
+| C-7674 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Pale lord wears decayed black clothes and says once he was a crow | Connection to Night's Watch but biography incomplete |
+| C-7675 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Pale lord says he watched Bran, Ned and earlier childhood events | Power claim, needs corroboration with later visions |
+| C-7676 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Greenseer expresses confusion at phrase three-eyed crow then accepts former crow identity | Narrative identity ambiguity should be retained |
+| C-7677 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Greenseer says late hour and long-awaited arrival | Urgency, cause of lateness unspecified |
+| C-7678 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Bran asks whether greenseer can restore his legs | Central childhood hope motivates journey |
+| C-7679 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Greenseer explicitly refuses to restore ability to walk | Critical outcome, not promised healing |
+| C-7680 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Greenseer instead promises Bran can fly | Prophetic or magical claim, actual mechanism future unknown |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -7533,4 +7797,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and eighty-one first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and eighty-five first-pass chapters listed in the coverage tracker.
