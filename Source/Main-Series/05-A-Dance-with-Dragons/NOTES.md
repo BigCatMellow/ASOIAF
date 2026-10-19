@@ -246,3 +246,11 @@ Important reconciliations: the missing crypt swords have a witnessed mundane exp
 - [48 Jaime](chapters/48-jaime.md): **Blackwood-Bracken surrender, hostage bargains, ancient feud and Brienne's unverified Arya claim.** 75 observations (C-9875–C-9949), major arc, rivals and future source tests.
 
 Do not convert the unseen horn into proof Stannis is at Winterfell; in ADWD 42 his main army is snowbound at the lakes. Tyrion's sale and emerging Brown Ben connection do not establish his rescue. ADWD 48 ends with Brienne's **unverified** invitation to Jaime, not with Jaime following her.
+
+## Sequential close-reading first pass — 2026-10-19 (ADWD 49–51)
+
+- [49 Jon](chapters/49-jon.md): **Alys and Sigorn's public alliance, Jon's constrained Karstark custody, Hardhome's hazardous relief fleet, and Tormund's return.** 60 observations (C-9950–C-10009).
+- [50 Daenerys](chapters/50-daenerys.md): **A peace that preserves slavery and pits, reciprocal hostages, covert sellsword contingencies, and Quentyn's dangerous access to the dragons.** 60 observations (C-10010–C-10069).
+- [51 Theon](chapters/51-theon.md): **Frey–Manderly rupture, Jeyne's extraction, and Theon's jump rather than recapture.** 65 observations (C-10070–C-10134).
+
+Do not read Melisandre's snow as a death report, Plumm's survival argument as a durable alliance, Quentyn's asserted dragon blood as proof of dragonriding, or the horn beyond Winterfell as proof of Stannis's location. The final jump establishes an attempt, not survival.

@@ -10070,6 +10070,192 @@
 | C-9948 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Brienne says Hound will kill girl otherwise | Possible coerced threat, no direct Hound sight |
 | C-9949 | [ADWD 48](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/48-jaime.md) | Chapter ends before Jaime chooses to follow | Important cliffhanger boundary |
 
+| C-9950 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Fire wedding joins Alys Karstark and Sigorn | See chapter ledger for evidence status and verification question |
+| C-9951 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Snow-marriage omen is Alys's folk belief | See chapter ledger for evidence status and verification question |
+| C-9952 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Queen's court shows uneven religious fervor | See chapter ledger for evidence status and verification question |
+| C-9953 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Marsh, Yarwyck, and Cellador absent/withdrawn | See chapter ledger for evidence status and verification question |
+| C-9954 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Alys wears a black Watch maiden cloak | See chapter ledger for evidence status and verification question |
+| C-9955 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Sigorn's public fire oath | See chapter ledger for evidence status and verification question |
+| C-9956 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Alys's reciprocal oath | See chapter ledger for evidence status and verification question |
+| C-9957 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Jon gives Alys as guardian | See chapter ledger for evidence status and verification question |
+| C-9958 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Cregan pursued her with armed men | See chapter ledger for evidence status and verification question |
+| C-9959 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Jon killed an attacking pursuer and jailed party | See chapter ledger for evidence status and verification question |
+| C-9960 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | House Thenn receives improvised arms | See chapter ledger for evidence status and verification question |
+| C-9961 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Sigorn gently fastens bride cloak | See chapter ledger for evidence status and verification question |
+| C-9962 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Selyse seeks a second fire wedding | See chapter ledger for evidence status and verification question |
+| C-9963 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Melisandre leaves feast for visions | See chapter ledger for evidence status and verification question |
+| C-9964 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Patchface's opaque sea imagery | See chapter ledger for evidence status and verification question |
+| C-9965 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Melisandre sees blood/skulls around Patchface | See chapter ledger for evidence status and verification question |
+| C-9966 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Her searches for Stannis and Mance show snow | See chapter ledger for evidence status and verification question |
+| C-9967 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Jon sent Arnolf warning and Tycho guides | See chapter ledger for evidence status and verification question |
+| C-9968 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Stannis-as-Azor-Ahai is Melisandre's claim | See chapter ledger for evidence status and verification question |
+| C-9969 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Melisandre admits wrong reading of vision | See chapter ledger for evidence status and verification question |
+| C-9970 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | She repeats warning of danger to Jon | See chapter ledger for evidence status and verification question |
+| C-9971 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Cregan held in ice cell | See chapter ledger for evidence status and verification question |
+| C-9972 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Cregan invokes alleged marriage pact | See chapter ledger for evidence status and verification question |
+| C-9973 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Jon rejects hospitality claim | See chapter ledger for evidence status and verification question |
+| C-9974 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Cregan reports Harrion dead without proof | See chapter ledger for evidence status and verification question |
+| C-9975 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Two Karhold men corroborate Alys's story | See chapter ledger for evidence status and verification question |
+| C-9976 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Jon offers black cloaks for surrender | See chapter ledger for evidence status and verification question |
+| C-9977 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Cregan refuses | See chapter ledger for evidence status and verification question |
+| C-9978 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Jon fears execution looks anti-northern | See chapter ledger for evidence status and verification question |
+| C-9979 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Watch food stores: butter nearly gone | See chapter ledger for evidence status and verification question |
+| C-9980 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Flint/Norrey arrive with men and wet nurses | See chapter ledger for evidence status and verification question |
+| C-9981 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Jon reads political purpose in visit | See chapter ledger for evidence status and verification question |
+| C-9982 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | They do not refuse wedding wine | See chapter ledger for evidence status and verification question |
+| C-9983 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Shared dancing briefly mixes factions | See chapter ledger for evidence status and verification question |
+| C-9984 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Jon sees Patrek hostile to Satin | See chapter ledger for evidence status and verification question |
+| C-9985 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Jon describes Thenn institutions | See chapter ledger for evidence status and verification question |
+| C-9986 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Alys sees Thenns as northern-like | See chapter ledger for evidence status and verification question |
+| C-9987 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Alys reports Karhold harvest failure | See chapter ledger for evidence status and verification question |
+| C-9988 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Jon offers Watch refuge/recruitment | See chapter ledger for evidence status and verification question |
+| C-9989 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Alys says Karhold remembers | See chapter ledger for evidence status and verification question |
+| C-9990 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Jon feeds Leathers and Wun Wun | See chapter ledger for evidence status and verification question |
+| C-9991 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Eleven ships sail for Hardhome | See chapter ledger for evidence status and verification question |
+| C-9992 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Pyke warns rescue may drown refugees | See chapter ledger for evidence status and verification question |
+| C-9993 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Fleet takes ravens and Maester Harmune | See chapter ledger for evidence status and verification question |
+| C-9994 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Jon distrusts Hewett's political ties | See chapter ledger for evidence status and verification question |
+| C-9995 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Axell presses marriage of Val | See chapter ledger for evidence status and verification question |
+| C-9996 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Axell's reproductive language about Val | See chapter ledger for evidence status and verification question |
+| C-9997 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Jon rejects accusation he holds Val | See chapter ledger for evidence status and verification question |
+| C-9998 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | First horn signals returning rangers | See chapter ledger for evidence status and verification question |
+| C-9999 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Second horn signals wildlings | See chapter ledger for evidence status and verification question |
+| C-10000 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Jon identifies Tormund's arrival | See chapter ledger for evidence status and verification question |
+| C-10001 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Ghost ignores cold | See chapter ledger for evidence status and verification question |
+| C-10002 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Fire and snow imagery frame rite | See chapter ledger for evidence status and verification question |
+| C-10003 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Alys evokes Arya for Jon | See chapter ledger for evidence status and verification question |
+| C-10004 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Cregan weaponizes shared Stark/Karstark blood | See chapter ledger for evidence status and verification question |
+| C-10005 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Jon invokes uncertain future Stannis judgment | See chapter ledger for evidence status and verification question |
+| C-10006 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Marriage gives free folk a southern stake | See chapter ledger for evidence status and verification question |
+| C-10007 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Storm risk persists for Hardhome fleet | See chapter ledger for evidence status and verification question |
+| C-10008 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Food competition binds Jon's coalition | See chapter ledger for evidence status and verification question |
+| C-10009 | [ADWD 49](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/49-jon.md) | Tormund arrives before negotiations | See chapter ledger for evidence status and verification question |
+| C-10010 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Peace feast celebrates restored pits | See chapter ledger for evidence status and verification question |
+| C-10011 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany privately hates the compromise | See chapter ledger for evidence status and verification question |
+| C-10012 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Yunkish warships still control access | See chapter ledger for evidence status and verification question |
+| C-10013 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Slave market stands outside Meereen | See chapter ledger for evidence status and verification question |
+| C-10014 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Hizdahr promises it is temporary | See chapter ledger for evidence status and verification question |
+| C-10015 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dothraki reports imply incoming captives | See chapter ledger for evidence status and verification question |
+| C-10016 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany predicts mass slave export | See chapter ledger for evidence status and verification question |
+| C-10017 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Pit games require lethal matches | See chapter ledger for evidence status and verification question |
+| C-10018 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Hazzea informs Dany's compromise | See chapter ledger for evidence status and verification question |
+| C-10019 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Yurkhaz is carried by slaves | See chapter ledger for evidence status and verification question |
+| C-10020 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Four Yunkish sellsword companies attend | See chapter ledger for evidence status and verification question |
+| C-10021 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Captains named: Tatters, Gylo, Bloodbeard | See chapter ledger for evidence status and verification question |
+| C-10022 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Bloodbeard abuses serving women | See chapter ledger for evidence status and verification question |
+| C-10023 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany's safe-conduct protects delegates | See chapter ledger for evidence status and verification question |
+| C-10024 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Meereen sends seven hostages | See chapter ledger for evidence status and verification question |
+| C-10025 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Daario becomes a hostage | See chapter ledger for evidence status and verification question |
+| C-10026 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Hizdahr replaces Skahaz with Marghaz | See chapter ledger for evidence status and verification question |
+| C-10027 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany infers factional rationale | See chapter ledger for evidence status and verification question |
+| C-10028 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Daario's anger endangers peace | See chapter ledger for evidence status and verification question |
+| C-10029 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany resolves emotional separation from Daario | See chapter ledger for evidence status and verification question |
+| C-10030 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Leftovers go to poor at Dany's order | See chapter ledger for evidence status and verification question |
+| C-10031 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Enslaved castrati entertain court | See chapter ledger for evidence status and verification question |
+| C-10032 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Hizdahr proposes singers as a gift | See chapter ledger for evidence status and verification question |
+| C-10033 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Pyramid performance troubles Dany | See chapter ledger for evidence status and verification question |
+| C-10034 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Brown Ben meets Dany | See chapter ledger for evidence status and verification question |
+| C-10035 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Plumm denies mistreatment/pay issue | See chapter ledger for evidence status and verification question |
+| C-10036 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | He says survival drove defection | See chapter ledger for evidence status and verification question |
+| C-10037 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | His battlefield story explains risk aversion | See chapter ledger for evidence status and verification question |
+| C-10038 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Plumm warns against trusting sellswords | See chapter ledger for evidence status and verification question |
+| C-10039 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany imagines later retaliation | See chapter ledger for evidence status and verification question |
+| C-10040 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Siege camp layout encircles Meereen | See chapter ledger for evidence status and verification question |
+| C-10041 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Slave market remains central grievance | See chapter ledger for evidence status and verification question |
+| C-10042 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany asks about removing Plumm | See chapter ledger for evidence status and verification question |
+| C-10043 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Barristan cannot name a reliable agent | See chapter ledger for evidence status and verification question |
+| C-10044 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany sees treachery as usable | See chapter ledger for evidence status and verification question |
+| C-10045 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | She defers conspicuous recruitment meeting | See chapter ledger for evidence status and verification question |
+| C-10046 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | She frees Pretty Meris as signal | See chapter ledger for evidence status and verification question |
+| C-10047 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | She orders soundings of other companies | See chapter ledger for evidence status and verification question |
+| C-10048 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Barristan warns against Bloodbeard | See chapter ledger for evidence status and verification question |
+| C-10049 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Bloody flux reportedly spreads in enemy camps | See chapter ledger for evidence status and verification question |
+| C-10050 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany recalls Quaithe's pale mare | See chapter ledger for evidence status and verification question |
+| C-10051 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Barristan proposes Martell path | See chapter ledger for evidence status and verification question |
+| C-10052 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Quentyn's force is militarily inadequate | See chapter ledger for evidence status and verification question |
+| C-10053 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany will not abandon Meereen for marriage | See chapter ledger for evidence status and verification question |
+| C-10054 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany brings Quentyn to dragons | See chapter ledger for evidence status and verification question |
+| C-10055 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Three-head remark leaves ambiguity | See chapter ledger for evidence status and verification question |
+| C-10056 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany calls Quentyn's aim fire and blood | See chapter ledger for evidence status and verification question |
+| C-10057 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Viserion has broken/melted chains | See chapter ledger for evidence status and verification question |
+| C-10058 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany fears enclosure failure | See chapter ledger for evidence status and verification question |
+| C-10059 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany says no rider flies two dragons | See chapter ledger for evidence status and verification question |
+| C-10060 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Quentyn claims Targaryen descent | See chapter ledger for evidence status and verification question |
+| C-10061 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany warns Quentyn about Daario/Hizdahr | See chapter ledger for evidence status and verification question |
+| C-10062 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Quentyn refuses flight | See chapter ledger for evidence status and verification question |
+| C-10063 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Quentyn sees dragons' captivity directly | See chapter ledger for evidence status and verification question |
+| C-10064 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Hizdahr desires a son | See chapter ledger for evidence status and verification question |
+| C-10065 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany interprets Mirri prophecy as infertility | See chapter ledger for evidence status and verification question |
+| C-10066 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | She conceals that belief | See chapter ledger for evidence status and verification question |
+| C-10067 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany still longs for Daario | See chapter ledger for evidence status and verification question |
+| C-10068 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Missandei finds Dany crying | See chapter ledger for evidence status and verification question |
+| C-10069 | [ADWD 50](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/50-daenerys.md) | Dany asks not to be alone | See chapter ledger for evidence status and verification question |
+| C-10070 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Snow hides dawn and outside enemy | See chapter ledger for evidence status and verification question |
+| C-10071 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | No attack follows night vigil | See chapter ledger for evidence status and verification question |
+| C-10072 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Theon fears Abel's rescue plan | See chapter ledger for evidence status and verification question |
+| C-10073 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Bolton court gathers in hall | See chapter ledger for evidence status and verification question |
+| C-10074 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Theon infers Ramsay's anger | See chapter ledger for evidence status and verification question |
+| C-10075 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Ramsay's torture threat drives fear | See chapter ledger for evidence status and verification question |
+| C-10076 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Theon knows bride is Jeyne, not Arya | See chapter ledger for evidence status and verification question |
+| C-10077 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | He withheld truth from Abel | See chapter ledger for evidence status and verification question |
+| C-10078 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Little Walder's butchered body arrives | See chapter ledger for evidence status and verification question |
+| C-10079 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Big Walder reports a gambling debt | See chapter ledger for evidence status and verification question |
+| C-10080 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | White Harbor dice link is unverified | See chapter ledger for evidence status and verification question |
+| C-10081 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Hosteen accuses Manderly | See chapter ledger for evidence status and verification question |
+| C-10082 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Manderly's response is not confession | See chapter ledger for evidence status and verification question |
+| C-10083 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Hosteen assaults Manderly | See chapter ledger for evidence status and verification question |
+| C-10084 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Frey-Manderly clash kills men | See chapter ledger for evidence status and verification question |
+| C-10085 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Ramsay kills dying Luton | See chapter ledger for evidence status and verification question |
+| C-10086 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Roose imposes separation | See chapter ledger for evidence status and verification question |
+| C-10087 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Hosteen is ordered out against Stannis | See chapter ledger for evidence status and verification question |
+| C-10088 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Manderly survives immediate wound | See chapter ledger for evidence status and verification question |
+| C-10089 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Frey sortie faces storm | See chapter ledger for evidence status and verification question |
+| C-10090 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Theon and Rowan dispute killings | See chapter ledger for evidence status and verification question |
+| C-10091 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Rowan denies spearwife responsibility | See chapter ledger for evidence status and verification question |
+| C-10092 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Theon sees strategic effect of murders | See chapter ledger for evidence status and verification question |
+| C-10093 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Theon denies killing Stark boys | See chapter ledger for evidence status and verification question |
+| C-10094 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | He remembers miller's sons and spares Rowan | See chapter ledger for evidence status and verification question |
+| C-10095 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Godswood supports Theon identity | See chapter ledger for evidence status and verification question |
+| C-10096 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Six spearwives disguise as servants | See chapter ledger for evidence status and verification question |
+| C-10097 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Squirrel claims climbing skill | See chapter ledger for evidence status and verification question |
+| C-10098 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Jeyne/Squirrel size enables swap | See chapter ledger for evidence status and verification question |
+| C-10099 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Food guards make kitchen route risky | See chapter ledger for evidence status and verification question |
+| C-10100 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Reek status gains access | See chapter ledger for evidence status and verification question |
+| C-10101 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Theon requests bath water | See chapter ledger for evidence status and verification question |
+| C-10102 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Delay and silence risk exposure | See chapter ledger for evidence status and verification question |
+| C-10103 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Theon lies about usual servants | See chapter ledger for evidence status and verification question |
+| C-10104 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Frey and Manderly troops watch each other | See chapter ledger for evidence status and verification question |
+| C-10105 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Dreadfort guards admit party | See chapter ledger for evidence status and verification question |
+| C-10106 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Winterfell memories renew guilt | See chapter ledger for evidence status and verification question |
+| C-10107 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Sour Alyn/Grunt open chamber | See chapter ledger for evidence status and verification question |
+| C-10108 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Jeyne hides under wolfskins | See chapter ledger for evidence status and verification question |
+| C-10109 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Jeyne says no brothers remain | See chapter ledger for evidence status and verification question |
+| C-10110 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Rowan offers Jon as destination | See chapter ledger for evidence status and verification question |
+| C-10111 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Jeyne fears a Ramsay test | See chapter ledger for evidence status and verification question |
+| C-10112 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Jeyne reports conditioning and mutilation fear | See chapter ledger for evidence status and verification question |
+| C-10113 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Theon uses her true name | See chapter ledger for evidence status and verification question |
+| C-10114 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Bite marks visibly injure Jeyne | See chapter ledger for evidence status and verification question |
+| C-10115 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Squirrel replaces Jeyne in bed | See chapter ledger for evidence status and verification question |
+| C-10116 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Guard avoids inspecting Jeyne | See chapter ledger for evidence status and verification question |
+| C-10117 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Theon pities men facing Ramsay | See chapter ledger for evidence status and verification question |
+| C-10118 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Snow maze conceals escape | See chapter ledger for evidence status and verification question |
+| C-10119 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Rescuers split into two groups | See chapter ledger for evidence status and verification question |
+| C-10120 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Halfgate limits route | See chapter ledger for evidence status and verification question |
+| C-10121 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Theon says his name aloud | See chapter ledger for evidence status and verification question |
+| C-10122 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Holly kills first guard | See chapter ledger for evidence status and verification question |
+| C-10123 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Frenya kills second guard | See chapter ledger for evidence status and verification question |
+| C-10124 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Jeyne's scream ends stealth | See chapter ledger for evidence status and verification question |
+| C-10125 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Lowered drawbridge permits exit | See chapter ledger for evidence status and verification question |
+| C-10126 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Frenya stays to delay pursuers | See chapter ledger for evidence status and verification question |
+| C-10127 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Theon carries Jeyne up icy stair | See chapter ledger for evidence status and verification question |
+| C-10128 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Missing rope traps escapees | See chapter ledger for evidence status and verification question |
+| C-10129 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Crossbows kill Holly | See chapter ledger for evidence status and verification question |
+| C-10130 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Horn source remains unverified | See chapter ledger for evidence status and verification question |
+| C-10131 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Pursuers close from both sides | See chapter ledger for evidence status and verification question |
+| C-10132 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Theon fears Ramsay's recapture | See chapter ledger for evidence status and verification question |
+| C-10133 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Theon jumps with Jeyne | See chapter ledger for evidence status and verification question |
+| C-10134 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Identity recovery remains unproven | See chapter ledger for evidence status and verification question |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
