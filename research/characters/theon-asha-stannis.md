@@ -100,4 +100,6 @@ The narrative temptation is to make all three cooperate instantly and deliver St
 
 ## Work remaining
 
+**End-of-ADWD reconciliation update (2026-10-19):** The delivery state of Jon’s Karstark warning remains unshown, while Theon/Jeyne’s arrival is verified only through Asha’s POV. See [North/Wall endpoint handoff audit](../reconciliation/north-wall-endpoint-handoff.md); do not give Stannis either a completed debrief or a received warning before evidence supplies it.
+
 This is now a **cross-book event-pass**, but not a complete fine-grained psychological reading. Before choosing a Theon POV opener, inspect the dialogue in ACOK 50/56 and ADWD 37/46 for his shifting distinction between fear, shame, and self-protection. Read Stannis's decision to aid the Wall in ASOS through Davos against the ADWD 62 sacrifice. Test cross-camp news delivery in the [chronology](../north-wall-dependencies.md).

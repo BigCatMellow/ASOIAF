@@ -62,4 +62,4 @@
 - Avoid automatic 'pack telepathy' and instantaneous coordination via Bran.
 - **AFFC/ADWD overlap:** don't infer identical calendar dates from consecutive book chapters.
 
-**Next plan:** Build a localized witness/information ledger for Robb's will and the false Arya, then draft branch tests where a single character learns *one* corrected identity and must decide whether to share it.
+**Reconciliation update (2026-10-19):** [North/Wall endpoint handoff audit](../reconciliation/north-wall-endpoint-handoff.md) now distinguishes the dispatched Karstark warning, the received Pink Letter, and the verified arrival of Theon/Jeyne at Stannis’s camp. It does not convert any unshown receipt or interrogation into fact.
