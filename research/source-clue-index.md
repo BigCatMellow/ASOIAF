@@ -10460,6 +10460,37 @@
 | C-10333 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Dany absence changes political claims | See chapter ledger for evidence status and verification question |
 | C-10334 | [ADWD 55](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/55-the-queensguard.md) | Barristan chooses preparation | See chapter ledger for evidence status and verification question |
 
+| C-10335 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Fleet reduced to fifty-four ships | See chapter ledger for evidence status and verification question |
+| C-10336 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Victarion departs before stragglers arrive | See chapter ledger for evidence status and verification question |
+| C-10337 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Volantene threat is inferred | See chapter ledger for evidence status and verification question |
+| C-10338 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Victarion covets Daenerys | See chapter ledger for evidence status and verification question |
+| C-10339 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Isle omens lack proof | See chapter ledger for evidence status and verification question |
+| C-10340 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Hand infection is visible | See chapter ledger for evidence status and verification question |
+| C-10341 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Poison theories are unsupported | See chapter ledger for evidence status and verification question |
+| C-10342 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Kerwin recommends amputation | See chapter ledger for evidence status and verification question |
+| C-10343 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Moqorro's sea survival is unusual | See chapter ledger for evidence status and verification question |
+| C-10344 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Moqorro calls himself red priest | See chapter ledger for evidence status and verification question |
+| C-10345 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Vole reports prophecy | See chapter ledger for evidence status and verification question |
+| C-10346 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Fire vision shows black strings | See chapter ledger for evidence status and verification question |
+| C-10347 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Moqorro offers treatment | See chapter ledger for evidence status and verification question |
+| C-10348 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Victarion accepts treatment | See chapter ledger for evidence status and verification question |
+| C-10349 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Crew hear barred-cabin sounds | See chapter ledger for evidence status and verification question |
+| C-10350 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Monkeys flee during ritual | See chapter ledger for evidence status and verification question |
+| C-10351 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Hand reappears charred and smoking | See chapter ledger for evidence status and verification question |
+| C-10352 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Kerwin's death is ordered | See chapter ledger for evidence status and verification question |
+| C-10353 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Ambush is Victarion's battle plan | See chapter ledger for evidence status and verification question |
+| C-10354 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Dusky woman remains Euron's gift | See chapter ledger for evidence status and verification question |
+| C-10355 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Ironborn slavery distinction | See chapter ledger for evidence status and verification question |
+| C-10356 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Ravens are not sent to Euron | See chapter ledger for evidence status and verification question |
+| C-10357 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Euron-magic theory unproved | See chapter ledger for evidence status and verification question |
+| C-10358 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Permanent cure unproved | See chapter ledger for evidence status and verification question |
+| C-10359 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Mission conflicts weaken it | See chapter ledger for evidence status and verification question |
+| C-10360 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Battle logistics unresolved | See chapter ledger for evidence status and verification question |
+| C-10361 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Prophetic symbols uncertain | See chapter ledger for evidence status and verification question |
+| C-10362 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Kerwin execution unshown | See chapter ledger for evidence status and verification question |
+| C-10363 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Claims require challenge | See chapter ledger for evidence status and verification question |
+| C-10364 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Victarion is not proven empowered | See chapter ledger for evidence status and verification question |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
