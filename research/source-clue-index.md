@@ -6141,6 +6141,148 @@
 | C-6037 | [AFFC 36](../Source/Main-Series/04-A-Feast-for-Crows/chapters/36-cersei.md) | Osmund calls Boros obese, often drinking and unlikely to withstand Osney | Interested prediction, no bout fought |
 | C-6038 | [AFFC 36](../Source/Main-Series/04-A-Feast-for-Crows/chapters/36-cersei.md) | Cersei ends by thinking Osney has committed treason, not Boros | Unelaborated thought, likely linked to staged scandal; no completed arrest |
 
+| C-6039 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | A corpse hangs a mile from crossroads on lightning-scarred dead tree | Geographic approach and war-desolation marker |
+| C-6040 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | First hanged man's face and legs are destroyed by crows and wolves | Identification difficult; state of body shows elapsed exposure |
+| C-6041 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Jagged white substance is placed in first corpse's mouth; Meribald names salt | Distinctive execution sign, no proved killers |
+| C-6042 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Second hanged corpse lies dislodged beneath an elm with a severed or gnawed body | Hanging evidence remains despite corpse fall |
+| C-6043 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Dog discovers second body's halfhelm containing skull and worms | Animal identifies remains; physical helm recovered |
+| C-6044 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Helm retains damaged decapitated lion ornament | Lannister affiliation possibly indicated, but dead owner identity uncertain |
+| C-6045 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Hyle offers dead man's helm to Pod despite worms | Callous camp practicality and gendered ridicule |
+| C-6046 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Pod refuses the worm-filled helm despite pressure | A squire's boundaries, not cowardice or incompetence |
+| C-6047 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Bodies hang less than a hundred yards apart along many kinds of trees | Large-scale systematic execution, not isolated act |
+| C-6048 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Every observed victim wears noose and salt packed in mouth | Common signature may indicate group process but executors unobserved |
+| C-6049 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Some victims show badges of axes arrows salmon tridents and minor devices | Multiple army remnants, not one identifiable host |
+| C-6050 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne recognizes former soldiers and broken men from many banners | Victims not automatically all Saltpans raiders |
+| C-6051 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Swelling and decay erase social and physical distinctions among the dead | Narrative's equality-in-death judgment |
+| C-6052 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Hyle asserts these were Saltpans raiders | His identification or inference, not confirmed for every corpse |
+| C-6053 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Meribald knew Saltpans's elderly septon and prays for justice | Personal tie and religious response |
+| C-6054 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne asks who hanged them more than who they were | Shifts inquiry toward Riverlands execution authority |
+| C-6055 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne associates hanging with Beric's Brotherhood by public report | Guess based on method, not identification of executioners |
+| C-6056 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Meribald urges faster travel before dark and warns of dead men's company | Practical timing under fear |
+| C-6057 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Hyle welcomes violent raiders' deaths yet urges the horses faster | Ambivalent bravado |
+| C-6058 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Trees give way to fields with purpose-built gibbets and crow flocks | Execution infrastructure spans broader corridor |
+| C-6059 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Some bodies look vaguely familiar from Harrenhal, none certain | Might include Bloody Mummers, no named corpse validated |
+| C-6060 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | No hound-head helm remains among corpses but most lack armor and boots | Absence cannot prove the imposter lived or died |
+| C-6061 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Meribald recounts crossroads inn founded in Jaehaerys I era | Local oral tradition, chronology not separately dated |
+| C-6062 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | King Jaehaerys and queen reportedly slept at the inn, giving 'Two Crowns' name | Royal travel memory via local testimony |
+| C-6063 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Later belltower produced 'Bellringer Inn' name | Succession of place names may aid historical reconstruction |
+| C-6064 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | A disabled knight named Long Jon Heddle became smith and bought inn | Heddle occupational inheritance and earlier martial identity |
+| C-6065 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Long Jon made oversized three-headed iron dragon sign of a dozen bound pieces | Material pre-Blackfyre heraldry and later significance |
+| C-6066 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Clanking sign led to 'Clanking Dragon' tavern name | Oral name tied to moving physical object |
+| C-6067 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Blackfyre rebellion's black dragon resembled inn's iron dragon | Symbolic danger from changing political context |
+| C-6068 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Loyal Darry lord reportedly broke black dragon sign and threw it into river | Action keyed to Aegon IV bastard's rebellion, not dragon magic |
+| C-6069 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | One iron dragon head reportedly washed onto Quiet Isle and rusted red | Crucial red-versus-black dragon image; relic not independently examined |
+| C-6070 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Inn became 'River Inn' after dragon sign lost | Dynamic name and history of place |
+| C-6071 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Trident previously ran behind inn and supported rooms over river | Old geography radically unlike present |
+| C-6072 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Ferry once led to Lord Harroway's Town and Whitewalls | Riverland routes and possible Dunk-and-Egg site connection |
+| C-6073 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Trident shifted channel 70–80 years ago according to Masha Heddle oral history | River mobility explains vanished waterfront |
+| C-6074 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Masha Heddle sheltered and fed wandering Meribald before war | Local civilian kindness and long personal acquaintance |
+| C-6075 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Masha was hanged by Lannister men | Corroborates Arya's ASOS 74 inn scene |
+| C-6076 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Nephew reportedly operated brothel at reopened inn and was killed by an unnamed lord | Secondhand violence; culprit not established |
+| C-6077 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Meribald warns common birth is perilous in noble wars | Core moral interpretation grounded by innkeepers' deaths |
+| C-6078 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Two Heddle nieces have since reportedly reopened crossroads inn | Reader must test exact owners and ties to Masha |
+| C-6079 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Current crossroads is three-story pale white stone with turrets and attached stable | Grounded construction and strategic location |
+| C-6080 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Southern wing on pilings is stranded over grass after river moved | Physical confirmation of geomorphology tale |
+| C-6081 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne and companions crossed from Quiet Isle by ferry to burned Saltpans | Affirms AFFC31 proposed passage completed |
+| C-6082 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Saltpans civilians gone and bodies buried when party arrived | No active survivor interviews from town |
+| C-6083 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Saltpans port buildings ash, smoke odor and eerie gull cries persist | Material aftermath and trauma |
+| C-6084 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Saltpans castle gate stayed barred and visible battlements unmanned except banners | Refuge offered no access to travelers |
+| C-6085 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Female defender refused Meribald shelter despite his being a septon | Fear and siege mentality in surviving garrison |
+| C-6086 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Dog barked and Meribald knocked a quarter hour without relief | Concrete attempt to seek aid failed |
+| C-6087 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Travelers slept in the woods under woven branches after refusal | Transition from island refuge to land insecurity |
+| C-6088 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Hammering and forge glow prove crossroads inn currently occupied | Working trade infrastructure |
+| C-6089 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Small boy plays on old hanging chains above inn yard | Normalization of war scaffolding |
+| C-6090 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Four little girls guard porch, youngest roughly two and naked | Refuge houses especially vulnerable children |
+| C-6091 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Girls say their mothers are dead, one explicitly murdered | War orphanhood not rhetorical metaphor |
+| C-6092 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Oldest porch girl Willow is about nine or ten and effectively manages check-in | Child exercises administrative power |
+| C-6093 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Willow says absent sister Jeyne keeps the inn | Claim of innkeeping relation; not necessarily same as Jeyne Westerling |
+| C-6094 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Willow offers horse meat, beds and refuses brothel guests | Children's survival institution, not reopened house of prostitution |
+| C-6095 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Willow demands payment in silver and scrutinizes Meribald's provisions | Food security and need for hard currency |
+| C-6096 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Gendry emerges from stables/smithy with black hair and blue eyes | Strong physical continuity with King's Landing apprentice |
+| C-6097 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne briefly mistakes Gendry for deceased Renly | Close visual resemblance to Baratheon family |
+| C-6098 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne contrasts Gendry's heavy shoulders and smith's arm with Renly's lighter build | More suggestive of Robert-like strength than identical twin |
+| C-6099 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Gendry's facial expression is suspicious and angry, unlike warm remembered Renly | Distinguish bodily resemblance from shared personality |
+| C-6100 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Gendry denies lordly status and identifies as a working smith | Does not know or claim Robert's blood |
+| C-6101 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Masha Heddle's hanging angers Gendry | Local connection and sense of wartime injustice |
+| C-6102 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Willow reports other children brought by 'sparrows' or finding refuge themselves | Faith-associated route, no direct proof High Sparrow commands it |
+| C-6103 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Willow challenges Brienne's masculine armor and appearance | Gender-role policing by children |
+| C-6104 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Gendry refuses to house visitors but Willow overrides him to feed orphans | Different risk versus hunger calculations |
+| C-6105 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | More children appear from concealment including loaded crossbow carriers | Inn is a guarded sanctuary capable of resistance |
+| C-6106 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Willow commands Wat Will Tansy Pate and Jon Penny to stable and unload | Named child labor and local logistical order |
+| C-6107 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne takes three adjoining rooms; her room has a hearth | Physical arrangement and sanctuary |
+| C-6108 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Podrick is allowed to share Brienne's room unlike Quiet Isle restrictions | Care arrangements change with setting |
+| C-6109 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne plans leaving Meribald and Hyle before dawn with only Podrick | Intention interrupted by events before travel |
+| C-6110 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Meribald plans to visit Nutten Riverbend and Lord Harroway's Town | Distinct projected route, no departure here |
+| C-6111 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne identifies crossroads of kingsroad, river road and high road as literal decision point | Geography frames moral and strategic uncertainty |
+| C-6112 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Vale high road potentially connects to Sansa's late aunt Lysa | Research choice, no knowledge Sansa is actually in Vale |
+| C-6113 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Western river road leads to besieged Riverrun and Brynden Tully | Competing lead, not chosen by chapter end |
+| C-6114 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Northern kingsroad leads Twins Neck Moat Cailin Winterfell | Travel route includes obstacles and shifting holders |
+| C-6115 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Southern road could take Brienne to Jaime and eventually Tarth | Escape option, not actual abandonment |
+| C-6116 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne privately imagines Jaime comforting her for failed mission | Emotional trust developing with political uncertainty |
+| C-6117 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne tells Pod only that they will go to supper | No completed route decision |
+| C-6118 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Inn dining room houses so many children Brienne cannot count reliably | Population unknown, avoid inventing precise count |
+| C-6119 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Willow manages food and tables like a household commander | Merit and care independent of social rank |
+| C-6120 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne considers whether Willow might be Arya Stark | Mistaken hypothesis based on age appearance and leadership |
+| C-6121 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Reader knows true Arya is Cat of the Canals in Braavos | Major cross-POV disconfirmation of Willow=lost Stark girl |
+| C-6122 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne remembers Elder Brother said Arya's fate at Saltpans unknown | Misidentification arises from existing knowledge gap |
+| C-6123 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Donkey food includes salt cod mutton vegetables nuts cheese | Meribald's provisions materially sustain orphaned refuge |
+| C-6124 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Meribald prepares porridge and promises an orange next spring to a hungry child | Practical charity and future commitment |
+| C-6125 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Hyle notes old bloodstains embedded in common-room floor | Physical traces of Sandor/Arya's ASOS74 fight |
+| C-6126 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne identifies inn as site where Sandor slew three of Gregor's men | Independent cross-chapter event with exact kill attribution needing ASOS detail |
+| C-6127 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Hyle warns children might not be safe guardians and more blood could spill | Pessimism anticipates armed riders |
+| C-6128 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Hyle boasts wanting Brienne for House Tarth's wealth | Marriage proposal explicitly motivated by inheritance |
+| C-6129 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Hyle admits fathering at least one bastard girl and avoiding her | His conduct contrasts professed wish for children |
+| C-6130 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne says Selwyn Tarth age fifty-four could remarry and sire male heir | Inheritance not guaranteed through Brienne |
+| C-6131 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Hyle calls prospective male heir risk worth taking | Calculating marital interest |
+| C-6132 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Hyle invites himself to Brienne's bedroom and she threatens castration | Her refusal explicit, no consensual invitation |
+| C-6133 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Gendry refuses Meribald's Seven prayer and leaves meal unfed | Religious affiliation affects hospitality |
+| C-6134 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Another child says Gendry worships Lord of Light | Cross-check with Beric's Brotherhood, no evidence of conversion rite here |
+| C-6135 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | ASOS39 Arya shows Beric knighted Gendry to protect women and children | Direct validation of Gendry's later 'I am a knight' claim |
+| C-6136 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Children devour food hastily and argue over portions | Material insecurity drives behavior |
+| C-6137 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne takes food to Gendry instead of ignoring his hunger | Empathy and attempt to build trust |
+| C-6138 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Gendry hammers sword, quenches steel in rain barrel and wears leather apron | Practical continuity of apprentice smithcraft |
+| C-6139 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne identifies his King's Landing speech accent and asks his age and parentage | Investigation of paternity triggered by resemblance |
+| C-6140 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Gendry states mother dead and father unknown | No direct paternal confirmation from his perspective |
+| C-6141 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne compares face with Robert and recalls Stannis's accusation Cersei's boys are not Robert's | Strong parentage inference, not genetic proof |
+| C-6142 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Gendry recalls seeing Robert at tourneys, sept and on hunt near Mud Gate | First-person memories, no awareness of connection |
+| C-6143 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Gendry calls Robert drunk but better king than alleged sons | Unwitting irony of likely own paternal lineage |
+| C-6144 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | AGOT27 Ned separately saw Gendry and deduced Robert paternity | Independent reader-level corroboration Brienne lacks |
+| C-6145 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Dog barks and seven armed riders arrive in heavy rain | Actual immediate threat, count seven |
+| C-6146 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Some riders are injured; largest is huge pale bald man on exhausted bloody horse | Initial Biter physical presentation |
+| C-6147 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Gendry initially calls approaching riders friends | His mistaken or contextual expectation, not proof shared allegiance |
+| C-6148 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Lead rider wears iron dog-head helmet with steel teeth | Sandor's recognizable helm currently used by different man |
+| C-6149 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Gendry recognizes helm-wearer as hostile when lightning reveals face | Shift from presumed safe riders to dangerous band |
+| C-6150 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Willow emerges with loaded crossbow to confront riders | Child attempts armed defense of community |
+| C-6151 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Helm-wearer responds with explicit threat of sexual violence and mutilation | Unambiguous danger to Willow |
+| C-6152 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne identifies helm not wearer as Sandor's property | Direct disambiguation of false Hound identity |
+| C-6153 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne privately recognizes wearer using noseless mutilation clue from Shagwell | Identification strongly supports Rorge of Bloody Mummers |
+| C-6154 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | AFFC20 reported Rorge headed toward Saltpans | Earlier partial provenance chain is now confirmed by visual encounter |
+| C-6155 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | AFFC31 Elder Brother said helm was stolen from Sandor's cairn | Earlier testimony consistent with Rorge possession, theft not witnessed |
+| C-6156 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | One wounded rider demands fresh horses and food, claiming outlaws pursue them | Interested rider statement, no guaranteed safety on compliance |
+| C-6157 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Helm-wearer refuses negotiation and wants Brienne mutilated and Willow raped | Active threat shows raider violence beyond material theft |
+| C-6158 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne confronts seven riders alone to divert violence from child | Conscious choice of duty despite extreme odds |
+| C-6159 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne provokes attacker about nose and genitals, citing Shagwell | Tactical exploitation of wounded pride |
+| C-6160 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Five-plus riders let champion duel Brienne first | Temporary isolation of foe created by his pride, not safety for entire group |
+| C-6161 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Attacker swings battle-axe while Brienne uses Oathkeeper two-handed | Contrasting weapons and method |
+| C-6162 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Oathkeeper cuts chainmail and inflicts initial chest wound | Valyrian sword's performance against ordinary armor |
+| C-6163 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne's left shoulder suffers glancing axe injury | Specific injury with combat stakes |
+| C-6164 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne remembers Ser Goodwin's training to exploit opponent's wounded pride | Prior martial mentorship decisive |
+| C-6165 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne maneuvers so rain blows in attacker's eyes and he tires | Terrain, fatigue and tactics rather than magical sword triumph |
+| C-6166 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Attacker slips in muddy final lunge as Brienne drives Oathkeeper into abdomen and through back | Fatal strike witnessed |
+| C-6167 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne whispers 'sapphires' while twisting blade | Jaime/Hoat sapphire bluff recalled in lethal scene |
+| C-6168 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Helm-wearer's body becomes corpse in Brienne's arms | Direct death of Hound impersonator, NOT Sandor's witnessed death |
+| C-6169 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Biter immediately tackles Brienne before she can recover | Second opponent enters after first death |
+| C-6170 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Biter smashes Brienne head against concealed rock and strangles her | Substantial head injury and loss of positional control |
+| C-6171 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Biter rips hair from Brienne's scalp and shrugs off blows to face | Close-quarters disadvantage |
+| C-6172 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne draws dagger and cuts Biter across belly | Counterattack wounds assailant; no fatal outcome proved |
+| C-6173 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Biter breaks Brienne's forearm while wresting away dagger | Specific severe injury |
+| C-6174 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne hears Dog bark, men shout and distant steel clash | Additional fight occurs but combatants are not directly identified |
+| C-6175 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne guesses Hyle has joined combat | Her uncertain inference from noise |
+| C-6176 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Biter bites chunks of Brienne's cheek with filed teeth and chews and swallows | On-page mutilation and cannibalism |
+| C-6177 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne thinks of unfinished obligation while approaching unconsciousness | Vow perseveres under extreme injury |
+| C-6178 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Final swordlike pointed tongue may be visual or literal object as consciousness fails | No confirmed rescuer, stab or death before chapter ends |
+| C-6179 | [AFFC 37](../Source/Main-Series/04-A-Feast-for-Crows/chapters/37-brienne.md) | Brienne loses consciousness at cliffhanger, not confirmed dead | Strong necessary boundary for continuation |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -6148,4 +6290,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and sixty-three first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and sixty-four first-pass chapters listed in the coverage tracker.
