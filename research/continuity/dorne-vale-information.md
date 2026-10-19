@@ -48,3 +48,5 @@ AFFC/ADWD chapters overlap in calendar time. Relative order in the separate stra
 - How Sweetrobin's health affects the safety of travel and Sansa's ethical choices.
 
 **Disposition:** Chronology and knowledge constraints usable for scene planning; no destinations fixed.
+
+**Reconciliation update (2026-10-19):** [Dorne two-news arrival gate](../reconciliation/dorne-two-news-arrival-gate.md) isolates the required transmission chain for Aegon’s prepared letter and Quentyn’s death. Neither becomes Doran/Arianne knowledge merely because the reader sees the source event.
