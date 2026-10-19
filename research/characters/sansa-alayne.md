@@ -61,3 +61,5 @@
 - Do not add later *Winds* sample tourneys, Harry encounters or other unpublished plot beats to the five-book endpoint.
 
 **Disposition:** **FIRST PASS COMPLETE; immediate agency OPEN.** A claim to Winterfell is a political tool Petyr hopes to use, not a secured Stark restoration.
+
+**Reconciliation update (2026-10-19):** [Vale/Sansa end-state decision gates](../reconciliation/vale-sansa-decision-gates.md) separates Robert’s medical risk, identity disclosure, Harry’s contingent inheritance, and Petyr’s existing leverage.
