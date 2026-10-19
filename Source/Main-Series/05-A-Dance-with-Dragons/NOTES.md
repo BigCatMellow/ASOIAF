@@ -254,3 +254,9 @@ Do not convert the unseen horn into proof Stannis is at Winterfell; in ADWD 42 h
 - [51 Theon](chapters/51-theon.md): **Frey–Manderly rupture, Jeyne's extraction, and Theon's jump rather than recapture.** 65 observations (C-10070–C-10134).
 
 Do not read Melisandre's snow as a death report, Plumm's survival argument as a durable alliance, Quentyn's asserted dragon blood as proof of dragonriding, or the horn beyond Winterfell as proof of Stannis's location. The final jump establishes an attempt, not survival.
+
+## Sequential close-reading first pass — 2026-10-19 (ADWD 52)
+
+- [52 Daenerys](chapters/52-daenerys.md): **Daznak's pit reveals the limits of Dany's reforms; Drogon returns, is wounded, and carries her from Meereen.** 60 observations (C-10135–C-10194).
+
+The chapter verifies flight, not Dany's destination or dependable dragon control. Meris's Windblown account and Hizdahr's motives remain competing interpretations.

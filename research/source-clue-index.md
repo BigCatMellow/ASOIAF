@@ -10256,6 +10256,67 @@
 | C-10133 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Theon jumps with Jeyne | See chapter ledger for evidence status and verification question |
 | C-10134 | [ADWD 51](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/51-theon.md) | Identity recovery remains unproven | See chapter ledger for evidence status and verification question |
 
+| C-10135 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany dreads public pit attendance | See chapter ledger for evidence status and verification question |
+| C-10136 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Missandei names spectators' appetite for blood | See chapter ledger for evidence status and verification question |
+| C-10137 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany dresses to hide blood | See chapter ledger for evidence status and verification question |
+| C-10138 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Quentyn's audience is deferred | See chapter ledger for evidence status and verification question |
+| C-10139 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Barristan distrusts masked escort | See chapter ledger for evidence status and verification question |
+| C-10140 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany tests freedmen through responsibility | See chapter ledger for evidence status and verification question |
+| C-10141 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Belwas and Barristan guard her | See chapter ledger for evidence status and verification question |
+| C-10142 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Meris reports Tatters' original intent | See chapter ledger for evidence status and verification question |
+| C-10143 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Windblown offer depends on price | See chapter ledger for evidence status and verification question |
+| C-10144 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Tattered Prince demands Pentos | See chapter ledger for evidence status and verification question |
+| C-10145 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany refuses to dispose of Pentos | See chapter ledger for evidence status and verification question |
+| C-10146 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Hizdahr calls slaughter auspicious | See chapter ledger for evidence status and verification question |
+| C-10147 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Execution plaza remains political memory | See chapter ledger for evidence status and verification question |
+| C-10148 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Freed litter bearer collapses | See chapter ledger for evidence status and verification question |
+| C-10149 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Paid labor replaces whipping, not hardship | See chapter ledger for evidence status and verification question |
+| C-10150 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany accepts a small reform | See chapter ledger for evidence status and verification question |
+| C-10151 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Arena gate celebrates lethal combat | See chapter ledger for evidence status and verification question |
+| C-10152 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Seats display social hierarchy | See chapter ledger for evidence status and verification question |
+| C-10153 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Crowd calls Dany Mhysa | See chapter ledger for evidence status and verification question |
+| C-10154 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany doubts crowd's motive | See chapter ledger for evidence status and verification question |
+| C-10155 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Khrazz kills Summer Islander | See chapter ledger for evidence status and verification question |
+| C-10156 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Rhaego memory shapes Dany's response | See chapter ledger for evidence status and verification question |
+| C-10157 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Spotted Cat kills larger foe | See chapter ledger for evidence status and verification question |
+| C-10158 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Lysene youth's consent is asserted | See chapter ledger for evidence status and verification question |
+| C-10159 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany bans child deaths in pit | See chapter ledger for evidence status and verification question |
+| C-10160 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Barsena claims equal risk | See chapter ledger for evidence status and verification question |
+| C-10161 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Economic coercion complicates performers' consent | See chapter ledger for evidence status and verification question |
+| C-10162 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany narrows criminal forced combat | See chapter ledger for evidence status and verification question |
+| C-10163 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Animal carcasses are used for food | See chapter ledger for evidence status and verification question |
+| C-10164 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Mock battle kills riders and horses | See chapter ledger for evidence status and verification question |
+| C-10165 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dwarf joust uses Westerosi arms | See chapter ledger for evidence status and verification question |
+| C-10166 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Hizdahr plans lions against dwarfs | See chapter ledger for evidence status and verification question |
+| C-10167 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany forbids lions | See chapter ledger for evidence status and verification question |
+| C-10168 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Hizdahr obeys with visible anger | See chapter ledger for evidence status and verification question |
+| C-10169 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Crowd attacks departing dwarfs | See chapter ledger for evidence status and verification question |
+| C-10170 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Barsena has real weapon | See chapter ledger for evidence status and verification question |
+| C-10171 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Barristan doubts knife against boar | See chapter ledger for evidence status and verification question |
+| C-10172 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Barsena is gored | See chapter ledger for evidence status and verification question |
+| C-10173 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Boar disembowels Barsena | See chapter ledger for evidence status and verification question |
+| C-10174 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany removes queenly tokar | See chapter ledger for evidence status and verification question |
+| C-10175 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany seeks to leave | See chapter ledger for evidence status and verification question |
+| C-10176 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Hizdahr urges display of public love | See chapter ledger for evidence status and verification question |
+| C-10177 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Drogon circles the pit | See chapter ledger for evidence status and verification question |
+| C-10178 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Drogon eats boar and Barsena | See chapter ledger for evidence status and verification question |
+| C-10179 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Pahls and others flee | See chapter ledger for evidence status and verification question |
+| C-10180 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Spearman wounds Drogon | See chapter ledger for evidence status and verification question |
+| C-10181 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Drogon kills attackers | See chapter ledger for evidence status and verification question |
+| C-10182 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Hizdahr orders Drogon killed | See chapter ledger for evidence status and verification question |
+| C-10183 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Barristan tries to protect Dany | See chapter ledger for evidence status and verification question |
+| C-10184 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany enters the pit | See chapter ledger for evidence status and verification question |
+| C-10185 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany judges flight dangerous | See chapter ledger for evidence status and verification question |
+| C-10186 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | She takes pitmaster's whip | See chapter ledger for evidence status and verification question |
+| C-10187 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany lashes and commands Drogon | See chapter ledger for evidence status and verification question |
+| C-10188 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Drogon lies bleeding | See chapter ledger for evidence status and verification question |
+| C-10189 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany calls them fire made flesh | See chapter ledger for evidence status and verification question |
+| C-10190 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany removes spear while mounted | See chapter ledger for evidence status and verification question |
+| C-10191 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Drogon launches with Dany | See chapter ledger for evidence status and verification question |
+| C-10192 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany commands higher | See chapter ledger for evidence status and verification question |
+| C-10193 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Destination remains unknown | See chapter ledger for evidence status and verification question |
+| C-10194 | [ADWD 52](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/52-daenerys.md) | Dany's absence ruptures Meereen politics | See chapter ledger for evidence status and verification question |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
