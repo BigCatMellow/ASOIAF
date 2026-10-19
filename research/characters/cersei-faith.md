@@ -50,3 +50,5 @@
 **Disposition:** `FIRST PASS COMPLETE / TRIAL AND POWER TRANSFER UNKNOWN`.
 
 **Reconciliation update (2026-10-19):** [Southern claimants endpoint handoff audit](../reconciliation/southern-claimants-endpoint-handoff.md) distinguishes the privately witnessed Varys murders from the court’s unshown reaction, and Cersei’s release from acquittal or restored government control.
+
+**Convergence update (2026-10-19):** [Post-Kevan King’s Landing decision gates](../reconciliation/kings-landing-post-kevan-decision-gates.md) preserves discovery, governance, trial, champion, and invasion response as separate choices.
