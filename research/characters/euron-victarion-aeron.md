@@ -38,3 +38,5 @@
 **Next:** source map of the fleets, Euron's physical location, the limits of Moqorro's interpretation, and actual information routes between Oldtown and Meereen. Mark all *Winds* samples as a different tier.
 
 **Disposition:** `FIRST PASS COMPLETE / OUTCOMES UNKNOWN`.
+
+**Reconciliation update (2026-10-19):** Victarion’s last narrated position and information boundary are recorded in the [Meereen endpoint handoff audit](../reconciliation/meereen-endpoint-handoff.md). No Dragonbinder result is established before a dragon actually responds.

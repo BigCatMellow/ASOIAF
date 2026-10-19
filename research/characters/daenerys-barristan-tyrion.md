@@ -79,3 +79,5 @@ Do not select a branch without developing Dothraki politics and the Meereen batt
 4. Reconcile elapsed time between ADWD 52/66/67/70/71 before writing any new meeting.
 
 **Disposition:** `KEEP MULTIPLE BRANCHES OPEN`. The immediate problem is the durability of an imperfect peace while its author is absent, not a preselected destiny in Westeros.
+
+**Reconciliation update (2026-10-19):** [Meereen endpoint handoff audit](../reconciliation/meereen-endpoint-handoff.md) now separates each late-ADWD actor’s last narrated knowledge from reader knowledge. It expressly preserves the poison, Harpy, horn, and mercenary-allegiance questions as unresolved.
