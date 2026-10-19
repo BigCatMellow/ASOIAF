@@ -10368,6 +10368,57 @@
 | C-10243 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Hostages create tradeoff | See chapter ledger for evidence status and verification question |
 | C-10244 | [ADWD 53](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/53-jon.md) | Entry and resistance remain unresolved | See chapter ledger for evidence status and verification question |
 
+| C-10245 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Faith confinement limits Cersei's knowledge | See chapter ledger for evidence status and verification question |
+| C-10246 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Three septas control her conditions | See chapter ledger for evidence status and verification question |
+| C-10247 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Jaime rescue is Cersei's belief | See chapter ledger for evidence status and verification question |
+| C-10248 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Loras report is unverified | See chapter ledger for evidence status and verification question |
+| C-10249 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Cersei calls former allies deserters | See chapter ledger for evidence status and verification question |
+| C-10250 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Sleep deprivation coerces confession | See chapter ledger for evidence status and verification question |
+| C-10251 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Charges exceed fornication | See chapter ledger for evidence status and verification question |
+| C-10252 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Cersei confesses strategically | See chapter ledger for evidence status and verification question |
+| C-10253 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Partial confession and denials | See chapter ledger for evidence status and verification question |
+| C-10254 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Trial remains required | See chapter ledger for evidence status and verification question |
+| C-10255 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Compliance earns improved conditions | See chapter ledger for evidence status and verification question |
+| C-10256 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Tommen is reported healthy | See chapter ledger for evidence status and verification question |
+| C-10257 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Kevan serves as regent | See chapter ledger for evidence status and verification question |
+| C-10258 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Kevan condemns Lancel exploitation | See chapter ledger for evidence status and verification question |
+| C-10259 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Jaime's disappearance is reported | See chapter ledger for evidence status and verification question |
+| C-10260 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Southern sellsword reports | See chapter ledger for evidence status and verification question |
+| C-10261 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Armed rescue is infeasible | See chapter ledger for evidence status and verification question |
+| C-10262 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Public atonement is required | See chapter ledger for evidence status and verification question |
+| C-10263 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Trial charges are grave | See chapter ledger for evidence status and verification question |
+| C-10264 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Trial by battle remains option | See chapter ledger for evidence status and verification question |
+| C-10265 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | New Tyrell-weighted council | See chapter ledger for evidence status and verification question |
+| C-10266 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Margaery case is comparatively weak | See chapter ledger for evidence status and verification question |
+| C-10267 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Witness custody is divided | See chapter ledger for evidence status and verification question |
+| C-10268 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Myrcella injury is reported | See chapter ledger for evidence status and verification question |
+| C-10269 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Arys death/Darkstar role reported | See chapter ledger for evidence status and verification question |
+| C-10270 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Cersei blames Tyrion without proof | See chapter ledger for evidence status and verification question |
+| C-10271 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Kingsguard vacancy matters | See chapter ledger for evidence status and verification question |
+| C-10272 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Cersei invokes Qyburn's champion | See chapter ledger for evidence status and verification question |
+| C-10273 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Incest denial protects dynasty | See chapter ledger for evidence status and verification question |
+| C-10274 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Faith rejects Stannis's religion | See chapter ledger for evidence status and verification question |
+| C-10275 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Cersei's tears shift from staged to real | See chapter ledger for evidence status and verification question |
+| C-10276 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | High Sparrow uses misogynistic doctrine | See chapter ledger for evidence status and verification question |
+| C-10277 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Cersei suspects eavesdropping | See chapter ledger for evidence status and verification question |
+| C-10278 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Faith retains leverage after reward | See chapter ledger for evidence status and verification question |
+| C-10279 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Jaime's location remains unknown | See chapter ledger for evidence status and verification question |
+| C-10280 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Sellsword reports do not prove Stannis role | See chapter ledger for evidence status and verification question |
+| C-10281 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Cersei privately wants Margaery dead | See chapter ledger for evidence status and verification question |
+| C-10282 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Qyburn holds potential leverage | See chapter ledger for evidence status and verification question |
+| C-10283 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Champion remains unnamed | See chapter ledger for evidence status and verification question |
+| C-10284 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Imprisonment weakens Cersei | See chapter ledger for evidence status and verification question |
+| C-10285 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Jaime letter receipt unknown | See chapter ledger for evidence status and verification question |
+| C-10286 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Kevan aid does not restore rule | See chapter ledger for evidence status and verification question |
+| C-10287 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Myrcella is alive but not secure | See chapter ledger for evidence status and verification question |
+| C-10288 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Darkstar report does not prove Tyrion link | See chapter ledger for evidence status and verification question |
+| C-10289 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Kingsguard need drives plan | See chapter ledger for evidence status and verification question |
+| C-10290 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Walk has not occurred | See chapter ledger for evidence status and verification question |
+| C-10291 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Faith displaces royal force | See chapter ledger for evidence status and verification question |
+| C-10292 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Regency relies on Tyrells | See chapter ledger for evidence status and verification question |
+| C-10293 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | Cersei chooses partial truth and Qyburn | See chapter ledger for evidence status and verification question |
+| C-10294 | [ADWD 54](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/54-cersei.md) | External reports require challenge | See chapter ledger for evidence status and verification question |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.

@@ -20,8 +20,8 @@ The EPUB was opened locally on 2026-10-15. Its five title sections, navigation e
 | [ACOK](02-A-Clash-of-Kings/NOTES.md) | 70 | 70 (Prologue, 1–69) | 0 |
 | [ASOS](03-A-Storm-of-Swords/NOTES.md) | 82 | 82 (Prologue, 1–80, Epilogue) | 0 |
 | [AFFC](04-A-Feast-for-Crows/NOTES.md) | 46 | 46 (Prologue, 1–45) | 0 |
-| [ADWD](05-A-Dance-with-Dragons/NOTES.md) | 73 | 54 (Prologue, 1–53) | 19 |
-| **TOTAL** | **344** | **325** | **19** |
+| [ADWD](05-A-Dance-with-Dragons/NOTES.md) | 73 | 55 (Prologue, 1–54) | 18 |
+| **TOTAL** | **344** | **326** | **18** |
 
 **Important:** The three hundred and twenty files are *first-pass* source-grounded interpretive notes, **not certification that every line has undergone an independent microdetail audit**. Some cross-book chapters received focused checks in earlier work; those checks are not counted as completed sequential chapter notes. The earlier 45 short-fragment quote matches were a distinct narrow verification, not 45 extra reviewed chapters.
 
@@ -48,7 +48,7 @@ The source contains approximately 1,751,065 whitespace-delimited words by the lo
 
 ## Next in-scope sequential task
 
-**AGOT (73/73), ACOK (70/70), and ASOS (82/82) have complete sequential first-pass coverage, including prologues and the ASOS epilogue. AFFC is complete at 46/46 (Prologue and 1–45).** Independent line-level challenges, thematic synthesis and cross-book clue reconciliation remain open. Resume at `ADWD 54 (Cersei)` using [the original chapter](05-A-Dance-with-Dragons/text/055-cersei.md). Do not imply the 19 remaining narrative units have received whole-chapter readings.
+**AGOT (73/73), ACOK (70/70), and ASOS (82/82) have complete sequential first-pass coverage, including prologues and the ASOS epilogue. AFFC is complete at 46/46 (Prologue and 1–45).** Independent line-level challenges, thematic synthesis and cross-book clue reconciliation remain open. Resume at `ADWD 55 (The Queensguard)` using [the original chapter](05-A-Dance-with-Dragons/text/056-the-queensguard.md). Do not imply the 18 remaining narrative units have received whole-chapter readings.
 
 ## Review boundary
 

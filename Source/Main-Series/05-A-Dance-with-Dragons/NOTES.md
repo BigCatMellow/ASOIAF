@@ -264,3 +264,7 @@ The chapter verifies flight, not Dany's destination or dependable dragon control
 ## Sequential close-reading first pass — 2026-10-19 (ADWD 53)
 
 - [53 Jon](chapters/53-jon.md): **Tormund's costly admission pact, Selyse's rejected religious terms, and Marsh's explicit treason objection.** 50 observations (C-10195–C-10244).
+
+## Sequential close-reading first pass — 2026-10-19 (ADWD 54)
+
+- [54 Cersei](chapters/54-cersei.md): **Coerced partial confession, Kevan's Tyrell-dependent regency, Myrcella's reported injury, and Qyburn's unnamed champion.** 50 observations (C-10245–C-10294).
