@@ -42,3 +42,5 @@
 - Keep Arya's Braavosi access to rumors and Sam's Oldtown warning under separate message timing.
 
 **Next:** map coastal troop/fleet reports and seek exact narrative evidence for Euron's current location; revisit glass-candle users' actual acts vs Marwyn's teaching. A later TWOW preview can be audited separately with explicit source-tier labels.
+
+**Reconciliation update (2026-10-19):** [Oldtown/Ironborn contact gates](../reconciliation/oldtown-ironborn-contact-gates.md) separates the co-located naval, Citadel, horn, and identity mysteries until an actual source-side connection is shown.
