@@ -215,3 +215,14 @@ Melisandre's POV confirms real Mance survives and real Rattleshirt died disguise
 - [35 Jon](chapters/35-jon.md): **New brothers' old-gods vows, wildling rescue and wight-body custody; Stannis reports 5,000 northmen.** 69 chronological observations and independently challengeable rival readings.
 
 Provisional and important boundaries: Arnolf's trap is Roose's testimony, not witnessed betrayal; Moqorro's dragon and sea-shadow symbols are not verified identities; weirwood paste does not establish Jojen's death; corpse storage at Castle Black is not actual reanimation.
+
+
+## Sequential close-reading first pass — 2026-10-19 (ADWD 36–40)
+
+- [36 Daenerys](chapters/36-daenerys.md): **undefined.** 50 chronological observations (C-9159–C-9208), causal analysis, rival readings and follow-up tests.
+- [37 The Prince of Winterfell](chapters/37-the-prince-of-winterfell.md): **undefined.** 51 chronological observations (C-9209–C-9259), causal analysis, rival readings and follow-up tests.
+- [38 The Watcher](chapters/38-the-watcher.md): **undefined.** 45 chronological observations (C-9260–C-9304), causal analysis, rival readings and follow-up tests.
+- [39 Jon](chapters/39-jon.md): **undefined.** 49 chronological observations (C-9305–C-9353), causal analysis, rival readings and follow-up tests.
+- [40 Tyrion](chapters/40-tyrion.md): **undefined.** 44 chronological observations (C-9354–C-9397), causal analysis, rival readings and follow-up tests.
+
+Doran's elephant fleet is not treated as proof Daenerys has arrived; Gregor's delivered skull is not independent death certification; Theon's wedding testimony is coerced; Moqorro is missing at sea rather than confirmed dead.

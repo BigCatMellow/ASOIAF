@@ -9276,6 +9276,246 @@
 | C-9157 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon's conviction Watch men have no sisters clashes with recent orders | Actual intervention via intermediaries |
 | C-9158 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon contrasts childhood love of conqueror Young Dragon with duty as commander | Changes in political ideal |
 
+| C-9159 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Dany visits the Astapori camp despite Barristan's warnings | Her symbolic duty conflicts with personal and military risk |
+| C-9160 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | She believes Targaryens may be immune to common illnesses | Viserys's family claim, not verified immunity |
+| C-9161 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Meereen's walls lie half a mile from the camp | Nearby people remain beyond protected boundary |
+| C-9162 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Dothraki riders, freedmen and sixty guards escort food wagons | Relief requires armed security |
+| C-9163 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Refugees in several languages appeal to Dany as mother | She is held responsible for many displaced peoples |
+| C-9164 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Thousands of hungry and sick include newborns and elders | The camp is overwhelmingly civilian |
+| C-9165 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Healers sent to camp have fallen sick themselves | Aid has not stopped the epidemic |
+| C-9166 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Separating healthy and sick family members failed | Transmission overwhelmed separation |
+| C-9167 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Food and willing delivery workers are dwindling | Relief capacity is constrained by siege |
+| C-9168 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | A food wagon was attacked and two soldiers killed | Scarcity produces local violence |
+| C-9169 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Marselen reports consumption of horses, dogs and some dead bodies | Attributed famine testimony |
+| C-9170 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Starving children, untreated sick and corpses are seen directly | Observable consequences of Astapor's fall |
+| C-9171 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Barristan cautions against sending Unsullied among the infected | Defender preservation versus corpse disposal |
+| C-9172 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Symon argues that food cannot be spent on the dying | Brutal but material triage problem |
+| C-9173 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Barristan prefers assembling an attacking army | Military alternative not chosen |
+| C-9174 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Dany prefers fighting from behind Meereen's walls | Strategy favors defenses |
+| C-9175 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | She summons Grey Worm with fifty Unsullied | Overrides advice against further exposure |
+| C-9176 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Dany personally tends a feverish man | Direct compassion, uncertain infection outcome |
+| C-9177 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Her attendants begin washing people and stacking the dead | Her behavior alters others' actions |
+| C-9178 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Multiple pyres are burning before midday | Concrete burial and sanitation effort |
+| C-9179 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Grey Worm requests religious seawater washing afterward | Unsullied religious practice is revealed |
+| C-9180 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | He gives titles but withholds their goddess's true name | Secret initiatory worship, not confirmed broader conspiracy |
+| C-9181 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Dany grants their request without demanding revelation | Respects soldiers' private beliefs |
+| C-9182 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Missandei thinks she heard refugees scratching the city wall | Fearful impression, physically implausible across half a mile |
+| C-9183 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | The queen changes into a tokar for visiting officials | Political assimilation through dress |
+| C-9184 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Reznak and Galazza demand ritual examination of bride's fertility | Local marriage custom entails bodily intrusion |
+| C-9185 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Dany refuses bodily inspection | She draws a firm personal boundary |
+| C-9186 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Officials insist on Ghiscari temple wedding for legitimacy | Westerosi ceremony would not suffice locally |
+| C-9187 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | She accepts veil and pearl-decorated tokar | Symbolic concession |
+| C-9188 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Dany remembers Daario's proposed massacre of gathered noble houses | Violent alternative recalled and rejected |
+| C-9189 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Officials press to reopen fighting pits as a wedding gift | Moral issue converted into legitimacy bargain |
+| C-9190 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | She leaves reopening pits to Hizdahr after his coronation | Authority ceded, not full acceptance of pits |
+| C-9191 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Hizdahr readily offers to discard some archaic marital rites | Selective flexibility |
+| C-9192 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Hizdahr reports Yunkai wants reparations in valuables | Terms from an interested broker |
+| C-9193 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | He reports demands for restored slave trade and rebuilt slaveholding Astapor | Peace would abandon wider emancipation |
+| C-9194 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Hizdahr says enemies require his marriage and co-rule as guarantees | Peace tied to his political elevation |
+| C-9195 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Barristan brings Daario's warning of approaching Yunkish forces | Intelligence interrupts betrothal negotiations |
+| C-9196 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Daario returns with visible wounds | Firsthand injury |
+| C-9197 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Daario boasts of killing a wavering subordinate | Violent claim, uncorroborated |
+| C-9198 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | He reports four sellsword companies and additional Ghiscari legions | Enemy strength remains reported, not directly counted |
+| C-9199 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | He reports approximately one hundred war elephants and a river flank maneuver | Specific logistics to test later |
+| C-9200 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Some Windblown deserters join the Stormcrows | Quentyn's feigned-defection scheme can intersect here |
+| C-9201 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Daario says the Second Sons under Brown Ben changed sides | Defection learned through intermediary |
+| C-9202 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Dany recalls the dragons appeared comfortable with Brown Ben | Possible lineage clue without demonstrated explanation |
+| C-9203 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | She cannot assign Plumm and Jorah to a fixed order in her three betrayals | Prophecy remains ambiguous |
+| C-9204 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Dany orders supplies stored, walls manned and gates shut | Direct siege decision |
+| C-9205 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | She understands this strands the Astapori outside | Conscious sacrifice of outsiders |
+| C-9206 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | She asks Daario to promise he will never betray her | Emotional vulnerability shapes trust |
+| C-9207 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Daario's promise is directly heard, sincerity unknown | Oath is not verification of loyalty |
+| C-9208 | [ADWD 36](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/36-daenerys.md) | Dany chooses intimacy with Daario before the political wedding | Potential conflict between private preference and statecraft |
+| C-9209 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Jeyne Poole trembles in her white bridal clothes | Marriage is coerced, not a romantic union |
+| C-9210 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Jeyne calls herself a better wife than the real Arya | Private acknowledgment of impersonation |
+| C-9211 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | She recalls inventing the nickname Arya Horseface | Firsthand witness to Stark childhood |
+| C-9212 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Jeyne fears Ramsay knows who she actually is | Her perception fits the scheme, but mind-reading is unavailable |
+| C-9213 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Jeyne begs Theon to escape with her | Explicit victim request |
+| C-9214 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Theon refuses, thinking a genuine man would help | Psychological damage inhibits action |
+| C-9215 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Theon warns Jeyne her eyes are brown while Arya's are grey | Detectable biological discrepancy |
+| C-9216 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Dustin chooses Theon to give away the bride as Ned's former ward | Political authentication of imposture |
+| C-9217 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Theon understands his presence makes northern lords less able to question her | Mechanism of Bolton claim |
+| C-9218 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | He knows Bran and Rickon survive, contrary to public belief | Crucial withheld succession knowledge |
+| C-9219 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Roose hints Theon might regain Pyke if he cooperates | Interested and untrusted promise |
+| C-9220 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Theon expects future retransfer to Ramsay and further torture | Feared outcome, not executed plan |
+| C-9221 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | The godswood is warmed by hot springs despite outside frost | Physical specificity of Winterfell |
+| C-9222 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Theon remembers playing and hiding there as a boy | Foster upbringing and belonging remain complicated |
+| C-9223 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Winterfell's broken Glass Gardens no longer produce winter food | Siege food production reduced |
+| C-9224 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Ravens remain in the trees though Maester Luwin died | Possible continuity for magical observation |
+| C-9225 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Theon sees familiar northern lords in surreal mist | Witnesses to marriage, not unified loyalty |
+| C-9226 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Jeyne hesitates then accepts Ramsay under the weirwood | Public vows under duress |
+| C-9227 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Ramsay replaces Stark cloak with Bolton flayed-man cloak | Dynastic transfer performed |
+| C-9228 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Abel performs with six female companions | Readers can compare Jon's Mance rescue mission |
+| C-9229 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Theon hears a whisper calling his name near the heart tree | Possible greenseer contact, ordinary alternatives remain |
+| C-9230 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Theon struggles with Greyjoy faith and lost Stark family identity | Conflicting allegiances |
+| C-9231 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Boltons repaired gates and halls while keeps remain blackened | Rebuilt fortress not restored household |
+| C-9232 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Roose hanged squatters and later repair laborers | Rule through intimidation |
+| C-9233 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Tommen and Bolton heraldry fly above Winterfell | Nominal allegiance to Iron Throne |
+| C-9234 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Theon remembers Ned's kindness alongside lifelong hostage status | Not a simple adopted-son narrative |
+| C-9235 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Missing fingers, toes and broken teeth remain painful | Bodily effects of torture |
+| C-9236 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Theon remembers once declining Ramsay's suggested flayings | Complicates but does not absolve his crimes |
+| C-9237 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Roose toasts the marriage as ending Stark-Bolton enmity | Public dynastic ambition |
+| C-9238 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Wyman Manderly supplied much of the feast | Hospitality provided by suspected opponent |
+| C-9239 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Three exceptionally large meat pies are served to Freys and Boltons | Material clue, meat identity not shown |
+| C-9240 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Wyman eats multiple pieces of the pies himself | Does not fit simple poison-the-Freys model |
+| C-9241 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Dustin calls Wyman craven; Theon doubts this | Divergent character assessments |
+| C-9242 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Wyman demands a song about the Rat Cook | Strong revenge motif, not proof of contents |
+| C-9243 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Theon remembers the actual Poole arms as proper heraldry | Explicit true identity signal |
+| C-9244 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | He thinks of killing Jeyne as a mercy, then dying | Despairing ideation, not an attempt |
+| C-9245 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Dustin says Roose will not taste food until Manderly has | Her observation implies mistrust |
+| C-9246 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Dustin thinks Roose may pursue northern kingship | Her political theory, not declared Bolton policy |
+| C-9247 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | She suspects maesters influence nobles through writing and advice | Institutional allegation without conclusive evidence |
+| C-9248 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | She calls Maester Walys formerly Walys Flowers | Attributed historical information |
+| C-9249 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | She claims his Hightower mother and rumored archmaester father | Rumor not proven genealogy |
+| C-9250 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | She blames Walys for Rickard Stark's Tully marriage | Her causal interpretation, not established conspiracy |
+| C-9251 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Three other maesters manage Winterfell's ravens now | Working military communication channel |
+| C-9252 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Roose reports Stannis approaching with clans and rival northmen | Intelligence report, not battle outcome |
+| C-9253 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Theon privately knows Arnolf Karstark intends to betray Stannis | Informed expectation, trap not sprung |
+| C-9254 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Ramsay's men force Theon to attend the marital bedchamber | Theon remains captive despite borrowed rank |
+| C-9255 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Ramsay forces Theon to strip Jeyne and humiliates them both | Sexualized coercion and violence |
+| C-9256 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Theon sees older marks of physical punishment on Jeyne | Confirmed continuing abuse |
+| C-9257 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | Theon imagines killing Ramsay with the knife he holds | Brief contemplated agency |
+| C-9258 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | He suppresses the attempt, fearing Ramsay's traps | Earlier torture controls present decisions |
+| C-9259 | [ADWD 37](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/37-the-prince-of-winterfell.md) | The scene ends in further sexual abuse of Jeyne | The moral and physical peril is directly shown |
+| C-9260 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Hotah observes the feast as captain of guards | His limited POV emphasizes surveillance |
+| C-9261 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Balon Swann brings an ebony chest containing a massive skull | Physical object on page |
+| C-9262 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | The skull is presumed Gregor's but has no direct chain-of-custody proof | Identity remains disputable |
+| C-9263 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Hotah estimates Balon a harder fighter than Arys Oakheart | Tactical forecast only |
+| C-9264 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Balon's clasp combines black and white swans | Concrete heraldic duality |
+| C-9265 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Balon reports Gregor screamed for days after poisoning | Reported suffering, not witnessed death |
+| C-9266 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Doran publicly accepts the skull as restitution for Elia | Diplomatic performance |
+| C-9267 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Ricasso leads a toast to Tommen | Official obedience outwardly maintained |
+| C-9268 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Hotah notes several houses and Sand Snakes resist the toast | Factional disagreement |
+| C-9269 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Doran's painful joints require medicated wine | Medical incapacity affects governance |
+| C-9270 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Three Sand Snakes attend after detention in Spear Tower | Changed status, trust not yet restored |
+| C-9271 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Arianne's failed queenmaking plot remains politically salient | Context for confidential cooperation |
+| C-9272 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Balon has not yet seen injured Myrcella in Dorne | Missing firsthand information |
+| C-9273 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Cersei requests Myrcella's return and invites Trystane | Proposed dynastic movement |
+| C-9274 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Doran feigns receptiveness to journey and council seat | Negotiation maneuver |
+| C-9275 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Balon becomes uncomfortable when sea travel is suggested | Suggestive reaction, not decisive proof of guilt |
+| C-9276 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Doran recounts Princess Daenerys and her Water Gardens | History used to teach inclusive government |
+| C-9277 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Doran says Daenerys's intended lover had been Daemon Blackfyre | Attributed history, no current Aegon confirmation |
+| C-9278 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Doran suffers visibly and refuses more milk of poppy to keep his wits | Agency under bodily weakness |
+| C-9279 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Obara questions whether the skull proves Gregor's death | Internal challenge |
+| C-9280 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Nym notes death and decapitation were not witnessed | Source gap |
+| C-9281 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Tyene insists Oberyn's poison made Gregor's death inevitable | Pharmacological claim from daughter |
+| C-9282 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Ellaria says the death of killers should end the vengeance | Explicit anti-cycle argument |
+| C-9283 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Ellaria imagines her daughters inheriting successive feuds | Generational consequence map |
+| C-9284 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Nymeria wants destruction of the Lannister political legacy | Revenge extends beyond direct killers |
+| C-9285 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Doran says Ellaria understood Oberyn's wishes better than his daughters | Corrective to heroic-vengeance assumption |
+| C-9286 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Doran says Oberyn was the viper he, the concealing grass | Claimed coordinated strategy |
+| C-9287 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Doran requires Sand Snakes to swear obedience on Oberyn's grave | Oath condition for tasks |
+| C-9288 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | All three swear, with visible reluctance | Formal promise not verified future loyalty |
+| C-9289 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Arianne and Obara worry Balon will see Myrcella's mutilation | Cover story threatened by actual injuries |
+| C-9290 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Arianne says Darkstar killed Arys Oakheart | False: Hotah killed Arys in AFFC 21 |
+| C-9291 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | They plan to have Myrcella corroborate the Darkstar story | Managed testimony, not independent fact |
+| C-9292 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Doran reports Cersei arranged Trystane's death en route | Character claim based on unidentified court sources |
+| C-9293 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Outlaws would falsely invoke Tyrion to obscure royal involvement | False-flag design as alleged |
+| C-9294 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Doran reads Balon's sea-voyage discomfort as confirming the plot | Circumstantial interpretation |
+| C-9295 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Doran refuses to violate guest right by killing Balon | Moral and diplomatic constraint |
+| C-9296 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Obara is directed to help Balon hunt Darkstar | Redirected royal knight |
+| C-9297 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Nymeria is sent to King's Landing to occupy Dornish council place | Court intelligence channel |
+| C-9298 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Tyene is directed to infiltrate the new High Septon's circle | Faith intelligence channel |
+| C-9299 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Arianne is kept as heir and promised another mission | Dynastic continuity |
+| C-9300 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Doran knows of Volantene-heavy fleet at Lys with elephants | Real reported maritime clue |
+| C-9301 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Doran and Arianne speculate it may carry Daenerys and Quentyn | Unconfirmed, plausibly false identification |
+| C-9302 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Golden Company elephants offer alternate explanation via ADWD 24 | Cross-POV test, not Doran's knowledge |
+| C-9303 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Doran expects successful Quentyn to return by Greenblood | Conditional inference, not result |
+| C-9304 | [ADWD 38](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/38-the-watcher.md) | Hotah's last exchange concerns whether avoiding war is shame or glory | Strategic ethics remain unsettled |
+| C-9305 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Val departs on a half-blind garron at dawn | Pragmatic, imperfect transport |
+| C-9306 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Val refuses the princess label and claims her free-folk autonomy | Stannis's premise disputed |
+| C-9307 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Jon trusts her to contact Tormund after rangers failed | Diplomacy through personal ties |
+| C-9308 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | She promises return even if Tormund refuses | Success remains uncertain |
+| C-9309 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Full moon is the expected return deadline | Precise timeline anchor |
+| C-9310 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Jon remembers promising Stannis to keep his princess | Release violates spirit of pledge |
+| C-9311 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Six rangers remain missing beyond the Wall | Direct uncertainty about their fate |
+| C-9312 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Val warns real cold will hurt breathing when Others come | Her expectation, not a fixed date |
+| C-9313 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Val asks whether Jon killed Jarl and accepts his denial | Trust repair |
+| C-9314 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Val calls Craster's son Monster and requests he be protected | Personal affection for switched baby |
+| C-9315 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Val believes Melisandre knows the baby switch through visions | Character claim |
+| C-9316 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Jon asks why Melisandre did not reveal the swap | Strong counterquestion |
+| C-9317 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Val says the secret may serve Melisandre | Hypothesis, not motive verified |
+| C-9318 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Jon remembers warning that Melisandre is sword without hilt | Dangerous ally image |
+| C-9319 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Mully fears colleagues will call releasing Val treason | Internal dissent becomes urgent |
+| C-9320 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Ghost ranges far as the local game supply fails | Winter logistics across species |
+| C-9321 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Bowen Marsh, Othell Yarwyck and Cellador confront Jon | Organized officer objections |
+| C-9322 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Queen Selyse requests housing at partly restored Nightfort | External demand on labor and food |
+| C-9323 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Nightfort has roofs but still lacks supplies and builders | Infrastructure not ready at full strength |
+| C-9324 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Jon offers Wun Wun as building labor | Adaptive problem solving |
+| C-9325 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Wun Wun's full Old Tongue name is given by Leathers | Naming and cultural evidence |
+| C-9326 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Wun Wun eats vegetables rather than humans | Disconfirms giant stereotype |
+| C-9327 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | The giant needs Old Tongue interpreters | Communication barrier |
+| C-9328 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Yarwyck refuses the proposed giant workforce | Fear overrides opportunity |
+| C-9329 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Jon admits Wun Wun might be dangerous if threatened | Compassion does not mean denial of risk |
+| C-9330 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Jon studies giant history and wishes Sam could record it | Cultural curiosity |
+| C-9331 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Marsh objects to moving Edd and Iron Emmett | Officer loyalty and institutional stability |
+| C-9332 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Jon nominates Leathers to replace Iron Emmett as trainer | Wildling expertise chosen over status |
+| C-9333 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Marsh says Leathers is a wildling even after his oath | Membership dispute |
+| C-9334 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Cellador condemns appointing Satin as Jon's squire | Class and sexual stigma |
+| C-9335 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Jon names worse Watch criminals and insists vows erase those distinctions | Ethical consistency |
+| C-9336 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | He chooses Satin despite officers' objections | Leadership decision intensifies hostility |
+| C-9337 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Officers fear Jon's guarded wildling corpses in ice cells | Material security concern |
+| C-9338 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Jon now expressly hopes the bodies will rise | Confirms research purpose from ADWD 35 |
+| C-9339 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | He asks whether wights may remember or speak | Hypothesis, not verified ability |
+| C-9340 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Jon recalls a wight targeting Jeor Mormont | Evidence motivating inquiry |
+| C-9341 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Jon says a commander must know the enemy | Source of research rationale |
+| C-9342 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Jon confirms Val is carrying peace and shelter offer to Tormund | Operational mission |
+| C-9343 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Marsh calls admission of many free folk possible treason | Explicit source of fracture |
+| C-9344 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Jon argues wildlings remain humans facing shared enemy | Strategic moral case |
+| C-9345 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Survivors tell him Mother Mole preached ship rescue | Reported prophetic claim |
+| C-9346 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Mother Mole supposedly led thousands to Hardhome | Count and motive unverified |
+| C-9347 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Hardhome has deep sheltered bay and local fishing resources | Rational choice despite ominous legend |
+| C-9348 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Old accounts say Hardhome burned six hundred years ago | Reported history, not witnessed cause |
+| C-9349 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Other accounts suggest slavery, slaughter and haunted caves | Contradictory folklore preserved |
+| C-9350 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Cotter Pyke reports only caves offer refuge | Limited shelter |
+| C-9351 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Bowen argues no food is available to help enemy wildlings | Logistical and political objection |
+| C-9352 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Jon predicts dead refugees may rise as wights | Plausible threat, not observed Hardhome army |
+| C-9353 | [ADWD 39](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/39-jon.md) | Jon angrily ends meeting without winning officers' consent | Institutional problem remains open |
+| C-9354 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Tyrion rides trained sow Pretty Pig wearing Groat's wooden armor | Humiliating survival performance |
+| C-9355 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Penny rides dog Crunch with a mock lance | Deceased brother's role is replaced |
+| C-9356 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Ship has sat becalmed for twelve days | Exact delay |
+| C-9357 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Sailors blame dwarfs for missing wind | Superstitious scapegoating |
+| C-9358 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Cook proposes sexual harassment of Penny as good luck | Threat of bodily abuse |
+| C-9359 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Penny persuades Tyrion to entertain the crew | Tactical placation |
+| C-9360 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Tyrion falls and bites his tongue during performance | Real injury under comedy |
+| C-9361 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Crew laughs poorly and throws no coins | Performance not reliable protection |
+| C-9362 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Boats fail to tow large cog effectively | Material limit |
+| C-9363 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Jorah warns they might eat Pretty Pig | Livelihood at risk |
+| C-9364 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Tyrion hopes entertaining Daenerys may save his life | Speculative strategy |
+| C-9365 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Penny calls him Hugor to protect identity | Cover remains |
+| C-9366 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Jorah says Daenerys will judge him by crimes | Jorah's expectation |
+| C-9367 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Tyrion accuses Jorah of seeking pardon for spying via captive gift | Strong psychological inference |
+| C-9368 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Jorah punches Tyrion and breaks a tooth | Direct assault |
+| C-9369 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Jorah expels him from their shared room | Loss of shelter |
+| C-9370 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Penny teaches deference toward bigger people as survival tactic | Class and size politics |
+| C-9371 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Tyrion recalls Shae and Tysha in warning against attachment | Unresolved trauma and prejudice |
+| C-9372 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Wind rises and ship moves after doldrums | Narrated weather change |
+| C-9373 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Threatening cloud wall appears astern | Direct physical storm |
+| C-9374 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Moqorro and fiery followers appear unusually early | Anticipated danger |
+| C-9375 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Tyrion understands widow's warning may have meant actual wreck | Prophecy reinterpreted |
+| C-9376 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Moqorro identifies storm as Benerro's vision | Character prophetic claim |
+| C-9377 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Ship changes course trying to evade storm | Failed navigation |
+| C-9378 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Tyrion and Penny shelter below with pig and dog | Personal bond under threat |
+| C-9379 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | He realizes Penny never played aristocratic castle game | Economic gulf between dwarfs |
+| C-9380 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Penny kisses Tyrion in fear | Gesture without established romance |
+| C-9381 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Tyrion sees fear and hope rather than desire | His interpretation |
+| C-9382 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | He cites existing marriage to Sansa when declining romance | Truth employed as social shield |
+| C-9383 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | He thinks Tysha alone loved him | His retrospective belief |
+| C-9384 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Storm kills crewmen and badly injures captain and cook | Aftermath narrated |
+| C-9385 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | A lull gives way to second violent gale | Weather sequence |
+| C-9386 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Moqorro prays while green flames leap from staff | Phenomenon seen, divine causality unproven |
+| C-9387 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | The mast bursts and splinters injure Tyrion | Ship disabled |
+| C-9388 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Nine people are reported lost, including Moqorro | Missing, not confirmed dead |
+| C-9389 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Captain dies next day and cook several nights later | Mortality after storm |
+| C-9390 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Survivors estimate drifting near southern Isle of Cedars | Inexact location |
+| C-9391 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Ship's boats are lost or abandon them | No functional escape |
+| C-9392 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Nineteen days of drifting deplete food and water | Additional exact interval |
+| C-9393 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Tyrion nurses Penny and monitors wounded calf | Physical infection risk |
+| C-9394 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Three surviving fiery fingers continue guarded worship | Religious cohesion mixed with threat |
+| C-9395 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Tyrion dreams of shooting Penny instead of his father | Violent guilt displacement |
+| C-9396 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | A large galley arrives with oars | Hope of relief |
+| C-9397 | [ADWD 40](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/40-tyrion.md) | Jorah identifies it as slaver vessel and draws sword | New threat unresolved |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -9283,4 +9523,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the three hundred and seven first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the three hundred and twelve first-pass chapters listed in the coverage tracker.
