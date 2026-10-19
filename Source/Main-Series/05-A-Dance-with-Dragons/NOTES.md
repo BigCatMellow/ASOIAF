@@ -137,3 +137,10 @@ These chapters are separate from earlier targeted cross-book audits; neither thr
 - [7 Jon](chapters/07-jon.md): **Coerced baby swap, false histories, Watch reorganization and Janos Slynt's execution.** 64 chronological source observations, plus causal, epistemic and disconfirmation review.
 
 These are complete sequential first passes separate from targeted earlier theory audits.
+
+## Sequential first-pass close reading — 2026-10-19 (ADWD 8–9)
+
+- [8 Tyrion](chapters/08-tyrion.md): **Tyrion meets Griff, Young Griff, Haldon and Duck at the Shy Maid.** 61 source observations with causal, competing-interpretation and falsification review.
+- [9 Davos](chapters/09-davos.md): **Sisterton guest right, Salladhor Saan's defection, Manderly rumors and Ned Stark's disputed bastard.** 60 source observations with causal, competing-interpretation and falsification review.
+
+The two new notes maintain chapter-boundary information and do not equate reported identities or rumors with facts.

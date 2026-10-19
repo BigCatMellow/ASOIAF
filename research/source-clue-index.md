@@ -7404,6 +7404,128 @@
 | C-7295 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Owen immediately asks for Slynt's boots | Resources and dark humor amid death |
 | C-7296 | [ADWD 7](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/07-jon.md) | Stannis watches, nods to Jon and departs | Recognition gesture, not formal agreement with every decision |
 
+| C-7297 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Haldon Halfmaester and Ser Rolly Duckfield meet Illyrio on road | Actual transfer from Pentoshi escort to river party |
+| C-7298 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Duck is orange-haired, large and armed with bastard sword | Named companion and physical traits |
+| C-7299 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Haldon is lean, grey-eyed, more guarded in temperament | Possible reason Tyrion sees him as suspicious |
+| C-7300 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Illyrio sends six wooden chests with guards and pack animals | Transported material gifts, not assumed money |
+| C-7301 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Haldon says Young Griff now as tall as Griff and recently bested Duck | Direct claimed progress of boy's training |
+| C-7302 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Illyrio adds candied ginger gift because boy loves it | Intimacy and memory suggest a personal investment |
+| C-7303 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Illyrio wants final feast but Haldon says Griff requires immediate departure | Illyrio's access is limited by Griff's instructions |
+| C-7304 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Haldon reports Dothraki movements: Motho, Zekko and Pono | Rider account, not confirmed sighting by Tyrion |
+| C-7305 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Pono reportedly commands around thirty thousand near Selhoru headwaters | High consequence but unverified troop size |
+| C-7306 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Griff fears khalasar crossing Rhoyne before their escape | Route delay and security constraints |
+| C-7307 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Tyrion says he rides best on special saddle and familiar horse | Disability accommodations are specific and practical |
+| C-7308 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Haldon introduces himself as healer called Halfmaester | Healer role does not prove completed Citadel vows |
+| C-7309 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Duck says Griff knighted him and calls him Ser Rolly Duckfield | Griff's ability to confer knighthood is an identity clue |
+| C-7310 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Illyrio attempts to introduce Tyrion as Yollo | Pentoshi alias poorly suited to Western-looking fugitive |
+| C-7311 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Tyrion volunteers false Hugor Hill identity instead | Deliberate false ancestry and religious name |
+| C-7312 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Haldon asks whether Tyrion is king or bastard | Social suspicion about Hill surname |
+| C-7313 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Tyrion answers test of Serwyn and mirror shield against Urrax | Lore knowledge, not proof legendary tactic occurred |
+| C-7314 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Haldon asserts Ser Byron Swann attacked Vhagar during Dance | Historical account attributed to Maester Munkun |
+| C-7315 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Tyrion counters that Byron attacked Syrax by reference to squire's letter | Competing witness-based tradition, original letter not present |
+| C-7316 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Tyrion reconstructs why Stormlands-aligned Swann would not attack Aegon's ally | Good political plausibility test of history |
+| C-7317 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Haldon refuses to concede dispute and challenges Tyrion's authority | Source disagreement remains open |
+| C-7318 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Haldon mentions Lemore and a youth under Griff's supervision | Group roles previewed before arrival |
+| C-7319 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Illyrio vows to rejoin in Westeros for boy's wedding by Serra's hands | Strong personal stake, no lineage proof |
+| C-7320 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Duck helps lift Tyrion onto horse; Haldon rides ahead | Physical handoff and unequal comfort |
+| C-7321 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Haldon names Urho the Unwashed and pirate Lady Korra around Dagger Lake | Danger reports, not encounters |
+| C-7322 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Haldon relates Shrouded Lord's grey kiss and boons | Legend of greyscale-linked figure, no direct meeting |
+| C-7323 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Tyrion fears greyscale despite diminished fear of death | Physical corruption differs from death anxiety |
+| C-7324 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Duck recounts being armorer's son at Bitterbridge | Specific nonnoble origin |
+| C-7325 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Duck says Lorent Caswell stole his birthday sword and derided him | Catalyst for class violence |
+| C-7326 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Duck broke Lorent's arms and ribs with hammer | Admission of serious assault, no outside corroboration |
+| C-7327 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Duck fled Reach and joined Golden Company after quarrel | Distinct route into Blackfyre-origin company |
+| C-7328 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Harry Strickland recruited Duck as squire | Named direct command connection |
+| C-7329 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Griff sought company fighter to train Young Griff, so Duck was sent | Military training rather than ordinary education |
+| C-7330 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Griff knighted Duck about a year later in open field | Griff's denial of knighthood later inconsistent with conferral |
+| C-7331 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Tyrion notices chests too light to carry gold | Material logic counters simple payment assumption |
+| C-7332 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Duck and Haldon say chests contain court dress, armor and queenly gifts | Character account, not separately unpacked |
+| C-7333 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Tyrion and Haldon discuss Lomas Longstrider's sixteen wonders | Shows Tyrion's scholarship and remembered aspiration |
+| C-7334 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Tyrion corrects order of Valyrian road on wonders list | Concrete learning, not prophetic hint |
+| C-7335 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Tyrion wanted tour of Nine Free Cities before adulthood | Former personal ambition |
+| C-7336 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Tywin denied travel after Tysha marriage and assigned Tyrion Casterly Rock drains | Discipline/punishment interwoven with public works |
+| C-7337 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Tyrion ran drains well and recalls father's contempt | Competence and trauma coexist |
+| C-7338 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Road reaches ruined Ghoyan Drohe by Little Rhoyne | Confirmed actual route progress |
+| C-7339 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Ghoyan Drohe is silt-choked ruined Rhoynar city conquered by dragons | Historical violence visible in material remnants |
+| C-7340 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Young Griff appears about fifteen or sixteen with dyed blue hair | Age estimate and deliberate disguise |
+| C-7341 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Shy Maid poleboat has broad beam, shallow draft, plain paintwork | River transport optimized for concealment |
+| C-7342 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Ysilla and Yandry appear as older Rhoynish pair at tiller | Named crew identities not yet explained in detail |
+| C-7343 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Septa Lemore appears in white robe with dark hair | Religious cover and participant role, not proof birth |
+| C-7344 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Griff has red roots below dyed blue hair and wears red river-wolf pelt | Dyed hair and heraldic visual cues |
+| C-7345 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Griff speaks abruptly and controls other companions | Command structure visible |
+| C-7346 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Young Griff claims Tyroshi mother and dyes hair to honor her | His account of parentage, not independently authenticated |
+| C-7347 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Griff can read Illyrio's sealed letter with fluency | Unusual education for ordinary sellsword noted by Tyrion |
+| C-7348 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Griff learns Tywin's death from letter and questions Tyrion | Information transmission verified |
+| C-7349 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Tyrion jokes he killed Joffrey though no confession of actual poison | Self-serving false claim, not proof he poisoned king |
+| C-7350 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Griff burns Illyrio letter rather than leave recoverable evidence | Deliberate secrecy |
+| C-7351 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Griff denies being knight despite Duck claiming Griff knighted him | Specific inconsistency, not identity certificate |
+| C-7352 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Griff refuses Tyrion's presumed lordly title | Continued concealment of status |
+| C-7353 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Griff says kingdoms and names are at stake | Politics far larger than mercenary ferrying |
+| C-7354 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Tyrion says his Lannister knowledge could aid Daenerys | Potential strategic adviser, not yet trusted or employed |
+| C-7355 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Griff permits passage only to Volantis initially | Conditional admission, not assured passage to Daenerys |
+| C-7356 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Tyrion remains uncertain where he can safely leave | Griff holds leverage over wanted fugitive |
+| C-7357 | [ADWD 8](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/08-tyrion.md) | Chapter ends before party sails or identities are unmasked | No accomplished audience with Daenerys |
+| C-7358 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Night Lamp beacon stands above Sisterton's storm in opening | Navigational landmark later subject of false-light stories |
+| C-7359 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Davos marched over sea moat and through Breakwater's gates | Island lord physically controls his prisoner |
+| C-7360 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Davos is bound and soaked after failed attempt to book passage | Immediate vulnerability and capture |
+| C-7361 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Captain finds Davos at Belly of the Whale with twelve gold dragons | Material money and place of capture |
+| C-7362 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Ribbon with crowned stag, flaming heart and white hand seals produced | Proof of Stannis's official commission as claimed |
+| C-7363 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric Borrell demands inspection of Davos's shortened fingers | Physical identification stronger than stolen sealed ribbon |
+| C-7364 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric bears partial webbing between fingers | Reported Sistermen trait actually observed in him |
+| C-7365 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Davos insists he has not turned cloak | Direct personal position, no guarantee Godric believes it |
+| C-7366 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Davos has been trying to reach White Harbor for Stannis | Authorized diplomatic objective |
+| C-7367 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Twenty-nine ships departed the Wall under Saan's command | Initial fleet scale |
+| C-7368 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Storms drove Oledo and Old Mother's Son onto Skagos rocks | Reported wrecks, no complete survivors list |
+| C-7369 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Saathos Saan was lost off Grey Cliffs | Named ship destruction |
+| C-7370 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Bountiful Harvest rigging wrecked then tug collision sank it and tow galley | Specific cascade of fleet loss |
+| C-7371 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Saan's surviving fleet scattered across sea | Some ships may survive, not reliable naval force |
+| C-7372 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Saan complains of unpaid service, lack of food and homeward desire | Credible mercenary withdrawal motive |
+| C-7373 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Saan rejects Davos's argument to keep serving until victory | Defection becomes an actual decision |
+| C-7374 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Saan departs for Stepstones with remaining ships | Davos knows this but hides it from island lord |
+| C-7375 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Davos arrives alone in small boat put ashore near Night Lamp | Saan leaves former friend alive rather than hand him over |
+| C-7376 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Saan warns Davos Stannis honors may kill him | Assessment of king's dangerous service |
+| C-7377 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric dismisses guard and orders visit kept secret | Intentional protection and strategic deniability |
+| C-7378 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric says he could deliver Davos to queen or Sunderland | Threat of political sale remains |
+| C-7379 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Three Sister lordships subordinate to Sunderland and nominally Arryns | Layered weak feudal control |
+| C-7380 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric says seven Sunderland sons are expensive to knight | Personal incentive not necessarily support for Lannisters |
+| C-7381 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Davos hopes Lysa Arryn may aid him, not knowing her death | Information lag |
+| C-7382 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric says Lysa dead and Littlefinger rules Vale | New report to Davos, prior independent Vale chapters qualify manner |
+| C-7383 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric reports bizarre story Tyrion killed Tywin by tearing with bare hands | False method, reader knows crossbow |
+| C-7384 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Davos learns Tywin is dead and seeks to send raven to Stannis | Critical strategic news, transmission request denied |
+| C-7385 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric refuses use of his raven to avoid giving Stannis aid | Communication blockade |
+| C-7386 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric reports past Sistermen practice of drowning dwarfs as religious offering | Hostile tradition, not current legal norm |
+| C-7387 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric says Alester Florent was burned as Hand by Stannis | Confuses earlier Hand and current Davos, Davos corrects |
+| C-7388 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Davos remembers Alester tied to stake and screaming during burning | Direct witnessed death and religious terror |
+| C-7389 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Melisandre claimed Alester's burning conjured favorable voyage wind | Character magical claim, causation not proved |
+| C-7390 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric serves sister's stew and fresh bread to Davos | Converts captive to guest under hospitality norms |
+| C-7391 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Stew has shellfish, vegetables, cream, saffron and pepper | Local food culture and luxury despite nominal poverty |
+| C-7392 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric's granddaughter also has webbed hand | Family trait may be hereditary; not evidence of magical bloodline |
+| C-7393 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Davos observes guest-right and expects to survive the night | Institutional protection interpreted by character |
+| C-7394 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric says he has spices salvaged from wrecked ship | Wrecker wealth admitted; lawful salvage distinction unclear |
+| C-7395 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | False coastal lights sometimes intentionally lure ships onto rocks | Direct account of Sistermen predatory practice |
+| C-7396 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric says Stannis once ordered execution of his smuggling associates | Concrete personal grievance against king |
+| C-7397 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric says Stannis threatened him over misused Night Lamp beacon | Reason for distrust, also implies prior state authority |
+| C-7398 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric claims White Harbor's Wyman plans Frey marriage and submission | Report from traders, not proof of private intent |
+| C-7399 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Lionstar reportedly docked twelve days before carrying Freys and bones | Specific ship date and cargo reported |
+| C-7400 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Rhaegar Frey reportedly dined with Godric en route to White Harbor | Named participant, not independently seen by Davos |
+| C-7401 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Frey party carries bones said to be Wyman's murdered son | Token of grief and coercive reconciliation, source unverified here |
+| C-7402 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric says Wyman is fat again and mocks vengeance fasting vow | Hostile characterization, not inner motive insight |
+| C-7403 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Davos stresses White Harbor's unfreezing harbor and money | True strategic necessity for Stannis |
+| C-7404 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric recounts Manderly exile from Mander and Stark protection | Historical claim about northern integration |
+| C-7405 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Davos refuses to abandon mission despite reported Frey agreement | Decision made with incomplete intelligence |
+| C-7406 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric says Three Sisters suffered northern conquest and long Vale rivalry | Regional grievance explains conditional loyalty |
+| C-7407 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric reports maesters date Rape of Three Sisters about 2000 years before | Chronology inherited from secondary accounts |
+| C-7408 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric says only winter is certain and attributes phrase to Ned | Personal recollection, independent attribution unverified |
+| C-7409 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric reports Ned reached Three Sisters by fishing boat during Robert's Rebellion | Potential geographic reconstruction of Ned's movements |
+| C-7410 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Fisherman reportedly drowned during storm; daughter saved Ned | Legend or local testimony, not directly witnessed here |
+| C-7411 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric repeats rumor Ned impregnated fisherman's daughter | Critical parentage allegation explicitly hearsay |
+| C-7412 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Story says purported bastard called Jon Snow after Jon Arryn | Conflicts with other parentage possibilities, no certificate |
+| C-7413 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric's father considered sending Ned's head to Aerys for reward | Family recollection of political contingency |
+| C-7414 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric recalls young Robert took Gulltown and killed Marq Grafton | Historical claimed military detail |
+| C-7415 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric says his father sent Ned on once odds of rebellion improved | Calculated neutrality rather than certain pro-Stark allegiance |
+| C-7416 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Godric's father ordered story of visit concealed if Stark lost | Survival through deniability |
+| C-7417 | [ADWD 9](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/09-davos.md) | Davos says he, like Ned, was never there | Covert bargain at chapter endpoint |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -7411,4 +7533,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and seventy-nine first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and eighty-one first-pass chapters listed in the coverage tracker.
