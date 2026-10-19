@@ -52,3 +52,5 @@ The show is evidence of one adaptation’s chosen route. A reported Martin discl
 - Maintain a character-by-character adaptation comparison only after each comparison has a five-book counterroute.
 
 Independent challenge remains open.
+
+**Convergence update (2026-10-19):** [Supernatural endpoint gates](../reconciliation/supernatural-endpoint-gates.md) specifies the book-native causal bridge required before an adaptation-reported possibility can enter a trajectory.
