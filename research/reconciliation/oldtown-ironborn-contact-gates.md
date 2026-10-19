@@ -30,4 +30,4 @@
 
 ## Next evidence target
 
-Build a bounded Oldtown coastal-force ledger from AFFC 29 and 45, keeping reported ship counts, physical sightings, and magical rumors in separate columns. Independent challenge remains open.
+The [Oldtown coastal-force ledger](oldtown-coastal-force-ledger.md) now separates physical sightings, reported preparation, and magic rumor from AFFC 29 and 45. Independent challenge remains open.
