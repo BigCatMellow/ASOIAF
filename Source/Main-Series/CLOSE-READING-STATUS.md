@@ -48,7 +48,7 @@ The source contains approximately 1,751,065 whitespace-delimited words by the lo
 
 ## Next in-scope sequential task
 
-**AGOT (73/73), ACOK (70/70), and ASOS (82/82) have complete sequential first-pass coverage, including prologues and the ASOS epilogue. AFFC is complete at 46/46 (Prologue and 1–45).** Independent line-level challenges, thematic synthesis and cross-book clue reconciliation remain open. Resume at `ADWD 56 (The Iron Suitor)` using [the original chapter](05-A-Dance-with-Dragons/text/057-the-iron-suitor.md). Do not imply the 17 remaining narrative units have received whole-chapter readings.
+**AGOT (73/73), ACOK (70/70), ASOS (82/82), and AFFC (46/46) have complete sequential first-pass coverage. ADWD is complete through 63 (Prologue and 1–63): 335/344 narrative units overall, 9 remaining.** Independent line-level challenges, thematic synthesis and cross-book clue reconciliation remain open. Resume at `ADWD 64 (The Ugly Little Girl)` using [the original chapter](05-A-Dance-with-Dragons/text/065-the-ugly-little-girl.md). Do not imply the remaining narrative units have received whole-chapter readings.
 
 ## Review boundary
 

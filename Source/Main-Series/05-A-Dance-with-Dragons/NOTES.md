@@ -10,6 +10,13 @@
 - Chapter locators: [index](../../../research/chapter-index.md)
 - Evidence policy: [SOURCES.md](../../../SOURCES.md)
 
+## ADWD 60–63
+
+- [60 — The Spurned Suitor](chapters/60-the-spurned-suitor.md): Quentyn's dragon plan and the Pentos price.
+- [61 — The Griffin Reborn](chapters/61-the-griffin-reborn.md): Connington's landing, greyscale secrecy, and Aegon's choice.
+- [62 — The Sacrifice](chapters/62-the-sacrifice.md): Stannis's hunger crisis; Theon and Jeyne arrive.
+- [63 — Victarion](chapters/63-victarion.md): fleet approach and untested Dragonbinder claim.
+
 ## Reading questions
 
 The Wall, Stannis's camp, Meereen, Aegon's invasion and unresolved reports.
