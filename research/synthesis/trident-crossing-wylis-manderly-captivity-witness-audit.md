@@ -205,3 +205,19 @@ This is a **corroboration boundary**, not an exoneration. It strengthens the ord
 - [ACOK 64 (Arya)](../../Source/Main-Series/02-A-Clash-of-Kings/text/065-arya.md)
 - [ASOS 44 (Jaime)](../../Source/Main-Series/03-A-Storm-of-Swords/text/045-jaime.md)
 - [ASOS 74 (Arya)](../../Source/Main-Series/03-A-Storm-of-Swords/text/075-arya.md)
+
+## 9. False-positive witness excluded: Ser Bartimus's other Battle of the Trident
+
+**ADWD 29 (Davos)** introduces Ser Bartimus, the one-legged chief gaoler of White Harbor's Wolf's Den. When drunk, he boasts that he **saved Lord Wyman's life at the capitalized “Battle of the Trident,”** for which the Den was his reward. This is a genuine link between a named White Harbor retainer, Wyman and a battle on the Trident—but it is **not evidence about Roose's later Ruby Ford operation**.
+
+The contextual distinction matters:
+
+- `CHARACTER CLAIM`: Bartimus's own boast is not independently narrated battle testimony.
+- `HISTORICAL LABEL / INFERRED IDENTIFICATION`: “the Battle of the Trident” conventionally denotes Robert's Rebellion battle, rather than the later, separately described fighting at the **fords/Ruby Ford** in **ASOS 49**. The wording, Wyman's personal participation and the reward's long-established character all point to that earlier event.
+- `NOT A RUBY-FORD WITNESS`: Bartimus is never placed with Wylis, Roose, Ronnel Stout, Kyle Condon or Gregor's attack; neither he nor Davos recounts a later river campaign memory.
+
+Therefore Bartimus may help explain a durable personal tie between Wyman and an old White Harbor officer, but he cannot corroborate, contradict, or relay a first-hand account of the crossing under audit. It is precisely the sort of shared place-name that can create a false information path if the two Trident events are silently collapsed.
+
+### Added source navigation
+
+- [ADWD 29 (Davos)](../../Source/Main-Series/05-A-Dance-with-Dragons/text/030-davos.md)
