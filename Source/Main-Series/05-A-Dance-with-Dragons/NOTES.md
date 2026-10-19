@@ -191,3 +191,11 @@ The claimed boy's bloodline remains unverified, even though Connington's persona
 - [26 The Wayward Bride](chapters/26-the-wayward-bride.md): **Asha receives Theon's flayed skin, discovers Latecomer precedent, and is routed at Deepwood.** 86 source observations, competing interpretations, and disconfirmation work.
 
 Quentyn's intended genuine desertion is not conflated with the Windblown's staged defection. Asha's last blow is not counted as a witnessed death, and the Latecomer precedent remains an untested legal reading.
+
+## Sequential first-pass close reading — 2026-10-19 (ADWD 27–29)
+
+- [27 Tyrion](chapters/27-tyrion.md): **Jorah's captive crosses Volantis; Benerro's prophecy and Penny's grievance complicate the passage east.** 75 source observations with rival hypotheses and epistemic restrictions.
+- [28 Jon](chapters/28-jon.md): **Three doomed ranger heads, Rattleshirt's impossible prowess, Arya's alleged marriage and Melisandre's offer.** 52 source observations with rival hypotheses and epistemic restrictions.
+- [29 Davos](chapters/29-davos.md): **A false death, Manderly's conditional alliance, Wex's witness and the Skagos mission.** 64 source observations with rival hypotheses and epistemic restrictions.
+
+Davos's death is established as staged by Manderly, not repeated as genuine. His Skagos destination is recorded as an inference, not as named aloud at the ending.

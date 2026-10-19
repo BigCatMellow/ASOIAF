@@ -8635,6 +8635,198 @@
 | C-8519 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | She perceives red burning hearts and black stag with fiery antlers | Possible Stannis-associated banner/dream; explicit identity not given |
 | C-8520 | [ADWD 26](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/26-the-wayward-bride.md) | Chapter ends without confirming Asha dies, survives or is captured | Cliffhanger requires later evidence |
 
+| C-8521 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Tyrion arrives at Volantis bound to Jorah Mormont's saddle | Captivity following Selhorys is independently established |
+| C-8522 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Gates close at dark as rider squeezes past citrus wagon | Volantis controls inward access |
+| C-8523 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Tiger guards rub Tyrion's head for luck | Casual dehumanization of a disabled man |
+| C-8524 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Jorah says he had titles by birth but desires no hollow lordship | Motive not reducible to financial reward |
+| C-8525 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Jorah condemns Tyrion's killing of Tywin | Moral reproach despite Jorah's own prior slave-trading |
+| C-8526 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Tyrion threatens killing with crossbow in graphic jest | Unresolved resentment and dangerous demeanor |
+| C-8527 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Tyrion sees wealthy Volantene streets alternate with derelict slums | Political-economic stratification |
+| C-8528 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Abandoned forts and stagnant fountains show former population loss | Decline from imperial grandeur |
+| C-8529 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Sinks and marsh encroach on former built districts | Physical geography complicates conquest |
+| C-8530 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Tyrion notices tattoos and widespread chattel labor | Slave society in normal urban services |
+| C-8531 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Volantis trades with large elephants and dwarf elephants | Military and economic animal logistics |
+| C-8532 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Elephant dung slaves bear flies tattooed on cheeks | Labor assigned visibly lifelong categories |
+| C-8533 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Tyrion reckons nine in ten passers-by enslaved near red temple | POV impression, not formal census |
+| C-8534 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Benerro draws mass audience at monumental red temple | Independent populist force |
+| C-8535 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Tyrion recognizes temple larger than Great Sept of Baelor | Scale of R'hllor establishment |
+| C-8536 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Jorah says red temple buys children as priests prostitutes or soldiers | Red priests' institution itself practices slavery |
+| C-8537 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Fiery Hand numbers exactly one thousand by succession rule | Religious standing force rather than metaphor |
+| C-8538 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Benerro writes letters of flame, Tyrion recognizes Doom and Darkness | Observable feat, possible powder-magical mechanisms unresolved |
+| C-8539 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Crowd shows threatening zeal and press resembling King's Landing riot | Real social destabilization risk |
+| C-8540 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Jorah translates Benerro's claim Dany threatened by false gods and outlanders | Red movement supports Dany against official Triarchs |
+| C-8541 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Tyrion infers Benerro could resent a second dragon claimant without dragons | Interpretation, not explicit rejection of Aegon by Benerro |
+| C-8542 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Jorah sells horse and tackle before seeking ship | Plans sea transit rather than westward horseback trip |
+| C-8543 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | He commissions extraordinarily heavy iron fetters for Tyrion | Prisoner rendered visible slave in Volantis |
+| C-8544 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Jorah explicitly says no one listens to a man in fetters | Chattel status silences contrary testimony |
+| C-8545 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Long Bridge has fused-stone archway with strange carved creatures | Valyrian infrastructure survives |
+| C-8546 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Commercial street occupies bridge with buildings nearly touching overhead | Bridge as political choke point and economic artery |
+| C-8547 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Bridge between east noble center and west sailors district | Social separation within one city |
+| C-8548 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Executed thief hands and heads hung in bridge center | Public intimidation and legal violence |
+| C-8549 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Among executed is slave woman accused of striking mistress | Violence against enslaved resisting owner |
+| C-8550 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Another head is of alleged Daenerys spy and rebel | Internal pro-Dragon dissent being crushed |
+| C-8551 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Third executed allegedly killed his father | Kinslaying image mirrors Tyrion's self-reproach |
+| C-8552 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | West bank teems with workers, sailors and election revelers | Different from exclusionary Old Blood districts |
+| C-8553 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Election lasts ten days; scene takes place during third day | Temporal anchor |
+| C-8554 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Triarch candidates stage spectacles and distribute food and sex slaves | Voting privilege supported by slavery |
+| C-8555 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Only qualified freeborn propertyholders may vote, few west-bank residents | Representation deeply restricted |
+| C-8556 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Jorah recalls his exile to Lys with Lynesse then Volantis | First-person biography of own fall |
+| C-8557 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | He says Lynesse's new lover threatened debt enslavement | Jorah experienced economic precarity despite enslaving others |
+| C-8558 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Mormont confirms his name when Tyrion addresses him by it | Capturing bear knight now directly identified |
+| C-8559 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Tyrion notices poisoned mushrooms remain in his boot | Escape/murder resource not confiscated |
+| C-8560 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Jorah lodges Tyrion chained high on Merchant's House wall ring | Captive's severe physical suffering |
+| C-8561 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Tyrion cannot escape manacles despite drawing blood | Escape alternatives practically impossible |
+| C-8562 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Jorah describes widow as Volantis contact and serves fowl and ale | Human interactions not pure hostility |
+| C-8563 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Tyrion's own mental inventory includes Shae Tywin and Tysha injuries | Suffering does not erase harms he caused |
+| C-8564 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Jorah bought gloves for elderly contact on Long Bridge | A calculated gift, not simply sentiment |
+| C-8565 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Breakfast serves fried locusts, bread and roe at Merchant's House | Material port-city detail |
+| C-8566 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | A second dwarf notices Tyrion and reacts sharply | Unexplained at first, later identified as Penny |
+| C-8567 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Jorah hears Golden Company soliciting ships for exiled lord headed west | Independent confirmation of Connington's pivot as rumor |
+| C-8568 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Tyrion questions whether Golden Company's western news is a feint | Tyrion lacks insider knowledge of actual council |
+| C-8569 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Widow once enslaved as Yunkish-trained bedslave then wed wealthy Vogarro | Survivor gained extraordinary maritime connections |
+| C-8570 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Vogarro served as elephant triarch seven times and shipping financier | Political merchant dynasties |
+| C-8571 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Widow barred from Black Wall residence as freedwoman | Status prejudice persists after emancipation |
+| C-8572 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Widow's removed facial slave tattoo remains scar | Embodied memory of enslavement |
+| C-8573 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Widow negotiates from defensible corner and commands armed retainers | Independent power base |
+| C-8574 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Jorah wants swift transport to Meereen, not delivery to Cersei | Captivity's destination decisively confirmed |
+| C-8575 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Widow says Golden Company is arranging westbound ships and triarch escort | Current alliance intelligence, not yet sight of sailing |
+| C-8576 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | She warns official Volantene war fleet will soon sail against Daenerys | Prediction based on election power structure |
+| C-8577 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Widow thinks war against elites may erupt inside Volantis | R'hllor slaves have competing political direction |
+| C-8578 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | She says Malaquo had planned attack on red temple using Golden Company | Specific claim of covert anti-red purge |
+| C-8579 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | She insists Jorah disclose motives rather than merely offer silver | Tests trust and loyalty |
+| C-8580 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Jorah says he hopes to defend and serve Daenerys even unto death | Sincere-sounding confession, self-interest remains possible |
+| C-8581 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Widow recognizes Tyrion and calls him kin- and kingslayer | Information about wanted fugitive widespread |
+| C-8582 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Tyrion demands opportunity to rape and kill Cersei | Explicit revenge fantasy and potential future danger |
+| C-8583 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Other dwarf rushes at Tyrion with knife | Immediate lethal attempt |
+| C-8584 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Tyrion splashes wine and dodges her blade | Defensive conduct as captive |
+| C-8585 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Jorah restrains attacker without killing her | Protection of prisoner |
+| C-8586 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Attacker turns out to be Penny, sister of dwarf jouster Oppo | Continuity with Joffrey's wedding spectacle |
+| C-8587 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Penny explains sailors killed Oppo mistaking him for Tyrion | Indirect casualties of Cersei's manhunt |
+| C-8588 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Penny and Oppo had performed as dog and pig riders at wedding | Identifying specific earlier scene |
+| C-8589 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Penny initially attributes guilt to Tyrion because targeted mistaken identity | Misplaced culpability distinct from Tyrion's broader crimes |
+| C-8590 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Widow offers Penny clothing, wine and protection | Concrete compassion to vulnerable dwarf |
+| C-8591 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Widow declines to remove Tyrion's chains due local anti-escape law | Political limit to her help |
+| C-8592 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | She names Selaesori Qhoran leaving in two days via New Ghis to Qarth | Exact vessel and departure window |
+| C-8593 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Ship carries cargo, brined corpse and a red priest | Unusual route cargo and passenger testable |
+| C-8594 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Widow says Benerro saw vessel would not reach Qarth | Prophecy, not independent verified destination |
+| C-8595 | [ADWD 27](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/27-tyrion.md) | Widow asks Dany be told Volantis's slaves are waiting for her | Active emancipation appeal, potentially war-changing |
+| C-8596 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Jon assigns Alliser Thorne to scout north despite personal hostility | Potential calculated removal, legitimate need for intelligence |
+| C-8597 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Thorne accepts ranging under implied fear of Slynt-style beheading | Power dynamics after Janos's execution |
+| C-8598 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Raven repeats word die over conversation | Sound omen, not supernatural certainty |
+| C-8599 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Dywen serves as experienced forest guide on first patrol | Legitimate tactical support |
+| C-8600 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Black Jack Bulwer Kedge Whiteye lead other patrols | Named command structure |
+| C-8601 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Three separate parties each contain three riders | Nine-person ranging, no mass expedition |
+| C-8602 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Two ravens accompany each party | Potential emergency communications |
+| C-8603 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Jon recalls lost Uncle Benjen despite seasons since disappearance | Continuing emotional uncertainty and unsolved case |
+| C-8604 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Jon acknowledges eight useful brothers plus difficult Thorne all at risk | Not indifferent to losses |
+| C-8605 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Cotter Pyke sees growing wildling camps on northeastern coast | Independent source of border pressure |
+| C-8606 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Denys Mallister sees fires beyond Gorge | Potential other front |
+| C-8607 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Jon already sent ten free-folk volunteers to each western and eastern command | ADWD21 recruitment partly implemented |
+| C-8608 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Both commanders complain volunteers old sick or untrained | Institutional reception unfavorable |
+| C-8609 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Pyke says they could serve as warning corpses | Extreme hostility undermines integration |
+| C-8610 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Mallister insists he needs sworn trained Watchmen | Loyalty/security argument rather than blind prejudice |
+| C-8611 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Jon remembers youthful sword lessons with Robb under Rodrik | Personal trauma and nostalgia |
+| C-8612 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Iron Emmett training new men in Castle Black yard | Active capacity building |
+| C-8613 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Jon chooses three simultaneously to spar with him | Skill test and command pedagogy |
+| C-8614 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Jace questions fairness, Jon eliminates him by sudden blow | Teaches combat doesn't conform to honor rule |
+| C-8615 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Arron and Emrick land meaningful blows and demonstrate coordination | Novices may mature into useful fighters |
+| C-8616 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Jon makes joke about wights when fallen recruits stand | Dead rise as literal combat risk |
+| C-8617 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Apparent Rattleshirt challenges Jon to duel | Brash outsider intervention |
+| C-8618 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Rattleshirt implies Stannis burned wrong man | Strong pre-reveal identity clue |
+| C-8619 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | He wears heavy armor instead of bones, changes perceived stature | Appearance variable under glamour |
+| C-8620 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Rattleshirt picks greatsword and declines shield | Specific technique unlike Jon's expectation |
+| C-8621 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Rattleshirt hits far harder/faster than prior characterization predicts | Physical skill anomaly supporting impersonation |
+| C-8622 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | He shatters Jon's shield and lands repeated heavy blows | Jon's presumed combat superiority disproved |
+| C-8623 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | He knocks Jon down and pins him without dagger stroke | Wins fight decisively, chooses not to kill |
+| C-8624 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Jon admits defeat and praises opponent | Sportsmanship and tactical learning |
+| C-8625 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Jon notes dagger already on Rattleshirt's belt | Spared life appears deliberate |
+| C-8626 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Clydas brings letter with pink Bolton wax | Official northern news arrival |
+| C-8627 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Letter signed Ramsay Hornwood and seals of Dustin Cerwyn Ryswell Umber | Signatures not independent proof of sincere allegiance |
+| C-8628 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Ramsay declares Moat Cailin fallen and ironborn flayed | Consistent with REEK confirmed massacre |
+| C-8629 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Bolton summons northern lords to Barrowton and wedding | Political consolidation and coercion |
+| C-8630 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Ramsay's bride called Arya Stark, Jon believes sister alive | Reader now knows from Reek that bride is Jeyne Poole |
+| C-8631 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Jon recalls Arya's childhood and Needle gift | Emotional memory and independent Stark childhood |
+| C-8632 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Jon professes to have no sister owing to Night's Watch vows | Verbal renunciation incompatible with private care |
+| C-8633 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Jon suppresses reply to Bolton letter | No open Watch intervention in chapter |
+| C-8634 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | He fears true Arya's captivity and expected resistance to Ramsay | Based on Arya's character, false person premise |
+| C-8635 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Melisandre's fire cult at Castle Black shrunk after Stannis leaves | Proportion of adherents estimated |
+| C-8636 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Jon walks outside to cope with grief and unease | Isolation after command choices |
+| C-8637 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Ghost briefly gives Jon intense scent perception | Potential skinchanger connection, not declared warging |
+| C-8638 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Jon mistakes red-haired Melisandre for dead Ygritte | Grief and possible supernatural confusion |
+| C-8639 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Melisandre claims vision of girl in grey on dying horse coming to Jon | Prediction, identity unverified |
+| C-8640 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Melisandre allows Ghost touch; wolf approaches her unexpectedly | Her influence on wolf shown, mechanism uncertain |
+| C-8641 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | When Jon calls, Ghost initially looks unfamiliar at him | Momentary breach of assumed bond |
+| C-8642 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Melisandre says Jon and wolf possess power he refuses to use | Independent magical interpretation |
+| C-8643 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Melisandre's ruby glows near her throat and Ghost's eyes reflect red | Visible motifs not full proof of control |
+| C-8644 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Jon recalls Dalla said sorcery is sword without hilt | Practical caution and moral hazard |
+| C-8645 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Melisandre warns three of nine will die, eyes removed | Specific falsifiable prophecy prior to future event |
+| C-8646 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | She predicts dead heads will arrive before Jon trusts her | Promised trigger for persuasion |
+| C-8647 | [ADWD 28](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/28-jon.md) | Jon has no certainty if girl is truly Arya | Reader and POV knowledge split |
+| C-8648 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Davos survives in Wolf's Den despite public beheading order | Previous chapter's threatened execution did not occur |
+| C-8649 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Gaoler Garth habitually calls Davos dead man | Staged public death reflected in private intimidation |
+| C-8650 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Davos receives unusually good food, clean clothes and books | Hidden special handling at Wyman's direction |
+| C-8651 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | He can write farewell letters to Marya Steffon Stannis and Devan | Literacy achievement and familial cost |
+| C-8652 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Garth brandishes branding iron Whore and axe Lady Lu | Authentic personal threat even while prisoner protected |
+| C-8653 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Therry is young turnkey and Bartimus a one-legged chief gaoler | Security personnel identified |
+| C-8654 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Bartimus says he saved Wyman at Trident | His own statement, not independent battlefield record |
+| C-8655 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wolf's Den founded by King Jon Stark to defend White Knife | Historical account from Bartimus |
+| C-8656 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Greystarks allegedly occupied Den for five centuries and rebelled with Boltons | Interesting Stark cadet branch and Bolton link |
+| C-8657 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Den once taken by Sistermen and slavers | Strategic history of coast |
+| C-8658 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Bartimus describes King Brandon Ice Eyes freeing slaves during harsh winter | Northern anti-slaver story from keeper |
+| C-8659 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | He claims freed captives hanged entrails on heart tree | Blood-sacrifice tale not independent direct observation |
+| C-8660 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Davos considers his own standing as Smuggler Knight King's Hand and husband | Emotional self-account |
+| C-8661 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Unexpected visitor Robett Glover enters cell with courtesy | New political handler rather than executioner |
+| C-8662 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Glover reports Stannis has regained Deepwood Motte | Confirms Asha battle resulted in northern/Stannis victory |
+| C-8663 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Glover reports Boltons returned with false Arya | Witness still unaware actual impersonator |
+| C-8664 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Davos's execution is now an official fiction known outside | Plot turns prior supposed death into concealment |
+| C-8665 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Secret passage runs beneath Castle Stair between Wolf's Den and New Castle | Physical covert mechanism |
+| C-8666 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | A large heart tree roots through old walls of Wolf's Den godswood | Nonmagical architectural damage or magical association unproved |
+| C-8667 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Davos enters Wyman's private chamber behind movable wall | Genuine confidential diplomacy |
+| C-8668 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wyman welcomes Davos and acknowledges poor treatment | Open reversal from public court |
+| C-8669 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wyman says Wylis has returned home unharmed | The key condition for freer action is satisfied |
+| C-8670 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Public feast celebrates Wylis while Freys dine with Manderlys | Enforced appearance of reconciliation continues |
+| C-8671 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wyman feigns visit to privy to meet Davos unseen | Covert political stagecraft |
+| C-8672 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wyman says a different bearded criminal was executed as Davos | Direct explanatory confession of false public execution |
+| C-8673 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Body's fingers deliberately shortened to match Davos | Physical forensic deception |
+| C-8674 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Onion and tar distorted displayed head's face | Explains how substitute fooled viewers |
+| C-8675 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wyman would surrender real Davos if Freys detected mismatch | Ruthless contingency, not absolute protection |
+| C-8676 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wylla opposed Freys from sincere conviction | Wyman validates granddaughter's heart |
+| C-8677 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wynafryd also secretly knew plan and performed loyalty | Other granddaughter's compliance was deliberate disguise |
+| C-8678 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Leona's fear over Wylis was genuine | Not all public anti-Stannis behavior staged |
+| C-8679 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Tywin threatened Castamere-scale destruction if Wyman withheld submission | Explicit intimidation framed by Wyman testimony |
+| C-8680 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wyman demanded Wylis's actual release before surrender | Strategic bargaining preserved son's life |
+| C-8681 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Tywin died before exchange finished | Political opening after ASoS |
+| C-8682 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Freys brought Wendel's bones and marriage proposals | Official settlement instrument after Red Wedding |
+| C-8683 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Davos's purported death helped Wyman prove Iron Throne loyalty | Reason for execution deception |
+| C-8684 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Symond Frey has purchased servants and two knights | Potential infiltration of household |
+| C-8685 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Frey handmaid seduces Wyman's fool for intelligence | Possible surveillance route |
+| C-8686 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wyman distrusts Maester Theomore as Lannisport Lannister kin | Specific motive for withholding sensitive ravens |
+| C-8687 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wyman states he never forgot Wendel murdered under guest right | Actual deep grievance |
+| C-8688 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wyman warns Freys expect north to pretend to believe Red Wedding lies | Propaganda as tool of enforced submission |
+| C-8689 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wyman plans attend Winterfell wedding with Freys | Continuing outward compliance |
+| C-8690 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | He promises departing Freys horses as guest gifts | Potential implied guest-right release; motive not declared |
+| C-8691 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wyman says he has more hidden warships up White Knife than Davos saw | Fleet larger than twenty-three visible galleys |
+| C-8692 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wyman claims most heavy horse north of Neck and full silver vaults | Power assertion from interested lord |
+| C-8693 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Oldcastle and Widow's Watch expected to follow White Harbor | Projected allied vassal responses |
+| C-8694 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wyman offers lands east White Knife to Stannis conditionally | Real potential alliance but not yet delivered |
+| C-8695 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | He says price is payable by smuggler not king | Mission tailored to Davos's skills |
+| C-8696 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wyman presents mute ironborn squire Wex | Independent witness to Winterfell's fall |
+| C-8697 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wex carves W-E-X and performs dagger trick | Identity token and learned communication |
+| C-8698 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wex served Theon Greyjoy at Winterfell | Link to prior ACOK witness |
+| C-8699 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wex's yes/no and chalk accounts challenge Bolton story | Limited communications; reconstructed details |
+| C-8700 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wex says Ramsay, not Theon, killed Rodrik Cassel | Contradicts circulating false blame |
+| C-8701 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wex says Ramsay murdered surrendered ironborn and took Winterfell women | Consistent with Bolton cruelty cross-chapters |
+| C-8702 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wex hid in heart tree and evaded Bolton's men | Mundane concealment under magically charged symbol |
+| C-8703 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wex watched six survivors emerge from ruins of Winterfell | Direct claimed witness, numbers by finger signs |
+| C-8704 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | He represented two boys and two direwolves in chalk | Bran and Rickon alive, at least when seen |
+| C-8705 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | The party of six split four one way two another | Confirmed from Wex's testimony, exact roster to cross-check |
+| C-8706 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wex shadowed the two: woman and young boy accompanied by direwolf | Inconsistency to inspect—party size counts including wolf unclear |
+| C-8707 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wyman wants youngest Ned Stark son and direwolf to discredit Bolton faux Arya | Rival dynastic claim and proof strategy |
+| C-8708 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wyman proposes Stannis allegiance if Davos brings boy back | Specific conditional bargain |
+| C-8709 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wyman needs sailor conversant with dangerous unpatrolled waters | Why ordinary soldiers insufficient |
+| C-8710 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wex puts dagger at northern map destination | Destination signaled visually rather than named in dialogue |
+| C-8711 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Davos considers reported cannibal lands worse than Wolf's Den | Strong Skagos implication, confirm map or later named location |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -8642,4 +8834,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and ninety-eight first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the three hundred and one first-pass chapters listed in the coverage tracker.
