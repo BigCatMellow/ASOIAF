@@ -10491,8 +10491,58 @@
 | C-10363 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Claims require challenge | See chapter ledger for evidence status and verification question |
 | C-10364 | [ADWD 56](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/56-the-iron-suitor.md) | Victarion is not proven empowered | See chapter ledger for evidence status and verification question |
 
-## Priority rule
+| C-10365 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Yezzan is incapacitated by flux | See chapter ledger for evidence status and verification question |
+| C-10366 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Tyrion poisoned Nurse | See chapter ledger for evidence status and verification question |
+| C-10367 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Sweets fears burial killing | See chapter ledger for evidence status and verification question |
+| C-10368 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Slave hierarchy blocks Tyrion | See chapter ledger for evidence status and verification question |
+| C-10369 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Water errand includes Jorah | See chapter ledger for evidence status and verification question |
+| C-10370 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Sanitation collapse aids escape | See chapter ledger for evidence status and verification question |
+| C-10371 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Dragon defenses are assessed | See chapter ledger for evidence status and verification question |
+| C-10372 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Dany rumors conflict | See chapter ledger for evidence status and verification question |
+| C-10373 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Penny is shielded from lion plan | See chapter ledger for evidence status and verification question |
+| C-10374 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Tyrion redirects to Second Sons | See chapter ledger for evidence status and verification question |
+| C-10375 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Penny and Jorah differ | See chapter ledger for evidence status and verification question |
+| C-10376 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Guards deliver runaways to Plumm | See chapter ledger for evidence status and verification question |
+| C-10377 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Tyrion uses Yezzan's illness | See chapter ledger for evidence status and verification question |
+| C-10378 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Kasporio fears infection | See chapter ledger for evidence status and verification question |
+| C-10379 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Plumm dragon-blood inference | See chapter ledger for evidence status and verification question |
+| C-10380 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Cersei bounty risk assessed | See chapter ledger for evidence status and verification question |
+| C-10381 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Jorah is recognized | See chapter ledger for evidence status and verification question |
+| C-10382 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Tyrion offers assets | See chapter ledger for evidence status and verification question |
+| C-10383 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Plumm decision is unresolved | See chapter ledger for evidence status and verification question |
+| C-10384 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Penny's animals remain | See chapter ledger for evidence status and verification question |
+| C-10385 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Disease creates opportunity | See chapter ledger for evidence status and verification question |
+| C-10386 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Defense theory remains untested | See chapter ledger for evidence status and verification question |
+| C-10387 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Plumm loyalty unproved | See chapter ledger for evidence status and verification question |
+| C-10388 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | No Tyrion-Dany contact | See chapter ledger for evidence status and verification question |
+| C-10389 | [ADWD 57](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/57-tyrion.md) | Claims require challenge | See chapter ledger for evidence status and verification question |
+| C-10390 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Jon's dream is not prophecy | See chapter ledger for evidence status and verification question |
+| C-10391 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Raven says Jon Snow | See chapter ledger for evidence status and verification question |
+| C-10392 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | No-first-blow order | See chapter ledger for evidence status and verification question |
+| C-10393 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Edd brings spearwives | See chapter ledger for evidence status and verification question |
+| C-10394 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Gate signal is transformed | See chapter ledger for evidence status and verification question |
+| C-10395 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Boys and wealth recorded | See chapter ledger for evidence status and verification question |
+| C-10396 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Girls enter disguised | See chapter ledger for evidence status and verification question |
+| C-10397 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Dryn becomes page | See chapter ledger for evidence status and verification question |
+| C-10398 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Warriors cross early | See chapter ledger for evidence status and verification question |
+| C-10399 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Weapons retained | See chapter ledger for evidence status and verification question |
+| C-10400 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Tormund horn claim | See chapter ledger for evidence status and verification question |
+| C-10401 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Admission has violence risk | See chapter ledger for evidence status and verification question |
+| C-10402 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Others account is claim | See chapter ledger for evidence status and verification question |
+| C-10403 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | White-mist danger described | See chapter ledger for evidence status and verification question |
+| C-10404 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Borroq and boar arrive | See chapter ledger for evidence status and verification question |
+| C-10405 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Borroq warns they are coming | See chapter ledger for evidence status and verification question |
+| C-10406 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | 3,119 pass through | See chapter ledger for evidence status and verification question |
+| C-10407 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Castle Black changes | See chapter ledger for evidence status and verification question |
+| C-10408 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Hardhome fleet collapses | See chapter ledger for evidence status and verification question |
+| C-10409 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Cannibal/dead-things report | See chapter ledger for evidence status and verification question |
+| C-10410 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Braavosi limit evacuation | See chapter ledger for evidence status and verification question |
+| C-10411 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Land help requested | See chapter ledger for evidence status and verification question |
+| C-10412 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Jon calls this real war | See chapter ledger for evidence status and verification question |
+| C-10413 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Horn remains unverified | See chapter ledger for evidence status and verification question |
+| C-10414 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Hardhome reports need challenge | See chapter ledger for evidence status and verification question |
 
+## Priority rule
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
 2. Prioritize a clue when it materially changes a character's plausible choices or can disconfirm multiple competing hypotheses.
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.

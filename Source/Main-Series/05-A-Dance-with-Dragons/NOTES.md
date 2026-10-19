@@ -276,3 +276,8 @@ The chapter verifies flight, not Dany's destination or dependable dragon control
 ## Sequential close-reading first pass — 2026-10-19 (ADWD 56)
 
 - [56 The Iron Suitor](chapters/56-the-iron-suitor.md): **Victarion's depleted fleet, infected hand, Moqorro's fire treatment, and a lethal order against Kerwin.** 30 observations (C-10335–C-10364).
+
+## Sequential close-reading first pass — 2026-10-19 (ADWD 57–58)
+
+- [57 Tyrion](chapters/57-tyrion.md): **Yezzan's flux collapse lets Tyrion bring Penny and Jorah to the Second Sons.** 25 observations (C-10365–C-10389).
+- [58 Jon](chapters/58-jon.md): **3,119 free folk pass the Wall as Cotter Pyke's Hardhome mission reports disaster.** 25 observations (C-10390–C-10414).

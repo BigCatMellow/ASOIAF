@@ -20,8 +20,8 @@ The EPUB was opened locally on 2026-10-15. Its five title sections, navigation e
 | [ACOK](02-A-Clash-of-Kings/NOTES.md) | 70 | 70 (Prologue, 1–69) | 0 |
 | [ASOS](03-A-Storm-of-Swords/NOTES.md) | 82 | 82 (Prologue, 1–80, Epilogue) | 0 |
 | [AFFC](04-A-Feast-for-Crows/NOTES.md) | 46 | 46 (Prologue, 1–45) | 0 |
-| [ADWD](05-A-Dance-with-Dragons/NOTES.md) | 73 | 57 (Prologue, 1–56) | 16 |
-| **TOTAL** | **344** | **328** | **16** |
+| [ADWD](05-A-Dance-with-Dragons/NOTES.md) | 73 | 59 (Prologue, 1–58) | 14 |
+| **TOTAL** | **344** | **330** | **14** |
 
 **Important:** The three hundred and twenty files are *first-pass* source-grounded interpretive notes, **not certification that every line has undergone an independent microdetail audit**. Some cross-book chapters received focused checks in earlier work; those checks are not counted as completed sequential chapter notes. The earlier 45 short-fragment quote matches were a distinct narrow verification, not 45 extra reviewed chapters.
 
