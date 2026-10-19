@@ -206,3 +206,12 @@ Davos's death is established as staged by Manderly, not repeated as genuine. His
 - [31 Melisandre](chapters/31-melisandre.md): **The glamour of Mance and Rattleshirt, Melony's past, true ranger prophecy and untrustworthy fire interpretations.** 82 chronological observations with interpretations, rival readings and falsification tests.
 
 Melisandre's POV confirms real Mance survives and real Rattleshirt died disguised; it also separates exact ranger-head foresight from unverified interpretations of the other visions.
+
+## Sequential close-reading first pass — 2026-10-19 (ADWD 32–35)
+
+- [32 Reek](chapters/32-reek.md): **Missing Freys, Arnolf's bait, and Roose's concealed war against Stark succession.** 67 chronological observations and independently challengeable rival readings.
+- [33 Tyrion](chapters/33-tyrion.md): **Moqorro's true-and-false dragon vision, the Fragrant Steward, Penny, and Euron-like sea shadow.** 67 chronological observations and independently challengeable rival readings.
+- [34 Bran](chapters/34-bran.md): **Brynden's true name, ravens carrying dead singers, nonconsensual Hodor possession, and Winterfell's weirwood memory.** 76 chronological observations and independently challengeable rival readings.
+- [35 Jon](chapters/35-jon.md): **New brothers' old-gods vows, wildling rescue and wight-body custody; Stannis reports 5,000 northmen.** 69 chronological observations and independently challengeable rival readings.
+
+Provisional and important boundaries: Arnolf's trap is Roose's testimony, not witnessed betrayal; Moqorro's dragon and sea-shadow symbols are not verified identities; weirwood paste does not establish Jojen's death; corpse storage at Castle Black is not actual reanimation.

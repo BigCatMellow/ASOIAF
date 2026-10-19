@@ -8996,6 +8996,286 @@
 | C-8878 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Melisandre says Mance's son hostage ensures compliance | Coercion underpins claimed loyalty |
 | C-8879 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She offers Jon apparent route to save Arya via disguised Mance | Premise unverified: threatened bride is Jeyne Poole |
 
+| C-8880 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Ramsay's hunting hounds return to Barrowton in advance of riders | First sensory warning to chained Theon |
+| C-8881 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Theon remains shackled ankle to ankle with a foot of chain | Impaired walking and forced dependency |
+| C-8882 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Ramsay brings two dozen riders back after sixteen days | Failed search and timeline |
+| C-8883 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Theon expects punishment when Ramsay fails | Trauma-conditioned response, no specific punishment certain |
+| C-8884 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Hunting pack embraces Reek while handling his maimed body harshly | Animal affection and danger coexist |
+| C-8885 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Ramsay throws rotting severed head at Theon as gift | Human killing employed as entertainment |
+| C-8886 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Big Walder identifies victim as old man tending goat and kids | Secondhand witness to arbitrary violence |
+| C-8887 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Ramsay murdered traveler for calling him Lord Snow | Legal name stigma and violent insecurity |
+| C-8888 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Goat was milked and young animals eaten | Predation includes food seizure |
+| C-8889 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Big Walder says missing Freys must be dead and blames Wyman | Important suspicion not proof perpetrator |
+| C-8890 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Little Walder has adopted Ramsay's cruelties; Big Walder keeps distance | Two boys' divergent moral behavior |
+| C-8891 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Victim head fed to hunting dogs | Evidence deliberately defaced |
+| C-8892 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Harwood Stout forced to host Ramsay feast despite scarce winter stores | Bolton alliance economic exploitation |
+| C-8893 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Stout's cook fears their larders will empty before winter | Civilian pressure from unwanted retinue |
+| C-8894 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Reek chained near doors while dogs eat and roam | Open class/animal dehumanization |
+| C-8895 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Ramsay's two hounds kill Stout's old dog at feast | Violence mirrors Bolton control of host |
+| C-8896 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Ben Bones says Ramsay names hounds after hunted and murdered women | Reported pattern of ritualistic trophy naming |
+| C-8897 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Ben Bones says pack trained to kill wolves | Potential Stark direwolf countermeasure |
+| C-8898 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose arrives armed and removes all attendees except Ramsay and Reek | Private strategic briefing |
+| C-8899 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose says Frey commanders Hosteen and Aenys upset at missing kin | Factional friction between allies |
+| C-8900 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Wyman claimed missing Freys rode ahead of his slow litter | Public account, unconfirmed by independent witness |
+| C-8901 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose expresses skepticism toward Wyman's story | Suspects deception without proving the killers |
+| C-8902 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Wyman transports forty wagons of food to host | Material support can mask treachery |
+| C-8903 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Wyman arrives without requested hostages | Political noncompliance noted by both Boltons |
+| C-8904 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose refuses Ramsay's proposal to retaliate against Barbrey Dustin | Alliance survival outweighs son’s grievance |
+| C-8905 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Barbrey is sister to Roose's second wife and daughter of Rodrik Ryswell | Kinship explains influence |
+| C-8906 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose says Barbrey suspects Ramsay implicated in Domeric's death | Independent political hazard |
+| C-8907 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose identifies Barbrey's resentment of Ned Stark as support basis | Her Bolton loyalty not necessarily love of Ramsay |
+| C-8908 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Ramsay openly imagines mutilating Lady Dustin | Risk of alienating northern coalition |
+| C-8909 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose warns allegiance of most northmen is grudging | Explicit fragile legitimacy assessment |
+| C-8910 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose fears living sons of Ned Stark might appear | He does not believe succession threat permanently settled |
+| C-8911 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Ramsay wants to murder any surviving Stark boy and wolf | Hostile intention not completed search |
+| C-8912 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose corrects Ramsay that public story blames Theon for boys' deaths | Conspirators know and enforce false narrative |
+| C-8913 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose favors feared actions committed discreetly | Rule of fear combined with information control |
+| C-8914 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose admits Ramsay's reputation is politically counterproductive | Contrasts with son thinking fear sufficient |
+| C-8915 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose reports Stannis has taken Deepwood Motte and gained mountain clans | Independent confirmation of Jon/Stannis plan |
+| C-8916 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose says Arnolf Karstark tried to bait Stannis toward Dreadfort | Major proof Arnolf's advice was part of trap |
+| C-8917 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Ramsay assumes a Karstark might support Starks | Only suspicion, father indicates contrary current plan |
+| C-8918 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose says Stannis's strength is growing despite Bolton numerical advantage | Strategic urgency |
+| C-8919 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose refuses immediate attack on Deepwood | Intends defense at Winterfell instead |
+| C-8920 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose orders Ramsay marry alleged Arya at ruined Winterfell | Dynastic seizure of Stark symbolic seat |
+| C-8921 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose admits Ramsay previously destroyed Winterfell but maintains public ironborn blame | Private direct acknowledgment of false history |
+| C-8922 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose intends to lure Stannis toward Winterfell using northern concern for Ned's daughter | Hostage-bride trap, not merely ceremonial wedding |
+| C-8923 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | He expects mountain clans to pressure Stannis into coming | Alliance weakness exploited |
+| C-8924 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose anticipates Stannis summoning Arnolf Karstark to battle | Embedded betrayer at expected clash |
+| C-8925 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose orders Bolton host to move in three days | Confirmed timetable |
+| C-8926 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | He urges invitations rather than commands to northern bannermen | Courtesy conceals control |
+| C-8927 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose orders Theon taken from Ramsay for future use | Theon's identity retains political leverage |
+| C-8928 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Ramsay threatens to remove another finger on his return | Continuing coercion even without punishment now |
+| C-8929 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Ramsay asks Reek to spy on father and repeat every word | Hostility within Bolton household |
+| C-8930 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Theon weeps and pleads rather than seeking apparent liberty | Conditioned submission |
+| C-8931 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose notices Theon's noble speech betrays origin despite peasant disguise | Class and personal identity persist |
+| C-8932 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose describes original Reek's incurable stench and compulsive bathing | Distinguishes original servant from broken Theon |
+| C-8933 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Original Reek was given to Ramsay by Roose for amusement | Father initiated cruel relationship |
+| C-8934 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose admits he hanged a miller and raped wife under claimed first-night right | Direct perpetrator confession, not neutral custom |
+| C-8935 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose says some Umbers and mountain clans still practice first night | Interested allegation, no direct independent corroboration |
+| C-8936 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose cut out miller's brother's tongue to suppress tale | Violence against potential informer |
+| C-8937 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose admits recognized Ramsay by Bolton eyes and provisioned mother secretly | Paternal recognition and secrecy |
+| C-8938 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose suspects Ramsay poisoned legitimate heir Domeric | Explicit paternal suspicion, not proven toxicology |
+| C-8939 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Domeric trained at Vale Redforts and served Lady Dustin | Alternative competent Bolton heir lost |
+| C-8940 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose fears Ramsay will kill any future children of Walda | Forecast based on violence, not future fact |
+| C-8941 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose says he does not expect to live to see new sons adult | Political calculation and mortality anxiety |
+| C-8942 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose says he owes Theon the north because Winterfell's fall destroyed Stark power | Acknowledges Theon's enabling role |
+| C-8943 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose explicitly fears Manderly plotting betrayal | Secret counterpolitics beyond public marriage |
+| C-8944 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose takes Theon to meet Barbrey Dustin while he fears bathing or undressing | Abuse shapes possibility of reintegration |
+| C-8945 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Lady Barbrey does not initially recognize mutilated Theon | Physical alteration destroys social legibility |
+| C-8946 | [ADWD 32](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/32-reek.md) | Roose names captive rightful Lord of Iron Islands | A deliberate identity/titular claim, not uncontested succession outcome |
+| C-8947 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Selaesori Qhoran is seven days outbound from Volantis | Specific journey elapsed |
+| C-8948 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Penny remains confined with spotted sow Pretty and dog | Trauma and belongings carried aboard |
+| C-8949 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Ship crew gathers around Moqorro's nightly fire | High priest's institutional influence |
+| C-8950 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Moqorro wears flame tattoos and carries dragon-headed fire staff | Physical iconography of R'hllor |
+| C-8951 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Five Fiery Hand soldiers accompany Moqorro | Religious escort is enslaved military personnel |
+| C-8952 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Ship has roughly five hundred tons and a single mast | Slow cargo cog with weak flexibility |
+| C-8953 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Crew includes fifty enslaved sailors with figurehead tattoos | Institution of slavery on ostensible liberator's vessel |
+| C-8954 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Moqorro exercises real effective authority over captain | Church control of navigational choices |
+| C-8955 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Jorah removes Tyrion's chains after departing Volantis | Custody remains but physical freedom rises |
+| C-8956 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Sailors rub Tyrion's head for good fortune | Disability superstition objectifies passenger |
+| C-8957 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Penny as a woman is instead treated as maritime bad luck | Intersection of misogyny and dwarf stigma |
+| C-8958 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Crew has considered throwing Penny overboard amid grief | Reported violent contempt, not completed act |
+| C-8959 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Tyrion admits Penny has reason to hate him over Oppo | Attempts empathy without accepting all culpability |
+| C-8960 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Moqorro observes dragons in flames | Claim of magical vision, images not independently witnessed |
+| C-8961 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | He describes old young true false bright dark dragons | Critical competing claimant framework |
+| C-8962 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Moqorro sees a small man with great shadow snarling amid dragons | Potential Tyrion influence, not precise future prediction |
+| C-8963 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Moqorro knows Common Tongue well | Possible reason for embassy to Daenerys |
+| C-8964 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Tyrion asks about vessel's name and learns Qhoran means steward/magister | On-page linguistic translation |
+| C-8965 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Moqorro translates selaesori as fragrant or flowery | Exact 'Fragrant Steward' candidate for Quaithe's perfumed seneschal |
+| C-8966 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Tyrion calls the ship Stinky Steward as a joke | Translation contrast with proper meaning |
+| C-8967 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Quaithe earlier warned Daenerys to beware a perfumed seneschal | Cross-POV resonance, not proof warning refers to ship |
+| C-8968 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Tyrion wonders whether Moqorro flatters him about his importance | Healthy prophecy skepticism |
+| C-8969 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Jorah sees Penny as Tyrion's responsibility and is dismissive | Ethical indifference toward vulnerable companion |
+| C-8970 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Tyrion resents implication that same stature means marriage duty | Stereotype rejected |
+| C-8971 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Tyrion still performs knife prick tests after Sorrows exposure | Greyscale uncertainty continues |
+| C-8972 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Days at sea lack stimulating landmarks and are psychologically exhausting | Contrasts Shy Maid riverside wonders |
+| C-8973 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Tyrion has recurrent nightmare of father's stone face | Trauma and fear of infection |
+| C-8974 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | He thinks intermittently about stepping into sea | Severe despair, not enacted suicide |
+| C-8975 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Ship's library holds only three books and includes Triarch Belicho volume | Historiographic fragment from Valyrian descendant state |
+| C-8976 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Book reports Belicho's triumphs ended when eaten by giants | Historic anecdote, not corroborated |
+| C-8977 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Penny approaches Tyrion during solitary supper | First direct attempt to repair relationship |
+| C-8978 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | She says being mocked at Joffrey's wedding was harmless entertainment | Her economic/cultural perspective differs from Tyrion's humiliation |
+| C-8979 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Tyrion remembers he turned ridicule onto Joffrey | Causal prior sequence |
+| C-8980 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Penny recounts escape King’s Landing after Joffrey's death | Direct testimony |
+| C-8981 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | In Tyrosh old dwarfish juggler found dismembered in threefold Trios statue | Further collateral death from bounty hunt |
+| C-8982 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Juggler's head taken and mistaken as possible Tyrion | Strong inferred motive; actual killers unidentified |
+| C-8983 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Penny accuses Tyrion of complicity via his existence and actions | Traumatic attribution not actual killer identity |
+| C-8984 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Tyrion counters blame lies with Cersei and murderers | Partial factual rebuttal not absolution for other acts |
+| C-8985 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Penny throws wine into Tyrion's face | Angry protest and closure of attempted reconciliation |
+| C-8986 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Tyrion remembers father suppressed other dwarf performers in Westeros | Isolated privilege compared with itinerant dwarfs |
+| C-8987 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Tyrion recounts rumors of dwarf witch of riverlands | Cross-book potential Ghost of High Heart echo, only rumor |
+| C-8988 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Sea storm drives ship from intended course | Physical event distinct from Moqorro deliberate Valyria route |
+| C-8989 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Tyrion remains above decks through storm | Accepts drowning risk over suffocating below |
+| C-8990 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Jorah gets drunk and sick below after storm | Contrast with Tyrion's brief elation |
+| C-8991 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Penny later approaches and acknowledges Tyrion did not kill Oppo | Relationship begins to shift |
+| C-8992 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Penny says she discovered during storm she wanted to live | Survival impulse, not healed grief |
+| C-8993 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Penny is around seventeen to nineteen years old by Tyrion's estimate | Age estimate, not official record |
+| C-8994 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Penny's father was little person sold into slavery at age three | Family history from Penny |
+| C-8995 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Father eventually bought his freedom as celebrated mummer called Hop-Bean | Class mobility with continuing stigma |
+| C-8996 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Both parents are now dead leaving Penny and Oppo alone | Her lack of family and trade options |
+| C-8997 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Penny recalls Sept of Braavos Sealord hosted their joust | Performance circuit reached elite patron |
+| C-8998 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Penny says mysterious man Osmund or Oswald hired them in Pentos for Joffrey wedding | High-priority orchestrator clue, uncertain name |
+| C-8999 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Penny's father invented dog-and-pig joust act | Labor history, not simply Joffrey's concoction |
+| C-9000 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Penny cannot support her show alone after Oppo dies | Immediate economic insecurity |
+| C-9001 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Tyrion assures Penny Dany will give her work and safety | Comforting promise he cannot guarantee |
+| C-9002 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Penny brings her pig Pretty and asks Tyrion to feed acorns | Trust beginning |
+| C-9003 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | They share meals and call vessel Stinky Steward | Bond through humor |
+| C-9004 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Tyrion tries teaching Penny cyvasse but she struggles | Difference in education no proof low intelligence |
+| C-9005 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Penny asks him to perform mock tilts; he refuses | He interprets ambiguous intimacy only afterward |
+| C-9006 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Ship's northern sky grows blood-red over Valyria | Direct atmospheric observation |
+| C-9007 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Moqorro says sky always glows over Valyria | His statement, not firsthand continent-wide measurement |
+| C-9008 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Tyrion recalls Gerion Lannister departed seeking ancestral Valyrian sword | Old Brightroar recovery mystery |
+| C-9009 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Gerion never returned after crew deserted at Volantis | Unresolved disappearance, no confirmed death |
+| C-9010 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Moqorro compelled captain toward closest route despite fear | Active danger accepted for urgency |
+| C-9011 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Tyrion recalls Doom described in chronicles as volcanoes rupture and sea influx | Historical account of Valyrian catastrophe |
+| C-9012 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Moqorro identifies prophetic shadow with one black eye and ten arms on sea of blood | Potential Euron Greyjoy sigil/metaphor, not a named identity |
+| C-9013 | [ADWD 33](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/33-tyrion.md) | Moqorro says others also seek Daenerys | Independent convergence, identities unknown |
+| C-9014 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Living wights roam around cave in winter and remain unable to enter | Defensive ward continues to operate |
+| C-9015 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran sits on own weirwood throne among whispering ravens | Transition toward becoming greenseer |
+| C-9016 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Seasons and lunar phases cycle strangely from Bran's cave perspective | Subjective time compression |
+| C-9017 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | More than sixty singers live deep under hill | Surviving children of forest population is measurable |
+| C-9018 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Leaf and other singers receive informal human names from Bran and Meera | True Tongue names unavailable to humans |
+| C-9019 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Only Leaf speaks Common Tongue readily among local singers | Key information bottleneck |
+| C-9020 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Greenseer reveals his birth name Brynden | Direct self-identification of pale lord |
+| C-9021 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran recalls Brynden Blackfish as separate Tully relative | Names may repeat; not automatic identity |
+| C-9022 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Brynden says some men still named after him | Hints broader historical significance |
+| C-9023 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Leaf says Brynden has exceeded mortal lifespan while rooted in tree | Sustained life via weirwood |
+| C-9024 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | He says singers' dead knowledge stored in trees | Religious and memory account |
+| C-9025 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Jojen says his own role was to bring Bran here and is finished | ominous self-forecast not explicit death |
+| C-9026 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Meera fears Bran remaining apart after their deaths | Long-life and separation concern |
+| C-9027 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran's own survival prospects provoke loneliness | Alternative cost to being powerful |
+| C-9028 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Singers build Bran a root-and-deadwood throne by abyss | Initiation equipment |
+| C-9029 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Brynden says deep darkness increases strength | Teacher values hidden ways |
+| C-9030 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran enters raven for first time after two failed attempts | Actual animal-warging expansion |
+| C-9031 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Raven's altered senses include louder sounds and different visual/motor control | Physical lived magic |
+| C-9032 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | First attempted flight collides with cave wall | New skill requires practice |
+| C-9033 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran then perceives residual girl or woman already in raven | Second identity in same bird |
+| C-9034 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Brynden says dead female singer remains within raven | Ghost of skinchanger, stated mechanism |
+| C-9035 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | All ravens Brynden uses contain dead singers' traces | Birds as historical vessel network |
+| C-9036 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Brynden says ravens once spoke human-carried messages | In-world oral historical explanation |
+| C-9037 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Modern parchment messages are degraded substitute | Raven communication once more direct |
+| C-9038 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran wonders whether Stark family could learn to fly | Hypothesis of familial skinchanging talent |
+| C-9039 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Brynden estimates 1 of 1000 people skinchanger, 1 of 1000 of those greenseer | Character's approximate rarity, not statistical study |
+| C-9040 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Children greenseers distinguished by red or green eye color | Rare markers among gold-eyed singers |
+| C-9041 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Greenseer longevity requires short ordinary lifespan and tree binding | Power exchanges physical freedom |
+| C-9042 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Jojen describes weirwoods as memory archive, not just sacred symbol | Explicit narrative model of old gods |
+| C-9043 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Jojen says dead singers become part of the old gods in trees | Belief conveyed, confirmed only partially by raven remnant |
+| C-9044 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran fears that greenseer training might involve his killing | Child's inference, Meera rejects it |
+| C-9045 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Jojen responds Bran is not one who needs fear | Ominous Jojen fate concern, no proof a sacrifice awaits |
+| C-9046 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Summer and pack hunt scant live prey in long snows | Near-starvation |
+| C-9047 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Dead wights include men women children ravens and a snow bear | Mass reanimation extends beyond humans |
+| C-9048 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Pack tears animated snow bear and eats moving flesh | Different stakes from fire-immolation |
+| C-9049 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Cave retains mushrooms blind fish goats milk grains and blood stew | Underhill food economy amid siege |
+| C-9050 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Meat in blood stew is unnamed, Jojen thinks squirrel, Meera rat | Human/Jojen paste speculation not established |
+| C-9051 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Leaf warns underground river flows to sunless sea and deeper pits | Cave connects wider subterranean system |
+| C-9052 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Leaf says singers dwindling and giants lions unicorns mammoths threatened | Species decline testimony |
+| C-9053 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Children have three fingers and thumb with claws, golden night vision | Observed physical characteristics |
+| C-9054 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Leaf says men displaced older beings without fitting room for them | Historical interpretation from dispossessed species |
+| C-9055 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Jojen grows sullen and seeks exit, convinced dreams cannot lie | Possible precognition, not certified fatal event |
+| C-9056 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Meera tells Bran she regrets coming and cries | Human cost of Bran's ascension |
+| C-9057 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran desires to comfort Meera but disability inhibits embrace | Motivation to use Hodor again |
+| C-9058 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran secretly takes Hodor whenever he wants mobility | Escalation beyond emergency wartime warging |
+| C-9059 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Hodor psychologically curls deep inside himself without resistance | Learned helplessness, not consent |
+| C-9060 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran passes as Hodor in front of Reeds without their knowledge | Bodily deception |
+| C-9061 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran helps Meera rescue Jojen from deep river shaft via Hodor | Beneficial outcome does not make possession consensual |
+| C-9062 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran considers using Hodor to embrace Meera | Potential intimacy boundary violation |
+| C-9063 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran's wolf finds severed animated hand and consumes it | Undead movement continues despite dismemberment |
+| C-9064 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran learns to enter ravens above hill to scout | Air surveillance is actual new gift |
+| C-9065 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran sees rooted singers who seem dead but follow him with eyes | Greenseer network others still semi-conscious |
+| C-9066 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran dreads sharing Brynden's half-rotted future | Ambivalence about power and immobility |
+| C-9067 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Brynden admits physical eating and drinking no longer necessary via roots | Leaf's claim of mechanism, not laboratory observation |
+| C-9068 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Brynden says trees remember long-lost history | Frame for new visions |
+| C-9069 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Leaf and Brynden offer bowl of weirwood-seed paste marbled red | Physical initiatory meal |
+| C-9070 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran assumes red veins are tree sap, appearance resembles blood | Actual ingredient not independently verified |
+| C-9071 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Paste taste shifts from bitter to sweet/mother memories | Direct psychoactive/magical-seeming experience |
+| C-9072 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Brynden says gift innate by blood and paste awakens tree link | Instruction, no independent genetics |
+| C-9073 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran enters heart tree at Winterfell and sees Ned cleaning Ice | Actual first vision of past father |
+| C-9074 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Ned looks around when Bran whispers | Temporal interaction anomaly |
+| C-9075 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Leaf warns seeing father does not mean he lives | Corrects Bran's grief-driven error |
+| C-9076 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Brynden claims the past cannot be changed or addressed | Teacher's theory challenged by Ned hearing whispers |
+| C-9077 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | He admits past lovers and brothers he watches through trees | Potential Bloodraven historical referents, no names |
+| C-9078 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Brynden says weirwoods perceive time differently from linear humans | Core magical cosmology |
+| C-9079 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran asleep revisits Winterfell to see younger Ned praying over two boys | Historical chronology earlier than initial vision |
+| C-9080 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Prayer asks sons to grow together and wife to forgive | Potential Jon parentage/care mystery, referent not explicit |
+| C-9081 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Ned again seems to hear Bran's whispered appeal and turns toward tree | Second interaction phenomenon |
+| C-9082 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran sees older girl besting younger boy with branches | Possible childhood Lyanna/Benjen, unconfirmed names |
+| C-9083 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Vision shows pregnant woman begging for son to avenge her | Unidentified historic petitioner |
+| C-9084 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | He sees slender brown-haired girl kissing tall young knight | Identity unknown, possible historic romance |
+| C-9085 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Youth cuts three weirwood twigs and carves arrows | Potential ritual use, identity unspecified |
+| C-9086 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran sees old fur-and-chainmail lords as tree shrinks through centuries | Backwards timeline reading |
+| C-9087 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Final vision shows bearded captive kneeling before weirwood | Actual observed past violence |
+| C-9088 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | White-haired woman with bronze sickle cuts man's throat | Ancient ritual sacrifice witnessed in greenseer view |
+| C-9089 | [ADWD 34](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/34-bran.md) | Bran feels taste of victim's blood through weirwood | Potential real blood/tree connection, not evidence paste contained human remains |
+| C-9090 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Seven days of snowfall have buried parts of Wall approach | Specific early-winter movement constraint |
+| C-9091 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon plans new Watch recruits' vows at weirwoods north of Wall | Religion and institutional continuity valued |
+| C-9092 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Bowen Marsh argues sept ceremony safer after ranger deaths | Practical risk versus tradition |
+| C-9093 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon insists recruits may choose faith freely | Explicit refusal forced religion |
+| C-9094 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Satin and Arron Emrick choose old gods despite southern origins | Personal agency across cultures |
+| C-9095 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon organizes ten rangers with dragonglass and armed guard | Real defense against supernatural threat |
+| C-9096 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon leads expedition personally despite objections | Increased institutional risk |
+| C-9097 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Ghost accompanies Jon; Edd stays to handle duties | Wolf protection prioritized |
+| C-9098 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon contemplates greenhouse glass gardens like Winterfell | Long-term food response constrained by funding |
+| C-9099 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Myrish clear glass expensive and Watch lacks coin | Specific innovation/budget barrier |
+| C-9100 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Bowen references three blinded ranger heads to oppose trip | Recent loss shaping policy |
+| C-9101 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Ghost scents something in woods and leaves patrol | Animal autonomy and possible surveillance |
+| C-9102 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon assigns Tom Barleycorn as forward scout | Local terrain knowledge |
+| C-9103 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon discusses reopening empty forts with Iron Emmett | Administrative plan still underway |
+| C-9104 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon expects Green Lake? No, Deep Lake and Sable Hall still unfit for people | Logistical constraint on decentralizing new wildlings |
+| C-9105 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | He considers Sigorn mistrustful and refuses premature command | Thenn faction remains separate |
+| C-9106 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Iron Emmett advises give Thenns an assignment to avoid trouble | Political counsel |
+| C-9107 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Halleck's follower cut off builder's ear in yard | Actual violence validating Marsh warnings |
+| C-9108 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon briefly fears wildling accommodation might be an error | Ambivalence does not reverse integration policy |
+| C-9109 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Ghost and Jon share ambiguous sense of Tom's scent before visual contact | Awake wolf-man perception crossover |
+| C-9110 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Tom reports nine free folk in grove, including giant | Uncertain initial count as some apparently dead |
+| C-9111 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon has about seventeen men including four novices against nine | Tactical ratio, giant makes simple numbers misleading |
+| C-9112 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon wants to recruit survivors or collect dead rather than automatically fight | Dual humanitarian and investigative purpose |
+| C-9113 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | They approach grove on foot with arc formation | Risk reduction and encirclement |
+| C-9114 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Grove comprises nine carved weirwoods of similar size | Sacred space and nine repetition |
+| C-9115 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Wildlings sit around dwindling fire, mostly too weak to fight | Conditions invalidate raider stereotype |
+| C-9116 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Giant wakes armed with large stone maul | Real immediate potential casualties |
+| C-9117 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon restrains Ghost and tries peaceful negotiation | De-escalation under danger |
+| C-9118 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Leathers speaks Old Tongue to giant | Language makes peace possible |
+| C-9119 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Leathers claims Watch share old gods and come to pray | Cultural common ground |
+| C-9120 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Giant lowers maul and fight avoided | On-page successful parley |
+| C-9121 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Two of the nine free folk already dead and another near death | Severe survival attrition |
+| C-9122 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Group includes woman child old men wounded Thenn and frostbitten Hornfoot | Non-uniform social unit |
+| C-9123 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Wildlings fled destruction of Mance's army then starvation | Direct testimony not proven earlier intentional treachery |
+| C-9124 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Survivors fear Watch burns anyone who surrenders | False rumor plausibly rooted in Mance/Rattleshirt execution spectacle |
+| C-9125 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon blames Melisandre's religious ceremony for fear | Causal reading from rumor and observed history |
+| C-9126 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon pledges no one will be burned at Castle Black | Promise limited by capacity and allies' choices |
+| C-9127 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon states he is son of Ned Stark to support trust | Stark name functions as diplomatic credential |
+| C-9128 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Six new men swear Night's Watch vows before weirwoods | Concrete institutional expansion |
+| C-9129 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Satin Horse Arron Emrick among oath-takers | Named recruits, full six roster check |
+| C-9130 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon recites oath's function as shield guarding realms of men | Explicit universal defensive ideal |
+| C-9131 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon focuses on common humanity of free folk witnessing rite | Philosophical basis of accommodation |
+| C-9132 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon privately prays his sister protected and Mance successful | Stark family ties affect decisions |
+| C-9133 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Return journey slowed by giant and the ill | Humanitarian escort risk |
+| C-9134 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Giant estimated at least fourteen feet and passes tunnel on hands and knees | Physical cross-Wall integration of giant |
+| C-9135 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Leathers tasked with language mediation and giant's safety | Operational precaution |
+| C-9136 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Frostbitten Hornfoot unlikely ever to walk | Long-term care burden |
+| C-9137 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon orders two wildling corpses transported to Wall | Objective beyond burial |
+| C-9138 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon assigns corpses to ice cells, not funeral fires | Potential plan to observe wight reanimation, not explicit final experiment |
+| C-9139 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Living wounded sent for treatment and warm clothing | Humanitarian follow-through |
+| C-9140 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Single horn blast confirms return near dawn | Timing after prior promise of midnight |
+| C-9141 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Gold-wax stag-and-flame letter arrives from Stannis | Authenticated official source to Jon |
+| C-9142 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Stannis reports capturing Deepwood Motte and liberating Glovers | Confirmed cross-POV against Asha's cliffhanger |
+| C-9143 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Alysane Mormont led seaborne ambush from fishing sloops | Named Bear Island support on northwestern coast |
+| C-9144 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Mormont men burned or captured Greyjoy longships | Naval neutralization reported |
+| C-9145 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Stannis intends to hang common ironborn while ransom notable prisoners | Explicit class-skewed justice plan |
+| C-9146 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Stannis reports total force around five thousand, increasing | Self-reported military headcount |
+| C-9147 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | New recruits include fishermen northern clans and displaced families | Popular anti-ironborn resentment |
+| C-9148 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Stannis prepares to march against Roose at Winterfell | Decision and timetable, outcome uncertain |
+| C-9149 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Stannis plans Arnolf Karstark and Mors Umber join him | Reader knows Arnolf is part of Bolton trap per Reek32 |
+| C-9150 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Stannis promises to rescue alleged Arya if he can | He does not know bride is Jeyne Poole |
+| C-9151 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon recognizes Stannis's army assembled from varied political cultures | Logistics and command friction |
+| C-9152 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon worries Stannis is too methodical to seize Winterfell quickly | Strategic concern, future result unresolved |
+| C-9153 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon wonders wedding may be trick to draw Stannis in | Accurate suspicion, but believes Arya might be there |
+| C-9154 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon confirms Mance alive and he permitted departure with six spearwives | Magical disguise resolution now operational |
+| C-9155 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Mance picked young attractive spearwives and Edd smuggled them out of Mole's Town | Rescue operation concealment |
+| C-9156 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon distrusts Mance Melisandre but hopes to save sister without breaking vows | Personal oath conflict |
+| C-9157 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon's conviction Watch men have no sisters clashes with recent orders | Actual intervention via intermediaries |
+| C-9158 | [ADWD 35](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/35-jon.md) | Jon contrasts childhood love of conqueror Young Dragon with duty as commander | Changes in political ideal |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -9003,4 +9283,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the three hundred and three first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the three hundred and seven first-pass chapters listed in the coverage tracker.
