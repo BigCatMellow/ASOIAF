@@ -34,3 +34,5 @@
 ## Reconciliation priority
 
 Build a battle-start order of battle, then map post-battle message paths separately for Meereen, Volantis, Pentos, Dorne, and the Grass Sea. Independent challenge remains open.
+
+**Follow-up (2026-10-19):** [Battle-start order and information gates](meereen-battle-start-order.md) now records the last narrated positions and the required contact before any force can react to another.
