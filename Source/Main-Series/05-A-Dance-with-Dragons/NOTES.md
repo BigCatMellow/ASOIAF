@@ -281,3 +281,7 @@ The chapter verifies flight, not Dany's destination or dependable dragon control
 
 - [57 Tyrion](chapters/57-tyrion.md): **Yezzan's flux collapse lets Tyrion bring Penny and Jorah to the Second Sons.** 25 observations (C-10365–C-10389).
 - [58 Jon](chapters/58-jon.md): **3,119 free folk pass the Wall as Cotter Pyke's Hardhome mission reports disaster.** 25 observations (C-10390–C-10414).
+
+## Sequential close-reading first pass — 2026-10-19 (ADWD 59)
+
+- [59 The Discarded Knight](chapters/59-the-discarded-knight.md): **Groleo's murder, Yunkish dragon ultimatum, and Barristan's warning to Quentyn.** 25 observations (C-10415–C-10439).

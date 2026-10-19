@@ -10542,6 +10542,32 @@
 | C-10413 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Horn remains unverified | See chapter ledger for evidence status and verification question |
 | C-10414 | [ADWD 58](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/58-jon.md) | Hardhome reports need challenge | See chapter ledger for evidence status and verification question |
 
+| C-10415 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Twin thrones leave Dany absent | See chapter ledger for evidence status and verification question |
+| C-10416 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Court support base has shifted | See chapter ledger for evidence status and verification question |
+| C-10417 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Petitioners question Dany's fate | See chapter ledger for evidence status and verification question |
+| C-10418 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Bloodriders are searching | See chapter ledger for evidence status and verification question |
+| C-10419 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Barristan considers poison targets | See chapter ledger for evidence status and verification question |
+| C-10420 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Groleo is murdered | See chapter ledger for evidence status and verification question |
+| C-10421 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Yunkai revises hostage terms | See chapter ledger for evidence status and verification question |
+| C-10422 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Dragons become hostage condition | See chapter ledger for evidence status and verification question |
+| C-10423 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Bloodbeard's death claim unproved | See chapter ledger for evidence status and verification question |
+| C-10424 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Hizdahr dismisses court | See chapter ledger for evidence status and verification question |
+| C-10425 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Barristan warns Quentyn | See chapter ledger for evidence status and verification question |
+| C-10426 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Pact assessment | See chapter ledger for evidence status and verification question |
+| C-10427 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Locust target unknown | See chapter ledger for evidence status and verification question |
+| C-10428 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Quentyn faces risk | See chapter ledger for evidence status and verification question |
+| C-10429 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Retreat remains Quentyn's choice | See chapter ledger for evidence status and verification question |
+| C-10430 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Hostages fail as guarantee | See chapter ledger for evidence status and verification question |
+| C-10431 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Poisoner unknown | See chapter ledger for evidence status and verification question |
+| C-10432 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Dany death unproved | See chapter ledger for evidence status and verification question |
+| C-10433 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Internal fracture grows | See chapter ledger for evidence status and verification question |
+| C-10434 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Dragon policy changes peace | See chapter ledger for evidence status and verification question |
+| C-10435 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Lewyn memory motivates Barristan | See chapter ledger for evidence status and verification question |
+| C-10436 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Quentyn has not agreed | See chapter ledger for evidence status and verification question |
+| C-10437 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Other hostages unresolved | See chapter ledger for evidence status and verification question |
+| C-10438 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Claims require challenge | See chapter ledger for evidence status and verification question |
+| C-10439 | [ADWD 59](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/59-the-discarded-knight.md) | Dany absence creates pressure | See chapter ledger for evidence status and verification question |
+
 ## Priority rule
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
 2. Prioritize a clue when it materially changes a character's plausible choices or can disconfirm multiple competing hypotheses.
