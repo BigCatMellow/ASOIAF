@@ -8827,6 +8827,175 @@
 | C-8710 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Wex puts dagger at northern map destination | Destination signaled visually rather than named in dialogue |
 | C-8711 | [ADWD 29](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/29-davos.md) | Davos considers reported cannibal lands worse than Wolf's Den | Strong Skagos implication, confirm map or later named location |
 
+| C-8712 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany counts approximately twenty-five hostile sails in Slaver's Bay | POV estimate subject to distant and moving vessels |
+| C-8713 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Blockade includes returning Meereenese vessels and Qarth Tolos New Ghis | Enemies now physically constrain sea trade |
+| C-8714 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Most Meereenese fishing boats dare not venture into bay | Food access strangled |
+| C-8715 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Admiral Groleo has no ships of his own | Earlier thirteen-galley offer had been rejected by Dany |
+| C-8716 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Groleo demands dragons be used to burn wooden blockade ships | Fire is available in theory, no dragon can be safely directed |
+| C-8717 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany orders warships built to replace lost fleet | Strategic ambition meets resource shortage |
+| C-8718 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Groleo says slavers burned all timber within twenty leagues | Concrete bottleneck to shipbuilding |
+| C-8719 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany suggests cutting timber two leagues farther away | Fails to solve shipwright and time constraints |
+| C-8720 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Groleo mourns dismantled Saduleon and separation from wife | His complaints have material cause, not proven betrayal |
+| C-8721 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Groleo says he is sailor not shipbuilder | Skills mismatch |
+| C-8722 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Barristan says stored food adequate for present moment | Short-term resilience but no verified long siege endurance |
+| C-8723 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Farms in hills and Lhazareen friendship may provide food | Vulnerable overland supply options |
+| C-8724 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Barristan has a few orphan pupils with real knightly potential | Training initiative, no established battlefield impact |
+| C-8725 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Skahaz tails Hizdahr through noble pyramids | Secret-police surveillance of prospective spouse |
+| C-8726 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Hizdahr has visited eleven pyramids | Elite network large enough to negotiate or plot |
+| C-8727 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | No Harpy murders for 26 days | Verified clock against 90-day marriage test |
+| C-8728 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Skahaz concludes Hizdahr likely leads Sons of Harpy | Hypothesis from correlation, not proven command |
+| C-8729 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany thinks disparate enemies may lack single leader | Alternative model of decentralized killings |
+| C-8730 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany admits Brazen Beasts brought numerous conflicting names by sharp interrogation | Tortured confessions lack reliability |
+| C-8731 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Skahaz offers to torture Hizdahr for a confession | Coerced statement inherently untrustworthy |
+| C-8732 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany refuses to harm Hizdahr while allowing surveillance | Significant restraint |
+| C-8733 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Shavepate produces list of blockade ship captains from Meereenese noble families | Identifiable elite collaborators outside walls |
+| C-8734 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Captain families include Hazkar Merreq Zhak Pahl Reznak and Loraq | Possible familial leverage inside |
+| C-8735 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Skahaz proposes seizing their relatives as hostages to regain ships | Collective coercion risks inner-city civil war |
+| C-8736 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany rejects scheme and burns the written list | Active symbolic and practical refusal |
+| C-8737 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Barristan says Rhaegar would approve her decision | Adviser's moral judgment |
+| C-8738 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany recalls Rhaegar fought honorably yet died | Question of principled action's military price |
+| C-8739 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Reznak says few petitioners because people are afraid | Public civic withdrawal |
+| C-8740 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Miklaz and Kezmya serve Dany's supper as noble child hostages | Policy persists even as new kidnappings refused |
+| C-8741 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Green Grace appears with Blue Graces and Grey Worm | Religious medical and military witnesses convene |
+| C-8742 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | A single dying Astapori rider reaches Meereen on pale bloody horse | Direct observed omen later interpreted disease warning |
+| C-8743 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Rider cries out that Astapor is burning | Initially ambiguous pronoun clarified in last speech |
+| C-8744 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Horse's blood comes from spurring, not proven infection | Keep animal injury separate from human dysentery |
+| C-8745 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Man has infected embedded arrowhead in thigh | Alternate fever source |
+| C-8746 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Blue Grace reports blood in stool and repeated diarrhea | Specific symptoms of bloody flux |
+| C-8747 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | The rider dies shortly after arrival | No witnessed transmission to others yet |
+| C-8748 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Green Grace reads him as harbinger of ruin | Religious interpretation beyond medical clues |
+| C-8749 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Daenerys explicitly rejects one sick person as certain divine sign | Reasonable counterpoint to prophecy |
+| C-8750 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | She recognizes phrase pale mare from Quaithe's earlier warning | Cross-POV prophecy connection not definite causality |
+| C-8751 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany recalls her scattered bloodriders and sellswords | External army recall needed |
+| C-8752 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | She orders Brown Ben Second Sons and Stormcrows recalled | On-page mobilization |
+| C-8753 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Daario's uncertain fate preoccupies her dreams | Emotional vulnerability and suspicion |
+| C-8754 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Brown Ben returns first after eight days | Concrete time marker |
+| C-8755 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Second Sons captured three exhausted refugees from Astapor | Independent eyewitnesses for city collapse |
+| C-8756 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Three are brickmaker weaver cobbler out of twelve original escapees | Refugee mortality during transit |
+| C-8757 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Yunkish sellswords hunt and kill refugees outside city | Direct survivor report aligns with Windblown orders |
+| C-8758 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Refugees describe failed harvest and famine within Astapor | Reported social breakdown |
+| C-8759 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Residents ate pets leather, drew lots for cannibalism | Catastrophe beyond military siege |
+| C-8760 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Rival kings Cutthroat and Whore presided over chaos | Failed succession after Cleon |
+| C-8761 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Cleon's corpse was armored and tied to horse for last sortie | Explains The Windblown's corpse-leader observation |
+| C-8762 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Green Grace of Astapor planned revival symbolism then impaled by victors | Death of religious intermediary, reported |
+| C-8763 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | New Ghiscari legion crushed novice Unsullied sortie | Infant/untrained slave-soldier exploitation |
+| C-8764 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Bloody flux reportedly killed three in four inside city | Survivor casualty estimate, disease not laboratory confirmed |
+| C-8765 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Refugees differ on whether the sick or healthy opened main gates | Narrative dispute retained |
+| C-8766 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Yunkishmen and New Ghis enter through gates and massacre survivors | Collective culpability, not all details direct to Dany |
+| C-8767 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | King Cutthroat given to hounds in fighting pit | Separate from Cleon's corpse, correction to prior chapter |
+| C-8768 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Queen Whore reportedly died resisting | Reported outcome |
+| C-8769 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Temple of Graces locked and burned with sick trapped inside | Deliberate war crime from survivor testimony |
+| C-8770 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Conflagration spreads throughout Astapor | Multiple witnesses agree city devastated |
+| C-8771 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Brickmaker loosened wall bricks to create hidden escape passage | Mundane method of surviving siege |
+| C-8772 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Weaver says many still believed Dany would return and save them | Expectation Dany was unable to fulfill |
+| C-8773 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany admits her past promise of safety to refugees may fail in Meereen | Interior recognition of limited power |
+| C-8774 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Brown Ben warns thousands more refugees coming on foot | Humanitarian wave approaching city |
+| C-8775 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Windblown and Company of Cat drive refugees northward with weapons | Consistent with Quentyn's group assignment |
+| C-8776 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Reznak calls refugees useless mouths and urges exclusion | Economic and epidemiological concerns entangled |
+| C-8777 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Brown Ben likens ill people to bad apples | Dehumanizing public-health analogy |
+| C-8778 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany refuses to treat people as discarded objects | Moral intention, not proof achievable shelter |
+| C-8779 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany recalls Eroeh, a girl she failed to protect | Continuity of failed rescue from first novel |
+| C-8780 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | She describes herself as responsible for Astapor catastrophe | Self-blame includes wider events beyond her direct acts |
+| C-8781 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Reznak urges immediate Hizdahr wedding as peace strategy | Rescue comes with elite power bargain |
+| C-8782 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany remembers Quaithe's perfumed seneschal warning near Reznak | Prophesy anxiety, referent unverified |
+| C-8783 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Brown Ben demands dragons as war asset | Without dragons mercenary loyalty tenuous |
+| C-8784 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany refuses releasing uncontrolled captive dragons | Hazzea and dragon captivity constrain strategy |
+| C-8785 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Brown Ben proposes selling city back and abandoning freedmen | Expedient but would restore slavery |
+| C-8786 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany rejects flight and sale | Explicit defended-duty decision |
+| C-8787 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Grey Worm promises freedmen will perform better than expected | Testable confidence, not proven victory |
+| C-8788 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany asks Second Sons to scout Yunkish forces | Military intelligence initiative |
+| C-8789 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | She authorizes funds to try buying opposing sellswords | Countercontract strategy |
+| C-8790 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany orders gates closed and watch doubled | Actual city defensive posture |
+| C-8791 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Barristan warns flux can decimate an army | Material quarantine rationale |
+| C-8792 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany orders Astapori outside wall but near river to receive food | Hard compromise on refugee safety and civic disease prevention |
+| C-8793 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | She asks that healthy and sick be separated if possible | Practical intent, logistical feasibility uncertain |
+| C-8794 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Barristan favors fighting in field before siege invests city | Avoid starvation while using discipline |
+| C-8795 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany notes moving Unsullied to battle leaves Brazen Beasts controlling city | Two-front trap |
+| C-8796 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Barristan reminds her Great Masters and Harpy inside walls | Subversion undermines siege defense |
+| C-8797 | [ADWD 30](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/30-daenerys.md) | Dany concludes internal peace needed before facing field army | Strategic justification for Hizdahr marriage |
+| C-8798 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Melisandre's bedchamber has seven burning candles and constant hearth fire | Ritual structure and aversion to dark |
+| C-8799 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Fire must never go out, per her servants' first lesson | Dependence on maintained fuel |
+| C-8800 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She studies flames repeatedly to find Stannis's danger | Intentional vision seeking rather than spontaneous oracle |
+| C-8801 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Melisandre acknowledges visions can project viewers' desires | First-person admission of interpretive error risk |
+| C-8802 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She sees three eyeless bloody faces again | Specific forecast from previous Jon chapter |
+| C-8803 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She sees towers by sea destroyed by rising dark tide | Unlocated image, not automatically Eastwatch |
+| C-8804 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Fire shows winged shadows against blue sky | Unidentified creatures/omens |
+| C-8805 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She sees girl in grey on dying horse only once | Very limited source sample |
+| C-8806 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Girl becomes grey ash and dissolves during one vision | Ambiguous picture, not literal proven death |
+| C-8807 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Melisandre cannot determine when or where girl approaches | Admitted deficiency despite public confidence |
+| C-8808 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She sees wooden corpse-white face and thousand red eyes | Plausible bloodraven/weirwood correlation |
+| C-8809 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Beside it stands boy with wolf face howling | Plausible Bran skinchanger link |
+| C-8810 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She decides wooden man and wolf boy servants of Great Other | Interpretation, not independently validated allegiance |
+| C-8811 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She hears past voice call Melony and Lot Seven | Direct memory clue of former enslaved identity |
+| C-8812 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Narrative identifies her once a slave girl bound to red temple | Past human vulnerability despite present authority |
+| C-8813 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She feels scorching agony and ecstatic sensations from magic | Physical cost of vision |
+| C-8814 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She glimpses arrows, wooden wall and bodies under cliff caves | Potential wildling battle rather than immediate Wall attack |
+| C-8815 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Cold mist extinguishes fires in vision | Unlocated future threat, no exact timing |
+| C-8816 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She sees Jon Snow as man then wolf in flames | Explicit warg/identity motif |
+| C-8817 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She sees skulls surrounding Jon and remembers warning of daggers in dark | High-priority possible assassination signal |
+| C-8818 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She calls Jon enemies' target but cannot identify them | Future foreknowledge plus uncertainty |
+| C-8819 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She asks to see Azor Ahai/Stannis, but flames show Jon | Strong dissonance with her prophetic model |
+| C-8820 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Melisandre insists she is among most practiced fire readers | Self-assessment and potential overconfidence |
+| C-8821 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Devan Seaworth gives her water and blushes | Human relation with Davos's son |
+| C-8822 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She requested Devan remain at Wall instead of march | Act motivated by protecting last three Seaworth sons |
+| C-8823 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Melisandre believes Davos faithful to Stannis despite disagreements | Her trust judgment contradicts simplistic villain caricature |
+| C-8824 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Stannis left dozen injured and disgraced guards for priestess | Limited personal defense force |
+| C-8825 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Among guards are three men gelded for raping free-folk women | Enforcement of king's discipline, not exoneration of coercion |
+| C-8826 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Melisandre sleeps little and fears dreams as whisperings of Other | Religious fear, not objective truth of dreams |
+| C-8827 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She claims R'hllor gives her needed nourishment | Self-reported supernatural ability |
+| C-8828 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She privately orders egg bread and nettle tea anyway | Eating habit not fully absent |
+| C-8829 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She regards Jon's simple quarters as damaging symbolic authority | Political theory that trappings confer power |
+| C-8830 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She admits Jon's insistence she visit him is shrewd | He resists subordination |
+| C-8831 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She checks sleeves holding powders to alter flame colors and height | Physical nonmagical spectacle technique |
+| C-8832 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Powders make smoke of fear lust truth and lethal black smoke | Source describes properties, actual truth-compulsion untested |
+| C-8833 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Spell ingredients running low after long voyage | Scarcity of magical tools |
+| C-8834 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She says Wall strengthens her sorcery beyond Asshai | Independent first-person power observation |
+| C-8835 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She anticipates casting dangerous real shadows at Wall | Future capability claim |
+| C-8836 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Mance disguised as Rattleshirt arrives in leather and no bones | Appearance constructed by glamour |
+| C-8837 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Ruby on Melisandre's throat warms near his wrist ruby | Physical connection between linked gems |
+| C-8838 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Mance complains of protecting illusion day after day | Spell has continuous burden |
+| C-8839 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | He recounts dinner argument with Bowen Marsh | Wildling friction despite apparent allegiance |
+| C-8840 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Melisandre relies on flame predictions to feel safe from Mance's dagger | Potential hubris |
+| C-8841 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Melisandre admits in private the man wears glamour of Rattleshirt | Definitive reveal of deception before Jon sees |
+| C-8842 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She describes it as shadow suggestion harnessing what eyes expect | Mechanics rely on clothing and memory |
+| C-8843 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Bone armor forms crucial anchor of Rattleshirt seeming | Talisman not optional costume |
+| C-8844 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She warns disrobing may expose disguise and lead to murder | Physical security risk |
+| C-8845 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Mance says ruby warms during sleep and sometimes burns in dreams | Spell felt by wearer, uncertain damage |
+| C-8846 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She expects three ranger faces with eyes removed and attributes to Weeper | Correct manner of mutilation not certainty culprit |
+| C-8847 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Mance knows Weeper cuts out eyes and warns danger | Criminological alternative to Tormund focus |
+| C-8848 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Melisandre assumes free folk doomed and children of forest vanished | Factually contested by Bran seeing living Leaf |
+| C-8849 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She thinks Wildlings unworthy to save but hides contempt from Mance | Strategic instrumentalization |
+| C-8850 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She believes gray-clad girl is Jon's sister because racing toward Wall | Mistaken-or-untested identity inference |
+| C-8851 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Her vision describes water west of girl, likely Long Lake per Mance | Geographic inference from expert |
+| C-8852 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Mance recommends searching along routes away from kingsroad | Operational knowledge of landscape |
+| C-8853 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Single warhorn blast signals ranger return | Actual arrival at Wall |
+| C-8854 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Melisandre says three returned dead | Prediction preceding confirmation |
+| C-8855 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She goes outside with two guards despite no real need | Displays trappings of power |
+| C-8856 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Beyond Wall Jon and twenty spearmen stand around three heads on shafts | Direct eyewitness verification |
+| C-8857 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Heads are Black Jack Bulwer Hairy Hal and Garth Greyfeather | Named confirmed victims |
+| C-8858 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | All eyes removed, beard and hair iced | Specific fulfillment of her prediction |
+| C-8859 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Six remaining rangers missing, no definite fate reported | Prediction of three deaths does not cover all |
+| C-8860 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Jon orders heads burned to prevent reanimation | Safety measure |
+| C-8861 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Melisandre thinks greatest future blow may fall at towers by sea | Vague vision localization |
+| C-8862 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | When Jon asks if Eastwatch, she says yes though privately unsure | Critical prophetic overclaim |
+| C-8863 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She admits cannot tell time of attack and that action may avert it | Model of contingent prophecy |
+| C-8864 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Jon agrees to further discussion because accurate three-headed warning | Trust earned from specific confirmation |
+| C-8865 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | In private her disguised guest still eats bread and wears Rattleshirt bones | Glamour ready to expose |
+| C-8866 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Jon initially refuses to let apparent Rattleshirt near sister | Reasonable mistrust of presumed rapist/raider |
+| C-8867 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Melisandre dismisses Devan then touches ruby and speaks a magic word | Deliberate public-unveiling act |
+| C-8868 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Spoken word heard differently by Jon and Mance | Perceptual manipulation beyond costumes |
+| C-8869 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Ruby on man's wrist darkens and shadow wisps fade | Direct magical mechanism observable |
+| C-8870 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Rattleshirt features dissolve to windburned Mance with grey-flecked hair | Conclusive identity reveal |
+| C-8871 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Mance states Stannis burned genuine Lord of Bones in his place | Previous public execution reclassified |
+| C-8872 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Melisandre says bones and dead man's objects provide glamour anchors | Specific magical method to cross-reference |
+| C-8873 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She lists dead man's boots, hair and bag of fingerbones as potential tokens | Do not infer Davos's lost fingerbones definitely used |
+| C-8874 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Mance kept his identity hidden to avoid Stannis's sentence | Survival via substituted execution |
+| C-8875 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Melisandre says burning ruby caused her searing pain until Jon's arrows | Jon inadvertently spared priestess suffering |
+| C-8876 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Stannis had been angry Jon shot prisoner | Contrasted with her private relief |
+| C-8877 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Mance can aid rescue because not bound by Watch vows | Political exploitation of Jon's oath |
+| C-8878 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | Melisandre says Mance's son hostage ensures compliance | Coercion underpins claimed loyalty |
+| C-8879 | [ADWD 31](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/31-melisandre.md) | She offers Jon apparent route to save Arya via disguised Mance | Premise unverified: threatened bride is Jeyne Poole |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -8834,4 +9003,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the three hundred and one first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the three hundred and three first-pass chapters listed in the coverage tracker.

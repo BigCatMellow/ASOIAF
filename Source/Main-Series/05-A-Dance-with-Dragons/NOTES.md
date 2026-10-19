@@ -199,3 +199,10 @@ Quentyn's intended genuine desertion is not conflated with the Windblown's stage
 - [29 Davos](chapters/29-davos.md): **A false death, Manderly's conditional alliance, Wex's witness and the Skagos mission.** 64 source observations with rival hypotheses and epistemic restrictions.
 
 Davos's death is established as staged by Manderly, not repeated as genuine. His Skagos destination is recorded as an inference, not as named aloud at the ending.
+
+## Sequential first-pass close reading — 2026-10-19 (ADWD 30–31)
+
+- [30 Daenerys](chapters/30-daenerys.md): **Blockaded Meereen, 26 days without Harpy murders, Astapor's bloody flux and marriage as defense.** 86 chronological observations with interpretations, rival readings and falsification tests.
+- [31 Melisandre](chapters/31-melisandre.md): **The glamour of Mance and Rattleshirt, Melony's past, true ranger prophecy and untrustworthy fire interpretations.** 82 chronological observations with interpretations, rival readings and falsification tests.
+
+Melisandre's POV confirms real Mance survives and real Rattleshirt died disguised; it also separates exact ranger-head foresight from unverified interpretations of the other visions.
