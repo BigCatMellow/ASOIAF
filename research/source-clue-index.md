@@ -7790,6 +7790,138 @@
 | C-7679 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Greenseer explicitly refuses to restore ability to walk | Critical outcome, not promised healing |
 | C-7680 | [ADWD 13](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/13-bran.md) | Greenseer instead promises Bran can fly | Prophetic or magical claim, actual mechanism future unknown |
 
+| C-7681 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion sleeps under blankets on the cabin roof, not in hold | Personal access and isolation on small vessel |
+| C-7682 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Griff has banned Tyrion's wine after drunken illness | Withdrawal shakes, sweats and lost sleep |
+| C-7683 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion thinks the moon follows him like an eye | Perception metaphor, not proved magical observation |
+| C-7684 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Griff alone keeps night watch and sleeps days | Strong security commitment |
+| C-7685 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Yandry and Ysilla refuse night travel because underwater snags could destroy hull | Navigation experience overrides Griff's urgency |
+| C-7686 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Griff watches river banks for pirates, stone men or captors | Identified external threats |
+| C-7687 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion remembers Tysha and Shae while suffering withdrawal | Trauma and guilt, not rehabilitation |
+| C-7688 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Septa Lemore offers prayer after Tyrion's crude advances | Religious role and personal boundaries |
+| C-7689 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Lemore baths nude in the river each morning | Pattern and apparent lack of modesty |
+| C-7690 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion observes stretch marks on Lemore's abdomen | Strong evidence of earlier childbirth, no confirmed child or prior identity |
+| C-7691 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Lemore wears crystal septa pendant and seven-colored belt | Religious costume consistent with cover or conviction |
+| C-7692 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Ysilla and Yandry are described as Greenblood-born Dornish orphans | Rhoynar diaspora return to Rhoyne |
+| C-7693 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Yandry reveres Rhoyne as river Mother | Cultural reverence, not evidence of actual deity |
+| C-7694 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Rhoyne turtles have many shell types and include giant bonesnappers | Biological and threat context |
+| C-7695 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Yandry claims ancient Rhoynar princes once rode giant turtles | Folklore, not independently witnessed |
+| C-7696 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Boat's shallow draft and sail aid passage over shallow tributaries | Transport design matters for escape |
+| C-7697 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Yandry says pirate groups and hidden escaped slaves occupy upper reaches | Geographic governance gap |
+| C-7698 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Duck practices arms with Young Griff on afterdeck | Active martial training |
+| C-7699 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Young Griff has pale? No, dark blue eyes that look violet in certain light | Targaryen-associated phenotype not proof parentage |
+| C-7700 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Young Griff handles swords better than mace or axe | Specific tactical strength and weakness |
+| C-7701 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Young Griff lands many blows but Duck's strikes are heavier | Different skill/strength profiles |
+| C-7702 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Young Griff shoves Duck into river during bout | Moment of combat initiative |
+| C-7703 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Duck retaliates by throwing Tyrion into Rhoyne | Casual cruelty threatens disabled passenger |
+| C-7704 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion initially swims but legs begin cramping | Serious drowning risk, not harmless jest |
+| C-7705 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Young Griff extends pole and helps Tyrion out | Act of practical rescue |
+| C-7706 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion fabricates story that father dropped him in well at birth | Explicit lie used to deflect humiliation |
+| C-7707 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion fabricates mummer troupe story for nose and acrobatics | Cover identity repeatedly embellished |
+| C-7708 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion privately remembers Gerion taught him tumbling as a child | Actual affectionate family memory |
+| C-7709 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tywin shamed Tyrion for entertaining guests with handstand | Family contempt conditioned self-expression |
+| C-7710 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Lemore mends Illyrio's mismatched children's garments into motley | Tyrion's new visual identity as fool |
+| C-7711 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Griff requires Tyrion to help sew his clothing | Potential humiliation Tyrion enjoys as craft |
+| C-7712 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Griff orders Tyrion to write everything he knows about dragons | Practical scholarly assignment, not purely comic position |
+| C-7713 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Galendro's Fires of the Freehold lacks full known Westerosi copy | Missing primary historical source |
+| C-7714 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Even Citadel's Fires of the Freehold allegedly lacks twenty-seven scrolls | Archive gaps limit dragon scholarship |
+| C-7715 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion hopes Volantis might have fuller Valyrian history | Unverified repository lead |
+| C-7716 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Septon Barth's Dragons Wyrms and Wyverns was largely destroyed by Baelor | Known deliberate historical suppression |
+| C-7717 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion read surviving Barth fragment a decade earlier | Specific firsthand documentary memory |
+| C-7718 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Anonymous tome Blood and Fire or The Death of Dragons reportedly sits in locked Citadel vault | High-priority source/key junction, location character report |
+| C-7719 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Barth, Munkun and Thomax disagree over dragon reproduction | Actual disputed subject, not biological consensus |
+| C-7720 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion records memory of conflicting dragon mating theories for Griff | Documentation can propagate uncertainty rather than fix it |
+| C-7721 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Haldon challenges invented Yollo/Hugor Hill backstory | Identity pressure on wanted Lannister |
+| C-7722 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion knows accent is Westerman upper-class, shapes lie around Lannisport | Deliberate cover design |
+| C-7723 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Haldon has largest cabin with books, herbs, medicines and cyvasse | Scholar/healer control of instruction and analysis |
+| C-7724 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Young Griff speaks fluent Common Tongue, High Valyrian and Free City dialects | Unusually broad education for a mercenary's son |
+| C-7725 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Young Griff is learning Volantene and Meereenese | Preparation for diplomacy across proposed route |
+| C-7726 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Haldon makes him repeat words despite complaints | Discipline and teacher authority |
+| C-7727 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Young Griff learns geometry from Haldon and Tyrion | Governance curriculum beyond knightly training |
+| C-7728 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Young Griff recites Volantene tiger-versus-elephant political history | Detailed political training for future rule |
+| C-7729 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | He says Old Blood tigers favor conquest and elephants trade | Ideological distinction in historical lesson |
+| C-7730 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Volantis once dominated Lys and Myr before coalition reversed conquests | Historical precedent for checked imperial ambition |
+| C-7731 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Young Griff reports tiger triarch Malaquo and elephants Nyessos and Doniphos | Contemporary leadership names to verify later |
+| C-7732 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | He concludes dragons would be necessary to conquer world | Power politics shaped by Valyrian history |
+| C-7733 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion regards Young Griff as better educated than many Westerosi lords | POV assessment, not identity confirmation |
+| C-7734 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion imagines Illyrio sacrificing Griff, Duck and others as chess pieces | Plausible political motive, not proved betrayals |
+| C-7735 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Haldon teaches Tyrion cyvasse and beats him repeatedly at first | Skill dynamic sets up wager |
+| C-7736 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Haldon says pirates control river between Ar Noy and Sorrows | Political geography |
+| C-7737 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion chooses different opening to protect his dragon from early trebuchet | Game detail can analogize statecraft but no prophecy |
+| C-7738 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion wagers for secrets against Haldon | Disclosure promised conditional on victory |
+| C-7739 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Three hours later Tyrion implies he defeated Haldon | Strong implication, no actual move-by-move outcome shown |
+| C-7740 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion keeps obtained secret undisclosed in chapter | Do not invent which secret was exchanged |
+| C-7741 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion recalls Tysha while contemplating Volantis | Emotional longing mixed with shame |
+| C-7742 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Shy Maid passes ruined Ny Sar and Nymeria's palace | Rhoynish historic devastation in present landscape |
+| C-7743 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Noyne joins Rhoyne at city's ruins | Actual tributary junction |
+| C-7744 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Yandry names Qhoyne Lhorulu and Selhoru as river daughters | Geographic lore, not evidence literal consciousness |
+| C-7745 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Huge horned turtle breaches beside boat rocking hull | Unusual animal directly observed |
+| C-7746 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Yandry and Ysilla call turtle the Old Man of the River with tears and blessing | Religious interpretation, actual identity unspecified |
+| C-7747 | [ADWD 14](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/14-tyrion.md) | Tyrion associates turtle omen with a king's birth | His inference may refer to hidden princely ambitions, not literal crowned birth |
+| C-7748 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Merry Midwife enters White Harbor on evening tide under patched sails | Covert arrival instead of intended fleet display |
+| C-7749 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Ordinary merchant cog regularly trades between Sisterton and White Harbor | Familiar vessel avoids suspicion |
+| C-7750 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Manderly built long fortified jetty with towers at short intervals | Physical defenses expanded |
+| C-7751 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Smoke rises from Seal Rock's formerly deserted ringfort | Military readiness but allegiance unproved |
+| C-7752 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Seal Rock now holds scorpions, spitfires and crossbowmen | Specific military armaments |
+| C-7753 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Old Seal Rock seals have gone because troops drove them off | Small environmental sign of militarization |
+| C-7754 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | White Harbor's pale walls and slate roofs remain orderly | City intact unlike ravaged hinterland |
+| C-7755 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos recalls city's seafaring merchant heritage and earlier apprenticeship | Personal route knowledge |
+| C-7756 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | He thinks of Marya and three surviving sons, having lost four at Blackwater | Real family costs |
+| C-7757 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos fears he should have sailed home with Saan | Prudence-versus-duty fork |
+| C-7758 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Eastwatch brothers said Manderlys resent the Boltons | Character report, not formal alliance |
+| C-7759 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos recognizes White Harbor needs a powerful protector | Strategic mutual dependency with Stannis |
+| C-7760 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Godric's Sisterton Frey-marriage report undermines Davos's optimism | Source claim still requires verification |
+| C-7761 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Inner harbor concealed by fortified jetty | Military intelligence hidden from approaching ships |
+| C-7762 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Cotter Pyke earlier reported construction of Manderly war galleys | Later visual check can corroborate |
+| C-7763 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | New Castle and Sept of Snows mark Manderly Faith influence | Mixed northern cultural inheritance |
+| C-7764 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Old godswood remains behind walls of Wolf's Den | Older rites persist alongside the Seven |
+| C-7765 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Manderly merman standards fly across city but Stark and Lannister signs are absent | Political neutrality/ambiguity, not official pledge |
+| C-7766 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos identifies royal Lionstar among docked ships | Direct confirms earlier Sisterton arrival report |
+| C-7767 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos can read Lionstar name due Maester Pylos's lessons | Specific skill development |
+| C-7768 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Frey-laden Lionstar visibly flies Tommen's royal banner | Public court connection |
+| C-7769 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Captain Casso Mogat agrees Merry Midwife will wait only three days | Hard exit timing |
+| C-7770 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos says captain need not wait if he fails | Acceptance of mission risk |
+| C-7771 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos disembarks dressed as common seaman, hiding shortened fingers with gloves | Operational concealment |
+| C-7772 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Customs officers ignore common sailor while inspecting ship cargo | Security blind spot |
+| C-7773 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Seal Gate has only two distracted Manderly guards and remains open | Actual infiltration ease |
+| C-7774 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Old Fishfoot statue presides over crowded market square | Public landmark and trade center |
+| C-7775 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Old Mint opens as refuge for displaced rural families | Direct visible civilian consequences of war |
+| C-7776 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Refugees include White Knife and Hornwood people | Geographic concentration from northern campaigns |
+| C-7777 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Apple seller says families flee Ramsay's violence | Local testimony, not comprehensive census |
+| C-7778 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Refugees arrive with little clothing or food | Material strain on urban stores |
+| C-7779 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Apple seller says girls sell sex and boys are recruited as soldiers | Exploitation from desperation |
+| C-7780 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos learns Manderly recruiting men for garrison | City army expanding, no declared target |
+| C-7781 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Apple seller corrects bride as Manderly granddaughter, not daughter | Small factual precision in marriage rumors |
+| C-7782 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos uses former smugglers' knowledge to enter Lazy Eel tavern | Intelligence gathering through low-status networks |
+| C-7783 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Lazy Eel has poor quality wine and food, little formal oversight | Good place for overheard unguarded rumors |
+| C-7784 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos pours half his drink away as he recalls burning ships | Trauma from Blackwater |
+| C-7785 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | He remembers Edric Storm safely at Stepstones | Prior successful rescue, not current presence |
+| C-7786 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos listens to news of Tywin's death, Littlefinger, Greyjoy succession and wars | Rumors vary wildly in accuracy |
+| C-7787 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Tavern repeats false story Tyrion physically tore Tywin apart | Example of information distortion in circulation |
+| C-7788 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Tavern credits Hound with ongoing Riverlands atrocities | Identity confusion after Rorge impersonation |
+| C-7789 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Robett Glover reportedly asks Wyman for men and is refused | Publicly observed/report, not Manderly's secret intentions |
+| C-7790 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Ryswell and Dustin men reportedly burned ironborn ships near Fever River | Military report, no battle independently witnessed by Davos |
+| C-7791 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Ramsay and Hother Umber reportedly march toward Moat Cailin | North military plans through gossip |
+| C-7792 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Source claims three hundred spears and hundred archers with Hother | Numbers from gossip, not firm muster |
+| C-7793 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Tavern patrons dispute Wyman's illness and inactivity | Competing interpretations of his behavior |
+| C-7794 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Innkeeper distinguishes Ser Wendel dead from captive Ser Wylis | Key correction to Davos's prior assumptions |
+| C-7795 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Wendel's bones reportedly rest at Sept of Snows | Frey delivery of remains corroborated in city talk |
+| C-7796 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Wylis still hostage constrains Wyman's decisions | Leverage independent of personal loyalty |
+| C-7797 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | People in tavern have barely heard of Stannis's northward campaign | Critical information deficit |
+| C-7798 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Rumors of living Viserys and royal babies swirl with contradictory names | Unreliability of dynastic gossip |
+| C-7799 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos hears Braavosi sailor relay trader account of silver-haired girl and three dragons in Qarth | Multi-step hearsay, echoes Daenerys's earlier attempt to book passage |
+| C-7800 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Named trader Sloe-Eyed Maid reportedly refused carrying dragons | Merchant rationally feared burning ship |
+| C-7801 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos connects story to Sloe-Eyed Maid's fate on Sistermen rocks | Strong maritime cross-chapter continuity |
+| C-7802 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos considers future voyage with sons to see wonders after Stannis wins | Personal hope distinct from present objective |
+| C-7803 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | He notices lost bag of fingerbones still absent | Luck/protective fetish gone since Blackwater |
+| C-7804 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos lists alternatives: retreat, return to family, deliver bad news or seek Wyman | Explicit agency and options |
+| C-7805 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos recalls Axell Florent's insulting fable comparing envoy to dressed ape | Class prejudice from Stannis's court |
+| C-7806 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos rejects implied incapacity based on common birth | Moral resolve not proof political success |
+| C-7807 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Seal Gate is shut at night, trapping Davos within walls | Immediate logistics |
+| C-7808 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos climbs Castle Stair to New Castle at night | Decision to complete mission despite bleak prospects |
+| C-7809 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | From height he sees inner harbor full of galleys concealed from arrival | Direct confirmation hidden fleet |
+| C-7810 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos counts twenty-three war galleys | Concrete naval strength no longer speculative |
+| C-7811 | [ADWD 15](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/15-davos.md) | Davos presents seal ribbon to postern guard demanding private Manderly audience | Action begun, no actual meeting this chapter |
+
 ## Priority rule
 
 1. Record chronological cause/effect and major scene action before promoting any hidden-clue theory.
@@ -7797,4 +7929,4 @@
 3. Retain disputed details and discarded hypotheses with specific locators; avoid endless symbolism without a causal test.
 4. When confirmed by a later chapter, update the canonical [character sheet](characters/README.md) or [theory case](theories/README.md), then update this index's reading priority.
 
-This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and eighty-five first-pass chapters listed in the coverage tracker.
+This queue is **not** a ranked list of true fan theories or a completed series-wide clue census. It currently draws on the two hundred and eighty-seven first-pass chapters listed in the coverage tracker.

@@ -153,3 +153,10 @@ The two new notes maintain chapter-boundary information and do not equate report
 - [13 Bran](chapters/13-bran.md): **Wights at the cave, Leaf, the ward, and the one-eyed greenseer.** 65 sequential source observations, ordinary competing explanations, and disconfirmation tests.
 
 Revelations and theories are distinguished from each POV's contemporaneous knowledge. Four chapter notes completed; microdetail review remains open.
+
+## Sequential first-pass close reading — 2026-10-19 (ADWD 14–15)
+
+- [14 Tyrion](chapters/14-tyrion.md): **The Shy Maid, Young Griff's princely education, and a hidden dragon book.** 67 observations, character and source-knowledge limits, rival readings, falsification tests.
+- [15 Davos](chapters/15-davos.md): **White Harbor's hidden fleet, Frey leverage, northern refugees and the disputed Manderly bargain.** 64 observations, character and source-knowledge limits, rival readings, falsification tests.
+
+Whole-chapter source reading only; all findings remain research, not accepted fan-theory verdicts.
