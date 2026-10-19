@@ -17,6 +17,11 @@
 - [62 — The Sacrifice](chapters/62-the-sacrifice.md): Stannis's hunger crisis; Theon and Jeyne arrive.
 - [63 — Victarion](chapters/63-victarion.md): fleet approach and untested Dragonbinder claim.
 
+## ADWD 64–65
+
+- [64 — The Ugly Little Girl](chapters/64-the-ugly-little-girl.md): Arya completes an indirect Faceless Men assignment and begins a new apprenticeship.
+- [65 — Cersei](chapters/65-cersei.md): Cersei reaches the Red Keep after atonement; Qyburn supplies Ser Robert Strong.
+
 ## Reading questions
 
 The Wall, Stannis's camp, Meereen, Aegon's invasion and unresolved reports.
