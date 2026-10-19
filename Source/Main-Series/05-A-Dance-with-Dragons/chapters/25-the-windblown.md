@@ -22,7 +22,7 @@
 12. **Quentyn saw corpse-choked river and starving children in captured Astapor** — Direct testimony of horrific siege conditions
 13. **Astapori priestess lies impaled amidst flies** — Concrete civilian atrocity
 14. **Children fight over cooked dog meat amid collapse** — Evidence of extreme hunger
-15. **Dead Cleon was torn apart by hungry hounds in pit** — The recollection needs disentangling from staged armored Cleon
+15. **Astapor's last free king was attacked by starving dogs in a pit** — Distinct from the earlier Cleon corpse later mounted in armor; king is unnamed here
 16. **Astapor's remaining pyramids burn and ashes reach camp** — Visible destruction continues after siege
 17. **Quentyn wears used company armor instead of noble arms** — Disguise forces equipment disadvantage
 18. **The trio abandoned their better armor and gold in Volantis** — Proof sacrificed resources for access

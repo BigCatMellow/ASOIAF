@@ -8492,7 +8492,7 @@
 | C-8376 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Quentyn saw corpse-choked river and starving children in captured Astapor | Direct testimony of horrific siege conditions |
 | C-8377 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Astapori priestess lies impaled amidst flies | Concrete civilian atrocity |
 | C-8378 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Children fight over cooked dog meat amid collapse | Evidence of extreme hunger |
-| C-8379 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Dead Cleon was torn apart by hungry hounds in pit | The recollection needs disentangling from staged armored Cleon |
+| C-8379 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Astapor's last free king was attacked by starving dogs in a pit | Distinct from the earlier Cleon corpse later mounted in armor; king is unnamed here |
 | C-8380 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Astapor's remaining pyramids burn and ashes reach camp | Visible destruction continues after siege |
 | C-8381 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | Quentyn wears used company armor instead of noble arms | Disguise forces equipment disadvantage |
 | C-8382 | [ADWD 25](../Source/Main-Series/05-A-Dance-with-Dragons/chapters/25-the-windblown.md) | The trio abandoned their better armor and gold in Volantis | Proof sacrificed resources for access |
