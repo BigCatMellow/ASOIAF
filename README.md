@@ -26,11 +26,12 @@ Research the five published *A Song of Ice and Fire* novels; evaluate competing 
 10. [Stormlands/Riverlands handoff](research/continuity/stormlands-riverlands-handoff.md) and [adjacent decision tests](research/gardening/decision-tests-aegon-jaime.md) — active Aegon and Jaime cliff edges, communication and consequences.
 11. [Dorne/Vale information map](research/continuity/dorne-vale-information.md) and [Arianne/Sansa decision tests](research/gardening/decision-tests-arianne-sansa.md) — true vs reported news, agency, and conditional next scenes.
 12. [Stark children information map](research/continuity/stark-children-information.md) and [Arya/Bran decision tests](research/gardening/decision-tests-arya-bran.md) — identity, wolf/greenseer powers, and limits of known information.
-10. [Cross-story consequence map](research/consequence-map-2026-10-14.md) — disputed choices, source gates and two-book branching without forced outcomes.
+13. [Endpoint reconciliation router](research/reconciliation/README.md) — current high-impact custody, command, travel, and information-receipt gates at the five-book cutoff.
+14. [Cross-story consequence map](research/consequence-map-2026-10-14.md) — disputed choices, source gates and two-book branching without forced outcomes.
 
 ## Current checkpoint
 
-The owner uploaded three EPUBs to this public repository and authorized organizing them into [per-volume source folders](Source/README.md). The bundled five novels remain one unchanged EPUB; redistribution rights are not independently verified. Initial chapter indexing, a targeted closing-state baseline, the North/Wall **partial** chronology, POV study files and an expanding **25-case/27-queued theory library** are available. Exhaustive POV histories, complete chronology reconciliation, remaining theory audits and two-book drafting remain open.
+The owner uploaded three EPUBs to this public repository and authorized organizing them into [per-volume source folders](Source/README.md). The bundled five novels remain one unchanged EPUB; redistribution rights are not independently verified. The sequential first pass now covers all **344/344 narrative units**; the chapter tracker and source-clue index remain the authoritative coverage records. Cross-book reconciliation, independent challenge of consequential findings, remaining theory audits, and two-book drafting remain open.
 
 **No outline idea is automatically canon.** Mark `VERIFIED`, `INFERRED`, `THEORY`, or `UNKNOWN` locally. Retain live alternatives while evidence is incomplete.
 
@@ -42,9 +43,9 @@ The owner uploaded three EPUBs to this public repository and authorized organizi
 
 These are **reference methods**, not inherited project authority. The `ASOIAF` brief and direct human decisions govern this project.
 
-## New: comprehensive primary-text close-reading pass (2026-10-15)
+## Comprehensive primary-text close-reading pass
 
-The original five-book EPUB has been re-opened and its SHA-256 confirmed against the repository source manifest. [Live sequential coverage and chapter links](Source/Main-Series/CLOSE-READING-STATUS.md) now record the first two hundred and thirty-one first-pass units (all five prologues, full AGOT 1–72, ACOK 1–69, ASOS 1–80 plus Epilogue, and AFFC 1–4), with 113 still open; earlier selective studies are not treated as completed whole-chapter readings. The [cross-book clue queue](research/source-clue-index.md) keeps potentially important minor details beside serious alternate readings while the book-specific notes preserve each chapter's major causal arc.
+The original five-book EPUB has been re-opened and its SHA-256 confirmed against the repository source manifest. [Live sequential coverage and chapter links](Source/Main-Series/CLOSE-READING-STATUS.md) record a complete **344/344** first pass across the five published novels. The [cross-book clue index](research/source-clue-index.md) records the resulting observations while book-specific notes preserve each chapter's major causal arc. Completion of this coverage pass does not itself complete independent literary challenge, reconciliation, or theory review.
 
 ## Current character-led research checkpoint — 2026-10-15
 

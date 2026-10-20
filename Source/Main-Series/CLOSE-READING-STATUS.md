@@ -1,7 +1,7 @@
 # Five-book close-reading tracker
 
 - Record role: `RESEARCH / COVERAGE RECEIPT`
-- Status: `IN PROGRESS — FIRST PASS`
+- Status: `COMPLETE — FIRST PASS; INDEPENDENT REVIEW REMAINS OPEN`
 - Source of truth for chapter labels: [chapter index](../../research/chapter-index.md)
 - Source file: [original five-book EPUB](A%20Game%20of%20Thrones%205-Book%20Bundle.epub), SHA-256 `cf12ce6d586a9b2717b6cefe373515d454f805b9b6193cde544c8abf028e61b8`
 - Coverage checked: 2026-10-19
@@ -20,10 +20,10 @@ The EPUB was opened locally on 2026-10-15. Its five title sections, navigation e
 | [ACOK](02-A-Clash-of-Kings/NOTES.md) | 70 | 70 (Prologue, 1–69) | 0 |
 | [ASOS](03-A-Storm-of-Swords/NOTES.md) | 82 | 82 (Prologue, 1–80, Epilogue) | 0 |
 | [AFFC](04-A-Feast-for-Crows/NOTES.md) | 46 | 46 (Prologue, 1–45) | 0 |
-| [ADWD](05-A-Dance-with-Dragons/NOTES.md) | 73 | 60 (Prologue, 1–59) | 13 |
-| **TOTAL** | **344** | **331** | **13** |
+| [ADWD](05-A-Dance-with-Dragons/NOTES.md) | 73 | 73 (Prologue, 1–72) | 0 |
+| **TOTAL** | **344** | **344** | **0** |
 
-**Important:** The three hundred and forty-four files are *first-pass* source-grounded interpretive notes, **not certification that every line has undergone an independent microdetail audit**. Some cross-book chapters received focused checks in earlier work; those checks are not counted as completed sequential chapter notes. The earlier 45 short-fragment quote matches were a distinct narrow verification, not 45 extra reviewed chapters.
+**Important:** The three hundred and forty-four chapter notes are *first-pass* source-grounded interpretive records, **not certification that every line has undergone an independent microdetail audit**. The earlier 45 short-fragment quote matches were a distinct narrow verification, not 45 extra reviewed chapters.
 
 The source contains approximately 1,751,065 whitespace-delimited words by the local paragraph extractor; this is a processing count, not a claim of completed reading. AFFC's additional TOC 'Chapter 46' is a non-narrative author afterword and is deliberately excluded from the 46 narrative units.
 
