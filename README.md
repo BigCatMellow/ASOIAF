@@ -54,7 +54,7 @@ The original five-book EPUB has been re-opened and its SHA-256 confirmed against
 - [Sam/Oldtown](research/characters/samwell-oldtown.md) and [Euron/Victarion/Aeron](research/characters/euron-victarion-aeron.md) — intersecting but **not unified** occult and maritime threats.
 - [Oldtown/Ironborn continuity](research/continuity/oldtown-ironborn-threat.md) — what each actor can actually know and do next.
 
-The separate [sequential close-reading tracker](Source/Main-Series/CLOSE-READING-STATUS.md) remains the coverage source of truth; these targeted studies **do not** count as every chapter having received a complete first pass.
+The separate [sequential close-reading tracker](Source/Main-Series/CLOSE-READING-STATUS.md) remains the coverage source of truth; these targeted studies did not themselves establish the now-complete **344/344** first-pass coverage.
 
 ## Series-wide continuation synthesis (separate research workstream)
 

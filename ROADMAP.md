@@ -119,7 +119,7 @@ Following the owner's instruction to **resume character/plot analysis instead of
 - [x] Build [Stark children information map](research/continuity/stark-children-information.md) and [Arya/Bran next-decision tests](research/gardening/decision-tests-arya-bran.md).
 - [ ] Resolve precise Robb-will witness/custodian and each survivor's actual sources of knowledge before designing a Stark reunion.
 
-**Current nearest next step (2026-10-15):** [Arya](research/characters/arya-stark.md) and [Bran](research/characters/bran-stark.md) now have selective five-book POV paths. [Stark children continuity](research/continuity/stark-children-information.md) separates the real family from rival political representations and records two non-obvious links (Nymeria/Stoneheart and Braavos/Hardhome). Next trace **Stark succession witnesses and who knows which living identities**, then begin the remaining unreviewed Cersei/Faith and Oldtown/Euron political/magic tracks. Preserve the existing Aegon/Jaime and Dorne/Vale message questions. No TV or unpublished scene is established by this project.
+**Historical nearest next step (2026-10-15):** [Arya](research/characters/arya-stark.md) and [Bran](research/characters/bran-stark.md) now have selective five-book POV paths. [Stark children continuity](research/continuity/stark-children-information.md) separates the real family from rival political representations and records two non-obvious links (Nymeria/Stoneheart and Braavos/Hardhome). At that checkpoint the next work was to trace **Stark succession witnesses and who knows which living identities**, then begin the remaining unreviewed Cersei/Faith and Oldtown/Euron political/magic tracks. Preserve the existing Aegon/Jaime and Dorne/Vale message questions. No TV or unpublished scene is established by this project.
 
 ## Previous checkpoint — four-family theory audit
 
@@ -149,7 +149,7 @@ The project owner explicitly requested **comprehensive per-book notes**, retaini
 - [x] [Cersei/Faith first pass](research/characters/cersei-faith.md): fiscal/religious bargain (AFFC 28), manufactured allegations and reversal (AFFC 39/43), unsettled trial and Robert Strong (ADWD 65/Epilogue).
 - [x] [Sam/Oldtown first pass](research/characters/samwell-oldtown.md): sea raids, glass candle, Marwyn/Alleras, the dubious 'Pate' and Aemon's warnings, with source/claim labels.
 - [x] [Euron, Victarion, Aeron first pass](research/characters/euron-victarion-aeron.md) and [Oldtown threat map](research/continuity/oldtown-ironborn-threat.md): separate horn claims, observed naval danger, and Moqorro's interpretive reading.
-- [ ] Continue **sequential source reading** from the current [coverage tracker](Source/Main-Series/CLOSE-READING-STATUS.md), without double-counting focused research as complete chapters.
+- [x] Complete sequential source reading: the [coverage tracker](Source/Main-Series/CLOSE-READING-STATUS.md) records 344/344 first-pass notes as of 2026-10-19; reconciliation follows without double-counting focused research as chapter coverage.
 - [ ] Trace the actual fate of Robb's witnessed document and reasonable routes for testimony; no assumed Howland possession.
 - [ ] Deepen Margaery's actual Faith-trial posture, the Oldtown fleet balance and Victarion's horn control before projecting outcome.
 - [ ] Recheck downstream character/continuity documents for any old unearned future assumptions.
