@@ -259,3 +259,22 @@ The resulting custody/political sequence is stronger than either side's isolated
 ### Added source navigation
 
 - [AFFC 17 (Cersei)](../../Source/Main-Series/04-A-Feast-for-Crows/text/018-cersei.md)
+
+
+## 12. Ruby Ford was contested before the final Lannister seizure
+
+A separate source-control check cautions against treating the Ford as a static location—or the reported 600 as a garrison with a single, knowable later fate.
+
+| Checkpoint | Evidence | Evidentiary limit |
+| --- | --- | --- |
+| **First Bolton occupation** | In **ACOK 40 (Catelyn)**, Edmure says that after Tywin went to Harrenhal, Roose took the Ruby Ford and crossroads. In **ACOK 30 (Arya)**, Arya hears one of the Mummers say a northern army under Roose occupies the Ford. | Edmure is giving strategic information and Arya hears camp talk; neither scene observes the takeover or provides a roster, duration, or specific orders. Together they support an earlier Bolton-held phase, not continuous control. |
+| **Control is already uncertain to local travelers** | In **ASOS 11 (Jaime)**, an innkeeper/cook says the last report placed the “Leech Lord's wolves” at the Ford, but explicitly allows that lions, Beric's men, or no one may hold it by then. Brienne independently treats soldiers at the Ford as a prudent expectation rather than a verified fact. | `REPORTED / LOCAL UNCERTAINTY`, not a field report. It shows how rapidly the Ford's status became opaque, not that a named army had changed hands at a particular moment. |
+| **Later Lannister outcome** | Tyrion's survey says Gregor crossed the Trident and seized the Ruby Ford (**ASOS 60**). | `POV-NARRATED LATER OUTCOME`; still no date, route, encounter with Ronnel/Kyle, or casualty return. |
+
+The narrow consequence is methodological: `BOLTON HELD FORD EARLIER → CONTROL BECAME UNCERTAIN IN TRAVELER REPORTS → GREGOR LATER SEIZED IT` is a supported **sequence of changing control**, but it has no continuous garrison ledger. Roose's later statement that he left 600 to block Gregor while floodwater held is therefore neither disproved nor extended into a claim that the same force held the Ford until Gregor's final seizure. The missing operational middle remains `UNKNOWN`.
+
+### Added source navigation
+
+- [ACOK 30 (Arya)](../../Source/Main-Series/02-A-Clash-of-Kings/text/031-arya.md)
+- [ACOK 40 (Catelyn)](../../Source/Main-Series/02-A-Clash-of-Kings/text/041-catelyn.md)
+- [ASOS 11 (Jaime)](../../Source/Main-Series/03-A-Storm-of-Swords/text/012-jaime.md)
