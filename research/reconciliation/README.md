@@ -23,6 +23,8 @@ Use the narrowest record that owns a question. A link establishes a research dep
 | Vale | [Vale / Sansa decisions](vale-sansa-decision-gates.md) | Alayne’s concealment and Littlefinger’s proposal are not a completed restoration. |
 | Supernatural boundary | [Supernatural endpoint gates](supernatural-endpoint-gates.md) | Observed magic and character interpretations must not be collapsed into predetermined mechanisms. |
 
+For final-ADWD POV-by-POV locator coverage, see the [endpoint coverage matrix](adwd-endpoint-coverage-matrix.md). It shows which specialized record owns each major handoff and identifies residual review work without selecting outcomes.
+
 ## Specialized source audits
 
 ### North, Wall, and Stark survivors
