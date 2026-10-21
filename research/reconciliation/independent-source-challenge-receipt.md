@@ -22,6 +22,7 @@ Endpoint coverage identifies a research owner; it does not itself verify every f
 | [Sweetrobin care / succession](sweetrobin-care-succession-and-vale-movement-gates.md) | AFFC 41 (*Alayne*) | The party completes the descent and reaches the Gates of the Moon, where Petyr is already present; the planned feast is still future. |
 | [Sweetrobin care / succession](sweetrobin-care-succession-and-vale-movement-gates.md); [Vale / Sansa decisions](vale-sansa-decision-gates.md) | AFFC 41 (*Alayne*) | Alayne orders sweetmilk and Colemon assents, but no dose or effect is narrated. Colemon’s statement that milk of the poppy *might* be safest is his medical judgment, not a verified comparative outcome. |
 | [Vale / Sansa decisions](vale-sansa-decision-gates.md) | AFFC 23 (*Alayne*) | Petyr tells Sansa that Lyn Corbray’s hostility is staged and will be rewarded; that remains Petyr’s account, not independently verified private allegiance. |
+| [Oldtown coastal-force ledger](oldtown-coastal-force-ledger.md); [Oldtown contact gates](oldtown-ironborn-contact-gates.md) | AFFC 45 (*Samwell*) | The *Huntress* captain reports Ironborn staging positions and most Hightower preparations. Gunthor’s harbor inspection and the physical boom/warships are directly observed, but the captain’s wider logistics report is not independently confirmed. |
 
 ## Riverlands challenge
 

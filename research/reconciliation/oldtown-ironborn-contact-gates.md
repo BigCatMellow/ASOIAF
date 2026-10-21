@@ -8,7 +8,7 @@
 | Thread | Verified final condition | Missing connection |
 |---|---|---|
 | Sam / Citadel | Sam reaches Oldtown, speaks to Alleras and Marwyn, sees a burning glass candle, and is directed toward study (AFFC 45). | No formal Citadel decision, citywide warning, or demonstrated glass-candle message from Sam is shown. |
-| Oldtown / Hightowers | Coastal devastation and Ironborn danger are visible or reported; Hightower heirs organize defenses (AFFC 45). | Lord Leyton’s alleged magic and the fleet’s actual strength/effect are not shown. |
+| Oldtown / Hightowers | Coastal devastation and Ironborn danger are visible or reported; Gunthor visibly inspects arrivals, while the *Huntress* captain reports other Hightower preparations (AFFC 45). | Lord Leyton’s alleged magic and the fleet’s actual strength/effect are not shown. |
 | Euron’s western campaign | Euron wins kingsmoot, raids Reach approaches, and dispatches Victarion east (AFFC 19, 29). | No five-book scene locates Euron at Oldtown or shows an Oldtown ritual. |
 | Victarion / Moqorro | Victarion approaches Meereen with Dragonbinder and a private agenda (ADWD 63). | He cannot simultaneously supply an observed Oldtown action; his voyage is a separate theater. |
 | Citadel Pate | An alchemist obtains Pate’s key; a later person calls himself Pate (AFFC Prologue, 45). | Identity, institutional access, patron, and coordination with Euron are unshown. |
