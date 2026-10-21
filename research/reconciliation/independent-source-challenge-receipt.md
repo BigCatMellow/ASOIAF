@@ -19,6 +19,9 @@ Endpoint coverage identifies a research owner; it does not itself verify every f
 | [Aegon / Jon Connington command and greyscale](aegon-joncon-invasion-command-and-greyscale-gates.md) | ADWD 61 (*The Griffin Reborn*) | Vinegar is prescribed for greyscale; Connington uses wine because obtaining vinegar would expose him. |
 | [Two queens’ trials](kings-landing-two-queens-trial-gates.md) | ADWD 65 (*Cersei*) | Cersei confesses specified sexual offenses but denies directing the false accusation against Margaery; that denial and the unresolved process must remain visible. |
 | [Murder discovery](kings-landing-murder-discovery-and-attribution.md) | ADWD Epilogue | A boy relays a purported summons from Pycelle and a serving girl admits Kevan; the boy is not established as a disguised child assassin. |
+| [Sweetrobin care / succession](sweetrobin-care-succession-and-vale-movement-gates.md) | AFFC 41 (*Alayne*) | The party completes the descent and reaches the Gates of the Moon, where Petyr is already present; the planned feast is still future. |
+| [Sweetrobin care / succession](sweetrobin-care-succession-and-vale-movement-gates.md); [Vale / Sansa decisions](vale-sansa-decision-gates.md) | AFFC 41 (*Alayne*) | Alayne orders sweetmilk and Colemon assents, but no dose or effect is narrated. Colemon’s statement that milk of the poppy *might* be safest is his medical judgment, not a verified comparative outcome. |
+| [Vale / Sansa decisions](vale-sansa-decision-gates.md) | AFFC 23 (*Alayne*) | Petyr tells Sansa that Lyn Corbray’s hostility is staged and will be rewarded; that remains Petyr’s account, not independently verified private allegiance. |
 
 ## Riverlands challenge
 
