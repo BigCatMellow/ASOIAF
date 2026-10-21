@@ -23,6 +23,8 @@ Endpoint coverage identifies a research owner; it does not itself verify every f
 | [Sweetrobin care / succession](sweetrobin-care-succession-and-vale-movement-gates.md); [Vale / Sansa decisions](vale-sansa-decision-gates.md) | AFFC 41 (*Alayne*) | Alayne orders sweetmilk and Colemon assents, but no dose or effect is narrated. Colemon’s statement that milk of the poppy *might* be safest is his medical judgment, not a verified comparative outcome. |
 | [Vale / Sansa decisions](vale-sansa-decision-gates.md) | AFFC 23 (*Alayne*) | Petyr tells Sansa that Lyn Corbray’s hostility is staged and will be rewarded; that remains Petyr’s account, not independently verified private allegiance. |
 | [Oldtown coastal-force ledger](oldtown-coastal-force-ledger.md); [Oldtown contact gates](oldtown-ironborn-contact-gates.md) | AFFC 45 (*Samwell*) | The *Huntress* captain reports Ironborn staging positions and most Hightower preparations. Gunthor’s harbor inspection and the physical boom/warships are directly observed, but the captain’s wider logistics report is not independently confirmed. |
+| [Sand Snakes](sand-snakes-kings-landing-missions-and-custody-gates.md) | ADWD Epilogue | Kevan describes Nymeria as escorting Myrcella and expects her council claim; that is his information/expectation, not a depicted departure or route. |
+| [Southern claimants](southern-claimants-endpoint-handoff.md) | ADWD 38 (*The Watcher*) | Doran assigns the Sand Snakes and they leave his private audience; they are not shown departing Sunspear/Dorne or beginning their missions. |
 
 ## Riverlands challenge
 

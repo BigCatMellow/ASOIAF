@@ -12,7 +12,7 @@
 | Golden Company captures early footholds and plans Storm’s End. | Connington, company officers, Aegon; limited captives/locals. | No five-book POV confirms Storm’s End taken, a committed Reach lord, or a public Aegon proclamation accepted by Dorne. |
 | Kevan and Pycelle are murdered by Varys (Epilogue). | Varys, child agents, dying Kevan. | The court is not shown identifying the killer or receiving Varys’s Aegon explanation. |
 | Cersei returns after atonement with Ser Robert Strong (ADWD 65). | Cersei, Kevan, Qyburn, escort/court observers. | The text does not show her acquitted, restored as sole ruler, or informed of Kevan’s murder. |
-| Doran’s agents depart toward Darkstar, court, and Faith (ADWD 38). | Doran, Arianne/Hotah as applicable, individual agents. | Successful arrival, intelligence gathering, and coordinated action remain unshown. |
+| Doran assigns agents toward Darkstar, court, and Faith; they leave his private audience (ADWD 38). | Doran, Arianne/Hotah as applicable, individual agents. | Physical departure from Sunspear/Dorne, successful arrival, intelligence gathering, and coordinated action remain unshown. |
 
 ## Theory and identity boundaries
 
