@@ -115,3 +115,5 @@ These differing perspectives create room for negotiation, dissent, escape, sacri
 **Red Ronnet Connington** is connected to Jaime through former Gregor Clegane retainers (ADWD Epilogue), while Jon Connington holds Ronnet's relatives at Griffin's Roost (ADWD 61). This provides a real but slow communication/hostage bridge to Aegon's invasion, *not* evidence that Jaime knows about those prisoners while standing in Pennytree.
 
 **Next audit:** reconstruct who controls Podrick and Hyle after the hanging and who can credibly send a message to Jaime's men. Distinguish Brienne's words from the truth of the claim she makes. No fixed Jaime death, Cersei confrontation or Stoneheart settlement.
+
+**Custody reconciliation update (2026-10-21):** The [Brienne, Podrick, and Hyle custody audit](../reconciliation/brienne-podrick-hyle-custody-and-lure-gates.md) keeps the post-gallows word, terms, survival, keeper, and location of both companions unknown. It also preserves the separate Pennytree gate: Jaime has heard Brienne's urgent claim, but has not accepted it, departed, or been shown a route, rendezvous, or Stoneheart message.
