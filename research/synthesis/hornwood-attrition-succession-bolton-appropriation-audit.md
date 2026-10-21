@@ -1,6 +1,6 @@
 # House Hornwood: military losses, contested succession, and Bolton appropriation
 
-- Record role: `RESEARCH / NORTHEN HOUSEHOLD ATTRITION, SUCCESSION AND FORCE-IDENTITY AUDIT`
+- Record role: `RESEARCH / NORTHERN HOUSEHOLD ATTRITION, SUCCESSION AND FORCE-IDENTITY AUDIT`
 - Status: `FIVE-NOVEL PRIMARY-TEXT AUDIT / NO HOUSE-BY-HOUSE CASUALTY LEDGER`
 - Lifecycle: `ACTIVE`; authority: `ADVISORY / NONE`
 - Scope boundary: this is a complementary House Hornwood case study for the [four-campaign attrition audit](roose-bolton-green-fork-duskendale-trident-attrition-audit.md), not a new claim that every Hornwood loss was deliberately engineered. The [Hornwood-fingers theory docket](../theories/cases/hornwood-fingers.md) owns the narrow question of Ramsay's exact treatment of Lady Donella.
@@ -43,7 +43,21 @@ Later public usage shows political success of a kind:
 
 This establishes `COERCIVE TITLE ASSERTION + POLITICAL RECOGNITION PRESSURE`. It does **not** establish that a northern legal consensus accepts Ramsay's inheritance, that Wyman surrendered his claim, or that Ramsay controls every castle, tenant, levy, or document belonging to Hornwood.
 
-## 3. The “hundred longbows” at the ford: what the number can and cannot bear
+## 3. Castle possession is not the same as the surviving communications infrastructure
+
+The five-book record contains an early **reported** castle occupation but no endpoint inspection. In **ACOK 28 (Bran)**, Bran learns that Wyman Manderly has taken Hornwood Castle, saying in a written explanation that he means to protect its holdings from the Boltons. In **ACOK 35 (Bran)**, Ser Rodrik reports Manderly knights and Dreadfort men fighting in Hornwood forests, while admitting he lacks the force to stop them. Neither passage identifies a castellan, garrison, maester, ravenry, or eventual winner. No later POV returns to the castle.
+
+**ADWD 19 (Davos)** does not close that gap. Wyman says Roose's settlement demand requires him to relinquish *his claim* to Hornwood lands and castles. This is `CHARACTER CLAIM IN A NEGOTIATION`: it proves that Wyman asserts a claim and that Roose wants it surrendered, not present physical occupation by either man, a completed surrender, or a received deed.
+
+The one direct institutional endpoint is elsewhere. In **ADWD 37 (The Prince of Winterfell)**, Theon sees **Maester Medrick**, who formerly served Lord Hornwood, at Winterfell with Rhodry and Henly. Theon says Roose brought all three to operate Luwin's ravens so that messages could again be sent and received there. This establishes:
+
+- `POV-OBSERVED`: Hornwood's former household maester is physically at **Winterfell**, and Winterfell has a working Bolton-directed communications function.
+- `UNKNOWN`: whether Medrick took Hornwood records, knows current castle control, retains access to Hornwood ravens, sent a Hornwood-specific letter, or favors Bolton, Ramsay, any claimant, or the house's tenants.
+- `NOT SHOWN`: a message from Hornwood Castle to Winterfell, a reply, a named castle custodian, or a chain by which Hornwood fighters receive an order.
+
+This matters for future construction: an authenticated message from **Winterfell** via Medrick could plausibly affect a Hornwood question only after a demonstrated dispatch, recipient, and credibility test. Medrick's former service does not make him a hidden Hornwood spokesman. Conversely, a change at Hornwood Castle cannot automatically reach Winterfell merely because the former maester is there.
+
+## 4. The “hundred longbows” at the ford: what the number can and cannot bear
 
 The Trident crossing record is one speech by Roose in **ASOS 49**. He says the river is high, Gregor is not across it, and he has left an assortment of troops at the ford: men from several regions, freeriders and hedge knights, **100 Hornwood longbows**, and a strong Stout/Cerwyn component, commanded by Ronnel Stout and Ser Kyle Condon. Robb accepts the report as prudent at that moment.
 
@@ -58,7 +72,7 @@ The later **ASOS 60 (Tyrion)** statement that Gregor eventually crossed the Trid
 
 A conventional military reading remains strong: an archer contingent covering a ford during flood conditions is sensible terrain defense, and the mixed force under non-Bolton house officers can indicate a practical combined detachment rather than a list of intended victims. The adverse reading becomes plausible only as a **pattern question** because Roose controls the account and the later historical record is silent; it needs a missing order, survivor testimony, casualty return, or independent force report before becoming a finding.
 
-## 4. Surviving Hornwood people are evidence against simple extermination—not proof of a united resistance
+## 5. Surviving Hornwood people are evidence against simple extermination—not proof of a united resistance
 
 Several ADWD scenes matter because they make a total-destruction account untenable:
 
@@ -71,7 +85,7 @@ Several ADWD scenes matter because they make a total-destruction account untenab
 
 The same house can produce refugees at White Harbor, men in a Bolton-aligned operation, men in Stannis's reported host, and banners at Winterfell. These may be different people and different moments. No five-book scene shows a Hornwood council choosing one side, a commander receiving a single house-wide instruction, or a message reconciling these fragmentary loyalties.
 
-## 5. Implications for the Bolton strategy and a future North plot
+## 6. Implications for the Bolton strategy and a future North plot
 
 **Supported political pattern:** Bolton power gains from depleted/leaderless houses without needing proof of a meticulously engineered fatality schedule. Loss of Lord Halys and Daryn creates a claim crisis; coercion turns it into a usable title; surviving retainers still provide banners and manpower, but their personal resentment makes that manpower unreliable. This is consistent with Roose's later need to assemble a broad, uneasy coalition around a false Stark marriage.
 
@@ -79,9 +93,9 @@ The same house can produce refugees at White Harbor, men in a Bolton-aligned ope
 
 **Future-revelation value:** A named Hornwood captain, an archive of Donella's coerced will, a ford survivor, or an authenticated Raven from the house could do several different jobs. They could challenge Ramsay's title, clarify force distribution, or determine whether Hornwood men possess a usable independent command. One item cannot silently prove all three. In particular, proof that the marriage was invalid would not itself reveal where the ford archers went; a soldier's account of the ford would not by itself settle the inheritance.
 
-## 6. Open questions and falsifiers
+## 7. Open questions and falsifiers
 
-1. Who, if anyone, controls Hornwood castle and its ravens at the five-book endpoint? No POV visits it after the succession crisis.
+1. Who, if anyone, controls Hornwood Castle at the five-book endpoint? No POV visits it after the succession crisis; Medrick is at Winterfell, not demonstrated at Hornwood, and no Hornwood raven route is shown.
 2. What became of the 100 longbowmen and the wider 600-man ford force? No casualty roll, relief order, prisoner list, or later commander testimony is narrated.
 3. What exact claim did Wyman hold, and did he ever relinquish it? His settlement terms are a `CHARACTER CLAIM` in a negotiation, not a deed of surrender.
 4. Is Ramsay's will available, genuine, or legally enforceable under northern custom? The text gives Rodrik's report of a sealed instrument but no later inspection.
