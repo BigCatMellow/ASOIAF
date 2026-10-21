@@ -41,6 +41,12 @@
 - Distinguish **known naval damage** from unverified tales of raising monsters at sea.
 - Keep Arya's Braavosi access to rumors and Sam's Oldtown warning under separate message timing.
 
+## Coastal-balance source check — 2026-10-21
+
+AFFC 45 supports a more precise conventional starting position than either "Oldtown is helpless" or "Oldtown is secure." The *Huntress* and two companion galleys visibly inspect the *Cinnamon Wind*; Gunthor Hightower later conducts the harbor inspection; and Sam sees a boom of two dozen hulks, three large dromonds, and *Honor of Oldtown*. These are directly depicted defensive assets. By contrast, the same *Huntress* captain **reports** Baelor's galley building, Garth's recruits, Humfrey's Lyseni mission, the ironborn forward bases and ship numbers, and Leyton/Malora's alleged magical study. Those reports make a large danger and a distributed response plausible without completing either side's order of battle.
+
+Sam's own immediate safety calculation is also conditional: before entering the city he plans to take Gilly and Dalla's son to Horn Hill after presenting Jon's letters, but his later Citadel diversion means the five-book text does not show a wagon, Horn Hill arrival, or a reassessment once he learns Marwyn's claims. An Oldtown military scene must therefore specify which patrol/harbor assets are present and whether Sam has actually acted on that earlier family-safety plan.
+
 **Next:** map coastal troop/fleet reports and seek exact narrative evidence for Euron's current location; revisit glass-candle users' actual acts vs Marwyn's teaching. A later TWOW preview can be audited separately with explicit source-tier labels.
 
 **Reconciliation update (2026-10-19):** [Oldtown/Ironborn contact gates](../reconciliation/oldtown-ironborn-contact-gates.md) separates the co-located naval, Citadel, horn, and identity mysteries until an actual source-side connection is shown.
