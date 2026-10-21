@@ -7,7 +7,7 @@
 - Parent: [ROADMAP.md](../../ROADMAP.md)
 - Source scope: five published novels only; chapter-local references from [index](../chapter-index.md)
 - Checked: 2026-10-15
-- Related: [Arya](../characters/arya-stark.md), [Bran](../characters/bran-stark.md), [Sansa](../characters/sansa-alayne.md), [Davos/Rickon](../characters/davos-seaworth.md), [Jon](../characters/jon-snow.md), [Robb's succession document](../theories/cases/robbs-will-succession.md)
+- Related: [Arya](../characters/arya-stark.md), [Bran](../characters/bran-stark.md), [Sansa](../characters/sansa-alayne.md), [Davos/Rickon](../characters/davos-seaworth.md), [Jon](../characters/jon-snow.md), [Robb's succession document](robbs-will-witness-ledger.md), and [theory case](../theories/cases/robbs-will-succession.md)
 
 ## Five-book endpoint: real people vs. political stories
 
@@ -53,6 +53,7 @@
 | Sansa publicly revealed | Sansa decides whom to trust, with whom to bargain, and what truth to disclose | Legitimacy plus Vale relationships | Petyr can exploit the recognition he arranged |
 | Jon lives / is restored | Jon chooses between Watch responsibility and Stark inheritance | Unites some northern/wildling interests | Oaths, rival heirs and assassination consequences remain |
 | Arya publicly returns | Arya must decide whether to reclaim her name and what to tell of her violent apprenticeship | Ends some imposture, offers genuine family connection | Nobody should assume 'trained assassin' equals healthy or legitimate ruler |
+| Robb's succession document surfaces | A credible holder/witness must decide whom to show it to and how to authenticate it | Makes Robb's wartime intent politically discussable | The full text, final sealing, custody, and any claimant's willingness or legal eligibility remain unshown |
 
 ## Continuity tests
 
@@ -62,4 +63,4 @@
 - Avoid automatic 'pack telepathy' and instantaneous coordination via Bran.
 - **AFFC/ADWD overlap:** don't infer identical calendar dates from consecutive book chapters.
 
-**Reconciliation update (2026-10-19):** [North/Wall endpoint handoff audit](../reconciliation/north-wall-endpoint-handoff.md) now distinguishes the dispatched Karstark warning, the received Pink Letter, and the verified arrival of Theon/Jeyne at Stannis’s camp. It does not convert any unshown receipt or interrogation into fact.
+**Reconciliation update (2026-10-20):** [North/Wall endpoint handoff audit](../reconciliation/north-wall-endpoint-handoff.md) distinguishes the dispatched Karstark warning, the received Pink Letter, and the verified arrival of Theon/Jeyne at Stannis’s camp. The linked [Robb-will ledger](robbs-will-witness-ledger.md) separately preserves a decisive limit: no five-book scene gives Jon, Rickon, Sansa, or a current northern faction a usable text, proven custodian, or a completed delivery of Robb’s succession document.
