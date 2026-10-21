@@ -25,6 +25,8 @@ Use the narrowest record that owns a question. A link establishes a research dep
 
 For final-ADWD POV-by-POV locator coverage, see the [endpoint coverage matrix](adwd-endpoint-coverage-matrix.md). It shows which specialized record owns each major handoff and identifies residual review work without selecting outcomes.
 
+The [independent source-challenge receipt](independent-source-challenge-receipt.md) records a targeted correction pass and a separate Riverlands boundary check; it is quality-control evidence, not a declaration that all reconciliation records are final.
+
 ## Specialized source audits
 
 ### North, Wall, and Stark survivors
