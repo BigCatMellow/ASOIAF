@@ -71,7 +71,26 @@ No published narrative puts Larence at Hornwood Castle, with Stannis, at White H
 
 Larence therefore matters as a **contingent legitimacy lever**, not an available army commander. A future appearance could force the question whether a bastard who was considered by Winterfell before Ramsay's coercion has a better claim than a coerced widow's purported heir. It cannot, without additional evidence, retroactively establish who ruled Hornwood, how its men fought, or whether the ford archers survived.
 
-## 5. The “hundred longbows” at the ford: what the number can and cannot bear
+## 5. Beren Tallhart: the maternal-nephew route remains a documented hostage gate
+
+**ACOK 16 (Bran)** supplies a second, distinct claimant route. Leobald Tallhart proposes sending his younger son **Beren** to Lady Donella as foster child and possible heir; he says his wife **Berena is Lord Halys Hornwood's sister**, making Beren Donella's nephew through the dead lord. Luwin calls him potentially the best answer because he is half Hornwood by blood and might take his uncle's name. Ser Rodrik immediately identifies the counterweight: he is still a boy and could be unable to hold the land against stronger suitors.
+
+This is stronger genealogy than a generic banner claim but remains an `UNEXECUTED PROPOSAL`:
+
+- no scene shows Donella accepting Beren as foster son;
+- no scene shows Robb approving a name change, inheritance, marriage, or regency;
+- no will, seal, castle handover, or Hornwood levy recognizes him;
+- Beren's older brother Brandon is named, but the ACOK discussion identifies **Beren**, not Brandon, as the proposed Hornwood successor.
+
+The Tallhart war then makes Beren's status a custody problem, not a living political program. The **ASOS appendix** lists Berena, Brandon, and Beren after Leobald's death at Winterfell; the **AFFC** and **ADWD appendices** specifically list all three as captives at **Torrhen's Square**. The ADWD appendix also places Dagmer Cleftjaw's ironborn at that castle. These are `PARATEXTUAL STATUS ENTRIES`, not scenes of imprisonment, communication, ransom, or release, but they are the latest published status indication.
+
+Thus the endpoint chain is:
+
+`proposed maternal-nephew heir → unshown decision/recognition → Tallhart household captive at ironborn-held Torrhen's Square = NOT AN AVAILABLE HORNWOOD CLAIMANT ON-PAGE`.
+
+This creates a different kind of future possibility from Larence. Larence's last specific captivity label occurs in the ASOS appendix and later status is unshown; Beren's captivity is still carried in the ADWD appendix. Neither boy can be assumed free, informed about Ramsay's title, or able to command a house. Nor does the phrase “captive at Torrhen's Square” prove what Dagmer knows of Hornwood law, that an exchange is underway, or that Beren's claim is legally superior to every other candidate.
+
+## 6. The “hundred longbows” at the ford: what the number can and cannot bear
 
 The Trident crossing record is one speech by Roose in **ASOS 49**. He says the river is high, Gregor is not across it, and he has left an assortment of troops at the ford: men from several regions, freeriders and hedge knights, **100 Hornwood longbows**, and a strong Stout/Cerwyn component, commanded by Ronnel Stout and Ser Kyle Condon. Robb accepts the report as prudent at that moment.
 
@@ -86,7 +105,7 @@ The later **ASOS 60 (Tyrion)** statement that Gregor eventually crossed the Trid
 
 A conventional military reading remains strong: an archer contingent covering a ford during flood conditions is sensible terrain defense, and the mixed force under non-Bolton house officers can indicate a practical combined detachment rather than a list of intended victims. The adverse reading becomes plausible only as a **pattern question** because Roose controls the account and the later historical record is silent; it needs a missing order, survivor testimony, casualty return, or independent force report before becoming a finding.
 
-## 6. Surviving Hornwood people are evidence against simple extermination—not proof of a united resistance
+## 7. Surviving Hornwood people are evidence against simple extermination—not proof of a united resistance
 
 Several ADWD scenes matter because they make a total-destruction account untenable:
 
@@ -99,7 +118,7 @@ Several ADWD scenes matter because they make a total-destruction account untenab
 
 The same house can produce refugees at White Harbor, men in a Bolton-aligned operation, men in Stannis's reported host, and banners at Winterfell. These may be different people and different moments. No five-book scene shows a Hornwood council choosing one side, a commander receiving a single house-wide instruction, or a message reconciling these fragmentary loyalties.
 
-## 7. Implications for the Bolton strategy and a future North plot
+## 8. Implications for the Bolton strategy and a future North plot
 
 **Supported political pattern:** Bolton power gains from depleted/leaderless houses without needing proof of a meticulously engineered fatality schedule. Loss of Lord Halys and Daryn creates a claim crisis; coercion turns it into a usable title; surviving retainers still provide banners and manpower, but their personal resentment makes that manpower unreliable. This is consistent with Roose's later need to assemble a broad, uneasy coalition around a false Stark marriage.
 
@@ -107,14 +126,15 @@ The same house can produce refugees at White Harbor, men in a Bolton-aligned ope
 
 **Future-revelation value:** A named Hornwood captain, an archive of Donella's coerced will, a ford survivor, or an authenticated Raven from the house could do several different jobs. They could challenge Ramsay's title, clarify force distribution, or determine whether Hornwood men possess a usable independent command. One item cannot silently prove all three. In particular, proof that the marriage was invalid would not itself reveal where the ford archers went; a soldier's account of the ford would not by itself settle the inheritance.
 
-## 8. Open questions and falsifiers
+## 9. Open questions and falsifiers
 
 1. Who, if anyone, controls Hornwood Castle at the five-book endpoint? No POV visits it after the succession crisis; Medrick is at Winterfell, not demonstrated at Hornwood, and no Hornwood raven route is shown.
 2. What became of the 100 longbowmen and the wider 600-man ford force? No casualty roll, relief order, prisoner list, or later commander testimony is narrated.
 3. What exact claim did Wyman hold, and did he ever relinquish it? His settlement terms are a `CHARACTER CLAIM` in a negotiation, not a deed of surrender.
 4. Is Ramsay's will available, genuine, or legally enforceable under northern custom? The text gives Rodrik's report of a sealed instrument but no later inspection.
 5. Where is Larence Snow after the appendix's Deepwood-captive status? A later appendix omission is not a release scene; without a custody transition, he cannot be treated as an available claimant.
-6. Which Hornwood survivors support Bolton, Stannis, a Stark restoration, or only local survival? Banners and reported recruitment demonstrate fragmentation, not a common preference.
-7. Could a Hornwood grievance fuel a Winterfell break? `THEORY`: grievance and manpower make it narratively available. It fails without a named leader, a communicated decision, and an actual opportunity to act.
+6. Does Beren Tallhart remain alive and captive at Torrhen's Square, and was the proposed Hornwood succession ever communicated beyond Winterfell's ACOK council? The appendices preserve status, not a current legal proceeding.
+7. Which Hornwood survivors support Bolton, Stannis, a Stark restoration, or only local survival? Banners and reported recruitment demonstrate fragmentation, not a common preference.
+8. Could a Hornwood grievance fuel a Winterfell break? `THEORY`: grievance and manpower make it narratively available. It fails without a named leader, a communicated decision, and an actual opportunity to act.
 
 **Disposition:** `LORD AND TRUEBORN HEIR LOST / SUCCESSION CONTEST DIRECTLY SHOWN / RAMSAY'S COERCIVE TITLE CLAIM PUBLICLY USED / ROOSE-REPORTED 100 ARCHERS AT FORD ONLY / HORNWOOD SURVIVORS AND BANNERS MULTIPLY AT ENDPOINT / HOUSE-WIDE ALLEGIANCE, FORD CASUALTIES AND DELIBERATE BOLTON SACRIFICE UNKNOWN`.
