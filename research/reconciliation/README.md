@@ -50,6 +50,7 @@ The [independent source-challenge receipt](independent-source-challenge-receipt.
 ### Aegon, Dorne, King’s Landing, and the Vale
 
 - [Aegon / Jon Connington command and greyscale](aegon-joncon-invasion-command-and-greyscale-gates.md) — claim, force, Storm’s End plan, illness, and recipient boundaries.
+- [Aegon invasion report and recipient ledger](aegon-invasion-report-and-recipient-ledger.md) — suppressed ravens, intended letters, confused coastal reporting, and the limited intelligence that reaches the royal council.
 - [Dorne outbound missions](dorne-outbound-missions-and-receipt-gates.md) and [two-news arrival](dorne-two-news-arrival-gate.md) — separate Aegon, Quentyn, Darkstar, court, and Faith channels.
 - [Sand Snakes in the capital](sand-snakes-kings-landing-missions-and-custody-gates.md) — Nymeria/Myrcella and Tyene/Faith missions are distinct and uncompleted.
 - [Two queens’ trials](kings-landing-two-queens-trial-gates.md), [post-Kevan decisions](kings-landing-post-kevan-decision-gates.md), and [murder discovery](kings-landing-murder-discovery-and-attribution.md) — legal custody, the murders’ public meaning, and provisional authority remain separate.

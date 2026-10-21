@@ -92,3 +92,5 @@ Source check: ADWD 22 (Tyrion), 24 (The Lost Lord), 61 (The Griffin Reborn), and
 **Next audit:** trace precise stormlord responses and landing/muster times; compare Ronnet's position with Griffin's Roost hostages; place Arianne's reliable knowledge on a separate timeline. Do not use released TWOW scenes as if they occur in the five-book ending.
 
 **Reconciliation update (2026-10-19):** [Southern claimants endpoint handoff audit](../reconciliation/southern-claimants-endpoint-handoff.md) separates prepared, received, and merely reader-visible developments. It does not grant Dorne a received Aegon letter or the capital knowledge of Varys’s role.
+
+**Transmission update (2026-10-21):** The [Aegon invasion report and recipient ledger](../reconciliation/aegon-invasion-report-and-recipient-ledger.md) records both sides of Connington's information policy: he suppresses Griffin's Roost ravens and cultivates confused early reports, yet the royal council later has reports that he is moving on Storm's End. That limited capital knowledge does not establish an identified Aegon, a captured Storm's End, a Doran reply, or the court's access to Varys's private explanation.
