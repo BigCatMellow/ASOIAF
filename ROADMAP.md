@@ -156,6 +156,15 @@ The project owner explicitly requested **comprehensive per-book notes**, retaini
 
 **Nearest next step:** reconcile the completed sequential reading with canonical character and continuity files, beginning with end-of-ADWD knowledge, dispatch, and timing constraints. No speculative trial, ship battle, Other pact, dragon binding or succession has been adopted.
 
+## Endpoint reconciliation review receipt — 2026-10-20
+
+- [x] Map every major final-ADWD POV handoff and significant non-POV terminal thread in the [endpoint coverage matrix](research/reconciliation/adwd-endpoint-coverage-matrix.md), without mistaking ownership for outcome.
+- [x] Complete a targeted independent source challenge across North/Wall, Meereen, King’s Landing, Vale, Riverlands, Oldtown/Ironborn, and Dorne/Aegon records; the [review receipt](research/reconciliation/independent-source-challenge-receipt.md) records the resulting corrections.
+- [x] Preserve material message and movement limits: Connington prepares but does not send a shown Dorne letter; Quentyn’s death has no shown Dorne-bound carrier; Kevan’s Nymeria information is a report rather than a depicted route; Doran’s Sand Snakes leave his audience but are not shown departing Dorne.
+- [ ] Apply these corrected endpoint constraints to the canonical character, continuity, and theory owners; do not duplicate the reconciliation ledgers or promote an open gate into a trajectory outcome.
+
+**Next bounded research:** reconcile claimant and survivor information routes with the character sheets, beginning with Robb-will custody and Dorne’s separate Aegon/Quentyn receipt problems. Any proposed first *Winds* scene must name a carrier, recipient, interval, and credibility test where it depends on cross-theater knowledge.
+
 ## Parallel story synthesis checkpoint — 2026-10-15
 
 This **separate** workstream does not take over the sequential chapter-reading work or its tracker.
