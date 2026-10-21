@@ -6,7 +6,7 @@
 
 ## What exists at the endpoint
 
-**VERIFIED FOR THE READER:** A child posing as Pycelle’s messenger leads Kevan to Pycelle’s chambers. Pycelle is already dead from a head wound. Varys shoots Kevan with a crossbow; child agents then close around the mortally wounded Kevan with daggers. Varys explicitly tells Kevan he intends suspicion to divide Cersei, Tyrell, and perhaps Dorne while Aegon advances.
+**VERIFIED FOR THE READER:** A boy relays a purported summons from Pycelle; a serving girl admits Kevan to Pycelle’s chambers. Pycelle is already dead from a head wound. Varys shoots Kevan with a crossbow; child agents then close around the mortally wounded Kevan with daggers. Varys explicitly tells Kevan he intends suspicion to divide Cersei, Tyrell, and perhaps Dorne while Aegon advances.
 
 **NOT SHOWN:** Any body discovery, the first guard entering, preservation or disturbance of the room, an autopsy, a public accusation, a council meeting after the deaths, or the exact condition in which either body is found. Varys’s explanation is reader/Kevan-only and does not become a court fact merely because it is true.
 

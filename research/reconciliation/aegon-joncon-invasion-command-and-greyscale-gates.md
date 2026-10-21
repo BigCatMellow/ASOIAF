@@ -12,7 +12,7 @@
 | A young man is being publicly presented to the Golden Company as Aegon, son of Rhaegar and Elia. | Connington proclaims this to the company, which kneels (ADWD 24); the boy gives Tyrion a detailed substitute-infant account (ADWD 22). | `CHARACTER CLAIM`: no five-book scene independently witnesses the substitution or establishes biology. |
 | The Golden Company changes from an eastern rendezvous plan to a westward invasion under Aegon's claim. | Aegon proposes it after the Meereen route becomes impractical; Strickland objects, then the officers give their swords (ADWD 24). | `VERIFIED` decision, but not proof that every officer shares one motive or that any Westerosi house has committed. |
 | Connington retakes Griffin's Roost and makes a rapid move toward Storm's End. | Surprise, suppressed ravens, a small force, and Connington's eleven-day timetable are narrated (ADWD 61). | `VERIFIED` at Griffin's Roost; preparations and reported movement toward Storm's End are **not** a depicted capture. |
-| Connington has advancing greyscale and conceals it. | His deadened, darkened fingers are seen at Volon Therys; later black nails and vinegar treatment appear at Griffin's Roost (ADWD 24, 61). | `VERIFIED` illness and concealment. Its pace, transmission, and effect on any later decision remain `UNKNOWN`. |
+| Connington has advancing greyscale and conceals it. | His deadened, darkened fingers are seen at Volon Therys; later black nails appear at Griffin's Roost, where vinegar is prescribed but Connington instead soaks his hand in wine (ADWD 24, 61). | `VERIFIED` illness and concealment. Its pace, transmission, and effect on any later decision remain `UNKNOWN`. |
 | The capital has invasion reports. | Kevan sees a map of incursions and hears a report that Connington is moving on Storm's End (ADWD Epilogue). | `CHARACTER REPORT`: the council does not see an on-page battle result, and it is not shown receiving Varys's knowledge or agreeing how to respond. |
 
 ## Command is a live three-way problem
@@ -37,7 +37,7 @@
 
 ### 3. The concealed illness
 
-**VERIFIED:** Connington knows he was exposed at the Sorrows, sees numb, discolored fingers in ADWD 24, later treats the advancing marks with vinegar, and privately rejects a politically useful marriage because he expects death and fears exposure (ADWD 24, 61). He tells neither Aegon nor the officers in the narrated endpoint.
+**VERIFIED:** Connington knows he was exposed at the Sorrows, sees numb, discolored fingers in ADWD 24, later receives a vinegar prescription but soaks the advancing marks in wine, fearing a request for vinegar would expose him, and privately rejects a politically useful marriage because he expects death and fears exposure (ADWD 24, 61). He tells neither Aegon nor the officers in the narrated endpoint.
 
 **INFERRED:** The illness adds a private deadline to his existing guilt over Stoney Sept and loyalty to Rhaegar. It helps explain why speed appeals to him, but it does not prove a particular tactic, a future massacre, or that urgency alone defeats rational command concerns.
 

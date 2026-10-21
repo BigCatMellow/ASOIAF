@@ -15,7 +15,7 @@ This record tests what must occur before Tyrion Lannister, inside Brown Ben Plum
 | Tyrion | A signed member of the Second Sons, concealed in their camp with Penny; Jorah is also in company armor (ADWD 66). | He knows Brown Ben's company is serving the Yunkish side, has observed plague and weaknesses in that host, and can read/write and bargain. | He does not command the company, know Barristan's plan, or possess an audience with the Meereenese leadership. |
 | Brown Ben Plumm | Captain of the Second Sons. He accepts Tyrion and Jorah as useful assets after their escape from Yezzan (ADWD 57, 66). | He can issue company orders and has received very large contingent notes from Tyrion. | His acceptance of payment paper and concealment of the escapees do not verify a decision to change employer. |
 | Jorah | Second Sons member beside Tyrion (ADWD 66). | He is a proven fighter and has prior acquaintance with Plumm and Kasporio. | His wish to return to Daenerys is not an order, a safe message route, or a reconciliation with her. |
-| Penny | Concealed with Tyrion in the Second Sons camp (ADWD 66). | She is vulnerable, grieving the loss of her animals, and may be ill; Tyrion fears the pale mare but does not announce it. | She is neither a consenting combatant nor a disposable detail in a proposed switch. |
+| Penny | Concealed with Tyrion in the Second Sons camp (ADWD 66). | She is vulnerable and grieving the loss of her animals. Tyrion privately worries, after seeing her pale and exhausted, that she may have the pale mare. | Her illness is **UNKNOWN**; she is neither a consenting combatant nor a disposable detail in a proposed switch. |
 | Barristan | Exercises emergency command in Meereen and prepares a sortie after diplomacy fails (ADWD 70). | He knows the city faces plague, hostage coercion, and a Yunkish coalition; he hopes hired companies may abandon that coalition if it breaks. | He does not know Tyrion, Penny, Jorah, or the Second Sons' actual internal position are available to him. |
 
 ## Verified sequence
@@ -76,7 +76,7 @@ This record tests what must occur before Tyrion Lannister, inside Brown Ben Plum
 1. Do not make Tyrion Barristan's adviser merely because both oppose the Yunkish siege.
 2. Do not equate Tyrion's signature and promissory notes with Plumm's completed defection.
 3. Do not grant Barristan knowledge of Tyrion's Lannister identity, Plumm's notes, Jorah's location, or the company's internal discussions before an actual carrier or encounter supplies it.
-4. Do not make Penny a willing soldier, erase her illness risk, or use her as proof that Tyrion controls the company.
+4. Do not make Penny a willing soldier, erase the unresolved illness risk, or use her as proof that Tyrion controls the company.
 5. Do not convert Barristan's prediction about sellswords into proof that the Second Sons, Windblown, or any other specific company will act together.
 
 ## Future verification tests

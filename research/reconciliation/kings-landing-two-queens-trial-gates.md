@@ -9,7 +9,7 @@
 
 | Person | What is verified | What is not resolved |
 | --- | --- | --- |
-| Cersei | She confesses some sexual/falsehood charges, completes a public walk, and is released to the Red Keep pending trial; Qyburn presents Ser Robert Strong as her Kingsguard champion. | Her legal guilt on all charges, trial date/procedure, champion eligibility/acceptance, political control of Tommen, and what follows Kevan’s murder. |
+| Cersei | She confesses specified sexual offenses, denies directing the false accusation against Margaery, completes a public walk, and is released to the Red Keep pending trial; Qyburn presents Ser Robert Strong as her Kingsguard champion. | Her legal guilt on all charges, trial date/procedure, champion eligibility/acceptance, political control of Tommen, and what follows Kevan’s murder. |
 | Margaery | She is accused and held by the Faith; her cousins are also entangled. Her public support and Tyrell interest are visible. | The truth of adultery/treason allegations, treatment of coerced witnesses, trial form/timing, and whether political settlement changes custody. |
 | Faith | It holds prisoners, conducts inquiries, fields armed orders, and asserts jurisdiction no longer controlled by Cersei. | Its final verdicts, internal unanimity, response to the murders, and willingness to accept any proposed champion/process. |
 | Tyrell/Lannister court | Kevan tried to manage both cases and a council balance; Mace has direct family interest. | Who takes authority after discovery, whether either family credits the other, and how a southern invasion report changes priorities. |

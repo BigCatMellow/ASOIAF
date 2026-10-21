@@ -1,7 +1,7 @@
 # Crofter's village — arrival, custody, and information gates
 
 - Record role: `RESEARCH / RECONCILIATION`.
-- Source scope: ADWD 44 (*Jon*), 51 (*Theon*), and 62 (*The Sacrifice*); no sample chapters or adaptation material used.
+- Source scope: ADWD 44 and 49 (*Jon*), 51 (*Theon*), and 62 (*The Sacrifice*); no sample chapters or adaptation material used.
 - Status: `WORKING — NEW WITNESSES HAVE ARRIVED; THEIR REPORTS AND COMMAND CONSEQUENCES ARE UNNARRATED`.
 
 ## Narrow purpose
@@ -12,7 +12,7 @@ This ledger reconstructs the last demonstrated chain from Winterfell and Castle 
 
 | Link | What the published text establishes | What it does **not** establish |
 | --- | --- | --- |
-| Alys's warning | Alys tells Jon that Arnolf has pledged himself to Roose and means to betray Stannis (ADWD 44). | Her account is urgent character testimony, not a witnessed agreement, and neither delivery of Jon's warning nor Stannis's response is shown. |
+| Alys's warning | Alys tells Jon that Arnolf has pledged himself to Roose and means to betray Stannis (ADWD 44); Clydas later dispatches a raven to Deepwood Motte with the warning (ADWD 49). | Her account is urgent character testimony, not a witnessed agreement; the raven's delivery, further forwarding, receipt by Stannis, and his response are unshown. |
 | Arnolf at the camp | Eight days before Asha's last chapter, Arnolf arrives with a son, three grandsons, 400 spears, 40 archers, 12 mounted lances, a maester, ravens, and provisions only for his own people (ADWD 62). | Presence, ravens, and a separate food supply make him consequential; they do not on their own prove a particular message has been sent or received. |
 | Theon and Jeyne's escape | Theon helps Jeyne leave Ramsay's room, cross Winterfell, and jump from the battlements during the snowstorm (ADWD 51). | This does not establish that everyone at Stannis's camp knows Jeyne is not Arya, or that either survivor can immediately give stable, voluntary testimony. |
 | The final handoff | Tycho's escorted party finds Mors Umber beneath Winterfell; Mors gives them Theon and Jeyne. Asha sees both delivered at Stannis's camp and recognizes Theon (ADWD 62). | The narrative ends before Stannis questions them, identifies Jeyne, learns why they fled, or chooses their custody. |
@@ -21,7 +21,7 @@ This ledger reconstructs the last demonstrated chain from Winterfell and Castle 
 ## Chronology without invented simultaneity
 
 1. **CHARACTER CLAIM:** Alys reports the Karstark–Bolton arrangement to Jon. Jon has reason to regard the warning seriously, but the relevant compact is not shown from Arnolf's or Roose's POV.
-2. **VERIFIED:** Jon's immediate tools are correspondence and Wall resources, whereas Stannis is already marching in extreme weather; the book never depicts a warning reaching the king.
+2. **VERIFIED:** Clydas dispatches a raven to Deepwood Motte warning Stannis of Arnolf’s treachery (ADWD 49). Jon does not know whether it reaches the king in time; delivery, onward routing from Deepwood if required, and receipt remain unshown amid war and weather.
 3. **VERIFIED:** Theon and Jeyne's flight is a violent, improvised extraction. Jeyne is terrified, initially denies having brothers, says the escape may be Ramsay's test, and asks Theon not to leave her (ADWD 51). Those facts matter before treating her as an uncomplicated political witness.
 4. **VERIFIED:** At the crofter's village, Stannis's force has remained roughly three days from Winterfell for nineteen days amid hunger, exhausted horses, depleted fishing, and factional hostility (ADWD 62). A speaker's proposed march date is therefore a report or aspiration, not an observed operational order.
 5. **VERIFIED:** Asha witnesses the late arrival of Tycho, six surviving Ironborn riders, Theon, and Jeyne. Tycho says Mors Umber handed the two fugitives to him after the party found Mors beneath Winterfell.

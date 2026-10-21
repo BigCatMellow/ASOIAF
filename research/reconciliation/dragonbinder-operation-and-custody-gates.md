@@ -8,7 +8,7 @@
 
 | Item | Verified observation | Boundary |
 | --- | --- | --- |
-| The horn | Euron possesses a large Valyrian-looking horn called Dragonbinder and has a captive sound it at the kingsmoot (AFFC 19). | Its claimed provenance and full rule set remain Euron’s claim. |
+| The horn | Euron possesses a large Valyrian-looking horn called Dragonbinder and has a man sound it at the kingsmoot (AFFC 19). | Its claimed provenance and full rule set remain Euron’s claim. |
 | Cost to sounder | The prior sounder later dies after the horn is blown; Victarion remembers the event and its terrible effect on the man (AFFC 19; ADWD 63). | A lethal aftermath does not prove which dragon, if any, was bound or who controls the horn. |
 | Current custody | Victarion carries the horn toward Meereen and seeks a way to use it for his own project (ADWD 63). | Carrying an object is not the same as knowing how to operate it or possessing its alleged master-status. |
 | Moqorro’s reading | Moqorro reads glyphs and says a mortal blower dies while the horn may answer the blood of the person who claims it. | This is an interpretation/advice from an interested priest; it has no demonstrated result. |
