@@ -65,3 +65,5 @@ A restored Jon might find that neither the Watch nor the northern lords agrees a
 ## Next audit
 
 Read remaining Jon chapters sequentially; track actual shifts in oath interpretation, hard leadership decisions, wildling relationships, and warnings from Marsh and Yarwyck. Cross-check with Melisandre ADWD 31 and Jon's Hardhome letters before selecting a scene.
+
+**Reconciliation update (2026-10-20):** [Jon’s stabbing / Watch-command gate](../reconciliation/jon-assassination-watch-command-and-wildling-gates.md) confirms the exact depicted assault: Wick’s throat slash only grazes Jon after he turns, Bowen stabs his belly, and an unidentified third knife strikes his back before he falls. It also preserves the decisive operational limit: neither the proposed Hardhome ranging nor Jon’s southward ride has begun on-page, and no successor or post-attack command arrangement is narrated.
