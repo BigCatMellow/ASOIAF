@@ -72,3 +72,5 @@ These are *research branches*, not final-scene instructions. A genuinely charact
 4. Map the present living members of the cave party and their conflicting plans before any escape/cave collapse/“Hold the Door” scenario is chosen.
 
 **Disposition:** `FIRST PASS COMPLETE / POWER AND CONSENT CONSEQUENCES OPEN`.
+
+**Reconciliation update (2026-10-20):** [Bran/Hodor agency and causal gates](../reconciliation/bran-hodor-agency-and-causal-gates.md) preserves the key endpoint limits: Hodor is alive, the cave has no depicted immediate breach or exit crisis, and Brynden’s stated rule against changing the past remains strong contrary evidence to any time-rewriting theory. The reported television-linked Hodor outcome is therefore a question for book-native causal testing, not a fact, scene, or required result.
