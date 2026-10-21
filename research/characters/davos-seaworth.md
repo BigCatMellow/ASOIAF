@@ -61,3 +61,5 @@ Davos returns with new information that makes the bargain less simple than Mande
 ## Next audit
 
 Read every Davos chapter in order; build a timeline of how his own sons' deaths, Edric, Shireen, Stannis's decisions, and the Wall shaped his understanding of loyalty and sacrifice.
+
+**Reconciliation update (2026-10-20):** [Davos/Rickon retrieval gates](../reconciliation/davos-rickon-retrieval-and-custody-gates.md) separates the verified ACOK separation, Wex’s constrained later report, and Wyman’s conditional bargain from an unshown voyage. Davos has no depicted vessel, departure, Skagos arrival, encounter with Osha/Rickon, return passage, or political receipt at the five-book endpoint.
