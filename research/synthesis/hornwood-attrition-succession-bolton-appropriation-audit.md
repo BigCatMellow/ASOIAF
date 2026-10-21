@@ -67,7 +67,7 @@ The necessary custody chain remains unshown:
 
 `Glover ward / potential claimant → Asha's Deepwood captivity (appendix status) → possible later transfer, release, death, concealment, or continued captivity = UNKNOWN`.
 
-No published narrative puts Larence at Hornwood Castle, with Stannis, at White Harbor, at Winterfell, or among Roose's 600 ford defenders. No named Hornwood captain receives an order from him; no surviving document invokes him; no reader sees him told of Donella's will or Ramsay's claimed title. **Deepwood's later military changes do not themselves prove a child hostage's receipt or liberty.**
+No published narrative puts Larence at Hornwood Castle, with Stannis, at White Harbor, at Winterfell, or among Roose's 600 ford defenders. No named Hornwood captain receives an order from him; no surviving document invokes him; no reader sees him told of Donella's will or Ramsay's claimed title. ****ADWD 35 (Jon)** contains Stannis's received report that Deepwood has been retaken, but it names neither Larence nor any released captive. Deepwood's later military change therefore does not prove a child hostage's receipt or liberty.**
 
 Larence therefore matters as a **contingent legitimacy lever**, not an available army commander. A future appearance could force the question whether a bastard who was considered by Winterfell before Ramsay's coercion has a better claim than a coerced widow's purported heir. It cannot, without additional evidence, retroactively establish who ruled Hornwood, how its men fought, or whether the ford archers survived.
 
