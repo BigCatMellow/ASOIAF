@@ -40,3 +40,5 @@
 **Disposition:** `FIRST PASS COMPLETE / OUTCOMES UNKNOWN`.
 
 **Reconciliation update (2026-10-19):** Victarion’s last narrated position and information boundary are recorded in the [Meereen endpoint handoff audit](../reconciliation/meereen-endpoint-handoff.md). No Dragonbinder result is established before a dragon actually responds.
+
+**Oldtown reconciliation update (2026-10-20):** The [Oldtown/Ironborn contact gates](../reconciliation/oldtown-ironborn-contact-gates.md) and [coastal-force ledger](../reconciliation/oldtown-coastal-force-ledger.md) separate a real regional threat from an assumed climax: Euron's forces have raided and defenders report or display preparations, but no five-book scene places Euron at Oldtown, depicts a battle there, or establishes a ritual. Victarion remains a separate Meereen-bound actor rather than evidence of simultaneous Oldtown action.
