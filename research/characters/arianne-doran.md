@@ -59,4 +59,4 @@
 
 **Disposition:** **FIRST PASS COMPLETE; choices OPEN.** No Aegon coronation, Quentyn funeral news, Arianne marriage or Dornish civil war is established.
 
-**Reconciliation update (2026-10-19):** The [southern claimants endpoint handoff audit](../reconciliation/southern-claimants-endpoint-handoff.md) confirms that Connington’s letter is only prepared on-page; neither Doran nor Arianne has a shown receipt.
+**Reconciliation update (2026-10-20):** The [southern claimants endpoint handoff audit](../reconciliation/southern-claimants-endpoint-handoff.md) and [Dorne two-news arrival gate](../reconciliation/dorne-two-news-arrival-gate.md) confirm that Connington’s letter is only prepared on-page, while Quentyn’s death has no shown Dorne-bound carrier; neither Doran nor Arianne has a shown receipt of either development.
