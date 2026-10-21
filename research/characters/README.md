@@ -21,5 +21,6 @@ Each file follows motives, knowledge, contradictions, choices, and source locato
 Next research: full cross-book motive checks, time synchronization, Westerosi faction knowledge and rival interpretation testing.
 
 - [Cersei and the Faith](cersei-faith.md)
+- [Margaery Tyrell and the Faith trial](margaery-tyrell-faith-trial.md)
 - [Samwell Tarly at Oldtown](samwell-oldtown.md)
 - [Euron, Victarion and Aeron](euron-victarion-aeron.md)

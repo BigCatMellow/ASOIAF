@@ -52,3 +52,5 @@
 **Reconciliation update (2026-10-19):** [Southern claimants endpoint handoff audit](../reconciliation/southern-claimants-endpoint-handoff.md) distinguishes the privately witnessed Varys murders from the court’s unshown reaction, and Cersei’s release from acquittal or restored government control.
 
 **Convergence update (2026-10-19):** [Post-Kevan King’s Landing decision gates](../reconciliation/kings-landing-post-kevan-decision-gates.md) preserves discovery, governance, trial, champion, and invasion response as separate choices.
+
+**Margaery evidence update (2026-10-21):** The separate [Margaery Tyrell trial record](margaery-tyrell-faith-trial.md) keeps the case Cersei manufactured, the Faith's custody, Mace's reported preference for a public Faith trial, and an actual verdict distinct. Margaery's guilt is not established, but neither does the record invent her private strategy or a completed Tyrell rescue.
