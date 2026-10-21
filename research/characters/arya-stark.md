@@ -71,3 +71,5 @@ A useful *Winds* continuation begins with her apprenticeship to **Izembaro in Br
 Read the full Arya sequence sequentially to distinguish *survival killings*, *revenge killings* and *assassinations ordered by others*. Map Nymeria's Riverlands location and how news from Braavos can reach Westeros. Test the precise prohibitions imposed by the kindly man against the acts Arya chose. Cross-reference [Stark information map](../continuity/stark-children-information.md).
 
 **Disposition:** `FIRST PASS COMPLETE / FUTURE CHOICES OPEN`.
+
+**Reconciliation update (2026-10-20):** The [Arya/Braavos apprenticeship and return gates](../reconciliation/arya-braavos-apprenticeship-and-return-gates.md) confirm that Arya remains in Braavos with an Izembaro apprenticeship due to begin. No departure, ship, return destination, or recipient is depicted. Her Hardhome/slaving information is an account overheard from Lyseni sailors in Braavos, not a message received by Jon or the Watch; neither her connection to Stoneheart nor Nymeria gives her reciprocal knowledge of their circumstances.
