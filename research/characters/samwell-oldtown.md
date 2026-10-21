@@ -49,3 +49,5 @@ The Ironborn campaign gains footholds on the Arbor and Shield Islands (AFFC 29, 
 **Next:** revisit all Sam journey chapters sequentially, map the baby swap's witnesses, distinguish glass-candle knowledge from actual use, and calculate what naval forces could protect Gilly. Cross-reference [Oldtown and Ironborn continuity](../continuity/oldtown-ironborn-threat.md).
 
 **Disposition:** `FIRST PASS COMPLETE / WARNING DELIVERY AND SAFETY UNRESOLVED`.
+
+**Reconciliation update (2026-10-20):** The [Oldtown information-custody and warning gates](../reconciliation/oldtown-information-custody-and-warning-gates.md) and [coastal-force ledger](../reconciliation/oldtown-coastal-force-ledger.md) distinguish Sam's selective testimony to Alleras, Marwyn, and a novice from any formal Citadel receipt or response. They also preserve the difference between Gunthor Hightower's depicted harbor inspection and the *Huntress* captain's reports of other Hightower preparations; neither an operational citywide warning nor an Ironborn attack on Oldtown is yet shown.
