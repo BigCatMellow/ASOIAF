@@ -35,6 +35,7 @@ These are **lenses**, not eight new compulsory processes or eight duplicate chap
 - [ROADMAP.md](ROADMAP.md) — phased, bounded research queue and acceptance criteria.
 - [Studies](studies/) — original analytic essays built around a falsifiable question and specific chapter locators.
 - [Study 01: the opening's narrative contract](studies/01-opening-narrative-contract.md) — initial pilot, **provisional interpretation / independent review outstanding**.
+- [Study 02: Mycah, testimony and power](studies/02-mycah-testimony-and-power.md) — POV change, witness silence, unjust punishment and class, **provisional / independent review outstanding**.
 
 ## Relationship to other repository research
 
@@ -50,7 +51,7 @@ The **pilot** is complete when four bounded studies address (A) the opening, (B)
 
 The **larger research program** is complete only after representative five-book crosschecks across the eight lenses, an integrated set of supported findings and limitations, locator/link verification, and independent assessment of major structural claims. The program is **not** complete now.
 
-**Current receipt (2026-10-22):** folder and method established; Study 01 drafted from the opening chapters and earlier chapter notes. No independent review of the new study yet. No claims about unpublished outcomes.
+**Current receipt (2026-10-22):** folder and method established; Studies 01 and 02 drafted and checked against selected original chapters. No independent review of the new study yet. No claims about unpublished outcomes.
 
 ## Boundaries
 
