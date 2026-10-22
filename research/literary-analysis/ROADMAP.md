@@ -22,7 +22,7 @@ An accessible, evidence-led analysis explaining **how the five published novels 
 ## Pilot sequence
 
 - [x] **Study 01 — the opening's narrative contract.** `AGOT Prologue; AGOT 1 (Bran); AGOT 2 (Catelyn)`. Formal sequence, reader knowledge versus character knowledge, social rank/authority, animal and seasonal imagery. [Draft](studies/01-opening-narrative-contract.md). **Original opening passages checked; independent review outstanding.**
-- [ ] **Study 02 — the Mycah incident and competing perspectives.** `AGOT 15 (Sansa); AGOT 16 (Eddard)`, with relevant later character recollections as needed. How witnessed reality becomes competing public narratives; do not flatten Sansa into simply “unreliable.”
+- [x] **Study 02 — the Mycah incident and competing perspectives.** `AGOT 15 (Sansa); AGOT 16 (Eddard); AGOT 22 (Arya)`. [Draft](studies/02-mycah-testimony-and-power.md). **Original scenes checked; independent review outstanding.**
 - [ ] **Study 03 — Jaime, Brienne and the reconstruction of knightly identity.** Initial locus `ASOS 21 (Jaime)` and surrounding Jaime/Brienne chapters. Separate changed capacity, changed self-story and actual changed action; compare both viewpoints.
 - [ ] **Study 04 — whether Brienne's Riverlands journey is narrative delay or central thematic work.** Select `AFFC 4/9/14/20/25/31/37/42 (Brienne)` and war-impact contrasts. Test both emotional accumulation and pacing costs.
 
@@ -39,4 +39,4 @@ An accessible, evidence-led analysis explaining **how the five published novels 
 
 ## Sequencing and scope constraints
 
-Do not duplicate the sequential chapter files or recatalog every clue. Study 02 is the next bounded in-scope action; the wider eight-lens program should grow from pilot results rather than requiring new paperwork first. Independent reviewers can challenge interpretation and source support, but they do not inherit decision authority over the parent's story outcomes. No new source copies, unrelated repository edits or premature changes to the existing continuation roadmap.
+Do not duplicate the sequential chapter files or recatalog every clue. Study 03 is the next bounded in-scope action; the wider eight-lens program should grow from pilot results rather than requiring new paperwork first. Independent reviewers can challenge interpretation and source support, but they do not inherit decision authority over the parent's story outcomes. No new source copies, unrelated repository edits or premature changes to the existing continuation roadmap.
