@@ -28,6 +28,7 @@ Research the five published *A Song of Ice and Fire* novels; evaluate competing 
 12. [Stark children information map](research/continuity/stark-children-information.md) and [Arya/Bran decision tests](research/gardening/decision-tests-arya-bran.md) — identity, wolf/greenseer powers, and limits of known information.
 13. [Endpoint reconciliation router](research/reconciliation/README.md) — current high-impact custody, command, travel, and information-receipt gates at the five-book cutoff.
 14. [Cross-story consequence map](research/consequence-map-2026-10-14.md) — disputed choices, source gates and two-book branching without forced outcomes.
+15. [Literary analysis and narrative craft](research/literary-analysis/README.md) — separate research workstream on how the published novels create meaning, tension, character and reader effects; [pilot study of the opening](research/literary-analysis/studies/01-opening-narrative-contract.md).
 
 ## Current checkpoint
 
